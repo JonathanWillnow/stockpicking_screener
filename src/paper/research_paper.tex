@@ -1,0 +1,186 @@
+\documentclass[11pt, a4paper, leqno]{article}
+\usepackage{a4wide}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{float, afterpage, rotating, graphicx}
+\usepackage{epstopdf}
+\usepackage{longtable, booktabs, tabularx}
+\usepackage{fancyvrb, moreverb, relsize}
+\usepackage{eurosym, calc}
+% \usepackage{chngcntr}
+\usepackage{amsmath, amssymb, amsfonts, amsthm, bm}
+\usepackage{caption}
+\usepackage{mdwlist}
+\usepackage{xfrac}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{url} 
+\usepackage{subcaption}
+\usepackage{minibox}
+% \usepackage{pdf14} % Enable for Manuscriptcentral -- can't handle pdf 1.5
+% \usepackage{endfloat} % Enable to move tables / figures to the end. Useful for some submissions.
+
+
+\usepackage[
+    natbib=true,
+    bibencoding=inputenc,
+    bibstyle=authoryear-ibid,
+    citestyle=authoryear-comp,
+    maxcitenames=3,
+    maxbibnames=10,
+    useprefix=false,
+    sortcites=true,
+    backend=biber
+]{biblatex}
+\AtBeginDocument{\toggletrue{blx@useprefix}}
+\AtBeginBibliography{\togglefalse{blx@useprefix}}
+\setlength{\bibitemsep}{1.5ex}
+\addbibresource{refs.bib}
+
+
+
+
+
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    anchorcolor=black,
+    citecolor=black,
+    filecolor=black,
+    menucolor=black,
+    runcolor=black,
+    urlcolor=black
+}
+
+
+\widowpenalty=10000
+\clubpenalty=10000
+
+\setlength{\parskip}{1ex}
+\setlength{\parindent}{0ex}
+\setstretch{1.5}
+
+
+\begin{document}
+
+\title{European Factor Stock-picking and Screener\thanks{Jonathan Willnow, University Bonn. Email: \href{mailto:jona.willnow@hotmail.de}{\nolinkurl{jona [dot] willnow [at] hotmail [dot] de}}.}}
+
+\author{Jonathan Willnow}
+
+\date{
+    {\bf 10.03.2022}
+    \\[1ex]
+    \today
+}
+
+\maketitle
+
+
+\begin{abstract}
+    The focus of this project is to build an interactive tool that helps individual investors in their buying decisions of individual stock. 
+    The project tackles several aspects to lead to better informed decisions: First, I deliberately omit the names of the stocks and report only the ticker symbol.
+    This should help individuals to not bias themselves when tehy see an popular or unpopular stock since the decision should be purely based on the fundamentals.
+    Secondly, apart from reporting standard metrics, I calculate the empirically proven Fama French Asset Pricing Factors. Thirdly, I come up with an on Score to score the stocks
+    with respect to the asset pricing factors and reported metrics. This Score is not an ultimate assessment since it does not capture all necessary informations, 
+    but investors can use it to get a first insight into a stock.
+    This project is based on scraped stocks for Germany, Europe, North-America and Japan and collects the metrics used for assessment and calculation of the factors
+    from finance.yahoo.com. The long term plan is to automate this project such that it serves as a reliable, automated way to screen stocks and improve stock-picking decisions.
+\end{abstract}
+\clearpage
+
+\section{Introduction} % (fold)
+\label{sec:introduction}
+Stock market participation increased in the last years. While this is overall a positive development, many investors lack tools to base their investments on or are solely using their
+gut feeling and intuition. While there are many great tools available (some which are really expensive), I could not find a free tool that allows a comparison of stocks based on the Fama French Asset Pricing Factors - so I 
+decided to build it myself. As this is work in progress, it is not available right now for the broad audience (would require some up scaling of the website), but I shared the results in a developed Dash-App with a big German speaking 
+stock picking community, called "Kleine Finanzzeitung". The Dash-App allows users to access my results and my research without having a proper background in programming and git.
+The Dash-App can be found here: \url{https://stockpickingapp.herokuapp.com}
+
+
+
+\section{Methodology}
+The idea appears simple: There exist more than only one risk factor $\beta$,  that determines the
+performance of a portfolio (here, portfolio is assumed to be a index/ market portfolio).
+Fama and French came up with the Fama and French three factor model that includes
+the size of firms, their book-to-market values, and their excess return on the market. In other words, 
+the three factors used are $SMB$ (small minus big), $HML$ (high minus low), and $r_f$, the
+market return return less the risk-free rate of return. Building up on their work, many other
+factors have been researched and found like the Fama French Quality Factor and Conservative 
+Asset factor or the Carhardt Momentum Factor. While the Momentum Factor finds strong 
+empirical support like the other factors, this project so far is limited to the factors 
+found by Fama and French. 
+A selection of individual Stocks is available for Europe, Germany, Japan and North America
+that was collected using several scrapers and validation methods. To obtain reliable metrics
+the metrics are collected from https://finance.yahoo.com
+using the functionality of the python packe urllib.requests. The so obtained metrics were then 
+used to compute the introduced factors according to the work of Fama and French. To present the 
+results and allow for easy filtering, I decided to deploy this simple Dash App.
+
+To briefly summarize the content of \cite{FF3}, the authors claim that average returns show little relation 
+to the $\beta$ found by Sharpe and Lintner, not to the inter temporal asset-pricing models of Breeden (1979) 
+and other asset-pricing models. Following this, they look into other variables that might explain average returns,
+ such as the market capitalization, leverage, price-to-earnings ratio, the book to market equity
+ value and so on and study their joint roles together with the $\beta$. To summarize the findings, 
+ $\beta$ has little information when used jointly with other variables. When used jointly, the market capitalization,
+  book-to-market equity show high explanatory power and absorb the effect of the price-to-earnings ratio and the leverage.
+  Therefore, these two variables together with $\beta$ form the Fama French Three Factor Model in which the intercept 
+  is close to zero, meaning that there is only little left in the so called $\alpha$, which is 
+  traditionally claimed by mutual fund managers to be there "alpha" - their out-performance over the market.
+  Therefore, the Fama French Three Factor model almost fully explains all this out-performance, which 
+  just is related to a set of factors used by the managers and not their skill, insights, vision or whatever.
+
+  In \cite{FAMA20151}, the two authors developed two more factors, namely the Quality factor and the conservatism asset factor.
+  The quality factor is calculated using all accounting numbers from the end of the previous fiscal year.
+  It is defined by the annual revenues minus the cost of goods sold, interest expenses, selling, general, and administrative expenses divided by the book equity.
+ The Conservative Asset Factor is defined as the ratio of total assets of a stock at the fiscal year end of $t-1$ and the total assets at fiscal year end of $t-2$.
+ Adding these factors to the Fama French Three Factor Model, this 5 factors build the Fama French Five Factor Model that I used for this project to construct the score.
+ The score uses as a weighting of the different five factors their historical out-performance over the market return, which is obtained from the Fama French 
+ webiste \url{https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html} for all the different regions where data is available. 
+
+\section{Code}
+As this project was part of the course Effective Programming Practices for Economists by Prof. von Gaudecker, the corresponding repository 
+that is available on github follows \citet{GaudeckerEconProjectTemplates}. It offers great help in structuring and publishing a project. 
+The code for this repo can be found on \url{https://github.com/JonathanWillnow/european_factor_stockpicking_screener}. 
+Since I will be searching for collaboraters in the future, I will keep it public.
+
+\section{How to run the code}
+Please refer to the README.md file or the corresponding part within the documentation for how to run the project and its tasks.
+
+\section{Further Development and Outlook}
+This is work in progress. This project is not finished and work in progress. After I started it for the course Effective Programming Practices for Economists, 
+I became aware of all the possible extensions that I could develop and implement. 
+As outlined, I want to make it Open Source and will try to find other coding and finance enthusiasts who want to work with me on this project.
+Some things that are in my mind:
+\begin{itemize}
+    \item Risk analysis for the stocks using volatility, downside volatility
+    \item Moving from Dash to a pure Flask . This would be faster and enables more possibilities    
+    \item Scaling up the website (this would require me to pay fees to Heroku. As for now, the service I am using is free). This also includes using a cloud solution for hosting the data
+    \item Adding more stocks! I was thinking about every major stock exchange in europe and also including more emerging markets stocks
+    \item Detecting outliers and anomalies / better filtering of the results
+    \item Fixing my Score:
+    \begin{itemize}
+        \item Right now, the score is subject to outliers that might be the result of wrong data or circumstances that can not easily identified
+        \item For instance bancrupt companies show great scores since they have a low MC and a low P/B ratio
+        \item I have to find a way to make the score robust to this problematic
+    \end{itemize} 
+    \item Back-testing my Score
+    \item Improving general code quality and speed
+\end{itemize}
+
+
+
+\setstretch{1}
+\printbibliography
+\setstretch{1.5}
+
+
+
+
+% \appendix
+
+% The chngctr package is needed for the following lines.
+% \counterwithin{table}{section}
+% \counterwithin{figure}{section}
+
+\end{document}

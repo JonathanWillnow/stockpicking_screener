@@ -1,0 +1,1201 @@
+,Unnamed: 0.1,name,wkn,index,de_ticker,ticker,industry,ISIN
+0,0,1-800-FLOWERS.COM INC.,924904,NASDAQ,FWC,FLWS,Internet,US68243Q1067
+1,1,10x Genomics Inc.,A2PPQJ,NASDAQ,1KJ,TXG,Biotechnologie,US88025U1097
+2,2,111 Inc. (ADRs),A2N465,NASDAQ,811A,YI,Internet,US68247Q1022
+3,3,180 Life Sciences Corp,A2QJX5,NASDAQ,not_found,not_found,not_found,not_found
+4,4,1Life Healthcare,-,NASDAQ,not_found,not_found,not_found,not_found
+5,5,1st Source Corp,919913,NASDAQ,Ticker-Symbol:,SRCE,Finanzdienstleistungen,US3369011032
+6,6,21Vianet Group Inc. (ADRs),A1H9DT,NASDAQ,217A,217A.F,IT-Dienstleistungen,US90138A1034
+7,7,2U Inc.,A1XEYD,NASDAQ,2U1,TWOU,Internet,US90214J1016
+8,8,360 DigiTech,-,NASDAQ,not_found,not_found,not_found,not_found
+9,9,36Kr Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+10,10,4D Molecular Therapeutics,A2PS5P,NASDAQ,Ticker-Symbol:,FDMT,Biotechnologie,US35104E1001
+11,11,51Job Inc. (ADRs),A0DJ5H,NASDAQ,IWQ,JOBS,Internet,US3168271043
+12,12,5:01 Acquisition Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+13,13,7GC & Co Holdings,A2QK1E,NASDAQ,not_found,not_found,not_found,not_found
+14,14,89bio,-,NASDAQ,not_found,not_found,not_found,not_found
+15,15,9 Meters Biopharma Inc.,A2P362,NASDAQ,2Q3,NMTR,Biotechnologie,US6544051096
+16,16,908 Devices,A2QK1S,NASDAQ,Ticker-Symbol:,MASS,Gesundheitswesen,US65443P1021
+17,17,9F Inc. (ADRs),A2PPT6,NASDAQ,165,JFU,Finanzdienstleistungen,US65442R1095
+18,18,A-Mark Precious Metals Inc.,A1XEER,NASDAQ,AND,AMRK,Dienstleistungen,US00181T1079
+19,19,AAON Inc.,894255,NASDAQ,AAO,AAON,Sonstige Technologie,US0003602069
+20,20,AbCellera Biologics Inc,A2QKXS,NASDAQ,8QQ,ABCL,Biotechnologie,CA00288U1066
+21,21,Abeona Therapeutics Inc.,A14VK7,NASDAQ,PCJP,ABEO,Biotechnologie,US00289Y1073
+22,22,Abiomed Inc.,873886,NASDAQ,AIO,ABMD,Biotechnologie,US0036541003
+23,23,Absolute Software Corp.,A0B9RG,NASDAQ,OU1,ABST.TO,Software,CA00386B1094
+24,24,AC Immune SA,A2AR5F,NASDAQ,IMR,ACIU,Biotechnologie,CH0329023102
+25,25,Acacia Research Corp.,164631,NASDAQ,AZG2,ACTG,Nanotechnologie,US0038813079
+26,26,Academy Sports and Outdoors,-,NASDAQ,not_found,not_found,not_found,not_found
+27,27,Acadia Healthcare Co. Inc.,A1JNMF,NASDAQ,7RA,ACHC,Gesundheitswesen,US00404A1097
+28,28,Acadia Pharmaceuticals Inc.,603035,NASDAQ,DR6,ACAD,Pharma,US0042251084
+29,29,Accelerate Diagnostics Inc.,A1KA68,NASDAQ,1A8,AXDX,Sonstige Technologie,US00430H1023
+30,30,Accolade Inc.,A2P7Z2,NASDAQ,4NE1,ACCD,Gesundheitswesen,US00437E1029
+31,31,Accuray Inc.,A0MKWM,NASDAQ,XEJ,ARAY,Sonstige Technologie,US0043971052
+32,32,ACE Convergence Acquisition Corp,A2QB4H,NASDAQ,not_found,not_found,not_found,not_found
+33,33,AcelRx Pharmaceuticals Inc.,A1H64B,NASDAQ,R5X,ACRX,Pharma,US00444T1007
+34,34,Acer Therapeutics Inc.,A2DYQV,NASDAQ,P6NA,ACER,Pharma,US00444P1084
+35,35,Achieve Life Sciences Inc.,A2QAR3,NASDAQ,SP4P,ACHV,Pharma,US0044685008
+36,36,ACI Worldwide,A0MXU1,NASDAQ,TSA,ACIW,Sonstige Technologie,US0044981019
+37,37,Aclaris Therapeutics Inc.,A1412H,NASDAQ,8AT,ACRS,Pharma,US00461U1051
+38,38,ACM Research,A2H62F,NASDAQ,813,ACMR,Halbleiter,US00108J1097
+39,39,ACNB Corp,A0YHBJ,NASDAQ,not_found,not_found,not_found,not_found
+40,40,Acorda Therapeutics Inc.,A0BK80,NASDAQ,not_found,not_found,not_found,not_found
+41,41,Activision Blizzard Inc.,A0Q4K4,NASDAQ,AIY,ATVI,Software,US00507V1098
+42,42,Acutus Medical,-,NASDAQ,not_found,not_found,not_found,not_found
+43,43,Adamis Pharmaceuticals Corp.,A1XA2F,NASDAQ,CY3B,ADMP,Pharma,US00547W2089
+44,44,AdaptHealth Corp,A2PU9W,NASDAQ,not_found,not_found,not_found,not_found
+45,45,Adaptive Biotechnologies Corp.,A2PLR5,NASDAQ,1HM,ADPT,Biotechnologie,US00650F1093
+46,46,Addex Therapeutics SA (ADRs),A2QKH7,NASDAQ,APE0,ADXN,Pharma,US00654J1079
+47,47,Addus HomeCare Corp,A0YBKM,NASDAQ,A41,ADUS,Gesundheitswesen,US0067391062
+48,48,ADDvantage Technologies Group,906955,NASDAQ,,AEY,Sonstige Technologie,US0067433062
+49,49,Adial Pharmaceuticals,-,NASDAQ,not_found,not_found,not_found,not_found
+50,50,Adicet Bio Inc.,A2QESQ,NASDAQ,1IJA,ACET,Biotechnologie,US0070021086
+51,51,Aditxt,-,NASDAQ,not_found,not_found,not_found,not_found
+52,52,ADMA Biologics,A12FAG,NASDAQ,Ticker-Symbol:,ADMA,Biotechnologie,US0008991046
+53,53,Adobe Inc.,871981,NASDAQ,ADB,ADBE,Software,US00724F1012
+54,54,Ads-Tec Energy PLC,-,NASDAQ,not_found,not_found,not_found,not_found
+55,55,Adtran Inc.,892015,NASDAQ,ATN,ADTN,Telekom,US00738A1060
+56,56,Advanced Emissions Solutions Inc.,A1W1ZU,NASDAQ,OXQ1,ADES,Sonstige Technologie,US00770C1018
+57,57,Advanced Energy Industries Inc.,898006,NASDAQ,AVX,AEIS,Sonstige Technologie,US0079731008
+58,58,Advanced Micro Devices Inc.,863186,NASDAQ,AMD,AMD,Halbleiter,US0079031078
+59,59,Advantage Solutions,A2QGPW,NASDAQ,6CPA,ADV,Dienstleistungen,US00791N1028
+60,60,Advent Technologies Holdings,A2QNZQ,NASDAQ,Ticker-Symbol:,ADN,Erneuerbare Energien,US00788A1051
+61,61,Adverum Biotechnologies Inc.,A2AJW8,NASDAQ,AVU,ADVM,Biotechnologie,US00773U1088
+62,62,Aeglea BioTherapeutics,A2AG5H,NASDAQ,Ticker-Symbol:,AGLE,Biotechnologie,US00773J1034
+63,63,Aehr Test Systems,908802,NASDAQ,AYB,AEHR,Elektrotechnologie,US00760J1088
+64,64,Aemetis Inc.,A114CC,NASDAQ,DW51,AMTX,Erneuerbare Energien,US00770K2024
+65,65,Aequi Acquisition Corp,A2QF25,NASDAQ,not_found,not_found,not_found,not_found
+66,66,Aerie Pharmaceuticals Inc.,A1W7RL,NASDAQ,0P0,AERI,Pharma,US00771V1089
+67,67,AeroVironment Inc.,A0MJX7,NASDAQ,JPX,AVAV,Luftfahrt/Rüstung,US0080731088
+68,68,AerSale Corp,A2QGG2,NASDAQ,Ticker-Symbol:,ASLE,Luftfahrt/Rüstung,US00810F1066
+69,69,Aesthetic Medical International Holdings Group Ltd.,A2PUP7,NASDAQ,3FMA,AIH,Gesundheitswesen,US00809M1045
+70,70,Aeterna Zentaris Inc.,A1439Z,NASDAQ,ET82,AEZS.TO,Biotechnologie,CA0079754028
+71,71,AFC Gamma,A2QMDB,NASDAQ,0FG,AFCG,Immobilien,US00109K1051
+72,72,Affimed N.V.,A12BHU,NASDAQ,A28,AFMD,Biotechnologie,NL0010872420
+73,73,Affinity Bancshares,A2QMWU,NASDAQ,5610,AFBI,Finanzdienstleistungen,US00832E1038
+74,74,Affirm Holdings Inc.,A2QL1G,NASDAQ,78P,AFRM,Finanzdienstleistungen,US00827B1061
+75,75,Afya Ltd.,A2PM8D,NASDAQ,1AY,AFYA,Dienstleistungen,KYG011251066
+76,76,AGBA Acquisition Limited,A2QDMN,NASDAQ,AA7B,AGBA,Finanzdienstleistungen,VGG0120M1095
+77,77,Agenus Inc.,A1JLKZ,NASDAQ,AJ81,AGEN,Biotechnologie,US00847G7051
+78,78,Agile Therapeutics Inc.,A1135H,NASDAQ,0AL,AGRX,Pharma,US00847L1008
+79,79,Agilysys,913094,NASDAQ,PS3,AGYS,IT-Dienstleistungen,US00847J1051
+80,80,Agios Pharmaceuticals Inc.,A1W2RM,NASDAQ,8AP,AGIO,Biotechnologie,US00847X1046
+81,81,AGM Group Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+82,82,AGNC Inc. Corp.,A2AR58,NASDAQ,4OQ1,AGNC,Finanzdienstleistungen,US00123Q1040
+83,83,Agora Inc.,A2P7ZM,NASDAQ,9AG1,API,Software,US00851L1035
+84,84,Agrify Corp,A2QLPK,NASDAQ,not_found,not_found,not_found,not_found
+85,85,AgroFresh Solutions Inc.,A14XME,NASDAQ,35X,AGFS,Chemie,US00856G1094
+86,86,Aileron Therapeutics Inc.,A2DUEV,NASDAQ,015,ALRN,Biotechnologie,US00887A1051
+87,87,Air T,867968,NASDAQ,GXT,AIRT,Luftfahrt/Rüstung,US0092071010
+88,88,Air T,-,NASDAQ,not_found,not_found,not_found,not_found
+89,89,Air Transport Services Group Inc.,A0Q2GH,NASDAQ,AW8,ATSG,Logistik/Transport,US00922R1059
+90,90,Airbnb Inc.,A2QG35,NASDAQ,6Z1,ABNB,Software,US0090661010
+91,91,Airgain Inc.,A2AQKX,NASDAQ,6LV,AIRG,Elektrotechnologie,US00938A1043
+92,92,AirNet Technology Inc. (ADR),A2PG88,NASDAQ,not_found,not_found,not_found,not_found
+93,93,Akamai Technologies Inc.,928906,NASDAQ,AK3,AKAM,Internet,US00971T1016
+94,94,Akari Therapeutics PLC (ADRs),A140KV,NASDAQ,CLAB,US00972G1085.SG,Pharma,US00972G1085
+95,95,Akebia Therapeutics Inc.,A1XF0S,NASDAQ,AX9,AKBA,Biotechnologie,US00972D1054
+96,96,Akerna Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+97,97,Akero Therapeutics Inc.,A2PLNP,NASDAQ,0K4,AKRO,Biotechnologie,US00973Y1082
+98,98,Akouos,-,NASDAQ,not_found,not_found,not_found,not_found
+99,99,Akoustis Technologies Inc.,A2DTX6,NASDAQ,AVH,AKTS,Elektrotechnologie,US00973N1028
+100,100,Akumin Inc.,-,NASDAQ,not_found,not_found,not_found,not_found
+101,101,Alarm.com Holdings Inc.,A14VCL,NASDAQ,3RL,ALRM,Software,US0116421050
+102,102,Alberton Acquisition Corp,A2QDML,NASDAQ,AJG,ALAC,Finanzdienstleistungen,VGG350061088
+103,103,Albireo Pharma Inc.,A2DF99,NASDAQ,BDQM,ALBO,Biotechnologie,US01345P1066
+104,104,Aldeyra Therapeutics Inc.,A111X8,NASDAQ,137,ALDX,Biotechnologie,US01438T1060
+105,105,Alector Inc.,A2PCBM,NASDAQ,0Z2,ALEC,Biotechnologie,US0144421072
+106,106,Alerus Financial Corp,A0YG96,NASDAQ,5QD,ALRS,Finanzdienstleistungen,US01446U1034
+107,107,Alico Inc.,854721,NASDAQ,AOE,ALCO,Immobilien,US0162301040
+108,108,Align Technology Inc.,590375,NASDAQ,AFW,ALGN,Gesundheitswesen,US0162551016
+109,109,Aligos Therapeutics Inc.,A2QCEK,NASDAQ,5WK,ALGS,Biotechnologie,US01626L1052
+110,110,Alimera Sciences Inc.,A2PVHE,NASDAQ,ASZ1,ALIM,Biotechnologie,US0162592028
+111,111,Alithya Group Inc.,A2N8S4,NASDAQ,0QZ,ALYA.TO,IT-Dienstleistungen,CA01643B1067
+112,112,ALJ Regional Holdings,A0LFYT,NASDAQ,,ALJJ,Eisen/Stahl,US0016271084
+113,113,Alkaline Water Company Inc.,A2AAD1,NASDAQ,AWJA,WTER,Getränke/Tabak,US01643A2078
+114,114,Alkermes PLC,A1JKVH,NASDAQ,8AK,ALKS,Biotechnologie,IE00B56GVS15
+115,115,Allakos Inc.,A2JQTK,NASDAQ,37Z,ALLK,Biotechnologie,US01671P1003
+116,116,Allegiance Bancshares,A1412Z,NASDAQ,Ticker-Symbol:,ABTX,Finanzdienstleistungen,US01748H1077
+117,117,Allegiant Travel Company,A0LFDN,NASDAQ,AGH,ALGT,Luftfahrt/Rüstung,US01748X1028
+118,118,Allegro MicroSystems,A2QGE6,NASDAQ,Ticker-Symbol:,ALGM,Halbleiter,US01749D1054
+119,119,Allena Pharmaceuticals Inc.,A2H8TL,NASDAQ,0PJ,ALNA,Biotechnologie,US0181191075
+120,120,Alliance Resource Partners LP,925301,NASDAQ,,ARLP,Rohstoffe,US01877R1086
+121,121,Alliant Energy Corp.,855870,NASDAQ,AY1,LNT,Versorger,US0188021085
+122,122,Allied Esports Entertainment Inc.,A2PZLE,NASDAQ,2AA,AESE,Unterhaltung,US0191701095
+123,123,Allied Healthcare Products Inc.,A2DHZS,NASDAQ,AWI1,AHPI,Gesundheitswesen,US0192222075
+124,124,Allied Motion Technologies Inc,157493,NASDAQ,HWY,AMOT,Sonstige Technologie,US0193301092
+125,125,Allogene Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+126,126,Allot Communications Ltd.,A0LE7C,NASDAQ,AG6,ALLT,Netzwerktechnik,IL0010996549
+127,127,AlloVir,-,NASDAQ,not_found,not_found,not_found,not_found
+128,128,Allscripts Healthcare Solutions Inc.,607917,NASDAQ,AL21,MDRX,Gesundheitswesen,US01988P1084
+129,129,Alnylam Pharmaceuticals Inc.,A0CBCK,NASDAQ,DUL,ALNY,Pharma,US02043Q1076
+130,130,Alpha & Omega Semiconductor Ltd.,A1CXBR,NASDAQ,AOY,AOSL,Halbleiter,BMG6331P1041
+131,131,Alphabet Inc.,A14Y6F,NASDAQ,ABEA,GOOGL,Internet,US02079K3059
+132,132,Alphabet Inc. (C Shares),A14Y6H,NASDAQ,ABEC,GOOG,Internet,US02079K1079
+133,133,Alphatec Holdings Inc.,A2AP5V,NASDAQ,L1Z1,ATEC,Gesundheitswesen,US02081G2012
+134,134,Alpine Immune Sciences Inc.,A2DU89,NASDAQ,34LA,ALPN,Biotechnologie,US02083G1004
+135,135,Alset EHome International Inc.,A2QNZR,NASDAQ,42A0,AEI,Industrie/Mischkonzerne,US02116A1043
+136,136,Altair Engineering Inc.,A2DYPC,NASDAQ,8A2,ALTR,Software,US0213691035
+137,137,Alterity Therapeutics Ltd. (ADRs),A2PG30,NASDAQ,PBNN,ATHE,Biotechnologie,US02155X1063
+138,138,Altimmune Inc.,A2N5Z6,NASDAQ,3G0,ALT,Pharma,US02155H2004
+139,139,Altisource Portfolio Solutions SA,A0X9T0,NASDAQ,,ASPS,Immobilien,LU0445408270
+140,140,Altitude Acquisition Corp,A2QF4M,NASDAQ,not_found,ASPS,Immobilien,LU0445408270
+141,141,Alto Ingredients Inc.,A2QMJY,NASDAQ,FPR,ALTO,Erneuerbare Energien,US0215131063
+142,142,Altra Industrial Motion Corp.,A0LGD8,NASDAQ,XQB,AIMC,Maschinenbau,US02208R1068
+143,143,Altus Midstream Company,-,NASDAQ,not_found,not_found,not_found,not_found
+144,144,ALX Oncology Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+145,145,Amalgamated Financial Corp,A2N339,NASDAQ,not_found,AIMC,Maschinenbau,US02208R1068
+146,146,Amarin Corp. PLC (Spons. ADRs),A0NBNG,NASDAQ,EH3A,AMRN,Pharma,US0231112063
+147,147,Amazon.com Inc.,906866,NASDAQ,AMZ,AMZN,Handel/E-Commerce,US0231351067
+148,148,Ambarella Inc.,A1J58B,NASDAQ,A8B,AMBA,Halbleiter,KYG037AX1015
+149,149,AMC Networks Inc.,A1JBRG,NASDAQ,9AC,AMCX,Medien,US00164V1035
+150,150,Amdocs Ltd.,915119,NASDAQ,AOS,DOX,Telekom,GB0022569080
+151,151,Amedisys Inc.,915582,NASDAQ,ADY,AMED,Gesundheitswesen,US0234361089
+152,152,Amerant Bancorp,A2PMA9,NASDAQ,0KZA,AMTB,Finanzdienstleistungen,US0235761014
+153,153,Amerco,904412,NASDAQ,AUK,UHAL,Industrie/Mischkonzerne,US0235861004
+154,154,America First Multifamily Investors LP,920614,NASDAQ,,ATAX,Finanzdienstleistungen,US02364V1070
+155,155,America's Car-Mart,889634,NASDAQ,HC9,CRMT,Handel/E-Commerce,US03062T1051
+156,156,American Airlines Group Inc.,A1W97M,NASDAQ,A1G,AAL,Luftfahrt/Rüstung,US02376R1023
+157,157,American Electric Power Co. Inc.,850222,NASDAQ,AEP,AEP,Versorger,US0255371017
+158,158,American Finance Trust Inc.,A2DYE8,NASDAQ,3FG,RTL,Finanzdienstleistungen,US02607T1097
+159,159,American National Bankshares,657837,NASDAQ,NBR,AMNB,Finanzdienstleistungen,US0277451086
+160,160,American National Group Inc.,A2P8BC,NASDAQ,2G8,ANAT,Finanzdienstleistungen,US02772A1097
+161,161,American Outdoor Brands,A2QA0E,NASDAQ,Ticker-Symbol:,AOUT,Freizeitprodukte,US02875D1090
+162,162,American Public Education,A0M613,NASDAQ,51A,APEI,Dienstleistungen,US02913V1035
+163,163,American Resources Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+164,164,American Software,868053,NASDAQ,ADWA,AMSWA,Software,US0296831094
+165,165,American Superconductor Corp.,A14QX0,NASDAQ,AMS1,AMSC,Elektrotechnologie,US0301112076
+166,166,American Virtual Cloud Technologies,-,NASDAQ,not_found,not_found,not_found,not_found
+167,167,American Woodmark Corp.,871501,NASDAQ,AHQ,AMWD,Bau/Infrastruktur,US0305061097
+168,168,Ameris Bancorp,A0HNB2,NASDAQ,AXU,ABCB,Finanzdienstleistungen,US03076K1088
+169,169,Amerisafe  Inc,A0HMCU,NASDAQ,A3I,AMSF,Finanzdienstleistungen,US03071H1005
+170,170,AmeriServ Financial,885800,NASDAQ,Ticker-Symbol:,ASRV,Finanzdienstleistungen,US03074A1025
+171,171,Ames National Corp,A0DNWF,NASDAQ,,ATLO,Finanzdienstleistungen,US0310011004
+172,172,Amesite,A2QDF7,NASDAQ,VDE,AMST,Software,US0310941051
+173,173,Amgen Inc.,867900,NASDAQ,AMG,AMGN,Biotechnologie,US0311621009
+174,174,Amicus Therapeutics Inc.,A0MSMZ,NASDAQ,AM6,FOLD,Biotechnologie,US03152W1099
+175,175,Amkor Technology Inc.,911648,NASDAQ,AMK,AMKR,Elektrotechnologie,US0316521006
+176,176,AMMO Inc.,A2DLLC,NASDAQ,92P,POWW,Handel/E-Commerce,US00175J1079
+177,177,Amphastar Pharmaceuticals Inc.,A11664,NASDAQ,29A,AMPH,Pharma,US03209R1032
+178,178,Amplitech Group,A2QQQB,NASDAQ,not_found,AMPH,Pharma,US03209R1032
+179,179,Amryt Pharma PLC (ADRs),A2P9Z0,NASDAQ,3N9A,AMYT,Pharma,US03217L1061
+180,180,Amtech Systems Inc.,914333,NASDAQ,AS3,ASYS,Halbleiter,US0323325045
+181,181,Amyris Biotechnologies Inc.,A2DS41,NASDAQ,3A01,AMRS,Biotechnologie,US03236M2008
+182,182,Analog Devices Inc.,862485,NASDAQ,ANL,ADI,Halbleiter,US0326541051
+183,183,Anaptysbio Inc.,A2AJ8C,NASDAQ,AN6,ANAB,Biotechnologie,US0327241065
+184,184,Anavex Life Sciences Corp.,A1411S,NASDAQ,12X1,AVXL,Biotechnologie,US0327973006
+185,185,ANGI Homeservices Inc.,A2H48X,NASDAQ,2UH,ANGI,Internet,US00183L1026
+186,186,Angiodynamics Inc.,A0B9A5,NASDAQ,UG2,ANGO,Gesundheitswesen,US03475V1017
+187,187,Angion Biomedica Corp.,A2QNWT,NASDAQ,5YX,ANGN,Biotechnologie,US03476J1079
+188,188,ANI Pharmaceuticals Inc.,A1W15D,NASDAQ,BSFA,ANIP,Pharma,US00182C1036
+189,189,Anika Therapeutics Inc.,889120,NASDAQ,AKP,ANIK,Biotechnologie,US0352551081
+190,190,Anixa Biosciences Inc.,A2N6ZF,NASDAQ,CY71,ANIX,Bekleidung/Textil,US03528H1095
+191,191,Annexon,-,NASDAQ,not_found,not_found,not_found,not_found
+192,192,Anpac Bio-Medical Science Co Ltd. (ADRs),A2PVC4,NASDAQ,0UC,0UC.F,Gesundheitswesen,US03635R1077
+193,193,Ansys Inc.,901492,NASDAQ,AKX,ANSS,Software,US03662Q1058
+194,194,Antares Pharma Inc.,903128,NASDAQ,MJC,ATRS,Pharma,US0366421065
+195,195,Antelope Enterprise Hldgs Ltd,A2QFRT,NASDAQ,C9E2,AEHL,Industrie/Mischkonzerne,VGG041JN1065
+196,196,Anterix Inc.,A2PP3J,NASDAQ,2X6,ATEX,Telekom,US03676C1009
+197,197,Apellis Pharmaceuticals,A2JAAW,NASDAQ,1JK,APLS,Biotechnologie,US03753U1060
+198,198,Apogee Enterprises Inc.,867209,NASDAQ,ANP,APOG,Sonstige Technologie,US0375981091
+199,199,Apollo Endosurgery Inc.,A2DJ26,NASDAQ,HQ8F,APEN,Gesundheitswesen,US03767D1081
+200,200,Apollo Investment Corp.,A2N85M,NASDAQ,55O1,AINV,Finanzdienstleistungen,US03761U5020
+201,201,Apollo Medical Holdings Inc.,A14SUE,NASDAQ,3AM,AMEH,Gesundheitswesen,US03763A2078
+202,202,AppFolio Inc.,A14TU7,NASDAQ,4P0,APPF,Software,US03783C1009
+203,203,AppHarvest Inc.,A2QHQU,NASDAQ,829,APPH,Nahrungsmittel/Agrar,US03783T1034
+204,204,Appian Corp.,A2DR9Y,NASDAQ,910,APPN,Software,US03782L1017
+205,205,Apple Inc.,865985,NASDAQ,APC,AAPL,Hardware,US0378331005
+206,206,Applied DNA Sciences Inc.,A2PUTA,NASDAQ,UDJP,APDN,Sonstige Technologie,US03815U3005
+207,207,Applied Genetic Technol. Corp.,A110V2,NASDAQ,2GT,AGTC,Biotechnologie,US03820J1007
+208,208,Applied Materials Inc.,865177,NASDAQ,AP2,AMAT,Halbleiter,US0382221051
+209,209,Applied Molecular Transport,A2P5NJ,NASDAQ,Ticker-Symbol:,AMTI,Biotechnologie,US03824M1099
+210,210,Applied Optoelectronics Inc.,A1W4EQ,NASDAQ,A59,AAOI,Halbleiter,US03823U1025
+211,211,Applied Therapeutics Inc.,A2PHHB,NASDAQ,2UV,APLT,Biotechnologie,US03828A1016
+212,212,Applied UV,A2QCFC,NASDAQ,5XJ,AUVI,Sonstige Technologie,US03828V1052
+213,213,Aprea Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+214,214,Apria,A2QPAU,NASDAQ,Ticker-Symbol:,APR,Gesundheitswesen,US03836A1016
+215,215,Aptevo Therapeutics Inc.,A2P2EX,NASDAQ,AP8N,APVO,Biotechnologie,US03835L2079
+216,216,Aptinyx,-,NASDAQ,not_found,not_found,not_found,not_found
+217,217,Aptorum Group Ltd.,A2N6WM,NASDAQ,A1V,APM,Pharma,KYG6096M1069
+218,218,Aptose Biosciences Inc.,A12C5N,NASDAQ,LTIA,APS.TO,Biotechnologie,CA03835T2002
+219,219,Apyx Medical Corp.,A2PBJC,NASDAQ,BOV,APYX,Gesundheitswesen,US03837C1062
+220,220,Aqua Metals Inc.,A14X9L,NASDAQ,BOV,AQMS,Dienstleistungen,US03837J1016
+221,221,AquaBounty Technologies Inc.,A2DJ46,NASDAQ,W8NB,AQB,Biotechnologie,US03842K2006
+222,222,Aquestive Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+223,223,Arbe Robotics Ltd,-,NASDAQ,not_found,not_found,not_found,not_found
+224,224,Arbutus Biopharma Corp.,A14XMD,NASDAQ,I9DN,ABUS,Biotechnologie,CA03879J1003
+225,225,ARCA Biopharma Inc.,A2PGY6,NASDAQ,HQ10,ABIO,Biotechnologie,US00211Y5069
+226,226,Arcadia Biosciences Inc.,A2JSFW,NASDAQ,17DN,RKDA,Biotechnologie,US0390142042
+227,227,ArcBest Corp.,A113JL,NASDAQ,AQY,ARCB,Logistik/Transport,US03937C1053
+228,228,Arch Capital Group Ltd.,590336,NASDAQ,RSK,ACGL,Finanzdienstleistungen,BMG0450A1053
+229,229,Arcimoto Inc.,A2JN1H,NASDAQ,53H,FUV,Fahrzeuge,US0395871009
+230,230,Arco Platform Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+231,231,Arcturus Therapeutics Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+232,232,Arcutis Biotherapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+233,233,Ardelyx Inc.,A116X0,NASDAQ,41X,ARDX,Biotechnologie,US0396971071
+234,234,Arena Pharmaceuticals Inc.,A2DR4A,NASDAQ,RN3N,ARNA,Pharma,US0400476075
+235,235,Ares Capital Corp.,A0DQY4,NASDAQ,9A2,ARCC,Finanzdienstleistungen,US04010L1035
+236,236,Argenx SE (ADRs),A2H9WD,NASDAQ,1AEA,ARGX,Biotechnologie,US04016X1019
+237,237,Aridis Pharmaceuticals,-,NASDAQ,not_found,not_found,not_found,not_found
+238,238,Ark Restaurants Corp,870464,NASDAQ,AQX,ARKR,Nahrungsmittel/Agrar,US0407121013
+239,239,ARKO Corp,A2QF30,NASDAQ,Ticker-Symbol:,ARKO,Handel/E-Commerce,US0412421085
+240,240,Array Technologies Inc.,-,NASDAQ,not_found,not_found,not_found,not_found
+241,241,Arrival Group,A2QSAV,NASDAQ,47K,ARVL,Fahrzeuge,LU2314763264
+242,242,Arrow Financial Corp,920764,NASDAQ,BQE,AROW,Finanzdienstleistungen,US0427441029
+243,243,Arrowhead Pharmaceuticals Inc.,A2AGYB,NASDAQ,HDP1,ARWR,Biotechnologie,US04280A1007
+244,244,Art's-Way Manufacturing Co,868070,NASDAQ,,ARTW,Maschinenbau,US0431681032
+245,245,Artelo Biosciences,-,NASDAQ,not_found,not_found,not_found,not_found
+246,246,Artesian Resources Corp,920766,NASDAQ,,ARTNA,Versorger,US0431132085
+247,247,Arvinas,-,NASDAQ,not_found,not_found,not_found,not_found
+248,248,Ascendis Pharma A/S (ADRs),A14M6X,NASDAQ,A71,ASND,Biotechnologie,US04351P1012
+249,249,Asia Pacific Wire & Cable Corp. Ltd.,922431,NASDAQ,DLZ,APWC,Elektrotechnologie,BMG0535E1066
+250,250,Aslan Pharmaceuticals Ltd. (ADRs),A2JN62,NASDAQ,7A9,ASLN,Biotechnologie,US04522R1014
+251,251,ASML Holding N.V.,A1J85V,NASDAQ,ASMF,ASML,Halbleiter,USN070592100
+252,252,Aspen Group,-,NASDAQ,not_found,not_found,not_found,not_found
+253,253,Aspen Technology Inc.,893189,NASDAQ,AST,AZPN,Software,US0453271035
+254,254,Aspira Women´s Health Inc.,A2P6V3,NASDAQ,CUL1,AWH,Gesundheitswesen,US04537Y1091
+255,255,Assembly Biosciences Inc.,A117S1,NASDAQ,V7B1,ASMB,Pharma,US0453961080
+256,256,AST SpaceMobile,A3CL8W,NASDAQ,not_found,ASMB,Pharma,US0453961080
+257,257,Astec Industries,885275,NASDAQ,AI2,ASTE,Bau/Infrastruktur,US0462241011
+258,258,Astrazeneca PLC (Spons. ADRs),886715,NASDAQ,ZEGA,AZN,Pharma,US0463531089
+259,259,Astrea Acquisition Corp,A2QPML,NASDAQ,not_found,AZN,Pharma,US0463531089
+260,260,Astronics Corp.,867880,NASDAQ,AC1,ATRO,Elektrotechnologie,US0464331083
+261,261,AstroNova,922775,NASDAQ,AZO,ALOT,Sonstige Technologie,US04638F1084
+262,262,Astrotech Corp.,A2H5UH,NASDAQ,SP5B,ASTC,Dienstleistungen,US0464842006
+263,263,Asure Software Inc.,A0YH66,NASDAQ,VTE1,ASUR,Software,US04649U1025
+264,264,Atara Biotherapeutics Inc.,A1166A,NASDAQ,AT2,ATRA,Biotechnologie,US0465131078
+265,265,Atea Pharmaceuticals,A2QGE7,NASDAQ,Ticker-Symbol:,AVIR,Biotechnologie,US04683R1068
+266,266,Athenex Inc.,A2DTE9,NASDAQ,2MT,ATNX,Biotechnologie,US04685N1037
+267,267,Athersys Inc.,A0M085,NASDAQ,4LS,ATHX,Biotechnologie,US04744L1061
+268,268,Athira Pharma,-,NASDAQ,not_found,not_found,not_found,not_found
+269,269,Atlantic American Corp,865324,NASDAQ,,AAME,Finanzdienstleistungen,US0482091008
+270,270,Atlantic Capital Bancshares,A143JU,NASDAQ,41K,ACBI,Finanzdienstleistungen,US0482692037
+271,271,Atlantic Union Bankshares Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+272,272,Atlantic Union Bankshares Corp,A2PK2D,NASDAQ,UIO,AUB,Finanzdienstleistungen,US04911A1079
+273,273,Atlantica Yield PLC,A116CH,NASDAQ,AY3,AY,Erneuerbare Energien,GB00BLP5YB54
+274,274,Atlanticus Holdings Corp,A1J9JF,NASDAQ,YCC,ATLC,Finanzdienstleistungen,US04914Y1029
+275,275,Atlas Air Worldwide Holdings,A0DK5Y,NASDAQ,W8W,AAWW,Luftfahrt/Rüstung,US0491642056
+276,276,Atlas Technical Consultants,-,NASDAQ,not_found,not_found,not_found,not_found
+277,277,Atlassian Corporation PLC,A2ABYA,NASDAQ,59A,TEAM,Software,GB00BZ09BD16
+278,278,ATN International,A2AMHC,NASDAQ,ATP,ATNI,Telekom,US00215F1075
+279,279,Atomera,A2APVZ,NASDAQ,Ticker-Symbol:,ATOM,Halbleiter,US04965B1008
+280,280,Atossa Genetics Inc.,A2JJ99,NASDAQ,YAG2,ATOS,Gesundheitswesen,US04962H5063
+281,281,Atreca Inc.,A2PLNM,NASDAQ,0C1,BCEL,Biotechnologie,US04965G1094
+282,282,AtriCure Inc.,A0ES9W,NASDAQ,A5I,ATRC,Gesundheitswesen,US04963C2098
+283,283,Atrion Corp,922778,NASDAQ,AN2,ATRI,Gesundheitswesen,US0499041053
+284,284,aTyr Pharma Inc.,A2PM86,NASDAQ,471A,LIFE,Pharma,US0021202025
+285,285,Auburn National Bancorporation,346008,NASDAQ,not_found,LIFE,Pharma,US0021202025
+286,286,Auddia,A2P791,NASDAQ,Ticker-Symbol:,AUUD,Software,US05072K1079
+287,287,Audiocodes Ltd.,922683,NASDAQ,AU1,AUDC,IT-Dienstleistungen,IL0010829658
+288,288,AudioEye,-,NASDAQ,not_found,not_found,not_found,not_found
+289,289,Aurinia Pharmaceuticals Inc.,A1W7D4,NASDAQ,IKAP,AUPH,Pharma,CA05156V1022
+290,290,Aurora Cannabis Inc.,A2P4EC,NASDAQ,21P1,ACB.TO,Pharma,CA05156X8843
+291,291,Aurora Mobile Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+292,292,Autobytel Inc.,A2GSXG,NASDAQ,,AUTO,Internet,US05335B1008
+293,293,Autodesk Inc.,869964,NASDAQ,AUD,ADSK,Software,US0527691069
+294,294,Autolus Therapeutics Ltd. (ADRs),A2JNZJ,NASDAQ,6A3A,6A3A.F,Biotechnologie,US05280R1005
+295,295,Automatic Data Processing Inc.,850347,NASDAQ,ADP,ADP,Dienstleistungen,US0530151036
+296,296,Avadel Pharmaceuticals PLC (ADRs),A2DJR8,NASDAQ,AWK1,AWK1.F,Pharma,US05337M1045
+297,297,Avalon GloboCare Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+298,298,Avenue Therapeutics Inc.,A2JH92,NASDAQ,49Y,ATXI,Pharma,US05360L2051
+299,299,Aveo Pharmaceuticals Inc.,A2P0CL,NASDAQ,VPA1,AVEO,Pharma,US0535883070
+300,300,Aviat Networks Inc.,A2AL39,NASDAQ,HSD1,AVNW,Netzwerktechnik,US05366Y2019
+301,301,Avid  Technology Inc.,886052,NASDAQ,AVD,AVID,Sonstige Technologie,US05367P1003
+302,302,Avid Bioservices Inc.,A2JBKV,NASDAQ,TEHP,CDMO,Biotechnologie,US05368M1062
+303,303,Avidity Biosciences,-,NASDAQ,not_found,not_found,not_found,not_found
+304,304,Avinger Inc.,A2PMRS,NASDAQ,VG2B,AVGR,Gesundheitswesen,US0537346043
+305,305,Avis Budget Group,A0KEE9,NASDAQ,CUCA,CAR,Logistik/Transport,US0537741052
+306,306,Avita Therapeutics Inc.,A2P733,NASDAQ,51KA,RCEL,Gesundheitswesen,US05380C1027
+307,307,Avnet Inc.,850355,NASDAQ,VNI,AVT,IT-Dienstleistungen,US0538071038
+308,308,AVROBIO,-,NASDAQ,not_found,not_found,not_found,not_found
+309,309,Aware Inc.,902788,NASDAQ,,AWRE,Sonstige Technologie,US05453N1000
+310,310,Axcelis Technologies Inc.,A2AM8Z,NASDAQ,XXA1,ACLS,Halbleiter,US0545402085
+311,311,Axcella Health,-,NASDAQ,not_found,not_found,not_found,not_found
+312,312,AxoGen Inc.,A1JMHK,NASDAQ,LT3,AXGN,Gesundheitswesen,US05463X1063
+313,313,Axon Enterprise Inc,A2DPZU,NASDAQ,TCS,AXON,Sonstige Technologie,US05464C1018
+314,314,Axonics Modulation Technologies Inc.,A2N7B2,NASDAQ,0I3,AXNX,Gesundheitswesen,US05465P1012
+315,315,Axsome Therapeutics Inc.,A2AA7B,NASDAQ,19X,AXSM,Pharma,US05464T1043
+316,316,AXT Inc.,914410,NASDAQ,AHV,AXTI,Elektrotechnologie,US00246W1036
+317,317,Ayala Pharmaceuticals,-,NASDAQ,not_found,not_found,not_found,not_found
+318,318,Aytu BioScience Inc.,A2NB17,NASDAQ,not_found,AXTI,Elektrotechnologie,US00246W1036
+319,319,Aziyo Biologics,-,NASDAQ,not_found,not_found,not_found,not_found
+320,320,B. Riley Financial,A12EVW,NASDAQ,Ticker-Symbol:,RILY,Finanzdienstleistungen,US05580M1080
+321,321,Baidu.com (ADRs),A0F5DE,NASDAQ,B1C,BIDUN.MX,Internet,US0567521085
+322,322,Balchem Corp.,905650,NASDAQ,BL9B,BCPC,Chemie,US0576652004
+323,323,Ballard Power Systems Inc.,A0RENB,NASDAQ,PO0,BLDP.TO,Erneuerbare Energien,CA0585861085
+324,324,BancFirst Corp,886171,NASDAQ,BF1,BANF,Finanzdienstleistungen,US05945F1030
+325,325,Bancorp (The),A0DPKZ,NASDAQ,Ticker-Symbol:,TBBK,Finanzdienstleistungen,US05969A1051
+326,326,Bandwidth Inc.,A2H7JF,NASDAQ,5XB,BAND,Software,US05988J1034
+327,327,Bank First Corp,A117EM,NASDAQ,42H,BFC,Finanzdienstleistungen,US06211J1007
+328,328,Bank of Marin Bancorp,A0MWPL,NASDAQ,Ticker-Symbol:,BMRC,Finanzdienstleistungen,US0634251021
+329,329,Bank of Princeton (The),A2JAEZ,NASDAQ,42J,BPRN,Finanzdienstleistungen,US0645201098
+330,330,Bank of South Carolina Corp,A0D90A,NASDAQ,not_found,BPRN,Finanzdienstleistungen,US0645201098
+331,331,Bank of the James Financial Group,A0YHVZ,NASDAQ,not_found,BPRN,Finanzdienstleistungen,US0645201098
+332,332,BANK OZK,A2JQ1Z,NASDAQ,BO8,OZK,Finanzdienstleistungen,US06417N1037
+333,333,Bank7 Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+334,334,BankFinancial Corp,A0ER9S,NASDAQ,not_found,OZK,Finanzdienstleistungen,US06417N1037
+335,335,Bankwell Financial Group,A1W5CP,NASDAQ,33W,BWFG,Finanzdienstleistungen,US06654A1034
+336,336,Banner Corp,A1JBAL,NASDAQ,FW2N,BANR,Finanzdienstleistungen,US06652V2088
+337,337,Baosheng Media Group Holdings Limited,A2QN74,NASDAQ,not_found,BANR,Finanzdienstleistungen,US06652V2088
+338,338,Baozun Inc. (ADRs),A14S55,NASDAQ,2BZA,BZUN,Internet,US06684L1035
+339,339,Barrett Business Services,886799,NASDAQ,BB1,BBSI,Dienstleistungen,US0684631080
+340,340,Bassett Furniture Industries,906816,NASDAQ,Ticker-Symbol:,BSET,Bau/Infrastruktur,US0702031040
+341,341,BayCom Corp,A2DLBH,NASDAQ,B2J,BCML,Finanzdienstleistungen,US07272M1071
+342,342,BBQ Holdings,A2PR9E,NASDAQ,2RA,BBQ,Nahrungsmittel/Agrar,US05551A1097
+343,343,BCB Bancorp,A0ESUL,NASDAQ,41Y,BCBP,Finanzdienstleistungen,US0552981039
+344,344,BCLS Acquisition Corp,A2QF3H,NASDAQ,not_found,BCBP,Finanzdienstleistungen,US0552981039
+345,345,Beacon Roofing Supply Inc.,A0DJZ9,NASDAQ,OWY,BECN,Bau/Infrastruktur,US0736851090
+346,346,Beam Global Inc.,A2QDBZ,NASDAQ,16NA,BEEM,Erneuerbare Energien,US07373B1098
+347,347,Beam Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+348,348,Beasley Broadcast Group Inc.,932652,NASDAQ,BZS,BBGI,Medien,US0740141017
+349,349,Bed Bath & Beyond Inc.,884304,NASDAQ,BBY,BBBY,Handel/E-Commerce,US0758961009
+350,350,BeiGene Ltd. (ADRs),A1437N,NASDAQ,49BA,49BA.F,Biotechnologie,US07725L1026
+351,351,Bel Fuse Inc. (A),876528,NASDAQ,BF2A,BELFA,Elektrotechnologie,US0773472016
+352,352,Bel Fuse Inc. (B),915578,NASDAQ,BF2B,BELFB,Elektrotechnologie,US0773473006
+353,353,Bellerophon Therapeutics Inc.,A2PZZR,NASDAQ,6L7A,BLPH,Biotechnologie,US0787713009
+354,354,Bellicum Pharmaceuticals Inc.,A2PZPL,NASDAQ,BPXA,BLCM,Biotechnologie,US0794814048
+355,355,BELLUS Health Inc.,A2PQKK,NASDAQ,BHN0,BLU.TO,Pharma,CA07987C2040
+356,356,Benefitfocus Inc.,A1W5CS,NASDAQ,BTF,BNFT,Software,US08180D1063
+357,357,Benessere Capital Acquisition Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+358,358,Benitec Biopharma Inc.,A2P06Q,NASDAQ,BJ93,BNTC,Biotechnologie,US08205P1003
+359,359,Bentley Systems Inc.,A2QDK6,NASDAQ,BS81,BSY,Software,US08265T2087
+360,360,Berkeley Lights Inc.,A2P9RR,NASDAQ,64B,BLI,Biotechnologie,US0843101017
+361,361,Berry Corp,A2JDNZ,NASDAQ,64B,BRY,not_found,US08579X1019
+362,362,Better World Acquisition Corp,A2QF5N,NASDAQ,not_found,BRY,Öl/Gas,US08579X1019
+363,363,Betterware de Mexico SAB de CV,A2QAZF,NASDAQ,BM0,BWMX,Handel/E-Commerce,MX00BW020002
+364,364,Beyond Meat Inc.,A2N7XQ,NASDAQ,0Q3,BYND,Nahrungsmittel/Agrar,US08862E1091
+365,365,BeyondSpring,A2DNMQ,NASDAQ,not_found,BYND,Nahrungsmittel/Agrar,US08862E1091
+366,366,BGC Partners Inc.,A0NJH6,NASDAQ,ESDA,BGCP,Finanzdienstleistungen,US05541T1016
+367,367,Bicycle Therapeutics Ltd. (ADRs),A2PKZC,NASDAQ,50BA,BCYC,Biotechnologie,US0887861088
+368,368,Big 5 Sporting Goods Corp.,634728,NASDAQ,BG3,BGFV,Freizeitprodukte,US08915P1012
+369,369,Big Sky Growth Partners,-,NASDAQ,not_found,not_found,not_found,not_found
+370,370,BigCommerce Holdings Inc.,A2P9T5,NASDAQ,BI1,BIGC,Software,US08975P1084
+371,371,Bilibili Inc. (ADRs),A2JG7L,NASDAQ,not_found,not_found,not_found,not_found
+372,372,Bio Techne Corp.,A12ENG,NASDAQ,TE1,TECH,Biotechnologie,US09073M1045
+373,373,BIO-Key International Inc.,A2DJYX,NASDAQ,not_found,TECH,Biotechnologie,US09073M1045
+374,374,Bio-Path Holdings,A2PB4K,NASDAQ,IBPB,BPTH,Biotechnologie,US09057N3008
+375,375,BioAtla,A2QLBN,NASDAQ,Ticker-Symbol:,BCAB,Biotechnologie,US09077B1044
+376,376,Bioblast Pharma Ltd.,A119KH,NASDAQ,1BT,ENLV,Biotechnologie,IL0011319527
+377,377,BioCardia,A2PLXH,NASDAQ,6JU,BCDA,Biotechnologie,US09060U5074
+378,378,Biocept Inc.,A2NB41,NASDAQ,not_found,BCDA,Biotechnologie,US09060U5074
+379,379,Bioceres Crop Solutions Corp.,-,NASDAQ,not_found,not_found,not_found,not_found
+380,380,BioCryst Pharmaceuticals Inc.,896047,NASDAQ,BO1,BCRX,Biotechnologie,US09058V1035
+381,381,Biodelivery Sciences International Inc.,766464,NASDAQ,BD5,BDSI,Biotechnologie,US09060J1060
+382,382,Biodesix,A2QFCN,NASDAQ,not_found,BDSI,Biotechnologie,US09060J1060
+383,383,Biofrontera AG (ADRs),A2JEEX,NASDAQ,B8FE,BFRA,Biotechnologie,US09075G1058
+384,384,Biogen Inc.,789617,NASDAQ,IDP,BIIB,Biotechnologie,US09062X1037
+385,385,BioLase Inc.,A2JLZ6,NASDAQ,BTH1,BIOL,Biotechnologie,US0909112072
+386,386,BioLife Solutions Inc.,A1XCF2,NASDAQ,BJX1,BLFS,Biotechnologie,US09062W2044
+387,387,Bioline RX Ltd. (ADR),A2PNW3,NASDAQ,YP2A,BLRX,Biotechnologie,US09071M2052
+388,388,Biomarin Pharmaceutical Inc.,924801,NASDAQ,BM8,BMRN,Biotechnologie,US09061G1013
+389,389,Biomerica,866251,NASDAQ,,BMRA,Gesundheitswesen,US09061H3075
+390,390,Bionano Genomics Inc.,A2JRLZ,NASDAQ,2Y3,BNGO,Pharma,US09075F1075
+391,391,BiondVax Pharmaceutical (ADRs),A14TFZ,NASDAQ,2F5,US09073Q1058.SG,Biotechnologie,US09073Q1058
+392,392,BioNTech SE (ADRs),A2PSR2,NASDAQ,22UA,BNTX,Biotechnologie,US09075V1026
+393,393,Biophytis (ADRs),A2PNTA,NASDAQ,6XBA,6XBA.F,Biotechnologie,US09076G1040
+394,394,BioSig Technologies,-,NASDAQ,not_found,not_found,not_found,not_found
+395,395,Bioventus,A2APNA,NASDAQ,Ticker-Symbol:,BVS,Biotechnologie,US09075A1088
+396,396,BioXcel Therapeutics Inc.,A2JF20,NASDAQ,BX2,BTAI,Biotechnologie,US09075P1057
+397,397,Bit Digital,-,NASDAQ,not_found,not_found,not_found,not_found
+398,398,BJ's Restaurants,A0B7Y0,NASDAQ,ZCG,BJRI,Nahrungsmittel/Agrar,US09180C1062
+399,399,Black Diamond Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+400,400,Blackbaud Inc.,A0B9Q0,NASDAQ,BNK,BLKB,Software,US09227Q1004
+401,401,BlackLine Inc.,A2AS8C,NASDAQ,02B,BL,Software,US09239B1098
+402,402,BlackRock Capital Investment Corp.,A0M452,NASDAQ,8BK,BKCC,Finanzdienstleistungen,US0925331086
+403,403,BlackRock TCP Capital Corp.,A2N4AB,NASDAQ,8TC,TCPC,Finanzdienstleistungen,US09259E1082
+404,404,Blink Charging Co,-,NASDAQ,not_found,not_found,not_found,not_found
+405,405,Bloomin Brands Inc.,A1JWXL,NASDAQ,BOO,BLMN,Nahrungsmittel/Agrar,US0942351083
+406,406,Blucora Inc.,A1JZBJ,NASDAQ,3EV,BCOR,Internet,US0952291005
+407,407,Blue Bird Corp.,A14PN5,NASDAQ,4RB,BLBD,Fahrzeuge,US0953061068
+408,408,Blue Hat Interactive Entertainment Technology,A2PZFX,NASDAQ,4Y8,BHAT,Unterhaltung,KYG1329V1068
+409,409,Bluebird Bio Inc.,A1W025,NASDAQ,BLE,BLUE,Biotechnologie,US09609G1004
+410,410,BlueCity Holdings Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+411,411,Blueknight Energy Partners LP,A1JMG1,NASDAQ,not_found,BLUE,Biotechnologie,US09609G1004
+412,412,Blueknight Energy Partners LP,A0YF1Y,NASDAQ,,BKEP,Öl/Gas,US09625U1097
+413,413,Blueprint Medicines Corp.,A14SDD,NASDAQ,2L9,BPMC,Biotechnologie,US09627Y1091
+414,414,Bogota Financial Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+415,415,BOK Financial Corp,923203,NASDAQ,BJR,BOKF,Finanzdienstleistungen,US05561Q2012
+416,416,Bolt Biotherapeutics Inc.,A2QNZN,NASDAQ,6LP,BOLT,Biotechnologie,US0977021049
+417,417,Bonso Electronics International,911741,NASDAQ,,BNSO,Sonstige Technologie,VG0985293088
+418,418,Booking Holdings Inc.,A2JEXP,NASDAQ,PCE1,BKNG,Internet,US09857L1089
+419,419,Borqs Technologies,-,NASDAQ,not_found,not_found,not_found,not_found
+420,420,BOS Better Online Solutions Ltd.,914000,NASDAQ,BOQ,BOSC,Sonstige Technologie,IL0010828171
+421,421,Bottomline Technologies Inc.,919081,NASDAQ,BOT,EPAY,Software,US1013881065
+422,422,Boxlight Corp,A2H83N,NASDAQ,2IU,BOXL,Software,US1031971096
+423,423,BrainStorm Cell Therapeutics Inc.,A12BXW,NASDAQ,GHDN,BCLI,Biotechnologie,US10501E2019
+424,424,BrainsWay Ltd,-,NASDAQ,not_found,not_found,not_found,not_found
+425,425,Breeze Holdings Acquisition Corp,A2QNY9,NASDAQ,not_found,BCLI,Biotechnologie,US10501E2019
+426,426,Brickell Biotech Inc.,A2PRDX,NASDAQ,VCC2,BBI,Biotechnologie,US10802T1051
+427,427,BridgeBio Pharma Inc.,A2PLX7,NASDAQ,2CL,BBIO,Pharma,US10806X1028
+428,428,Bridgeline Digital Inc.,A2PJM2,NASDAQ,BL43,BLIN,Software,US10807Q7007
+429,429,Bridgetown 2 Holdings Limited,A2QNEW,NASDAQ,not_found,BLIN,Software,US10807Q7007
+430,430,Bridgetown Holdings Limited,A2QD8F,NASDAQ,Ticker-Symbol:,BTWN,Finanzdienstleistungen,KYG1355U1132
+431,431,Bridgewater Bancshares,A2JGHD,NASDAQ,1WA,BWB,Finanzdienstleistungen,US1086211034
+432,432,Bridgford Foods Corp,873601,NASDAQ,,BRID,Nahrungsmittel/Agrar,US1087631032
+433,433,Brightcove Inc.,A1JTPT,NASDAQ,2BV,BCOV,Internet,US10921T1016
+434,434,Brighthouse Financial,A2DUDM,NASDAQ,BROC,BHF,Finanzdienstleistungen,US10922N1037
+435,435,Brilliant Acquisition Corp,A2QNFL,NASDAQ,89I,BRLI,Finanzdienstleistungen,VGG1643W1115
+436,436,Broadcom,-,NASDAQ,not_found,not_found,not_found,not_found
+437,437,Broadcom Inc.,A2JG9Z,NASDAQ,1YD,AVGO,Halbleiter,US11135F1012
+438,438,Broadway Financial Corp,A0D90C,NASDAQ,not_found,AVGO,Halbleiter,US11135F1012
+439,439,Broadwind Energy Inc.,A1J3B2,NASDAQ,9IRA,BWEN,Sonstige Technologie,US11161T2078
+440,440,Brooge Energy Limited,A2PYJJ,NASDAQ,3SF,BROG,Öl/Gas,KYG1611B1077
+441,441,Brookfield Property Partners LP,-,NASDAQ,not_found,not_found,not_found,not_found
+442,442,Brookfield Property Partners LP,-,NASDAQ,not_found,not_found,not_found,not_found
+443,443,Brookline Bancorp,661726,NASDAQ,BB3,BRKL,Finanzdienstleistungen,US11373M1071
+444,444,Brookline Capital Acquisition Corp,A2QB4N,NASDAQ,not_found,BRKL,Finanzdienstleistungen,US11373M1071
+445,445,BRP Group,-,NASDAQ,not_found,not_found,not_found,not_found
+446,446,BRP Inc.,A1WZCD,NASDAQ,B15A,DOO.TO,Fahrzeuge,CA05577W2004
+447,447,Bruker Corp.,813534,NASDAQ,BKD,BRKR,Biotechnologie,US1167941087
+448,448,BSQUARE Corp,A0HGDS,NASDAQ,,BSQR,Hardware,US11776U3005
+449,449,BTRS Holdings,A2QMEP,NASDAQ,62Y0,BTRS,Finanzdienstleistungen,US11778X1046
+450,450,Bull Horn Holdings Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+451,451,Bumble,-,NASDAQ,not_found,not_found,not_found,not_found
+452,452,Burgundy Technology Acquisition Corp,A2QB4B,NASDAQ,not_found,BTRS,Finanzdienstleistungen,US11778X1046
+453,453,Burning Rock Biotech Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+454,454,Business First Bancshares,A2JPJ4,NASDAQ,828,BFST,Finanzdienstleistungen,US12326C1053
+455,455,C&F Financial Corp,924165,NASDAQ,CFF,CFFI,Finanzdienstleistungen,US12466Q1040
+456,456,C.H. Robinson Worldwide Inc.,A0HGF5,NASDAQ,CH1A,CHRW,Logistik/Transport,US12541W2098
+457,457,C4 Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+458,458,Cabaletta Bio,-,NASDAQ,not_found,not_found,not_found,not_found
+459,459,Cabot Microelectronics Corporation,936382,NASDAQ,not_found,CHRW,Logistik/Transport,US12541W2098
+460,460,Cadence Design Systems Inc.,873567,NASDAQ,CDS,CDNS,Software,US1273871087
+461,461,CADIZ,A0BK9G,NASDAQ,2ZC,CDZI,Erneuerbare Energien,US1275372076
+462,462,Caesars Entertainment Inc.,A2P92E,NASDAQ,2ER,CZR,Hotels/Tourismus,US12769G1004
+463,463,Caesarstone Ltd.,A1JV50,NASDAQ,19C,CSTE,Bau/Infrastruktur,IL0011259137
+464,464,Cal-Maine Foods Inc.,907664,NASDAQ,CM2,CALM,Nahrungsmittel/Agrar,US1280302027
+465,465,Caladrius Biosciences Inc.,A2APJW,NASDAQ,8NE2,CLBS,Biotechnologie,US1280582032
+466,466,CalAmp Corp.,A0B7RX,NASDAQ,CF3,CAMP,Elektrotechnologie,US1281261099
+467,467,Calavo Growers,692952,NASDAQ,Ticker-Symbol:,CVGW,Nahrungsmittel/Agrar,US1282461052
+468,468,California BanCorp,A2PL0X,NASDAQ,3SB,CALB,Finanzdienstleistungen,US13005U1016
+469,469,Calithera Biosciences Inc.,A12AQH,NASDAQ,2CB,CALA,Biotechnologie,US13089P1012
+470,470,Calumet Specialty Products Partners LP,A0H1BP,NASDAQ,,CLMT,Öl/Gas,US1314761032
+471,471,Calyxt,A2DU9F,NASDAQ,Ticker-Symbol:,CLXT,Biotechnologie,US13173L1070
+472,472,Cambium Networks Corp.,A2PLPT,NASDAQ,089,CMBM,Telekom,KYG177661090
+473,473,Cambridge Bancorp,A0YHXY,NASDAQ,not_found,CMBM,Telekom,KYG177661090
+474,474,Camden National Corp.,930042,NASDAQ,3LR,CAC,Finanzdienstleistungen,US1330341082
+475,475,Camtek Ltd.,A0H0YX,NASDAQ,CMZ,CAMT,Software,IL0010952641
+476,476,Canaan,-,NASDAQ,not_found,not_found,not_found,not_found
+477,477,Canadian Solar Inc.,A0LCUY,NASDAQ,L5A,CSIQ,Erneuerbare Energien,CA1366351098
+478,478,Canoo,A2QJX1,NASDAQ,9XK,GOEV,Fahrzeuge,US13803R1023
+479,479,Canopy Growth Corp.,A140QA,NASDAQ,11L1,WEED.TO,Pharma,CA1380351009
+480,480,Canterbury Park Holding Corp,938039,NASDAQ,,CPHC,Freizeitprodukte,US13811E1010
+481,481,Capital Bancorp,-,NASDAQ,not_found,not_found,not_found,not_found
+482,482,Capital City Bank Group,923192,NASDAQ,BK3,CCBG,Finanzdienstleistungen,US1396741050
+483,483,Capital Product Partners L.P.,A2PGGD,NASDAQ,7CPA,CPLP,Logistik/Transport,MHY110822068
+484,484,Capital Southwest Corp,923189,NASDAQ,SFW,CSWC,Finanzdienstleistungen,US1405011073
+485,485,Capitol Federal Financial,A1H4TW,NASDAQ,CFW,CFFN,Finanzdienstleistungen,US14057J1016
+486,486,Capricor Therapeutics Inc.,A2PLU4,NASDAQ,4LN2,CAPR,Biotechnologie,US14070B3096
+487,487,CapStar Financial Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+488,488,Cara Therapeutics Inc.,A1XDTK,NASDAQ,69C,CARA,Biotechnologie,US1407551092
+489,489,Cardiff Oncology Inc.,A2P4GU,NASDAQ,XE7C,CRDF,Biotechnologie,US14147L1089
+490,490,Cardiovascular Systems Inc.,A0RF8V,NASDAQ,R7Y1,CSII,Gesundheitswesen,US1416191062
+491,491,Cardlytics Inc.,A2JDMC,NASDAQ,CYX,CDLX,IT-Dienstleistungen,US14161W1053
+492,492,CareDX Inc.,A118WG,NASDAQ,1K9,CDNA,Gesundheitswesen,US14167L1035
+493,493,CareTrust REIT,A11398,NASDAQ,7XC,CTRE,Immobilien,US14174T1079
+494,494,CarLotz,A2QK13,NASDAQ,Ticker-Symbol:,LOTZ,Fahrzeuge,US1425521085
+495,495,Carney Technology Acquisition Corp,A2QF4F,NASDAQ,not_found,LOTZ,Fahrzeuge,US1425521085
+496,496,CarParts.com Inc.,A2QAJC,NASDAQ,not_found,PRTS,Handel/E-Commerce,US14427M1071
+497,497,Carrols Restaurant Group,A0LGD7,NASDAQ,XQC,TAST,Nahrungsmittel/Agrar,US14574X1046
+498,498,Carver Bancorp,A1JNKY,NASDAQ,39CN,CARV,Finanzdienstleistungen,US1468756044
+499,499,Casa Systems Inc.,A2H71X,NASDAQ,6CS,CASA,Netzwerktechnik,US14713L1026
+500,500,Casella Waste Systems Inc.,910249,NASDAQ,WA3,CWST,Sonstige Technologie,US1474481041
+501,501,Casey's General Stores,885039,NASDAQ,CS2,CASY,Handel/E-Commerce,US1475281036
+502,502,Casi Pharmaceuticals Inc.,A116GB,NASDAQ,ENMN,CASI,Biotechnologie,US14757U1097
+503,503,Cass Information Systems Inc.,917071,NASDAQ,CC3,CASS,IT-Dienstleistungen,US14808P1093
+504,504,Cassava Sciences Inc.,A2PGL8,NASDAQ,PX91,SAVA,Pharma,US14817C1071
+505,505,Castle Biosciences,-,NASDAQ,not_found,not_found,not_found,not_found
+506,506,Catalyst Biosciences Inc.,A2DLUK,NASDAQ,HGF2,CBIO,Biotechnologie,US14888D2080
+507,507,Catalyst Pharmaceuticals Inc.,A0LCUL,NASDAQ,CN2,CPRX,Pharma,US14888U1016
+508,508,Cathay General Bancorp,923184,NASDAQ,CN7,CATY,Finanzdienstleistungen,US1491501045
+509,509,Cavco Industries,812972,NASDAQ,Ticker-Symbol:,CVCO,Bau/Infrastruktur,US1495681074
+510,510,CB Financial Services,A0YH0W,NASDAQ,not_found,CVCO,Bau/Infrastruktur,US1495681074
+511,511,CBAK Energy Technology Inc.,A2DKLR,NASDAQ,B6JA,CBAT,Elektrotechnologie,US14986C1027
+512,512,CBS Corp.,A2PUZ3,NASDAQ,0VVB,PARA,Medien,US92556H2067
+513,513,CBTX,A2H6ZJ,NASDAQ,C9N,CBTX,Finanzdienstleistungen,US12481V1044
+514,514,CDK Global Inc.,A12CCG,NASDAQ,C2G,CDK,IT-Dienstleistungen,US12508E1010
+515,515,CDW Corp.,A1W0KL,NASDAQ,CDW,CDW,IT-Dienstleistungen,US12514G1085
+516,516,Ceco Environmental Corp.,906379,NASDAQ,WCE,CECE,Sonstige Technologie,US1251411013
+517,517,Celcuity,-,NASDAQ,not_found,not_found,not_found,not_found
+518,518,Celldex Therapeutics Inc.,A2PEAB,NASDAQ,TCE2,CLDX,Biotechnologie,US15117B2025
+519,519,Cellebrite DI Ltd,-,NASDAQ,not_found,not_found,not_found,not_found
+520,520,Cellectar Biosciences Inc.,A2NB71,NASDAQ,NV4P,CLRB,Biotechnologie,US15117F5008
+521,521,Cellectis S.A. (ADRs),A14QZE,NASDAQ,ZVAA,CLLS,Biotechnologie,US15117K1034
+522,522,Celsion Corp.,A2DQRG,NASDAQ,CBOC,CLSN,Gesundheitswesen,US15117N5032
+523,523,Celsius Holdings,A0YH6K,NASDAQ,Ticker-Symbol:,CELH,Getränke/Tabak,US15118V2079
+524,524,Celyad S.A. (ADRs),A14VMC,NASDAQ,1C0S,CYAD,Biotechnologie,US1512052002
+525,525,Cemtrex,-,NASDAQ,not_found,not_found,not_found,not_found
+526,526,Cemtrex Inc.,A2PL8V,NASDAQ,C42A,CETX,Elektrotechnologie,US15130G6008
+527,527,Centennial Resource Development Inc.,A2ATEY,NASDAQ,241A,CDEV,Öl/Gas,US15136A1025
+528,528,Centogene N.V.,A2PUCU,NASDAQ,39K,CNTG,Biotechnologie,NL0014040206
+529,529,Central Garden & Pet Co.,887131,NASDAQ,GP7,CENT,Handel/E-Commerce,US1535271068
+530,530,Central Garden & Pet Company,A0LGZP,NASDAQ,GP7A,CENTA,Handel/E-Commerce,US1535272058
+531,531,Central Valley Community Bancorp,A0B9QZ,NASDAQ,,CVCY,Finanzdienstleistungen,US1556851004
+532,532,Century Aluminum Co.,899867,NASDAQ,EY3,CENX,Rohstoffe,US1564311082
+533,533,Century Casinos Inc.,889628,NASDAQ,CNT,CNTY,Unterhaltung,US1564921005
+534,534,Ceragon Networks Ltd.,941230,NASDAQ,GGN,CRNT,Netzwerktechnik,IL0010851660
+535,535,Cerence Inc.,A2PRLS,NASDAQ,0S6,CRNC,Fahrzeuge,US1567271093
+536,536,Cerevel Therapeutics Holdings,A2QF3L,NASDAQ,not_found,CRNC,Fahrzeuge,US1567271093
+537,537,Cerner Corp.,892807,NASDAQ,CRE,CERN,Gesundheitswesen,US1567821046
+538,538,Certara,A2QJL8,NASDAQ,700,CERT,Software,US15687V1098
+539,539,Cerus Corp.,905249,NASDAQ,CU2,CERS,Biotechnologie,US1570851014
+540,540,Ceva Inc.,A0BKYT,NASDAQ,PVJA,CEVA,Halbleiter,US1572101053
+541,541,Champions Oncology Inc.,A14X6S,NASDAQ,2I3,CSBR,Pharma,US15870P3073
+542,542,ChampionX Corp.,A2P58Q,NASDAQ,X9P,CHX,Öl/Gas,US15872M1045
+543,543,Change Healthcare Inc.,A2PLR6,NASDAQ,1CB,CHNG,IT-Dienstleistungen,US15912K1007
+544,544,Charles & Colvard Ltd,923940,NASDAQ,CDR,CTHR,Konsumgüter,US1597651066
+545,545,Charter Communications Inc.,A2AJX9,NASDAQ,CQD,CHTR,Telekom,US16119P1084
+546,546,Check Point Software Technologies Ltd.,901638,NASDAQ,CPW,CHKP,Software,IL0010824113
+547,547,Check-Cap Ltd.,A14QUF,NASDAQ,7CC,CHEK,Gesundheitswesen,IL0011336851
+548,548,Checkmate Pharmaceuticals,-,NASDAQ,not_found,not_found,not_found,not_found
+549,549,Checkpoint Therapeutics Inc.,A2JAHK,NASDAQ,CZT,CKPT,Biotechnologie,US1628281073
+550,550,Cheesecake Factory Inc.,884888,NASDAQ,CF2,CAKE,Nahrungsmittel/Agrar,US1630721017
+551,551,Chefs Warehouse Inc.,A1H9UZ,NASDAQ,2CF,CHEF,Nahrungsmittel/Agrar,US1630861011
+552,552,Chembio Diagnostics Inc.,A1JY4D,NASDAQ,D9IA,CEMI,Gesundheitswesen,US1635722093
+553,553,ChemoCentryx Inc.,A0NBM2,NASDAQ,2CX,CCXI,Biotechnologie,US16383L1061
+554,554,Chemung Financial Corp,A0YHJX,NASDAQ,not_found,CCXI,Biotechnologie,US16383L1061
+555,555,Chesapeake Energy Corp.,A2QPFF,NASDAQ,not_found,not_found,not_found,not_found
+556,556,Chicken Soup for the Soul Entertainment,-,NASDAQ,not_found,not_found,not_found,not_found
+557,557,Chicken Soup For The Soul Entertainment Inc.,A2N4HE,NASDAQ,2UC,CSSE,Unterhaltung,US16842Q1004
+558,558,Children's Place,909471,NASDAQ,CP5,PLCE,Handel/E-Commerce,US1689051076
+559,559,Chimerix Inc.,A1T65B,NASDAQ,CXF,CMRX,Biotechnologie,US16934W1062
+560,560,China Automotive Systems Inc.,727493,NASDAQ,RYV,CAAS,Fahrzeuge,US16936R1059
+561,561,China Finance Online (ADRs),A2PXTN,NASDAQ,FNZA,US1693792038.SG,Internet,US1693792038
+562,562,China HGS Real Estate Inc.,A2QEPS,NASDAQ,29RA,HGSH,Immobilien,US16948W2098
+563,563,China Index Holdings Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+564,564,China Liberal Education Holdings Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+565,565,China Natural Resources Inc.,A0DNRG,NASDAQ,NY6,CHNR,Rohstoffe,VGG2110U1093
+566,566,China Recycling Energy Corp.,A2P250,NASDAQ,CR9,CREG,Dienstleistungen,US1689133098
+567,567,China Xiangtai Food Co Ltd,A2N6WJ,NASDAQ,C1U,BTOG,Nahrungsmittel/Agrar,KYG216211006
+568,568,Chinook Therapeutics Inc.,A2QE43,NASDAQ,290A,KDNY,Biotechnologie,US16961L1061
+569,569,ChipMOS Technologies Inc.,A2N8SZ,NASDAQ,CPIA,CPIA.F,Halbleiter,US16965P2020
+570,570,ChoiceOne Financial Services,-,NASDAQ,not_found,not_found,not_found,not_found
+571,571,CHP Merger Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+572,572,ChromaDex Corp.,A2AG5N,NASDAQ,OCD1,CDXC,Gesundheitswesen,US1710774076
+573,573,CHS,-,NASDAQ,not_found,not_found,not_found,not_found
+574,574,CHS,-,NASDAQ,not_found,not_found,not_found,not_found
+575,575,CHS,A12BHT,NASDAQ,not_found,CDXC,Gesundheitswesen,US1710774076
+576,576,CHS,-,NASDAQ,not_found,not_found,not_found,not_found
+577,577,CHS,A0M06Z,NASDAQ,not_found,CDXC,Gesundheitswesen,US1710774076
+578,578,Churchill Downs,923011,NASDAQ,CHR,CHDN,Freizeitprodukte,US1714841087
+579,579,Chuy's Holdings,A1J1DC,NASDAQ,Ticker-Symbol:,CHUY,Nahrungsmittel/Agrar,US1716041017
+580,580,Cidara Therapeutics Inc.,A14R2R,NASDAQ,20D,CDTX,Biotechnologie,US1717571079
+581,581,CIM Commercial Trust Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+582,582,CIM Commercial Trust Corp,A2PQDL,NASDAQ,WY52,CMCT,Finanzdienstleistungen,US1255255846
+583,583,Cimpress PLC,A2PWHR,NASDAQ,3UF,CMPR,Dienstleistungen,IE00BKYC3F77
+584,584,Cincinnati Bancorp,-,NASDAQ,not_found,not_found,not_found,not_found
+585,585,Cincinnati Financial Corp.,878440,NASDAQ,CCJ,CINF,Finanzdienstleistungen,US1720621010
+586,586,Cinedigm Corp.,A2AJTC,NASDAQ,IQ51,CIDM,Software,US1724062096
+587,587,Cintas Corp.,880205,NASDAQ,CIT,CTAS,Bekleidung/Textil,US1729081059
+588,588,Cirrus Logic Inc.,877381,NASDAQ,CRU,CRUS,Netzwerktechnik,US1727551004
+589,589,Cisco Systems Inc.,878841,NASDAQ,CIS,CSCO,Netzwerktechnik,US17275R1023
+590,590,Citi Trends Inc,A0EATE,NASDAQ,not_found,not_found,not_found,not_found
+591,591,Citius Pharmaceuticals Inc.,A2DXS0,NASDAQ,47N,CTXR,Pharma,US17322U2078
+592,592,Citizens Community Bancorp,A0LEFB,NASDAQ,not_found,not_found,not_found,not_found
+593,593,Citizens Holding Company,542145,NASDAQ,not_found,not_found,not_found,not_found
+594,594,Citrix Systems Inc.,898407,NASDAQ,CTX,CTXS,Software,US1773761002
+595,595,City Holding Company,923222,NASDAQ,Ticker-Symbol:,CHCO,Finanzdienstleistungen,US1778351056
+596,596,Civista Bancshares,A14SSR,NASDAQ,44Q,CIVB,Finanzdienstleistungen,US1788671071
+597,597,Clarus Corp.,A2DWAE,NASDAQ,BDO,CLAR,Freizeitprodukte,US18270P1093
+598,598,Clean Energy Fuels Corp.,A0MRJL,NASDAQ,WIQ,CLNE,Öl/Gas,US1844991018
+599,599,CleanSpark,-,NASDAQ,not_found,not_found,not_found,not_found
+600,600,Clearfield Inc.,A0NAKY,NASDAQ,AP7,CLFD,Elektrotechnologie,US18482P1030
+601,601,ClearOne,A1KAES,NASDAQ,not_found,CLFD,Elektrotechnologie,US18482P1030
+602,602,ClearPoint Neuro,-,NASDAQ,not_found,not_found,not_found,not_found
+603,603,Clearside Biomedical Inc.,A2ALP6,NASDAQ,CLM,CLSD,Biotechnologie,US1850631045
+604,604,ClearSign Technologies Corp,A1JXYE,NASDAQ,4CC,CLIR,Maschinenbau,US1850641028
+605,605,Clene,A2QE9Y,NASDAQ,84C,CLNN,Biotechnologie,US1856341029
+606,606,Clever Leaves Holdings,A2QLHN,NASDAQ,Ticker-Symbol:,CLVR,Pharma,CA1867601041
+607,607,Clover Health Investments Corp.,A2QJXX,NASDAQ,7QD,CLOV,Gesundheitswesen,US18914F1030
+608,608,Clovis Oncology Inc.,A1JPJY,NASDAQ,C6O,CLVS,Biotechnologie,US1894641000
+609,609,CLPS Incorporation,A2JMZN,NASDAQ,1UK,CLPS,IT-Dienstleistungen,KYG316421042
+610,610,CME GROUP INC.,A0MW32,NASDAQ,MX4A,CME,Finanzdienstleistungen,US12572Q1058
+611,611,CN Energy Group,A2P878,NASDAQ,not_found,CME,Finanzdienstleistungen,US12572Q1058
+612,612,CNB Financial Corp,351156,NASDAQ,44I,CCNE,Finanzdienstleistungen,US1261281075
+613,613,CNS Pharmaceuticals,-,NASDAQ,not_found,not_found,not_found,not_found
+614,614,Co-Diagnostics Inc.,A2DU6V,NASDAQ,C97,CODX,Gesundheitswesen,US1897631057
+615,615,Coastal Financial Corp,A2JQ2L,NASDAQ,1VD,CCB,Finanzdienstleistungen,US19046P2092
+616,616,Coca-Cola Bottling Co. Cons.,860150,NASDAQ,CC5,COKE,Getränke/Tabak,US1910981026
+617,617,Cocrystal Pharma Inc.,A2JCEJ,NASDAQ,8CC1,COCP,Biotechnologie,US19188J3005
+618,618,Coda Octopus Group,A2DJYV,NASDAQ,Ticker-Symbol:,CODA,Sonstige Technologie,US19188U2069
+619,619,Code Chain New Continent Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+620,620,Codere Online Luxembourg SA,A3C8U2,NASDAQ,J9T,CDRO,Unterhaltung,LU2405144788
+621,621,Codexis Inc.,A0Q2S4,NASDAQ,4QK,CDXS,Biotechnologie,US1920051067
+622,622,Codiak BioSciences Inc.,A2PJN7,NASDAQ,32W,CDAK,Biotechnologie,US1920101060
+623,623,Codorus Valley Bancorp,923699,NASDAQ,,CVLY,Finanzdienstleistungen,US1920251048
+624,624,Coffee Holding Co. Inc.,A0ER78,NASDAQ,E6U,JVA,Nahrungsmittel/Agrar,US1921761052
+625,625,Cogent Communications Holdings,A0D9JK,NASDAQ,OGM1,CCOI,Netzwerktechnik,US19239V3024
+626,626,Cognex Corp.,878090,NASDAQ,CGZ,CGNX,Sonstige Technologie,US1924221039
+627,627,Cognizant Technology Solutions Corp.,915272,NASDAQ,COZ,CTSH,IT-Dienstleistungen,US1924461023
+628,628,CohBar,A2DUFN,NASDAQ,Ticker-Symbol:,CWBR,Biotechnologie,US19249J1097
+629,629,Coherent Inc.,864089,NASDAQ,COI,COHR,Sonstige Technologie,US1924791031
+630,630,Coherus Biosciences Inc.,A12ETZ,NASDAQ,8C5,CHRS,Biotechnologie,US19249H1032
+631,631,Cohu Inc.,856506,NASDAQ,CU3,COHU,Elektrotechnologie,US1925761066
+632,632,Coinbase Global Inc.,A2QP7J,NASDAQ,1QZ,COIN,Finanzdienstleistungen,US19260Q1076
+633,633,Collegium Pharmaceutical Inc.,A14SUV,NASDAQ,354,COLL,Pharma,US19459J1043
+634,634,Colliers International Group Inc.,A14UB1,NASDAQ,FSV,CIGI.TO,Immobilien,CA1946931070
+635,635,Colony Bankcorp,923700,NASDAQ,,CBAN,Finanzdienstleistungen,US19623P1012
+636,636,Columbia Banking System,908712,NASDAQ,Ticker-Symbol:,COLB,Finanzdienstleistungen,US1972361026
+637,637,Columbia Financial Inc.,A2JJ7B,NASDAQ,64H,CLBK,Finanzdienstleistungen,US1976411033
+638,638,Columbia Sportswear Company,912855,NASDAQ,CUW,COLM,Bekleidung/Textil,US1985161066
+639,639,Columbus McKinnon Corp/NY,899458,NASDAQ,VC3,CMCO,Maschinenbau,US1993331057
+640,640,Comcast Corp. New Class A,157484,NASDAQ,CTP2,CMCSA,Telekom,US20030N1019
+641,641,Commercial Vehicle Group Inc.,A0B7E5,NASDAQ,FDU,CVGI,Sonstige Technologie,US2026081057
+642,642,Commscope Holding Co. Inc.,A1W5SD,NASDAQ,CM9,COMM,Netzwerktechnik,US20337X1090
+643,643,Communications Systems,868361,NASDAQ,VC9,JCS,Elektrotechnologie,US2039001050
+644,644,Community Bankers Trust Corp,A0Q3X9,NASDAQ,not_found,JCS,Elektrotechnologie,US2039001050
+645,645,Community Financial Corp (The),A1W678,NASDAQ,6BI,TCFC,Finanzdienstleistungen,US20368X1019
+646,646,Community Trust Bancorp,919427,NASDAQ,,CTBI,Finanzdienstleistungen,US2041491083
+647,647,Community West Bancshares,923448,NASDAQ,,CWBC,Finanzdienstleistungen,US2041571017
+648,648,Commvault Systems Inc.,A0JL3S,NASDAQ,D6I,CVLT,Software,US2041661024
+649,649,Compugen Ltd.,553001,NASDAQ,CW9,CGEN,Biotechnologie,IL0010852080
+650,650,Computer Programs and Systems Inc.,575308,NASDAQ,PS1,CPSI,IT-Dienstleistungen,US2053061030
+651,651,Computer Task Group,868693,NASDAQ,TSK,CTG,IT-Dienstleistungen,US2054771025
+652,652,comScore,A0MSHZ,NASDAQ,,SCOR,Internet,US20564W1053
+653,653,COMSovereign Holding Corp.,A2QQL0,NASDAQ,9DA,COMS,Industrie/Mischkonzerne,US2056502030
+654,654,Comstock Holding Companies Inc.,A1405G,NASDAQ,CHO1,CHCI,Bau/Infrastruktur,US2056842022
+655,655,Comtech Telecommunications Corp.,860733,NASDAQ,CC6,CMTL,Telekom,US2058262096
+656,656,Concentrix Corp,A2QG33,NASDAQ,Ticker-Symbol:,CNXC,IT-Dienstleistungen,US20602D1019
+657,657,Concert Pharmaceuticals Inc.,A1XEAC,NASDAQ,73C,CNCE,Pharma,US2060221056
+658,658,Concrete Pumping Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+659,659,Conduent Inc.,A2DGMC,NASDAQ,4C0,CNDT,IT-Dienstleistungen,US2067871036
+660,660,Conformis Inc.,A14T0Y,NASDAQ,308,CFMS,Gesundheitswesen,US20717E1010
+661,661,Conifer Holdings Inc.,A14YNV,NASDAQ,9KK,CNFR,Finanzdienstleistungen,US20731J1025
+662,662,ConnectOne Bancorp Inc.,A11708,NASDAQ,CBM,CNOB,Finanzdienstleistungen,US20786W1071
+663,663,Conn´s Inc.,786993,NASDAQ,CN4,CONN,Handel/E-Commerce,US2082421072
+664,664,Consolidated Communications Holdings,A0F43L,NASDAQ,C8C,CNSL,Telekom,US2090341072
+665,665,Consolidated Water Co. Inc.,913867,NASDAQ,CW2,CWCO,Dienstleistungen,KYG237731073
+666,666,Construction Partners Inc.,A2JMXF,NASDAQ,CQY,ROAD,Bau/Infrastruktur,US21044C1071
+667,667,Consumer Portfolio Services Inc.,886210,NASDAQ,FC8,CPSS,Finanzdienstleistungen,US2105021008
+668,668,ContextLogic Inc.,A2QKC4,NASDAQ,5ZZ,US21077C1071.SG,Handel/E-Commerce,US21077C1071
+669,669,Contrafect Corp.,A2PZKK,NASDAQ,22R1,CFRX,Biotechnologie,US2123263004
+670,670,CONX Corp,A2QF5H,NASDAQ,not_found,CFRX,Biotechnologie,US2123263004
+671,671,Copart Inc.,893807,NASDAQ,CO6,CPRT,Dienstleistungen,US2172041061
+672,672,Corbus Pharmaceuticals Holdings Inc.,A14R7P,NASDAQ,337,CRBP,Pharma,US21833P1030
+673,673,Corcept Therapeutics Inc.,529882,NASDAQ,HTD,CORT,Biotechnologie,US2183521028
+674,674,CorMedix Inc.,A2PF3G,NASDAQ,19KA,CRMD,Biotechnologie,US21900C3088
+675,675,Corner Growth Acquisition Corp,A2QK14,NASDAQ,not_found,CRMD,Biotechnologie,US21900C3088
+676,676,Cornerstone OnDemand Inc.,A1H42H,NASDAQ,,8CO.SG,Software,US21925Y1038
+677,677,CORSAIR Gaming Inc.,A2QBQA,NASDAQ,6C2,CRSR,Hardware,US22041X1028
+678,678,Cortexyme,-,NASDAQ,not_found,not_found,not_found,not_found
+679,679,CorVel Corp,917184,NASDAQ,Ticker-Symbol:,CRVL,Dienstleistungen,US2210061097
+680,680,Corvus Gold Inc.,A1C4C5,NASDAQ,not_found,CRVL,Dienstleistungen,US2210061097
+681,681,Corvus Pharmaceuticals Inc.,A2AFXS,NASDAQ,C17,CRVS,Biotechnologie,US2210151005
+682,682,CoStar Group Inc.,922134,NASDAQ,RLG,CSGP,Immobilien,US22160N1090
+683,683,Costco Wholesale Corp.,888351,NASDAQ,CTO,COST,Handel/E-Commerce,US22160K1051
+684,684,Coupa Software Inc.,A2ASF5,NASDAQ,2C0,COUP,Software,US22266L1061
+685,685,Cowen Inc.,A2DHRD,NASDAQ,CGI1,COWN,Finanzdienstleistungen,US2236226062
+686,686,CPS Technologies Corp,A0MNG8,NASDAQ,not_found,COWN,Finanzdienstleistungen,US2236226062
+687,687,CRA International,A0EQWX,NASDAQ,CR2,CRAI,Dienstleistungen,US12618T1051
+688,688,Cracker Barrel Old Country Store Inc.,A0RD0J,NASDAQ,OLD,CBRL,Handel/E-Commerce,US22410J1060
+689,689,Creatd,-,NASDAQ,not_found,not_found,not_found,not_found
+690,690,Creative Realities Inc.,A2N8K4,NASDAQ,4U7,CREX,IT-Dienstleistungen,US22530J2006
+691,691,Credit Acceptance Corp.,884343,NASDAQ,2D5,CACC,Finanzdienstleistungen,US2253101016
+692,692,Crescent Capital BDC,A2PZDL,NASDAQ,487,CCAP,Finanzdienstleistungen,US2256551092
+693,693,Cresud S.A. Comercial Industrial Financiera y Agropecuaria (ADRs),906164,NASDAQ,CD8,CRESY,Nahrungsmittel/Agrar,US2264061068
+694,694,Crexendo,-,NASDAQ,not_found,not_found,not_found,not_found
+695,695,Crinetics Pharmaceuticals Inc.,A2JQTJ,NASDAQ,6Z4,CRNX,Biotechnologie,US22663K1079
+696,696,CRISPR Therapeutics AG,A2AT0Z,NASDAQ,1CG,CRSP,Biotechnologie,CH0334081137
+697,697,Criteo S.A. (ADRs),A1W5UR,NASDAQ,CI5A,CRTO,Internet,US2267181046
+698,698,Crocs Inc.,A0HM52,NASDAQ,C7N,CROX,Bekleidung/Textil,US2270461096
+699,699,Cronos Group Inc.,A2DMQY,NASDAQ,7CI,CRON.TO,Pharma,CA22717L1013
+700,700,Cross Country Healthcare,550897,NASDAQ,XXY,CCRN,Gesundheitswesen,US2274831047
+701,701,CrossFirst Bankshares,-,NASDAQ,not_found,not_found,not_found,not_found
+702,702,Crowdstrike Holdings Inc.,A2PK2R,NASDAQ,45C,CRWD,Software,US22788C1053
+703,703,Crown Crafts,871235,NASDAQ,Ticker-Symbol:,CRWS,Konsumgüter,US2283091005
+704,704,Crown Electrokinetics Corp,A2QNS2,NASDAQ,not_found,CRWS,Konsumgüter,US2283091005
+705,705,CryoPort,A14THD,NASDAQ,not_found,CRWS,Konsumgüter,US2283091005
+706,706,CSG Systems International,899518,NASDAQ,CSN,CSGS,Software,US1263491094
+707,707,CSI Compressco LP,A12F4V,NASDAQ,,CCLP,Öl/Gas,US12637A1034
+708,708,CSP,877243,NASDAQ,Ticker-Symbol:,CSPI,IT-Dienstleistungen,US1263891053
+709,709,CSW Industrials,A140CD,NASDAQ,UCI,CSWI,Chemie,US1264021064
+710,710,CSX Corp.,865857,NASDAQ,CXR,CSX,Logistik/Transport,US1264081035
+711,711,CTI BioPharma Corp.,A2DJWX,NASDAQ,CEPS,CTIC,Biotechnologie,US12648L6011
+712,712,Cue Biopharma,A2JAT5,NASDAQ,1UC,CUE,Biotechnologie,US22978P1066
+713,713,Cuentas,A2QQM6,NASDAQ,not_found,CUE,Biotechnologie,US22978P1066
+714,714,Cullinan Management,A2QL3C,NASDAQ,Ticker-Symbol:,CGEM,Biotechnologie,US2300311063
+715,715,Cumberland Pharmaceuticals,A0RC46,NASDAQ,Ticker-Symbol:,CPIX,Pharma,US2307701092
+716,716,Cumulus Media,A2PNCF,NASDAQ,1NM,CMLS,Medien,US2310828015
+717,717,CureVac N.V.,A2P71U,NASDAQ,5CV,CVAC,Biotechnologie,NL0015436031
+718,718,Curis Inc.,A2JMX7,NASDAQ,CUSA,CRIS,Biotechnologie,US2312692005
+719,719,Cutera Inc.,A0B9QG,NASDAQ,TJ9,CUTR,Gesundheitswesen,US2321091082
+720,720,CVB Financial Corp,925673,NASDAQ,BCV,CVBF,Finanzdienstleistungen,US1266001056
+721,721,CVD Equipment Corp.,A0D94S,NASDAQ,0V3,CVV,Maschinenbau,US1266011030
+722,722,Cyanotech Corp,A0LEA5,NASDAQ,JC7A,CYAN,Pharma,US2324373016
+723,723,CyberArk Software Ltd.,A12CPP,NASDAQ,CYB,CYBR,Software,IL0011334468
+724,724,CyberOptics Corp.,884075,NASDAQ,CYE,CYBE,Elektrotechnologie,US2325171021
+725,725,Cyclacel Pharmaceuticals Inc.,A2P26W,NASDAQ,UXI4,CYCC,Biotechnologie,US23254L6039
+726,726,Cyclo Therapeutics,A2QJRY,NASDAQ,Ticker-Symbol:,CYTH,Biotechnologie,US23254X2018
+727,727,CymaBay Therapeutics Inc.,A116DD,NASDAQ,C0I,CBAY,Pharma,US23257D1037
+728,728,CYREN Ltd,924128,NASDAQ,TOU,CYRN,Software,IL0010832371
+729,729,CyrusOne Inc.,A1J84D,NASDAQ,RCY,CONE,IT-Dienstleistungen,US23283R1005
+730,730,Cytokinetics Inc.,A1W1KK,NASDAQ,KK3A,CYTK,Biotechnologie,US23282W6057
+731,731,Cytomx Therapeutics Inc.,A14158,NASDAQ,6C1,CTMX,Biotechnologie,US23284F1057
+732,732,Cytosorbents Corp.,A12GDU,NASDAQ,HQE1,CTSO,Gesundheitswesen,US23283X2062
+733,733,Dada Nexus Ltd. (ADRs),A2P4Z8,NASDAQ,D0A,DADA,Internet,US23344D1081
+734,734,Daily Journal Corp,873135,NASDAQ,DJ1,DJCO,Medien,US2339121046
+735,735,Daktronics,923255,NASDAQ,DA3,DAKT,Elektrotechnologie,US2342641097
+736,736,Dare Biosciences Inc.,A2DU45,NASDAQ,1221,DARE,Pharma,US23666P1012
+737,737,DarioHealth Corp.,A2PU1R,NASDAQ,LS1P,DRIO,Medien,US23725P2092
+738,738,Daseke,A2DMM0,NASDAQ,1VG,DSKE,Logistik/Transport,US23753F1075
+739,739,Data I/O Corp,866321,NASDAQ,Ticker-Symbol:,DAIO,Elektrotechnologie,US2376901029
+740,740,Datadog Inc.,A2PSFR,NASDAQ,3QD,DDOG,Software,US23804L1035
+741,741,Datasea Inc,A2QAZD,NASDAQ,AQC,DTSS,Software,US2381162062
+742,742,Dave & Buster's Entertainment,A1J5S8,NASDAQ,9DB,PLAY,Nahrungsmittel/Agrar,US2383371091
+743,743,DavidsTea Inc.,A14UHT,NASDAQ,DAT,DTEA,Getränke/Tabak,CA2386611024
+744,744,Dawson Geophysical Company,A14NUC,NASDAQ,RVS1,DWSN,Dienstleistungen,US2393601008
+745,745,DBV Technologies SA,A12EBR,NASDAQ,DBVA,DBVT,Biotechnologie,US23306J1016
+746,746,Decibel Therapeutics,A2QNAQ,NASDAQ,Ticker-Symbol:,DBTX,Biotechnologie,US24343R1068
+747,747,Deciphera Pharmaceuticals Inc.,A2H48H,NASDAQ,D05,DCPH,Biotechnologie,US24344T1016
+748,748,Del Taco Restaurants Inc.,A14V7B,NASDAQ,22L,TACO,Nahrungsmittel/Agrar,US2454961044
+749,749,Denali Therapeutics Inc.,A2H9G8,NASDAQ,4DN,DNLI,Biotechnologie,US24823R1059
+750,750,Denny's Corp,919416,NASDAQ,DE8,DENN,Nahrungsmittel/Agrar,US24869P1049
+751,751,Dentsply Sirona Inc.,A2AF0E,NASDAQ,DY2,XRAY,Gesundheitswesen,US24906P1093
+752,752,DermTech,A2P4EG,NASDAQ,not_found,XRAY,Gesundheitswesen,US24906P1093
+753,753,Deswell Industries,902409,NASDAQ,DW2,DSWL,Kunststoffe/Verpackungen,VG2506391011
+754,754,DexCom Inc.,A0D9T1,NASDAQ,DC4,DXCM,Gesundheitswesen,US2521311074
+755,755,DiaMedica Therapeutics Inc.,A2N9HB,NASDAQ,F2KA,DMAC,Biotechnologie,CA25253X2077
+756,756,Diamond Hill Investment Group,792613,NASDAQ,BVE,DHIL,Dienstleistungen,US25264R2076
+757,757,Diamondback Energy Inc.,A1J6Y4,NASDAQ,7DB,FANG,Öl/Gas,US25278X1090
+758,758,Dicerna Pharmaceuticals Inc.,A1XCYU,NASDAQ,not_found,FANG,Öl/Gas,US25278X1090
+759,759,Diffusion Pharmaceuticals Inc.,A2PAYY,NASDAQ,DP81,DFFN,Biotechnologie,US2537483057
+760,760,Digi International Inc.,878008,NASDAQ,DGI,DGII,Netzwerktechnik,US2537981027
+761,761,Digimarc Corp,A0RBRR,NASDAQ,not_found,DGII,Netzwerktechnik,US2537981027
+762,762,Diginex Ltd.,A2QC13,NASDAQ,616A,EQOS,Finanzdienstleistungen,SGXZ53262598
+763,763,Digital Ally Inc.,A1J3HE,NASDAQ,1DAA,DGLY,Sonstige Technologie,US25382P2083
+764,764,Digital Turbine Inc.,A14MRK,NASDAQ,4MD,APPS,Software,US25400W1027
+765,765,Diodes Inc.,858600,NASDAQ,DDQ,DIOD,Halbleiter,US2545431015
+766,766,DIRTT Environmental Solutions Ltd,A1XB7R,NASDAQ,Ticker-Symbol:,DRT.TO,Dienstleistungen,CA25490H1064
+767,767,Discovery Communications Inc.,A0Q90J,NASDAQ,DC6C,DISCK,Medien,US25470F3029
+768,768,Discovery Communications Inc.,A0Q90H,NASDAQ,DC6B,DISCB,Medien,US25470F2039
+769,769,Discovery Communications Inc.,A0Q90G,NASDAQ,DC6,DISCA,Medien,US25470F1049
+770,770,Diversified Healthcare Trust,-,NASDAQ,not_found,not_found,not_found,not_found
+771,771,Dixie Group,887758,NASDAQ,DX6,DXYN,Bau/Infrastruktur,US2555191004
+772,772,DLH Holdings Corp,A1J0M3,NASDAQ,TS8A,DLHC,Dienstleistungen,US23335Q1004
+773,773,DMC Global Inc.,A2DGRK,NASDAQ,DM5,BOOM,Maschinenbau,US23291C1036
+774,774,Docebo,A2PQ7E,NASDAQ,not_found,BOOM,Maschinenbau,US23291C1036
+775,775,DocuSign Inc.,A2JHLZ,NASDAQ,DS3,DOCU,Software,US2561631068
+776,776,Dogness (International) Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+777,777,Dollar Tree Inc.,A0NFQC,NASDAQ,DT3,DLTR,Handel/E-Commerce,US2567461080
+778,778,DOMO Inc.,A2JPBT,NASDAQ,1ON,DOMO,Software,US2575541055
+779,779,Donegal Group,655940,NASDAQ,N/A,DGICA,Finanzdienstleistungen,US2577012014
+780,780,Donegal Group,655929,NASDAQ,N/A,DGICB,Finanzdienstleistungen,US2577013004
+781,781,Dorchester Minerals LP,216526,NASDAQ,N/A,DMLP,Öl/Gas,US25820R1059
+782,782,Dorman Products Inc.,A0J2R0,NASDAQ,RAB,DORM,Maschinenbau,US2582781009
+783,783,Dou Yu International Holdings Ltd. (ADR),A2PJ6X,NASDAQ,DY8A,DY8A.F,Software,US25985W1053
+784,784,DraftKings Inc.,A2P205,NASDAQ,8DEA,DKNG,Unterhaltung,US26142R1041
+785,785,Dragon Victory International Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+786,786,Dream Finders Homes,A2QMNU,NASDAQ,not_found,DKNG,Unterhaltung,US26142R1041
+787,787,Driven Brands Holdings,A2QL6Z,NASDAQ,84U,DRVN,Fahrzeuge,US26210V1026
+788,788,Dropbox Inc.,A2JE48,NASDAQ,1Q5,DBX,Internet,US26210C1045
+789,789,Dropcar Inc.,A2P5PN,NASDAQ,WR4F,AYRO,Software,US0547481087
+790,790,Duck Creek Technologies,-,NASDAQ,not_found,not_found,not_found,not_found
+791,791,Duddell Street Acquisition Corp.,A2QF5T,NASDAQ,6JY,DSAC,Finanzdienstleistungen,KYG285531086
+792,792,Duluth Holdings,A2ABDD,NASDAQ,6DU,DLTH,Handel/E-Commerce,US26443V1017
+793,793,Dune Acquisition Corp,A2QD8Z,NASDAQ,not_found,DLTH,Handel/E-Commerce,US26443V1017
+794,794,Duolingo,A3CWBB,NASDAQ,Ticker-Symbol:,DUOL,Software,US26603R1068
+795,795,Duos Technologies Group,-,NASDAQ,not_found,not_found,not_found,not_found
+796,796,Durect Corp.,564868,NASDAQ,DC8,DRRX,Biotechnologie,US2666051048
+797,797,DXP Enterprises,923451,NASDAQ,DX7,DXPE,Dienstleistungen,US2333774071
+798,798,Dyadic International,-,NASDAQ,not_found,not_found,not_found,not_found
+799,799,Dynatronics Corp.,A1KAU7,NASDAQ,DYXA,DYNT,Sonstige Technologie,US2681574016
+800,800,Dynavax Technologies Corp.,A12EV9,NASDAQ,DYF1,DVAX,Biotechnologie,US2681582019
+801,801,Dyne Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+802,802,DZS Inc.,A2QCDH,NASDAQ,TLFP,DZSI,Netzwerktechnik,US2682111099
+803,803,Eagle Bancorp,A0D9ZK,NASDAQ,2ZI,EGBN,Finanzdienstleistungen,US2689481065
+804,804,Eagle Bancorp Montana,A1CVYH,NASDAQ,8F5,EBMT,Finanzdienstleistungen,US26942G1004
+805,805,Eagle Bulk Shipping,A2APYV,NASDAQ,not_found,EBMT,Finanzdienstleistungen,US26942G1004
+806,806,Eagle Pharmaceuticals Inc.,A1XEDS,NASDAQ,1E6,EGRX,Pharma,US2697961082
+807,807,Eargo,-,NASDAQ,not_found,not_found,not_found,not_found
+808,808,East Resources Acquisition Company,-,NASDAQ,not_found,not_found,not_found,not_found
+809,809,East Stone Acquisition Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+810,810,East West Bancorp Inc.,922137,NASDAQ,EW2,EWBC,Finanzdienstleistungen,US27579R1041
+811,811,Eastern Bankshares Inc.,A2QD63,NASDAQ,EB0,EBC,Finanzdienstleistungen,US27627N1054
+812,812,Eastern Company,939208,NASDAQ,EAQ,EML,Industrie/Mischkonzerne,US2763171046
+813,813,Eastside Distilling,-,NASDAQ,not_found,not_found,not_found,not_found
+814,814,Ebang International Holdings Inc.,A2P3W6,NASDAQ,7EB,EBON,Hardware,KYG3R33A1063
+815,815,eBay Inc.,916529,NASDAQ,EBA,EBAY,Internet,US2786421030
+816,816,Ebix Inc.,765778,NASDAQ,EWZ,EBIX,Software,US2787152063
+817,817,EchoStar Corp.,A0NDYQ,NASDAQ,E20,SATS,Telekom,US2787681061
+818,818,ECMOHO Ltd. (ADRs),A2PTTC,NASDAQ,0NE,US27888P1049.SG,Internet,US27888P1049
+819,819,EDAP TMS S.A. (ADRs),908548,NASDAQ,EDA,EDAP,Dienstleistungen,US2683111072
+820,820,Edesa Biotech Inc.,A2PL1Q,NASDAQ,RBTQ,EDSA,Biotechnologie,CA27966L1085
+821,821,Edify Acquisition Corp,A2QLPU,NASDAQ,not_found,EDSA,Biotechnologie,CA27966L1085
+822,822,Editas Medicine Inc.,A2AC4K,NASDAQ,8EM,EDIT,Biotechnologie,US28106W1036
+823,823,Edoc Acquisition Corp,A2QHQ6,NASDAQ,not_found,EDIT,Biotechnologie,US28106W1036
+824,824,Educational Development Corp,893420,NASDAQ,,EDUC,Medien,US2814791057
+825,825,eGain Corporation,893677,NASDAQ,EGCA,EGAN,Software,US28225C8064
+826,826,EHang Holdings Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+827,827,Ehealth Inc.,A0LBT4,NASDAQ,M5V,EHTH,Internet,US28238P1093
+828,828,Eiger BioPharmaceuticals Inc.,A2AF9X,NASDAQ,72C1,EIGR,Biotechnologie,US28249U1051
+829,829,Ekso Bionics Holdings Inc.,A2P19Y,NASDAQ,23E2,EKSO,Gesundheitswesen,US2826443010
+830,830,El Pollo Loco Holdings Inc.,A117LA,NASDAQ,EP6,LOCO,Nahrungsmittel/Agrar,US2686031079
+831,831,Elbit Systems Ltd.,904218,NASDAQ,EB2,ESLT.TA,Elektrotechnologie,IL0010811243
+832,832,Electrameccanica Vehicles Corp Ltd,-,NASDAQ,not_found,not_found,not_found,not_found
+833,833,Electro- Sensors Inc.,657846,NASDAQ,ELY,ELSE,Elektrotechnologie,US2852331022
+834,834,ElectroCore Inc.,A2N6KT,NASDAQ,43E,ECOR,Gesundheitswesen,US28531P1030
+835,835,Electronic Arts Inc.,878372,NASDAQ,ERT,EA,Software,US2855121099
+836,836,Elmira Savings Bank,A0DQGD,NASDAQ,6IX,ESBK,Finanzdienstleistungen,US2896601026
+837,837,"Eloxx Pharmaceuticals, Inc.",A2JAHU,NASDAQ,397,ELOX,Biotechnologie,US29014R1032
+838,838,Eltek Ltd,904981,NASDAQ,Ticker-Symbol:,ELTK,Halbleiter,IL0010828411
+839,839,Emclaire Financial Corp,A0YEC0,NASDAQ,not_found,ELTK,Halbleiter,IL0010828411
+840,840,Emcore Corp.,A1JT9R,NASDAQ,ER2N,EMKR,Halbleiter,US2908462037
+841,841,EMerge Technology Acquisition Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+842,842,Enanta Pharmaceuticals Inc.,A1T7BJ,NASDAQ,9EP,ENTA,Biotechnologie,US29251M1062
+843,843,Encore Capital Group,924129,NASDAQ,ECP,ECPG,Finanzdienstleistungen,US2925541029
+844,844,Encore Wire Corp.,892473,NASDAQ,EW3,WIRE,Eisen/Stahl,US2925621052
+845,845,Endo International PLC,A1XE6M,NASDAQ,EO7,ENDP,Pharma,IE00BJ3V9050
+846,846,ENDRA Life Sciences,-,NASDAQ,not_found,not_found,not_found,not_found
+847,847,Energous Corp.,A110V4,NASDAQ,116,WATT,Elektrotechnologie,US29272C1036
+848,848,Energy Focus,A2P6T8,NASDAQ,FI4,EFOI,Sonstige Technologie,US29268T4094
+849,849,Energy Recovery Inc.,A0NJUL,NASDAQ,5E2,ERII,Sonstige Technologie,US29270J1007
+850,850,Englobal Corp.,924250,NASDAQ,4EG,ENG,Dienstleistungen,US2933061069
+851,851,Enochian Biosciences Inc.,A2PBYQ,NASDAQ,2Q5,ENOB,Biotechnologie,US29350E1047
+852,852,Enphase Energy Inc.,A1JC82,NASDAQ,E0P,ENPH,Erneuerbare Energien,US29355A1079
+853,853,Ensign Group Inc.,A0MSST,NASDAQ,EGB,ENSG,Gesundheitswesen,US29358P1012
+854,854,Enstar Group Limited,A0MKMM,NASDAQ,48R,ESGR,Finanzdienstleistungen,BMG3075P1014
+855,855,Enstar Group Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+856,856,Entasis Therapeutics Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+857,857,Entegris Inc.,938201,NASDAQ,ENQ,ENTG,Halbleiter,US29362U1043
+858,858,Entera Bio Ltd.,A2JQXP,NASDAQ,5DT,ENTX,Biotechnologie,IL0011429839
+859,859,Enterprise Bancorp,A0DQ1D,NASDAQ,,EBTC,Finanzdienstleistungen,US2936681095
+860,860,Enterprise Financial Services Corp,A0DQZ3,NASDAQ,GV9,EFSC,Finanzdienstleistungen,US2937121059
+861,861,Enveric Biosciences Inc.,A2QLZH,NASDAQ,SLZ,ENVB,Biotechnologie,US29405E1091
+862,862,Eos Energy Enterprises,A2QD94,NASDAQ,not_found,ENVB,Biotechnologie,US29405E1091
+863,863,Epizyme Inc.,A1T9L2,NASDAQ,EPE,EPZM,Biotechnologie,US29428V1044
+864,864,Eplus Inc.,923612,NASDAQ,MLE,PLUS,IT-Dienstleistungen,US2942681071
+865,865,Epsilon Energy Ltd.,A2PBAU,NASDAQ,41E1,EPSN,Öl/Gas,CA2943752097
+866,866,Equinix Inc.,A14M21,NASDAQ,EQN2,EQIX,Netzwerktechnik,US29444U7000
+867,867,Equity Bancshares,A1436V,NASDAQ,44X,EQBK,Finanzdienstleistungen,US29460X1090
+868,868,Ericsson B ADR,765913,NASDAQ,ERCA,ERIC,Telekom,US2948216088
+869,869,Erie Indemnity Co.,919562,NASDAQ,EI2,ERIE,Finanzdienstleistungen,US29530P1021
+870,870,Erytech Pharma S.A. (ADRs),A2H7KA,NASDAQ,2E4A,ERYP,Pharma,US29604W1080
+871,871,Escalade,923795,NASDAQ,ED9,ESCA,Freizeitprodukte,US2960561049
+872,872,Esperion Therapeutic.Inc.,A1W1SJ,NASDAQ,0ET,ESPR,Biotechnologie,US29664W1053
+873,873,Esports Entertainment Group Inc.,A2PY51,NASDAQ,40Y1,GMBL,Unterhaltung,US29667K3068
+874,874,Esquire Financial Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+875,875,ESSA Bancorp,A0MN42,NASDAQ,Ticker-Symbol:,ESSA,Finanzdienstleistungen,US29667D1046
+876,876,ESSA Pharma,A2JKQ4,NASDAQ,Ticker-Symbol:,EPIX,Pharma,CA29668H7085
+877,877,Establishment Labs Holdings Inc,A2JRE4,NASDAQ,3E0,ESTA,Gesundheitswesen,VGG312491084
+878,878,Eton Pharmaceuticals,-,NASDAQ,not_found,not_found,not_found,not_found
+879,879,Etsy Inc.,A14P98,NASDAQ,3E2,ETSY,Internet,US29786A1060
+880,880,Eucrates Biomedical Acquisition Corp,A2QF5K,NASDAQ,not_found,ETSY,Internet,US29786A1060
+881,881,Euro Tech Holdings Ltd.,A1JSYR,NASDAQ,Ticker-Symbol:,CLWT,Elektrotechnologie,VGG320301275
+882,882,EuroDry Ltd,A2JMZB,NASDAQ,0LQ,EDRY,Logistik/Transport,MHY235081079
+883,883,Euronet Worldwide Inc.,905247,NASDAQ,EEF,EEFT,Telekom,US2987361092
+884,884,EuroSeas Ltd.,A2PXCQ,NASDAQ,2LE1,ESEA,Logistik/Transport,MHY235921357
+885,885,Evelo Biosciences,-,NASDAQ,not_found,not_found,not_found,not_found
+886,886,Ever-Glory International Group,A0M9Q9,NASDAQ,E4GA,EVK,Bekleidung/Textil,US2997662042
+887,887,Everbridge Inc.,A2ARZZ,NASDAQ,2E7,EVBG,Software,US29978A1043
+888,888,EverQuote,-,NASDAQ,not_found,not_found,not_found,not_found
+889,889,Everspin Technolgies Inc.,A2AS0X,NASDAQ,E5N,MRAM,Hardware,US30041T1043
+890,890,Evo Payments Inc.,A2JMSR,NASDAQ,E19,EVOP,IT-Dienstleistungen,US26927E1047
+891,891,Evofem Biosciences Inc.,A2JBZC,NASDAQ,1AQ1,EVFM,Gesundheitswesen,US30048L1044
+892,892,Evogene Ltd,A0Q7UP,NASDAQ,Ticker-Symbol:,EVGN.TA,Biotechnologie,IL0011050551
+893,893,Evoke Pharma Inc.,A1W6DP,NASDAQ,EV0,EVOK,Pharma,US30049G1040
+894,894,Evolus Inc.,A2JDYX,NASDAQ,EVL,EOLS,Pharma,US30052C1071
+895,895,Exact Sciences Corp.,590273,NASDAQ,EXK,EXAS,Biotechnologie,US30063P1057
+896,896,Exagen Inc.,A2PRXT,NASDAQ,E08A,XGN,Gesundheitswesen,US30068X1037
+897,897,Exelixis Inc.,936718,NASDAQ,EX9,EXEL,Biotechnologie,US30161Q1040
+898,898,Exelon Corp.,852011,NASDAQ,PEO,EXC,Versorger,US30161N1019
+899,899,Exicure Inc.,A2PEAM,NASDAQ,2H0,XCUR,Pharma,US30205M1018
+900,900,ExlService Holdings,A0LB2A,NASDAQ,LHV,EXLS,Dienstleistungen,US3020811044
+901,901,eXp World Holdings Inc.,A2H6LH,NASDAQ,44Y,EXPI,Immobilien,US30212W1009
+902,902,Expedia Group Inc.,A1JRLJ,NASDAQ,E3X1,EXPE,Internet,US30212P3038
+903,903,Expeditors International of Washington Inc.,875272,NASDAQ,EW1,EXPD,Logistik/Transport,US3021301094
+904,904,Exponent Inc.,880114,NASDAQ,EP5,EXPO,Dienstleistungen,US30214U1025
+905,905,Extreme Networks Inc.,920402,NASDAQ,EXM,EXTR,Netzwerktechnik,US30226D1063
+906,906,Eyenovia,-,NASDAQ,not_found,not_found,not_found,not_found
+907,907,EZCORP Inc.,882641,NASDAQ,EZ2A,EZPW,Finanzdienstleistungen,US3023011063
+908,908,EZGO Technologies Ltd,A2QM31,NASDAQ,not_found,EZPW,Finanzdienstleistungen,US3023011063
+909,909,F-star Therapeutics,A2QJEK,NASDAQ,S4BA,FSTX,Biotechnologie,US30315R1077
+910,910,F5 Inc.,922977,NASDAQ,FFV,FFIV,Netzwerktechnik,US3156161024
+911,911,Falcon Minerals Corp.,A2N4SF,NASDAQ,2JT,FLMN,Rohstoffe,US30607B1098
+912,912,Fangdd Network Group Ltd,-,NASDAQ,not_found,not_found,not_found,not_found
+913,913,Fanhua Inc. (ADRs),A2DHZX,NASDAQ,4CIA,FANH,Finanzdienstleistungen,US30712A1034
+914,914,Farmer Bros. Co.,873769,NASDAQ,not_found,not_found,not_found,not_found
+915,915,Farmers National Banc Corp,A0YG3S,NASDAQ,not_found,not_found,not_found,not_found
+916,916,Farmmi,-,NASDAQ,not_found,not_found,not_found,not_found
+917,917,Faro Technologies Inc.,909382,NASDAQ,FT1,FARO,Elektrotechnologie,US3116421021
+918,918,Fastenal Co.,887891,NASDAQ,FAS,FAST,Bau/Infrastruktur,US3119001044
+919,919,FAT Brands,-,NASDAQ,not_found,not_found,not_found,not_found
+920,920,FAT Brands,A2H6NG,NASDAQ,5PN,FAT,Nahrungsmittel/Agrar,US30258N1054
+921,921,"Fate Therapeutics, Inc.",A1W50M,NASDAQ,F6T,FATE,Biotechnologie,US31189P1021
+922,922,Fathom Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+923,923,FedNat Holding Company,A2JNSV,NASDAQ,CYF,FNHC,Finanzdienstleistungen,US31431B1098
+924,924,Fennec Pharma,A12A5F,NASDAQ,RV41,FENC,Biotechnologie,CA31447P1009
+925,925,Ferroglobe PLC,A2ACR3,NASDAQ,5FG,GSM,Eisen/Stahl,GB00BYW6GV68
+926,926,FFBW,-,NASDAQ,not_found,not_found,not_found,not_found
+927,927,FibroGen Inc,A12EZ0,NASDAQ,1FG,FGEN,Biotechnologie,US31572Q8087
+928,928,Fidelity D & D Bancorp,A0YG3Y,NASDAQ,Ticker-Symbol:,FDBC,Finanzdienstleistungen,US31609R1005
+929,929,Fidus Investment Corp,A1JCGJ,NASDAQ,8QP,FDUS,Finanzdienstleistungen,US3165001070
+930,930,Fiesta Restaurant Group,A1JXFE,NASDAQ,Ticker-Symbol:,FRGI,Nahrungsmittel/Agrar,US31660B1017
+931,931,Fifth Third Bancorp,-,NASDAQ,not_found,not_found,not_found,not_found
+932,932,FIFTH THIRD BANCORP,875029,NASDAQ,FFH,FITB,Finanzdienstleistungen,US3167731005
+933,933,Fifth Third Bancorp,-,NASDAQ,not_found,not_found,not_found,not_found
+934,934,Financial Institutions,626516,NASDAQ,Ticker-Symbol:,FISI,Finanzdienstleistungen,US3175854047
+935,935,First Bancorp,A0QZU1,NASDAQ,not_found,FISI,Finanzdienstleistungen,US3175854047
+936,936,First Bancorp,923506,NASDAQ,Ticker-Symbol:,FBNC,Finanzdienstleistungen,US3189101062
+937,937,First Bancshares Inc.,A0KETG,NASDAQ,3RY,FBMS,Finanzdienstleistungen,US3189161033
+938,938,First Bank,A1XBPP,NASDAQ,6UT,FRBA,Finanzdienstleistungen,US31931U1025
+939,939,First Busey Corp,A14ZZ5,NASDAQ,FBYN,BUSE,Finanzdienstleistungen,US3193832041
+940,940,First Business Financial Services,A0HGPP,NASDAQ,45D,FBIZ,Finanzdienstleistungen,US3193901002
+941,941,First Capital,A0D98G,NASDAQ,not_found,FBIZ,Finanzdienstleistungen,US3193901002
+942,942,First Citizens Bankshares Inc.,925298,NASDAQ,FC6A,FCNCA,Finanzdienstleistungen,US31946M1036
+943,943,First Community Bankshares,634813,NASDAQ,Ticker-Symbol:,FCBC,Finanzdienstleistungen,US31983A1034
+944,944,First Community Corp,A0DKLK,NASDAQ,87Z,FCCO,Finanzdienstleistungen,US3198351047
+945,945,First Eagle Alternative Capital BDC,A2QAXL,NASDAQ,27T,FCRD,Finanzdienstleistungen,US26943B1008
+946,946,First Financial Bancorp,919105,NASDAQ,FI5,FFBC,Finanzdienstleistungen,US3202091092
+947,947,First Financial Bankshares,923774,NASDAQ,FI6,FFIN,Finanzdienstleistungen,US32020R1095
+948,948,First Financial Corp,923508,NASDAQ,Ticker-Symbol:,THFF,Finanzdienstleistungen,US3202181000
+949,949,First Financial Northwest,A0M269,NASDAQ,not_found,THFF,Finanzdienstleistungen,US3202181000
+950,950,First Foundation,A12EWX,NASDAQ,8F1,FFWM,Finanzdienstleistungen,US32026V1044
+951,951,First Guaranty Bancshares,A143UE,NASDAQ,1GJ,FGBI,Finanzdienstleistungen,US32043P1066
+952,952,First Hawaiian,A2APM9,NASDAQ,1HI,FHB,Finanzdienstleistungen,US32051X1081
+953,953,First Internet Bancorp,A0JKC8,NASDAQ,45H,INBK,Finanzdienstleistungen,US3205571017
+954,954,First Interstate BancSystem,A1CVGL,NASDAQ,4FB,FIBK,Finanzdienstleistungen,US32055Y2019
+955,955,First Merchants Corp.,919326,NASDAQ,FM5,FRME,Finanzdienstleistungen,US3208171096
+956,956,First Midwest Bancorp,-,NASDAQ,not_found,not_found,not_found,not_found
+957,957,First Midwest Bancorp,923762,NASDAQ,FM6,FMBI,Finanzdienstleistungen,US3208671046
+958,958,First Midwest Bancorp,-,NASDAQ,not_found,not_found,not_found,not_found
+959,959,First National Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+960,960,First Northwest Bancorp,A14NH1,NASDAQ,45I,FNWB,Finanzdienstleistungen,US3358341077
+961,961,First of Long Island Corp,769059,NASDAQ,not_found,FNWB,Finanzdienstleistungen,US3358341077
+962,962,First Savings Financial Group,A0RA8R,NASDAQ,8N4,FSFG,Finanzdienstleistungen,US33621E1091
+963,963,First Seacoast Bancorp,-,NASDAQ,not_found,not_found,not_found,not_found
+964,964,First Solar Inc.,A0LEKM,NASDAQ,F3A,FSLR,Erneuerbare Energien,US3364331070
+965,965,First United Corp,923764,NASDAQ,FU3,FUNC,Finanzdienstleistungen,US33741H1077
+966,966,First US Bancshares,-,NASDAQ,not_found,not_found,not_found,not_found
+967,967,First Western Financial Inc.,A2P703,NASDAQ,33Q,MYFW,Finanzdienstleistungen,US33751L1052
+968,968,FirstCash Inc.,A2ARD4,NASDAQ,not_found,MYFW,Finanzdienstleistungen,US33751L1052
+969,969,Firstservice Corp.,A2PKR4,NASDAQ,1GIA,FSV.TO,Immobilien,CA33767E2024
+970,970,Fiserv Inc.,881793,NASDAQ,FIV,FISV,Software,US3377381088
+971,971,Five Below Inc.,A1JZ18,NASDAQ,6F1,FIVE,Handel/E-Commerce,US33829M1018
+972,972,Five Star Senior Living,A2PSM0,NASDAQ,FSQA,ALR,Gesundheitswesen,US33832D2053
+973,973,Five9 Inc.,A1XFG9,NASDAQ,1F9,FIVN,Software,US3383071012
+974,974,Flex Ltd.,890331,NASDAQ,FXI,FLEX,Halbleiter,SG9999000020
+975,975,Flexion Therapeutics Inc.,A1XEDR,NASDAQ,not_found,FLEX,Halbleiter,SG9999000020
+976,976,FlexShopper Inc.,A2ATWV,NASDAQ,9FL,FPAY,Finanzdienstleistungen,US33939J3032
+977,977,Flexsteel Industries,915873,NASDAQ,,FLXS,Bau/Infrastruktur,US3393821034
+978,978,Fluent Inc.,A2JH71,NASDAQ,7TM,FLNT,Dienstleistungen,US34380C1027
+979,979,Fluidigm Corp.,A0RADJ,NASDAQ,FLB,FLDM,Biotechnologie,US34385P1084
+980,980,Flushing Financial Corp,898266,NASDAQ,not_found,not_found,not_found,not_found
+981,981,Flux Power Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+982,982,Focus Financial Partners Inc.,A2JRK5,NASDAQ,2JE,FOCS,Finanzdienstleistungen,US34417P1003
+983,983,Foghorn Therapeutics,A2QFQD,NASDAQ,Ticker-Symbol:,FHTX,Biotechnologie,US3441741077
+984,984,Fonar Corp,A0MQFC,NASDAQ,FOAA,FONR,Sonstige Technologie,US3444374058
+985,985,Foresight Autonomous Holdings Ltd,A2DTVA,NASDAQ,1FZA,FRSX,Software,US3455231049
+986,986,Forma Therapeutics Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+987,987,FormFactor Inc.,577767,NASDAQ,FMF,FORM,Halbleiter,US3463751087
+988,988,Formula Systems 1985 ADR,912648,NASDAQ,FSY,FORTY,IT-Dienstleistungen,US3464141056
+989,989,Forrester Research Inc.,903998,NASDAQ,FFR,FORR,Dienstleistungen,US3465631097
+990,990,Forte Biosciences Inc.,A2P611,NASDAQ,37TA,FBRX,Biotechnologie,US34962G1094
+991,991,Forterra Inc.,A2APPX,NASDAQ,05G,FRTA,Bau/Infrastruktur,US34960W1062
+992,992,Fortinet Inc.,A0YEFE,NASDAQ,FO8,FTNT,Netzwerktechnik,US34959E1091
+993,993,Fortress Biotech Inc.,A14SJV,NASDAQ,CNB,FBIO,Biotechnologie,US34960Q1094
+994,994,Forward Air Corp,919103,NASDAQ,FA2,FWRD,Logistik/Transport,US3498531017
+995,995,Forward Industries,907655,NASDAQ,Ticker-Symbol:,FORD,Konsumgüter,US3498623004
+996,996,Forward Pharma A/S,A2PV5H,NASDAQ,1FPB,FWP,Biotechnologie,US34986J2042
+997,997,Fossil Group Inc.,A1W0DE,NASDAQ,FSL,FOSL,Konsumgüter,US34988V1061
+998,998,Fox Corp. (A),A2PF3K,NASDAQ,FO5,FOXA,Medien,US35137L1052
+999,999,Fox Corp. (B),A2PF3T,NASDAQ,FO5B,FOX,Medien,US35137L2043
+1000,1000,Fox Factory Holding Corp.,A1W2J8,NASDAQ,FF0,FOXF,Fahrzeuge,US35138V1026
+1001,1001,FoxWayne Enterprises Acquisition Corp,A2QK19,NASDAQ,not_found,FOXF,Fahrzeuge,US35138V1026
+1002,1002,Franchise Group Inc.,A2PSJ2,NASDAQ,3HC,FRG,Handel/E-Commerce,US35180X1054
+1003,1003,Franklin Electric Co,877518,NASDAQ,FE4,FELE,Maschinenbau,US3535141028
+1004,1004,Franklin Financial Services Corp,A0YHPY,NASDAQ,2FF,FRAF,Finanzdienstleistungen,US3535251082
+1005,1005,Frazier Lifesciences Acquisition Corp,A2QJX0,NASDAQ,not_found,FRAF,Finanzdienstleistungen,US3535251082
+1006,1006,Freedom Holding Corp.,A2DW84,NASDAQ,DMW2,FRHC,Finanzdienstleistungen,US3563901046
+1007,1007,Freeline Therapeutics Holdings PLC (ADRs),A2QADU,NASDAQ,78F,FRLN,Biotechnologie,US35655L1070
+1008,1008,FreightCar America,A0D890,NASDAQ,FAR,RAIL,Fahrzeuge,US3570231007
+1009,1009,Frequency Electronics Inc.,858079,NASDAQ,98K,FEIM,Elektrotechnologie,US3580101067
+1010,1010,Frequency Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+1011,1011,Freshpet Inc.,A12ENX,NASDAQ,7FP,FRPT,Nahrungsmittel/Agrar,US3580391056
+1012,1012,Frontdoor Inc.,A2N6K1,NASDAQ,3I5,FTDR,Dienstleistungen,US35905A1097
+1013,1013,FRP Holdings,A12GDT,NASDAQ,not_found,FTDR,Dienstleistungen,US35905A1097
+1014,1014,FSD Pharma Inc.,A2PTUT,NASDAQ,0K9A,HUGE.CN,Pharma,CA35954B2066
+1015,1015,Fuel Technologies Inc.,A0LB74,NASDAQ,FUE1,FTEK,Sonstige Technologie,US3595231073
+1016,1016,FuelCell Energy Inc.,A2PKHA,NASDAQ,FEY2,FCEL,Erneuerbare Energien,US35952H6018
+1017,1017,Fulcrum Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+1018,1018,Fulgent Genetics Inc.,A2AS4N,NASDAQ,7F0,FLGT,Gesundheitswesen,US3596641098
+1019,1019,Full House Resorts,A0D8KQ,NASDAQ,F4L,FLL,Hotels/Tourismus,US3596781092
+1020,1020,Fulton Financial Corp,922244,NASDAQ,FU5,FULT,Finanzdienstleistungen,US3602711000
+1021,1021,Funko Inc.,A2H63G,NASDAQ,FU2,FNKO,Konsumgüter,US3610081057
+1022,1022,Fusion Fuel Green PLC,A2QC11,NASDAQ,60P,HTOO,Erneuerbare Energien,IE00BNC17X36
+1023,1023,Fusion Pharmaceuticals,-,NASDAQ,not_found,not_found,not_found,not_found
+1024,1024,Future FinTech Group Inc.,A2DTDS,NASDAQ,P9F1,FTFT,Getränke/Tabak,US36117V1052
+1025,1025,Fuwei Films Holdings Co. Ltd.,A2DHXV,NASDAQ,F4B1,FFHL,Chemie,KYG3704F1101
+1026,1026,FVCBankcorp,-,NASDAQ,not_found,not_found,not_found,not_found
+1027,1027,G Willi-Food International Ltd,938383,NASDAQ,D4V,WILC,Nahrungsmittel/Agrar,IL0010828585
+1028,1028,G-III Apparel Group Ltd.,890380,NASDAQ,GI4,GIII,Bekleidung/Textil,US36237H1014
+1029,1029,G1 Therapeutics Inc.,A2DR0J,NASDAQ,G1H,GTHX,Biotechnologie,US3621LQ1099
+1030,1030,Gain Therapeutics,A2QQZ4,NASDAQ,not_found,GTHX,Biotechnologie,US3621LQ1099
+1031,1031,Galapagos N.V. (ADRs),A0YGNJ,NASDAQ,GXEA,GXEA.F,Biotechnologie,US36315X1019
+1032,1032,Galectin Therapeutics Inc.,A1JV3R,NASDAQ,PHPN,GALT,Pharma,US3632252025
+1033,1033,Galecto,A2QFAT,NASDAQ,Ticker-Symbol:,GLTO,Biotechnologie,US36322Q1076
+1034,1034,Galera Therapeutics,-,NASDAQ,not_found,not_found,not_found,not_found
+1035,1035,Galmed Pharmaceuticals Ltd.,A1XFUX,NASDAQ,GPH,GLMD,Biotechnologie,IL0011313900
+1036,1036,Gamida Cell Ltd,-,NASDAQ,not_found,not_found,not_found,not_found
+1037,1037,Gaming & Leisure Properties,A1W6DM,NASDAQ,2GL,GLPI,Immobilien,US36467J1088
+1038,1038,Gan Ltd.,A2P39F,NASDAQ,4VN,GAN,Software,BMG3728V1090
+1039,1039,Gaucho Group Holdings Inc.,A3CSS7,NASDAQ,6HJ,VINO,Konsumgüter,US36809R2067
+1040,1040,GBS,A2QK2J,NASDAQ,not_found,not_found,not_found,not_found
+1041,1041,GCM Grosvenor,A2QC0Z,NASDAQ,not_found,not_found,not_found,not_found
+1042,1042,GDS Holdings Ltd. (ADRs),A2DFYV,NASDAQ,G40,GDSN.MX,IT-Dienstleistungen,US36165L1089
+1043,1043,Gemini Therapeutics,A2QN4M,NASDAQ,Ticker-Symbol:,GMTX,Biotechnologie,US36870G1058
+1044,1044,Genasys,A2PYQY,NASDAQ,G66,GNSS,Elektrotechnologie,US36872P1030
+1045,1045,Generation Bio Co,-,NASDAQ,not_found,not_found,not_found,not_found
+1046,1046,Genetic Technologies Ltd,A2PQK4,NASDAQ,DU8S,DU8S.F,Biotechnologie,US37185R3075
+1047,1047,Genetron Holdings Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+1048,1048,Genfit SA,A2PFG5,NASDAQ,XUPB,GNFT,Biotechnologie,US3722791098
+1049,1049,Genius Brands Internat. Inc.,A2DJMF,NASDAQ,4XV,GNUS,Unterhaltung,US37229T3014
+1050,1050,Genmab AS (ADR),A1WZYB,NASDAQ,GE91,US3723032062.SG,Biotechnologie,US3723032062
+1051,1051,Genocea Biosciences Inc.,A2PK76,NASDAQ,GBI1,GNCA,Biotechnologie,US3724274010
+1052,1052,Genprex Inc.,A2JHMQ,NASDAQ,2DE,GNPX,Biotechnologie,US3724461047
+1053,1053,Gentex Corp.,868891,NASDAQ,GTX,GNTX,Fahrzeuge,US3719011096
+1054,1054,Gentherm Inc.,A1J4AC,NASDAQ,QA4A,THRM,Fahrzeuge,US37253A1034
+1055,1055,Geospace Technologies Corp.,A1J5K9,NASDAQ,OYO,GEOS,Sonstige Technologie,US37364X1090
+1056,1056,GeoVax Labs Inc.,A2QERV,NASDAQ,E8L,GOVX,Biotechnologie,US3736785078
+1057,1057,German American Bancorp,923760,NASDAQ,GAB,GABC,Finanzdienstleistungen,US3738651047
+1058,1058,Geron Corp.,902213,NASDAQ,GON,GERN,Biotechnologie,US3741631036
+1059,1059,Gevo Inc.,A2DH1V,NASDAQ,ZGV3,GEVO,Chemie,US3743964062
+1060,1060,Gibraltar Industries,A0DK96,NASDAQ,GI2,ROCK,Bau/Infrastruktur,US3746891072
+1061,1061,GigaMedia Ltd.,A2ACCC,NASDAQ,GIFN,GIGM,Medien,SG9999014831
+1062,1062,Gilat Satellite Networks Ltd,886167,NASDAQ,GSA,GILT,Netzwerktechnik,IL0010825102
+1063,1063,Gilead Sciences Inc.,885823,NASDAQ,GIS,GILD,Pharma,US3755581036
+1064,1064,Gladstone Capital Corp,797937,NASDAQ,1G7,GLAD,Finanzdienstleistungen,US3765351008
+1065,1065,Gladstone Commercial Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+1066,1066,Gladstone Commercial Corp.,260884,NASDAQ,GLE,GOOD,Immobilien,US3765361080
+1067,1067,Gladstone Investment Corp.,A0KES9,NASDAQ,1G3,GAIN,Finanzdienstleistungen,US3765461070
+1068,1068,Gladstone Land Corp.,A1KCL7,NASDAQ,3L4,LAND,Immobilien,US3765491010
+1069,1069,Glen Burnie Bancorp,764515,NASDAQ,not_found,LAND,Immobilien,US3765491010
+1070,1070,Global Blood Therapeutics Inc.,A14YE6,NASDAQ,G5B,GBT,Biotechnologie,US37890U1088
+1071,1071,Global Internet of People,-,NASDAQ,not_found,not_found,not_found,not_found
+1072,1072,Global Self Storage,-,NASDAQ,not_found,not_found,not_found,not_found
+1073,1073,Global Water Resources Inc.,A0Q7WP,NASDAQ,,GWRS,Versorger,US3794631024
+1074,1074,Global-E Online Ltd,-,NASDAQ,not_found,not_found,not_found,not_found
+1075,1075,Globis Acquisition Corp,A2QK12,NASDAQ,not_found,GWRS,Versorger,US3794631024
+1076,1076,Globus Maritime Ltd.,A2N7MN,NASDAQ,not_found,GWRS,Versorger,US3794631024
+1077,1077,Glory Star New Media Group Holdings Limited,-,NASDAQ,not_found,not_found,not_found,not_found
+1078,1078,GlycoMimetics Inc.,A1W8HZ,NASDAQ,GKO,GLYC,Biotechnologie,US38000Q1022
+1079,1079,Gogo Inc.,A1W078,NASDAQ,G0G,GOGO,Telekom,US38046C1099
+1080,1080,GoHealth,-,NASDAQ,not_found,not_found,not_found,not_found
+1081,1081,Golar LNG Ltd.,677102,NASDAQ,G2O,GLNG,Logistik/Transport,BMG9456A1009
+1082,1082,Golden Entertainment Inc.,A14XX5,NASDAQ,GE6,GDEN,Unterhaltung,US3810131017
+1083,1083,Golden Nugget Online Gaming,A2QC12,NASDAQ,5ZU,GNOG,Versorger,US38113L1070
+1084,1084,Golden Ocean Group Ltd.,A2AN0Y,NASDAQ,KT31,GOGL,Logistik/Transport,BMG396372051
+1085,1085,Golub Capital BDC,A1CXEA,NASDAQ,OGL,GBDC,Finanzdienstleistungen,US38173M1027
+1086,1086,Good Times Restaurants,A1H5YS,NASDAQ,not_found,GBDC,Finanzdienstleistungen,US38173M1027
+1087,1087,GoodRx Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+1088,1088,Goosehead Insurance Inc.,A2JNTN,NASDAQ,2OX,GSHD,Finanzdienstleistungen,US38267D1090
+1089,1089,GoPro Inc.,A1XE7G,NASDAQ,5G5,GPRO,Konsumgüter,US38268T1034
+1090,1090,Gossamer Bio Inc.,A2PCBS,NASDAQ,4GB,GOSS,Biotechnologie,US38341P1021
+1091,1091,Grand Canyon Education Inc.,A0Q8E2,NASDAQ,GKD,LOPE,Dienstleistungen,US38526M1062
+1092,1092,Gravity Co. Ltd. (ADR),A14SPA,NASDAQ,GD8A,GRVY,Unterhaltung,US38911N2062
+1093,1093,Graybug Vision,-,NASDAQ,not_found,not_found,not_found,not_found
+1094,1094,Great Elm Capital Corp,A2DGJ2,NASDAQ,not_found,GRVY,Unterhaltung,US38911N2062
+1095,1095,Great Elm Group Inc.,A2QLK5,NASDAQ,PNC,GEG,Software,US39037G1094
+1096,1096,Great Lakes Dredge & Dock Corp,A0LG02,NASDAQ,5GL,GLDD,Bau/Infrastruktur,US3906071093
+1097,1097,Great Southern Bancorp,923737,NASDAQ,GS6,GSBC,Finanzdienstleistungen,US3909051076
+1098,1098,Green Plains Inc.,A0JJ1Q,NASDAQ,G3V,GPRE,Erneuerbare Energien,US3932221043
+1099,1099,Green Plains Partners LP,A14V39,NASDAQ,,GPP,Logistik/Transport,US3932211069
+1100,1100,Greenbox POS,A2QPQ0,NASDAQ,Ticker-Symbol:,GBOX,Software,US39366L2088
+1101,1101,Greenbrook TMS,A2QQKR,NASDAQ,not_found,GBOX,Software,US39366L2088
+1102,1102,Greencity Acquisition Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+1103,1103,Greene County Bancorp,539975,NASDAQ,not_found,GBOX,Software,US39366L2088
+1104,1104,Greenland Technologies Holding Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+1105,1105,Greenlane Holdings Inc.,A2PG65,NASDAQ,G67,GNLN,Handel/E-Commerce,US3953301039
+1106,1106,Greenlight Capital Re Ltd,A0MLRN,NASDAQ,G8L,GLRE,Finanzdienstleistungen,KYG4095J1094
+1107,1107,GreenPower Motor Co. Inc.,A2QB8T,NASDAQ,GRT1,GPV.V,Fahrzeuge,CA39540E3023
+1108,1108,Greenpro Capital Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+1109,1109,GreenSky,-,NASDAQ,not_found,not_found,not_found,not_found
+1110,1110,Greenwich LifeSciences,-,NASDAQ,not_found,not_found,not_found,not_found
+1111,1111,Grid Dynamics Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+1112,1112,Grifols SA,A1J1E2,NASDAQ,G0FB,G0FB.F,Pharma,US3984384087
+1113,1113,Grindrod Shipping Holdings Ltd,A2JN4N,NASDAQ,1RZ,GRIN,Logistik/Transport,SG9999019087
+1114,1114,Gritstone Oncology Inc.,A2N4RX,NASDAQ,2JQ,GRTS,Biotechnologie,US39868T1051
+1115,1115,Grocery Outlet Holding Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+1116,1116,Groupon Inc.,A2P6UE,NASDAQ,G5NA,GRPN,Internet,US3994732069
+1117,1117,GrowGeneration Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+1118,1118,Grupo Aeroportuario del Centro Norte S.A.B. de C.V. (OMAB) (ADRs),A0LFER,NASDAQ,G7A,G7A.F,Logistik/Transport,US4005011022
+1119,1119,Grupo Financiero Galicia S.A. Reg. Shs B (Sp. ADRs) 10/AP 1,940699,NASDAQ,GF4,GGAL,Finanzdienstleistungen,US3999091008
+1120,1120,GSE Systems,896630,NASDAQ,GSE,GVP,Sonstige Technologie,US36227K1060
+1121,1121,GSI Technology,A0EAS3,NASDAQ,ZS6,GSIT,Elektrotechnologie,US36241U1060
+1122,1122,GTY Technology Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+1123,1123,Guaranty Bancshares,923734,NASDAQ,not_found,GSIT,Elektrotechnologie,US36241U1060
+1124,1124,Guaranty Federal Bancshares,923446,NASDAQ,,GFED,Finanzdienstleistungen,US40108P1012
+1125,1125,Guardant Health Inc.,A2N5RY,NASDAQ,5GH,GH,Biotechnologie,US40131M1099
+1126,1126,Gulf Island Fabrication,906405,NASDAQ,Ticker-Symbol:,GIFI,Öl/Gas,US4023071024
+1127,1127,Gulf Resources Inc.,A2PY50,NASDAQ,R29B,GURE,Chemie,US40251W4087
+1128,1128,GWG Holdings,A14MUZ,NASDAQ,8UP,GWGH,Finanzdienstleistungen,US36192A1097
+1129,1129,Gyrodyne LLC,A14ZUF,NASDAQ,not_found,GWGH,Finanzdienstleistungen,US36192A1097
+1130,1130,H & E Equipment Services Inc.,A0ESPV,NASDAQ,H6P,HEES,Dienstleistungen,US4040301081
+1131,1131,Hailiang Education Group Inc. (ADRs),A14WML,NASDAQ,H0X,HLG,Dienstleistungen,US40522L1089
+1132,1132,Hall of Fame Resort & Entertainment Company,-,NASDAQ,not_found,not_found,not_found,not_found
+1133,1133,Hallador Energy Company,A1CUUM,NASDAQ,H7H,HNRG,Rohstoffe,US40609P1057
+1134,1134,Hallmark Financial Services,A0KDXW,NASDAQ,SSB,HALL,Finanzdienstleistungen,US40624Q2030
+1135,1135,Halozyme Therapeutics Inc.,A0DLHS,NASDAQ,RV7,HALO,Biotechnologie,US40637H1095
+1136,1136,Hamilton Lane Inc.,A2DM1T,NASDAQ,not_found,not_found,not_found,not_found
+1137,1137,Hancock Holding Co.,919175,NASDAQ,HH1,HWC,Finanzdienstleistungen,US4101201097
+1138,1138,Hanmi Financial Corp,A1JRR1,NASDAQ,HF7N,HAFC,Finanzdienstleistungen,US4104952043
+1139,1139,Happiness Biotech Group Ltd.,A2PVCB,NASDAQ,2UO1,HAPP,Pharma,KYG4289N1144
+1140,1140,Harbor Custom Development,A2P795,NASDAQ,5EI,HCDI,Immobilien,US41150T1088
+1141,1141,HarborOne Bancorp,A2PPTS,NASDAQ,1S4,HONE,Finanzdienstleistungen,US41165Y1001
+1142,1142,Harmonic Inc.,895791,NASDAQ,HMC,HLIT,Telekom,US4131601027
+1143,1143,Harmony Biosciences Holdings,-,NASDAQ,not_found,not_found,not_found,not_found
+1144,1144,"Harpoon Therapeutics, Inc.",A2PCBT,NASDAQ,5HT,HARP,Biotechnologie,US41358P1066
+1145,1145,Harrow Health,A2PBJD,NASDAQ,Ticker-Symbol:,HROW,Pharma,US4158581094
+1146,1146,"Harvard Bioscience, Inc.",578107,NASDAQ,HBI,HBIO,Biotechnologie,US4169061052
+1147,1147,Hasbro Inc.,859888,NASDAQ,HAS,HAS,Konsumgüter,US4180561072
+1148,1148,Hawaiian Holdings Inc.,724567,NASDAQ,1HW,HA,Luftfahrt/Rüstung,US4198791018
+1149,1149,Hawkins Inc.,923728,NASDAQ,HWK,HWKN,Chemie,US4202611095
+1150,1150,Hawthorn Bancshares,A0MU9F,NASDAQ,,HWBK,Finanzdienstleistungen,US4204761039
+1151,1151,Haynes International,A0DQY1,NASDAQ,HYVN,HAYN,Eisen/Stahl,US4208772016
+1152,1152,HBT Financial,A2PTGW,NASDAQ,not_found,not_found,not_found,not_found
+1153,1153,Health Assurance Acquisition Corp,A2QG5E,NASDAQ,not_found,not_found,not_found,not_found
+1154,1154,Health Catalyst Inc.,A2PH3J,NASDAQ,2YP,HCAT,Software,US42225T1079
+1155,1155,Health Sciences Acquisitions Corp,-,NASDAQ,not_found,not_found,not_found,not_found
+1156,1156,Healthcare Services Acquisition Corp,A2QHRJ,NASDAQ,not_found,HCAT,Software,US42225T1079
+1157,1157,Healthcare Services Group Inc.,870932,NASDAQ,HS1,HCSG,Gesundheitswesen,US4219061086
+1158,1158,Healthcare Trust,A2PWTW,NASDAQ,4ON,4ON.F,Immobilien,US42226B2043
+1159,1159,HealthCor Catalio Acquisition Corp,A2QNMC,NASDAQ,Ticker-Symbol:,HYPR,Gesundheitswesen,US44916K1060
+1160,1160,Healthequity Inc.,A119D1,NASDAQ,2HE,HQY,Finanzdienstleistungen,US42226A1079
+1161,1161,HealthStream Inc.,927014,NASDAQ,HL5,HSTM,Dienstleistungen,US42222N1037
+1162,1162,Heartland Express Inc.,887890,NASDAQ,HLX,HTLD,Logistik/Transport,US4223471040
+1163,1163,Heartland Financial USA,812814,NASDAQ,1H4,HTLF,Finanzdienstleistungen,US42234Q1022
+1164,1164,Heartland Financial USA,-,NASDAQ,not_found,not_found,not_found,not_found
+1165,1165,Heidrick & Struggles Intl Inc.,920930,NASDAQ,HSI,HSII,Dienstleistungen,US4228191023
+1166,1166,Helen of Troy Ltd.,869993,NASDAQ,HT2,HELE,Konsumgüter,BMG4388N1065
+1167,1167,Helix Acquisition Corp,A2QF4G,NASDAQ,not_found,HELE,Konsumgüter,BMG4388N1065
+1168,1168,Hemisphere Media Group,A1T7ZC,NASDAQ,5TY,HMTV,Medien,US42365Q1031
+1169,1169,Hennessy Advisors,A0LEEJ,NASDAQ,not_found,HMTV,Medien,US42365Q1031
+1170,1170,Henry Schein Inc.,897961,NASDAQ,HS2,HSIC,Gesundheitswesen,US8064071025
+1171,1171,Hepion Pharmaceuticals Inc.,A2PLP9,NASDAQ,not_found,HSIC,Gesundheitswesen,US8064071025
+1172,1172,Heritage Commerce Corp,924039,NASDAQ,XHC,HTBK,Finanzdienstleistungen,US4269271098
+1173,1173,Heritage Financial Corp,923691,NASDAQ,Ticker-Symbol:,HFWA,Finanzdienstleistungen,US42722X1063
+1174,1174,Heritage Global,A1W4U6,NASDAQ,LGC,HGBL,Finanzdienstleistungen,US42727E1038
+1175,1175,Heritage-Crystal Clean,A0NGTE,NASDAQ,4IJ,HCCI,Dienstleistungen,US42726M1062
+1176,1176,Heron Therapeutics Inc.,A1XB6K,NASDAQ,AXD2,HRTX,Pharma,US4277461020
+1177,1177,Heska Corp.,A1H5J3,NASDAQ,HSKN,HSKA,Pharma,US42805E3062
+1178,1178,HF Foods Group Inc.,A2N4PN,NASDAQ,3GX,HFFG,Nahrungsmittel/Agrar,US40417F1093
+1179,1179,Hibbett Sports Inc.,A0MK8D,NASDAQ,HB6,HIBB,Freizeitprodukte,US4285671016
+1180,1180,HighPeak Energy,A2P9A4,NASDAQ,58R,HPK,Öl/Gas,US43114Q1058
+1181,1181,Highway Holdings Limited,905948,NASDAQ,HGY,HIHO,Sonstige Technologie,VGG4481U1066
+1182,1182,Himax Technologies Inc. (Sp.ADRs),A0JKBX,NASDAQ,H6Q,HIMX,Halbleiter,US43289P1066
+1183,1183,Hingham Institution for Savings,916685,NASDAQ,HS3,HIFS,Finanzdienstleistungen,US4333231029
+1184,1184,HireQuest,-,NASDAQ,not_found,not_found,not_found,not_found
+1185,1185,Histoen Inc.,A2P5HB,NASDAQ,CPH1,HSTO,Biotechnologie,US43358Y1038
+1186,1186,Hollysys Automation Technologies Inc.,A0X91G,NASDAQ,46H,HOLI,Elektrotechnologie,VGG456671053
+1187,1187,Hologic Inc.,879100,NASDAQ,HO1,HOLX,Sonstige Technologie,US4364401012
+1188,1188,Home Bancorp,A0RA0F,NASDAQ,HBK,HBCP,Finanzdienstleistungen,US43689E1073
+1189,1189,Home Federal Bancorp,-,NASDAQ,not_found,not_found,not_found,not_found
+1190,1190,Home Point Capital,A2QNKC,NASDAQ,786,HMPT,Finanzdienstleistungen,US43734L1061
+1191,1191,HomeStreet,A1JASV,NASDAQ,Ticker-Symbol:,HMST,Finanzdienstleistungen,US43785V1026
+1192,1192,HomeTrust Bancshares,A1J1DL,NASDAQ,Ticker-Symbol:,HTBI,Finanzdienstleistungen,US4378721041
+1193,1193,Homology Medicines Inc.,A2JGTY,NASDAQ,35H,FIXX,Biotechnologie,US4380831077
+1194,1194,Honeywell International Inc.,870153,NASDAQ,ALD,HON,Industrie/Mischkonzerne,US4385161066
+1195,1195,Hooker Furnishings Corp,984297,NASDAQ,Ticker-Symbol:,HOFT,Bau/Infrastruktur,US4390381006
+1196,1196,HOOKIPA Pharma,-,NASDAQ,not_found,not_found,not_found,not_found
+1197,1197,Hope Bancorp,A2APQQ,NASDAQ,NRB,HOPE,Finanzdienstleistungen,US43940T1097
+1198,1198,Horizon Bancorp Inc.,347443,NASDAQ,4WC,HBNC,Finanzdienstleistungen,US4404071049
+1199,1199,Horizon Pharma PLC,A12B8E,NASDAQ,HPR,HZNP,Pharma,IE00BQPVQZ61

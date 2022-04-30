@@ -1,0 +1,594 @@
+,name,wkn,index,de_ticker,ticker,industry,ISIN
+0,3i Group PLC,A0MU9Q,EuroStoxx600,IGQ5,III.L,Finanzdienstleistungen,GB00B1YW4409
+1,A.P. Moller - Maersk A/S,861837,EuroStoxx600,DP4B,MAERSK-B.CO,Logistik/Transport,DK0010244508
+2,A2A S.p.A.,915445,EuroStoxx600,EAM,A2A.MI,Versorger,IT0001233417
+3,AAK AB,A2JNX7,EuroStoxx600,6AA0,AAK.ST,Nahrungsmittel/Agrar,SE0011337708
+4,Aalberts Industries N.V.,A0MQ1F,EuroStoxx600,AACA,AALB.AS,Industrie/Mischkonzerne,NL0000852564
+5,AB Electrolux,853138,EuroStoxx600,not_found,not_found,not_found,not_found
+6,AB Industrivärden,886939,EuroStoxx600,IDVA,INDU-A.ST,Finanzdienstleistungen,SE0000190126
+7,ABB Ltd.,919730,EuroStoxx600,ABJ,ABBN.SW,Elektrotechnologie,CH0012221716
+8,ABN AMRO Bank N.V.,A143G0,EuroStoxx600,AB2,ABN.AS,Finanzdienstleistungen,NL0011540547
+9,Acciona S.A.,865629,EuroStoxx600,AJ3,ANA.MC,Bau/Infrastruktur,ES0125220311
+10,Accor S.A.,860206,EuroStoxx600,ACR,AC.PA,Hotels/Tourismus,FR0000120404
+11,Ackermans & van Haaren N.V.,869057,EuroStoxx600,B3K,ACKB.BR,Industrie/Mischkonzerne,BE0003764785
+12,"ACS, Actividades de Construccion y Servicios S.A.",A0CBA2,EuroStoxx600,OCI1,ACS.MC,Bau/Infrastruktur,ES0167050915
+13,Addtech AB,A2QEPD,EuroStoxx600,AZZ2,ADDT-B.ST,Dienstleistungen,SE0014781795
+14,Adecco Group AG,922031,EuroStoxx600,ADI1,ADEN.SW,Dienstleistungen,CH0012138605
+15,Adevinta ASA,A2PE65,EuroStoxx600,AD5B,ADE.OL,Internet,NO0010844038
+16,adidas AG,A1EWWW,EuroStoxx600,ADS,ADS.DE,Freizeitprodukte,DE000A1EWWW0
+17,Admiral Group PLC,A0DJ58,EuroStoxx600,FLN,ADM.L,Finanzdienstleistungen,GB00B02J6398
+18,Adyen B.V.,A2JNF4,EuroStoxx600,1N8,ADYEN.AS,Finanzdienstleistungen,NL0012969182
+19,Aedifica SICAFI S.A.,A0LCUN,EuroStoxx600,AOO,AED.BR,Immobilien,BE0003851681
+20,Aegon N.V.,A0JL2Y,EuroStoxx600,AEND,AGN.AS,Finanzdienstleistungen,NL0000303709
+21,Aena SME S.A.,A12D3A,EuroStoxx600,A44,AENA.MC,Logistik/Transport,ES0105046009
+22,AF AB,A115QU,EuroStoxx600,B3Y1,AFRY.ST,Dienstleistungen,SE0005999836
+23,Ageas SA/NV,A1J1DR,EuroStoxx600,FO4N,AGS.BR,Finanzdienstleistungen,BE0974264930
+24,Air Liquide SA,850133,EuroStoxx600,AIL,AI.PA,Chemie,FR0000120073
+25,Airbus SE,938914,EuroStoxx600,AIR,AIR.PA,Luftfahrt/Rüstung,NL0000235190
+26,Aker BP ASA,A0LHC1,EuroStoxx600,ARC,AKRBP.OL,Öl/Gas,NO0010345853
+27,Akzo Nobel N.V.,A2PB32,EuroStoxx600,AKU1,AKZA.AS,Chemie,NL0013267909
+28,Alcon AG,A2PDXE,EuroStoxx600,2U3,ALC.SW,Gesundheitswesen,CH0432492467
+29,Alfa-Laval AB,577335,EuroStoxx600,AA9,ALFA.ST,Industrie/Mischkonzerne,SE0000695876
+30,ALK-Abelló AS,A0H0J1,EuroStoxx600,4AJ,ALK-B.CO,Pharma,DK0060027142
+31,Allegro.eu SA,A2QEGF,EuroStoxx600,AL0,ALE.WA,Handel/E-Commerce,LU2237380790
+32,Allianz SE,840400,EuroStoxx600,ALV,ALV.DE,Finanzdienstleistungen,DE0008404005
+33,Allreal Holding AG,935276,EuroStoxx600,AZ4N,ALLN.SW,Immobilien,CH0008837566
+34,Alstom S.A.,A0F7BK,EuroStoxx600,AOMD,ALO.PA,Elektrotechnologie,FR0010220475
+35,ALSTRIA OFFICE REIT-AG,A0LD2U,EuroStoxx600,AOX,AOX.DE,Immobilien,DE000A0LD2U1
+36,Alten S.A.,918312,EuroStoxx600,AN3,ATE.PA,IT-Dienstleistungen,FR0000071946
+37,Amadeus IT Group S.A.,A1CXN0,EuroStoxx600,AI3A,AMS.MC,IT-Dienstleistungen,ES0109067019
+38,Ambu A/S,A2JAHY,EuroStoxx600,AI3A,AMBU-B.CO,Gesundheitswesen,DK0060946788
+39,Amplifon S.p.A.,A0JMJX,EuroStoxx600,AXNA,AMP.MI,Sonstige Technologie,IT0004056880
+40,ams-OSRAM AG,A118Z8,EuroStoxx600,DQW1,AMS.SW,Halbleiter,AT0000A18XM4
+41,Amundi S.A.,A143DP,EuroStoxx600,ANI,AMUN.PA,Finanzdienstleistungen,FR0004125920
+42,Andritz AG,632305,EuroStoxx600,AZ2,ANDR.VI,Maschinenbau,AT0000730007
+43,Anglo American PLC,A0MUKL,EuroStoxx600,NGLB,AAL.L,Rohstoffe,GB00B1XZS820
+44,Anheuser-Busch InBev N.V./S.A.,A2ASUV,EuroStoxx600,1NBA,ABI.BR,Getränke/Tabak,BE0974293251
+45,Antofagasta PLC,867578,EuroStoxx600,FG1,ANTO.L,Rohstoffe,GB0000456144
+46,ArcelorMittal S.A.,A2DRTZ,EuroStoxx600,ARRD,MT.AS,Eisen/Stahl,LU1598757687
+47,Argenx SE,A11602,EuroStoxx600,1AE,ARGX.BR,Biotechnologie,NL0010832176
+48,Arkema S.A.,A0JLZ0,EuroStoxx600,V1S,AKE.PA,Chemie,FR0010313833
+49,Aroundtown S.A.,A2DW8Z,EuroStoxx600,AT1,AT1.DE,Immobilien,LU1673108939
+50,Ashtead Group PLC,894565,EuroStoxx600,0LC,AHT.L,Dienstleistungen,GB0000536739
+51,ASM International N.V.,868730,EuroStoxx600,AVS,ASM.AS,Halbleiter,NL0000334118
+52,ASML Holding N.V.,A1J4U4,EuroStoxx600,ASME,ASML.AS,Halbleiter,NL0010273215
+53,ASR Nederland N.V.,A2AKBT,EuroStoxx600,A16,ASRNL.AS,Finanzdienstleistungen,NL0011872643
+54,Assa Abloy AB,A14TVM,EuroStoxx600,ALZC,ASSA-B.ST,Sonstige Technologie,SE0007100581
+55,Assicurazioni Generali S.p.A.,850312,EuroStoxx600,ASG,G.MI,Finanzdienstleistungen,IT0000062072
+56,Associated British Foods PLC,920876,EuroStoxx600,AFO1,ABF.L,Nahrungsmittel/Agrar,GB0006731235
+57,Assura PLC,A14M2K,EuroStoxx600,75A,AGR.L,Finanzdienstleistungen,GB00BVGBWW93
+58,AstraZeneca PLC,886455,EuroStoxx600,ZEG,AZN.L,Pharma,GB0009895292
+59,Atlantia S.p.A.,913220,EuroStoxx600,AU9,ATL.MI,Bau/Infrastruktur,IT0003506190
+60,Atlas Copco AB (A),A2JLJU,EuroStoxx600,ACO2,ATCO-A.ST,Maschinenbau,SE0011166610
+61,Atos SE,877757,EuroStoxx600,AXI,ATO.PA,IT-Dienstleistungen,FR0000051732
+62,Auto Trader Group PLC,A14PY2,EuroStoxx600,2UA,AUTO.L,Internet,GB00BVYVFW23
+63,AutoStore Holdings Ltd.,A3C5A3,EuroStoxx600,1IG,AUTO.OL,Maschinenbau,BMG0670A1099
+64,"AVANZA BK HLDG AB SK 0,50",A2PG8N,EuroStoxx600,1JJA,AZA.ST,Finanzdienstleistungen,SE0012454072
+65,Avast Plc.,A2JLZU,EuroStoxx600,AV2,AVST.L,Software,GB00BDD85M81
+66,AVEVA Group PLC,A1W0MM,EuroStoxx600,4A91,AVV.L,IT-Dienstleistungen,GB00BBG9VN75
+67,Aviva PLC,854013,EuroStoxx600,GU8,AV.L,Finanzdienstleistungen,GB0002162385
+68,AXA S.A.,855705,EuroStoxx600,AXA,CS.PA,Finanzdienstleistungen,FR0000120628
+69,Aéroports de Paris,A0J2WM,EuroStoxx600,W7L,ADP.PA,Logistik/Transport,FR0010340141
+70,BAE SYSTEMS PLC,866131,EuroStoxx600,BSP,BA.L,Luftfahrt/Rüstung,GB0002634946
+71,Bakkafrost P/F PLC,A1CVJD,EuroStoxx600,6BF,BAKKA.OL,Nahrungsmittel/Agrar,FO0000000179
+72,Baloise Holding AG,853020,EuroStoxx600,BLON,BALN.SW,Finanzdienstleistungen,CH0012410517
+73,Banco Bilbao Vizcaya Argentaria S.A. (BBVA),875773,EuroStoxx600,BOY,BBVA.MC,Finanzdienstleistungen,ES0113211835
+74,Banco BPM S.p.A.,A2DJF1,EuroStoxx600,BPM,BAMI.MI,Finanzdienstleistungen,IT0005218380
+75,Banco de Sabadell S.A.,A0MRD4,EuroStoxx600,BDSB,SAB.MC,Finanzdienstleistungen,ES0113860A34
+76,Banco Santander S.A.,858872,EuroStoxx600,BSD2,SAN.MC,Finanzdienstleistungen,ES0113900J37
+77,Bank of Ireland Group PLC,A2DR6L,EuroStoxx600,BIRG,BIRG.IR,Finanzdienstleistungen,IE00BD1RP616
+78,Bank Pekao S.A.,914910,EuroStoxx600,BP1,PEO.WA,Finanzdienstleistungen,PLPEKAO00016
+79,Bankinter S.A.,A0MW33,EuroStoxx600,BAKA,BKT.MC,Finanzdienstleistungen,ES0113679I37
+80,Banque Cantonale Vaudoise,A2P4UM,EuroStoxx600,B1V1,BCVN.SW,Finanzdienstleistungen,CH0531751755
+81,Barclays PLC,850403,EuroStoxx600,BCY,BARC.L,Finanzdienstleistungen,GB0031348658
+82,Barratt Developments PLC,859551,EuroStoxx600,3BA,BDEV.L,Bau/Infrastruktur,GB0000811801
+83,Barry Callebaut AG,914661,EuroStoxx600,BCLN,BARN.SW,Nahrungsmittel/Agrar,CH0009002962
+84,BASF SE,BASF11,EuroStoxx600,BAS,BAS.DE,Chemie,DE000BASF111
+85,BAWAG Group AG,A2DYJN,EuroStoxx600,0B2,BG.VI,Finanzdienstleistungen,AT0000BAWAG2
+86,Bayer AG,BAY001,EuroStoxx600,BAYN,BAYN.DE,Pharma,DE000BAY0017
+87,Bayerische Motoren Werke AG,519000,EuroStoxx600,BMW,BMW.DE,Fahrzeuge,DE0005190003
+88,BE Semiconductor Industries N.V.,A2JLD1,EuroStoxx600,BSI,BESI.AS,Halbleiter,NL0012866412
+89,Beazley PLC,A2AF7G,EuroStoxx600,2D7,BEZ.L,Finanzdienstleistungen,GB00BYQ0JC66
+90,Bechtle AG,515870,EuroStoxx600,BC8,BC8.DE,IT-Dienstleistungen,DE0005158703
+91,Beiersdorf AG,520000,EuroStoxx600,BEI,BEI.DE,Kosmetik,DE0005200000
+92,BEIJER REF AB B,A3CMPX,EuroStoxx600,BRZ0,BEIJ-B.ST,Dienstleistungen,SE0015949748
+93,Belimo Holding AG,A3CUQD,EuroStoxx600,8RJ,BEAN.SW,Sonstige Technologie,CH1101098163
+94,Bellway PLC,869646,EuroStoxx600,41B,BWY.L,Bau/Infrastruktur,GB0000904986
+95,BHP Group PLC,A2N9WV,EuroStoxx600,not_found,not_found,not_found,not_found
+96,BillerudKorsnäs AB,807435,EuroStoxx600,BNF,BILL.ST,Holz/Papier,SE0000862997
+97,BioMerieux,A2DXZH,EuroStoxx600,EYWN,BIM.PA,Biotechnologie,FR0013280286
+98,BNP Paribas S.A.,887771,EuroStoxx600,BNP,BNP.PA,Finanzdienstleistungen,FR0000131104
+99,Boliden AB,A3CN4P,EuroStoxx600,BWJ,BOL.ST,Rohstoffe,SE0015811559
+100,Bollore S.A.,875558,EuroStoxx600,BOP,BOL.PA,Industrie/Mischkonzerne,FR0000039299
+101,Bouygues S.A.,858821,EuroStoxx600,BYG,EN.PA,Bau/Infrastruktur,FR0000120503
+102,Bovis Homes Group PLC,911164,EuroStoxx600,44B,VTY.L,Bau/Infrastruktur,GB0001859296
+103,BP PLC,850517,EuroStoxx600,BPE5,BP.L,Öl/Gas,GB0007980591
+104,Brenntag SE,A1DAHH,EuroStoxx600,BNR,BNR.DE,Chemie,DE000A1DAHH0
+105,British American Tobacco PLC,916018,EuroStoxx600,BMT,BATS.L,Getränke/Tabak,GB0002875804
+106,Britvic PLC,A0HMX9,EuroStoxx600,B6S,BVIC.L,Getränke/Tabak,GB00B0N8QD54
+107,BT Group PLC,794796,EuroStoxx600,BTQ,BT-A.L,Telekom,GB0030913577
+108,Bucher Industries AG,A0EAHZ,EuroStoxx600,BUHA,BUCN.SW,Maschinenbau,CH0002432174
+109,Bunzl PLC,A0ET3E,EuroStoxx600,BUZ1,BNZL.L,Dienstleistungen,GB00B0744B38
+110,Burberry Group PLC,691197,EuroStoxx600,BB2,BRBY.L,Bekleidung/Textil,GB0031743007
+111,Bureau Veritas SA,A0M45W,EuroStoxx600,4BV,BVI.PA,Dienstleistungen,FR0006174348
+112,Caixabank S.A.,A0MZR4,EuroStoxx600,48CA,CABK.MC,Finanzdienstleistungen,ES0140609019
+113,Capgemini S.A.,869858,EuroStoxx600,CGM,CAP.PA,IT-Dienstleistungen,FR0000125338
+114,Carl Zeiss Meditec AG,531370,EuroStoxx600,AFX,AFX.DE,Gesundheitswesen,DE0005313704
+115,Carlsberg A/S,861061,EuroStoxx600,CBGB,CARL-B.CO,Getränke/Tabak,DK0010181759
+116,Carrefour S.A.,852362,EuroStoxx600,CAR,CA.PA,Handel/E-Commerce,FR0000120172
+117,Castellum AB,906997,EuroStoxx600,TEX,CAST.ST,Immobilien,SE0000379190
+118,CD Projekt S.A.,534356,EuroStoxx600,7CD,CDR.WA,Software,PLOPTTC00011
+119,Cellnex Telecom S.A.,A14RZD,EuroStoxx600,472,CLNX.MC,Telekom,ES0105066007
+120,Cembra Money Bank AG,A1W65V,EuroStoxx600,GEH,CMBN.SW,Finanzdienstleistungen,CH0225173167
+121,Centrica PLC,A0DK6K,EuroStoxx600,CENB,CNA.L,Versorger,GB00B033F229
+122,Chocoladefabriken Lindt & Sprüngli AG,859568,EuroStoxx600,LSPN,LISN.SW,Nahrungsmittel/Agrar,CH0010570759
+123,Christian Hansen Holding AS,A1CZWD,EuroStoxx600,51C,CHR.CO,Nahrungsmittel/Agrar,DK0060227585
+124,Clariant AG,895929,EuroStoxx600,CLRN,CLN.SW,Chemie,CH0012142631
+125,Close Brothers Group Plc,874082,EuroStoxx600,CS3,CBG.L,Finanzdienstleistungen,GB0007668071
+126,CNH Industrial N.V.,A1W599,EuroStoxx600,37C,CNHI,Industrie/Mischkonzerne,NL0010545661
+127,CNP Assurances S.A.,916594,EuroStoxx600,XNP,CNP.PA,Finanzdienstleistungen,FR0000120222
+128,Coca-Cola HBC AG,A1T7B9,EuroStoxx600,C0Q,CCH.L,Getränke/Tabak,CH0198251305
+129,Cofinimmo S.A.,914421,EuroStoxx600,COF,COFB.BR,Immobilien,BE0003593044
+130,Coloplast AS,A1KAGC,EuroStoxx600,CBHD,COLO-B.CO,Chemie,DK0060448595
+131,Commerzbank AG,CBK100,EuroStoxx600,CBK,CBK.DE,Finanzdienstleistungen,DE000CBK1001
+132,Compagnie de Saint-Gobain S.A.,872087,EuroStoxx600,GOB,SGO.PA,Bau/Infrastruktur,FR0000125007
+133,Compagnie Financière Richemont AG,A1W5CV,EuroStoxx600,RITN,CFR.SW,Konsumgüter,CH0210483332
+134,Compagnie Generale des Etablissements Michelin SCA,850739,EuroStoxx600,MCH,ML.PA,Fahrzeuge,FR0000121261
+135,Compass Group PLC,A2DR6K,EuroStoxx600,XGR2,CPG.L,Dienstleistungen,GB00BD6K4575
+136,Continental AG,543900,EuroStoxx600,CON,CON.DE,Fahrzeuge,DE0005439004
+137,ConvaTec Group PLC,A2AUD3,EuroStoxx600,2CV,CTEC.L,Gesundheitswesen,GB00BD3VFW73
+138,Countryside Properties PLC,A2AELE,EuroStoxx600,6CO,CSP.L,Bau/Infrastruktur,GB00BYPHNG03
+139,Covestro AG,606214,EuroStoxx600,1COV,1COV.DE,Kunststoffe/Verpackungen,DE0006062144
+140,Covivio S.A.,659094,EuroStoxx600,F5D,COV.PA,Immobilien,FR0000064578
+141,Credit Agricole S.A.,982285,EuroStoxx600,XCA,ACA.PA,Finanzdienstleistungen,FR0000045072
+142,Credit Suisse Group AG,876800,EuroStoxx600,CSX,CSGN.SW,Finanzdienstleistungen,CH0012138530
+143,CRH PLC,864684,EuroStoxx600,CRG,CRG.IR,Bau/Infrastruktur,IE0001827041
+144,Croda International PLC,A2PF9D,EuroStoxx600,6CMB,CRDA.L,Chemie,GB00BJFFLV09
+145,CTS Eventim AG & Co. KGaA,547030,EuroStoxx600,EVD,EVD.DE,Unterhaltung,DE0005470306
+146,D S Smith PLC,877238,EuroStoxx600,1KR,SMDS.L,Kunststoffe/Verpackungen,GB0008220112
+147,Daimler AG,710000,EuroStoxx600,DAI,DAI.DE,Fahrzeuge,DE0007100000
+148,Danone S.A.,851194,EuroStoxx600,BSN,BN.PA,Nahrungsmittel/Agrar,FR0000120644
+149,Danske Bank A/S,850857,EuroStoxx600,DSN,DANSKE.CO,Finanzdienstleistungen,DK0010274414
+150,Dassault Systemes S.A.,901295,EuroStoxx600,DSY,DSY,Software,FR0000130650
+151,Davide Campari-Milano N.V.,A2P8B7,EuroStoxx600,58H,CPR.MI,Getränke/Tabak,NL0015435975
+152,DCC PLC,903840,EuroStoxx600,DCC,DCC.L,Dienstleistungen,IE0002424939
+153,DECHRA PHARMACEUTICALS PLC,578968,EuroStoxx600,1PK,DPH.L,Pharma,GB0009633180
+154,Delivery Hero SE,A2E4K4,EuroStoxx600,DHER,DHER.DE,Internet,DE000A2E4K43
+155,Demant AS,A2AKB9,EuroStoxx600,WDH1,DEMANT.CO,Elektrotechnologie,DK0060738599
+156,Derwent London PLC,897679,EuroStoxx600,DVK,DLN.L,Immobilien,GB0002652740
+157,Deutsche Bank AG,514000,EuroStoxx600,DBK,DBK.DE,Finanzdienstleistungen,DE0005140008
+158,Deutsche Börse AG,581005,EuroStoxx600,DB1,DB1.DE,Finanzdienstleistungen,DE0005810055
+159,Deutsche Lufthansa AG,823212,EuroStoxx600,LHA,LHA.DE,Luftfahrt/Rüstung,DE0008232125
+160,Deutsche Post AG,555200,EuroStoxx600,DPW,DPW.DE,Logistik/Transport,DE0005552004
+161,Deutsche Telekom AG,555750,EuroStoxx600,DTE,DTE.DE,Telekom,DE0005557508
+162,Deutsche Wohnen SE,A0HN5C,EuroStoxx600,DWNI,DWNI.DE,Immobilien,DE000A0HN5C6
+163,Diageo PLC,851247,EuroStoxx600,GUI,DGE.L,Getränke/Tabak,GB0002374006
+164,Dialog Semiconductor PLC,927200,EuroStoxx600,DLG,DLG,Halbleiter,GB0059822006
+165,DiaSorin S.p.A.,A0MTB2,EuroStoxx600,34D,DIA.MI,Gesundheitswesen,IT0003492391
+166,Dino Polska S.A.,A2DPXC,EuroStoxx600,5Y2,DNP.WA,Handel/E-Commerce,PLDINPL00011
+167,Diploma PLC,-,EuroStoxx600,DP9,DPLM,Industrie/Mischkonzerne,GB0001826634
+168,Direct Line Insurance Group PLC,A14USN,EuroStoxx600,D1LN,DLG.L,Finanzdienstleistungen,GB00BY9D0Y18
+169,DNB ASA,939940,EuroStoxx600,not_found,not_found,not_found,not_found
+170,Dometic Group AB,A1437L,EuroStoxx600,D00,DOM.ST,Freizeitprodukte,SE0007691613
+171,DSV Panalpina A/S,A0MRDY,EuroStoxx600,DS81,DSV.CO,Logistik/Transport,DK0060079531
+172,Dufry AG,A0HMLM,EuroStoxx600,D2J,DUFN.SW,Handel/E-Commerce,CH0023405456
+173,E.ON SE,ENAG99,EuroStoxx600,EOAN,EOAN.DE,Versorger,DE000ENAG999
+174,Easyjet PLC,A1JTC1,EuroStoxx600,EJT1,EZJ.L,Luftfahrt/Rüstung,GB00B7KR2P84
+175,Edenred S.A.,A1C0JG,EuroStoxx600,QSV,EDEN.PA,Dienstleistungen,FR0010908533
+176,EDP - Energias de Portugal S.A.,906980,EuroStoxx600,EDP,EDP.LS,Versorger,PTEDP0AM0009
+177,EDP Renovaveis S.A.,A0Q249,EuroStoxx600,EDW,EDPR.LS,Erneuerbare Energien,ES0127797019
+178,Eiffage S.A.,853452,EuroStoxx600,EF3,FGR.PA,Bau/Infrastruktur,FR0000130452
+179,Electricite de France S.A. (E.D.F.),A0HG6A,EuroStoxx600,E2F,EDF.PA,Versorger,FR0010242511
+180,Electrocomponents PLC,862727,EuroStoxx600,ECN,ECM.L,Elektrotechnologie,GB0003096442
+181,Elekta AB,896279,EuroStoxx600,EJXB,EKTA-B.ST,Gesundheitswesen,SE0000163628
+182,Elia System Operator S.A./N.V.,A0ERSV,EuroStoxx600,E4S,ELI.BR,Versorger,BE0003822393
+183,Elis S.A.,A14M93,EuroStoxx600,7EL,ELIS.PA,Dienstleistungen,FR0012435121
+184,Elisa Oyj,615402,EuroStoxx600,EIA,ELISA.HE,Telekom,FI0009007884
+185,Ems-Chemie Holding AG,593186,EuroStoxx600,EMC1,EMSN.SW,Chemie,CH0016440353
+186,Enagas S.A.,662211,EuroStoxx600,EG4,ENG.MC,Öl/Gas,ES0130960018
+187,Endesa S.A.,871028,EuroStoxx600,ENA,ELE.MC,Versorger,ES0130670112
+188,ENEL S.p.A.,928624,EuroStoxx600,ENL,ENEL.MI,Versorger,IT0003128367
+189,Engie S.A.,A0ER6Q,EuroStoxx600,GZF,ENGI.PA,Versorger,FR0010208488
+190,ENI S.p.A.,897791,EuroStoxx600,ENI,ENI.MI,Versorger,IT0003132476
+191,Epiroc AB,A3CPHU,EuroStoxx600,3AD1,EPI-A.ST,Maschinenbau,SE0015658109
+192,EQT AB,-,EuroStoxx600,not_found,not_found,not_found,not_found
+193,Equinor ASA,675213,EuroStoxx600,DNQ,EQNR.OL,Öl/Gas,NO0010096985
+194,Ericsson,850001,EuroStoxx600,ERCB,ERIC-B.ST,Telekom,SE0000108656
+195,Erste Group Bank AG,909943,EuroStoxx600,EBO,EBS.VI,Finanzdienstleistungen,AT0000652011
+196,EssilorLuxottica S.A.,863195,EuroStoxx600,ESL,EL.PA,Gesundheitswesen,FR0000121667
+197,Essity AB,A2DS20,EuroStoxx600,ESWB,ESSITY-B.ST,Konsumgüter,SE0009922164
+198,Etablissements Franz Colruyt S.A.,A1C7HA,EuroStoxx600,EFC1,COLR.BR,Handel/E-Commerce,BE0974256852
+199,Eurazeo SE,860642,EuroStoxx600,EUQ,RF.PA,Finanzdienstleistungen,FR0000121121
+200,Eurofins Scientific S.E.,A2QJCT,EuroStoxx600,ESF0,ERF.PA,Gesundheitswesen,FR0014000MR3
+201,Euronext N.V.,A115MJ,EuroStoxx600,ENXB,ENX.PA,Finanzdienstleistungen,NL0006294274
+202,Evolution Gaming Group AB,A2PK19,EuroStoxx600,E3G1,EVO.ST,Unterhaltung,SE0012673267
+203,Evonik Industries AG,EVNK01,EuroStoxx600,EVK,EVK.DE,Industrie/Mischkonzerne,DE000EVNK013
+204,Evotec SE,566480,EuroStoxx600,EVT,EVT.DE,Biotechnologie,DE0005664809
+205,Evraz plc,A1JMT9,EuroStoxx600,EVZ,EVR.L,Eisen/Stahl,GB00B71N6K86
+206,Exor N.V.,A2DHZ4,EuroStoxx600,EYX,EXO.MI,Industrie/Mischkonzerne,NL0012059018
+207,Experian Group PLC,A0KDZM,EuroStoxx600,J2B,EXPN.L,Dienstleistungen,GB00B19NLV48
+208,Fabege AB,A2JJ96,EuroStoxx600,WILC,FABG.ST,Immobilien,SE0011166974
+209,Fastighets AB Balder,932100,EuroStoxx600,28F,BALD-B.ST,Immobilien,SE0000455057
+210,Faurecia SE,867025,EuroStoxx600,FAU,EO.PA,Fahrzeuge,FR0000121147
+211,Ferguson PLC,A2PG87,EuroStoxx600,24W5,FERG.L,Bau/Infrastruktur,JE00BJVNSS43
+212,Ferrari N.V.,A2ACKK,EuroStoxx600,2FE,RACE,Fahrzeuge,NL0011585146
+213,Ferrovial S.A.,A0DKZZ,EuroStoxx600,UFG,FER.MC,Bau/Infrastruktur,ES0118900010
+214,FinecoBank S.p.A.,A116MH,EuroStoxx600,ZS3,FBK.MI,Finanzdienstleistungen,IT0000072170
+215,Flughafen Zürich AG,A2AJEP,EuroStoxx600,UZAA,FHZN.SW,Logistik/Transport,CH0319416936
+216,Flutter Entertainment PLC,A14RX5,EuroStoxx600,PPB,FLTR.L,Unterhaltung,IE00BWT6H894
+217,Fortum Oyj,916660,EuroStoxx600,FOT,FORTUM.HE,Öl/Gas,FI0009007132
+218,Freenet AG,A0Z2ZZ,EuroStoxx600,FNTN,FNTN.DE,Telekom,DE000A0Z2ZZ5
+219,Fresenius Medical Care AG & Co. KGaA,578580,EuroStoxx600,FME,FME.DE,Gesundheitswesen,DE0005785802
+220,Fresenius SE & Co. KGaA,578560,EuroStoxx600,FRE,FRE.DE,Gesundheitswesen,DE0005785604
+221,Fuchs Petrolub SE,A3E5D5,EuroStoxx600,FPE3,FPE3.DE,Chemie,DE000A3E5D56
+222,Future PLC,A2DKXS,EuroStoxx600,FNWA,FUTR.L,Medien,GB00BYZN9041
+223,Galenica AG,A2DN0K,EuroStoxx600,not_found,not_found,not_found,not_found
+224,Galp Energia SGPS S.A.,A0LB24,EuroStoxx600,GZ5,GALP.LS,Versorger,PTGAL0AM0009
+225,Games Workshop Group PLC,900512,EuroStoxx600,G7W,GAW.L,Unterhaltung,GB0003718474
+226,GEA Group AG,660200,EuroStoxx600,G1A,G1A.DE,Maschinenbau,DE0006602006
+227,Geberit AG,A0MQWG,EuroStoxx600,GBRA,GEBN.SW,Bau/Infrastruktur,CH0030170408
+228,Gecina S.A.,A0BLMY,EuroStoxx600,GI6A,GFC.PA,Finanzdienstleistungen,FR0010040865
+229,Genmab AS,565131,EuroStoxx600,GE9,GMAB.CO,Biotechnologie,DK0010272202
+230,Genus PLC,762548,EuroStoxx600,GBE,GNS.L,Biotechnologie,GB0002074580
+231,Georg Fischer AG,851082,EuroStoxx600,GFIN,not_found,Maschinenbau,CH0001752309
+232,Gerresheimer AG,A0LD6E,EuroStoxx600,GXI,GXI.DE,Gesundheitswesen,DE000A0LD6E6
+233,Getinge AB,889714,EuroStoxx600,GTN,GETI-B.ST,Gesundheitswesen,SE0000202624
+234,Getlink SE,A0M6L1,EuroStoxx600,TNU3,GET.PA,Logistik/Transport,FR0010533075
+235,Givaudan SA,938427,EuroStoxx600,GIN,GIVN.SW,Chemie,CH0010645932
+236,Gjensidige Forsikring ASA,A1C47M,EuroStoxx600,XGJ,GJF.OL,Finanzdienstleistungen,NO0010582521
+237,Glanbia PLC,883867,EuroStoxx600,GL9,GL9.IR,Nahrungsmittel/Agrar,IE0000669501
+238,GlaxoSmithkline PLC,940561,EuroStoxx600,GS7,GSK.L,Pharma,GB0009252882
+239,Glencore PLC,A1JAGV,EuroStoxx600,8GC,GLEN.L,Rohstoffe,JE00B4T3BW64
+240,GN Store Nord AS,854734,EuroStoxx600,GNN,GN.CO,Sonstige Technologie,DK0010272632
+241,Grafton Group PLC,A0B5PL,EuroStoxx600,GN5,GFTU.L,Bau/Infrastruktur,IE00B00MZ448
+242,Grainger PLC,A0DN8N,EuroStoxx600,1U4,GRI.L,Immobilien,GB00B04V1276
+243,Grifols S.A.,A2ABUQ,EuroStoxx600,OZTA,GRF.MC,Pharma,ES0171996087
+244,Groupe Bruxelles Lambert S.A,873222,EuroStoxx600,EAI,GBLB.BR,Finanzdienstleistungen,BE0003797140
+245,GVC Holdings PLC,A1CWWN,EuroStoxx600,6GI,ENT.L,Unterhaltung,IM00B5VQMV65
+246,H & M Hennes & Mauritz AB,872318,EuroStoxx600,HMSB,HM-B.ST,Handel/E-Commerce,SE0000106270
+247,HALMA PLC,865047,EuroStoxx600,H11,HLMA.L,Maschinenbau,GB0004052071
+248,Hannover Rück SE,840221,EuroStoxx600,HNR1,HNR1.DE,Finanzdienstleistungen,DE0008402215
+249,Hargreaves Lansdown PLC,A0MR1A,EuroStoxx600,DMB,HL.L,Finanzdienstleistungen,GB00B1VZ0M25
+250,Hays PLC,881825,EuroStoxx600,HAY,HAS.L,Industrie/Mischkonzerne,GB0004161021
+251,HeidelbergCement AG,604700,EuroStoxx600,HEI,HEI.DE,Bau/Infrastruktur,DE0006047004
+252,Heineken Holding N.V.,A0ETXG,EuroStoxx600,4H5,HEIO.AS,Getränke/Tabak,NL0000008977
+253,Heineken N.V.,A0CA0G,EuroStoxx600,HNK1,HEIA.AS,Getränke/Tabak,NL0000009165
+254,HelloFresh SE,A16140,EuroStoxx600,HFG,HFG.DE,Handel/E-Commerce,DE000A161408
+255,Helvetia Holding AG,-,EuroStoxx600,not_found,not_found,not_found,not_found
+256,Henkel AG & Co. KGaA,604843,EuroStoxx600,HEN3,HEN3.DE,Chemie,DE0006048432
+257,Hera S.p.A.,471473,EuroStoxx600,HE9,HER.MI,Versorger,IT0001250932
+258,Hermes International S.A.,886670,EuroStoxx600,not_found,not_found,not_found,not_found
+259,Hexagon AB,A3CMTD,EuroStoxx600,HXG,HEXA-B.ST,Software,SE0015961909
+260,Hexpol AB,A14SVU,EuroStoxx600,4QT1,HPOL-B.ST,Chemie,SE0007074281
+261,Hikma Pharmaceuticals PLC,A0HG69,EuroStoxx600,H5P,HIK.L,Pharma,GB00B0LCW083
+262,Hiscox Ltd.,A14PZ0,EuroStoxx600,H2X3,HSX.L,Finanzdienstleistungen,BMG4593F1389
+263,Holcim Ltd.,869898,EuroStoxx600,HLBN,HOLN.SW,Bau/Infrastruktur,CH0012214059
+264,Holmen AB,A2JH43,EuroStoxx600,HL9C,HOLM-B.ST,Holz/Papier,SE0011090018
+265,Homeserve PLC,A14VF0,EuroStoxx600,not_found,not_found,not_found,not_found
+266,Howden Joinery Group PLC,884600,EuroStoxx600,10J,HWDN.L,Bau/Infrastruktur,GB0005576813
+267,HSBC Holdings PLC,923893,EuroStoxx600,HBC1,HSBA.L,Finanzdienstleistungen,GB0005405286
+268,Huhtamäki Oyj,870740,EuroStoxx600,HUKI,HUH1V.HE,Kunststoffe/Verpackungen,FI0009000459
+269,Husqvarna AB,A0J2R3,EuroStoxx600,HRZ,HUSQ-B.ST,Industrie/Mischkonzerne,SE0001662230
+270,Iberdrola S.A.,A0M46B,EuroStoxx600,IBE1,IBE.MC,Versorger,ES0144580Y14
+271,Idorsia AG,A2DTEB,EuroStoxx600,19T,IDIA.SW,Biotechnologie,CH0363463438
+272,IG Group Holdings PLC,A0EARV,EuroStoxx600,I5G,IGG.L,Finanzdienstleistungen,GB00B06QFB75
+273,IMCD N.V.,A116P8,EuroStoxx600,INX,IMCD.AS,Chemie,NL0010801007
+274,IMI PLC,A1XCMM,EuroStoxx600,IMI1,IMI.L,Maschinenbau,GB00BGLP8L22
+275,Imperial Brands PLC,903000,EuroStoxx600,ITB,IMB.L,Getränke/Tabak,GB0004544929
+276,Inchcape PLC,A1CWUA,EuroStoxx600,IJCA,INCH.L,Logistik/Transport,GB00B61TVQ02
+277,Inditex,A11873,EuroStoxx600,IXD1,ITX.MC,Bekleidung/Textil,ES0148396007
+278,Indutrade AB,A0HFVY,EuroStoxx600,I1M,INDT.ST,Industrie/Mischkonzerne,SE0001515552
+279,Infineon Technologies AG,623100,EuroStoxx600,IFX,IFX.DE,Halbleiter,DE0006231004
+280,Informa PLC,A114PL,EuroStoxx600,IEA,INF.L,Medien,GB00BMJ6DW54
+281,Infrastrutture Wireless Italiane S.p.A.,A14UAV,EuroStoxx600,WI8,INW.MI,Telekom,IT0005090300
+282,ING Groep N.V.,A2ANV3,EuroStoxx600,INN1,INGA.AS,Finanzdienstleistungen,NL0011821202
+283,Inmobiliaria Colonial SOCIMI S.A.,A2ANXU,EuroStoxx600,HSC2,COL.MC,Immobilien,ES0139140174
+284,InPost S.A.,A2QNEL,EuroStoxx600,669,INPST.AS,Logistik/Transport,LU2290522684
+285,Intercontinental Hotels Group PLC,A2PA4R,EuroStoxx600,IC1H,IHG.L,Hotels/Tourismus,GB00BHJYC057
+286,Intermediate Capital Group PLC,A2AMU0,EuroStoxx600,I2X2,ICP.L,Finanzdienstleistungen,GB00BYT1DJ19
+287,International Consolidated Airlines Group S.A.,A1H6AJ,EuroStoxx600,INR,IAG.L,Luftfahrt/Rüstung,ES0177542018
+288,Interpump Group S.P.A.,904257,EuroStoxx600,8IG,IP.MI,Maschinenbau,IT0001078911
+289,Intertek Group PLC,633526,EuroStoxx600,IT1,ITRK.L,Dienstleistungen,GB0031638363
+290,Intesa Sanpaolo S.p.A.,850605,EuroStoxx600,IES,ISP.MI,Finanzdienstleistungen,IT0000072618
+291,Investor AB (B),A3CMTG,EuroStoxx600,IVSD,INVE-B.ST,Finanzdienstleistungen,SE0015811963
+292,Ipsen S.A.,A0ESMG,EuroStoxx600,I7G,IPN.PA,Pharma,FR0010259150
+293,ISS AS,A1XE8F,EuroStoxx600,QJQ,ISS.CO,Dienstleistungen,DK0060542181
+294,Italgas S.P.A.,A2DF66,EuroStoxx600,I10,ISS.CO,Versorger,IT0005211237
+295,ITV PLC,A0BLQP,EuroStoxx600,IJ7,ITV.L,Medien,GB0033986497
+296,IWG PLC,A2DGJL,EuroStoxx600,IWG,IWG.L,Dienstleistungen,JE00BYVQYS01
+297,J. Sainsbury PLC,A0B6G0,EuroStoxx600,SUY1,SBRY.L,Handel/E-Commerce,GB00B019KW72
+298,JD Sports Fashion PLC,A2DF7G,EuroStoxx600,not_found,not_found,not_found,not_found
+299,"JDE PEETS NV EO-,01",A2P0E9,EuroStoxx600,JDE,JDEP.AS,Getränke/Tabak,NL0014332678
+300,"Jeronimo Martins, SGPS, S.A.",878605,EuroStoxx600,JEM,JMT.LS,Handel/E-Commerce,PTJMT0AE0001
+301,Johnson Matthey PLC,A2ABB6,EuroStoxx600,JMT2,JMAT.L,Chemie,GB00BZ4BQC70
+302,Julius Baer Gruppe AG,-,EuroStoxx600,not_found,not_found,not_found,not_found
+303,KBC Group N.V.,854943,EuroStoxx600,KDB,KBC.BR,Finanzdienstleistungen,BE0003565737
+304,Kering S.A.,851223,EuroStoxx600,PPX,KER.PA,Handel/E-Commerce,FR0000121485
+305,Kerry Group PLC,886291,EuroStoxx600,KRZ,KRZ.IR,Nahrungsmittel/Agrar,IE0004906560
+306,Kesko Oyj,884884,EuroStoxx600,KEK,KKOYF,Handel/E-Commerce,FI0009000202
+307,KGHM Polska Miedz S.A.,908063,EuroStoxx600,KGHA,KGH.WA,Rohstoffe,PLKGHM000017
+308,Kindred Group PLC (SDR´s),-,EuroStoxx600,not_found,not_found,not_found,not_found
+309,Kingfisher PLC,812861,EuroStoxx600,KFI1,KGF.L,Handel/E-Commerce,GB0033195214
+310,Kingspan Group PLC,905605,EuroStoxx600,KRX,KRX.IR,Bau/Infrastruktur,IE0004927939
+311,Kinnevik AB,A3CMS4,EuroStoxx600,IV6,KINV-B.ST,Finanzdienstleistungen,SE0015810247
+312,KION GROUP AG,KGX888,EuroStoxx600,KGX,KGX.DE,Fahrzeuge,DE000KGX8881
+313,Klepierre S.A.,863272,EuroStoxx600,KPR,LI.PA,Immobilien,FR0000121964
+314,Knorr-Bremse AG,KBX100,EuroStoxx600,KBX,KBX.DE,Fahrzeuge,DE000KBX1006
+315,Kojamo Oyj,A2JN4W,EuroStoxx600,V4OC,KOJAMO.HE,Immobilien,FI4000312251
+316,KONE Corp. (New),A0ET4X,EuroStoxx600,KC4,KNEBV.HE,Maschinenbau,FI0009013403
+317,Koninklijke Ahold Delhaize N.V.,A2ANT0,EuroStoxx600,AHOG,AD.AS,Handel/E-Commerce,NL0011794037
+318,Koninklijke DSM N.V.,A0JLZ7,EuroStoxx600,DSM2,DSM.AS,Chemie,NL0000009827
+319,Koninklijke KPN N.V.,890963,EuroStoxx600,KPN,KPN.AS,Telekom,NL0000009082
+320,Koninklijke Philips N.V.,940602,EuroStoxx600,PHI1,PHIA.AS,Elektrotechnologie,NL0000009538
+321,Koninklijke Vopak N.V.,A1CYGK,EuroStoxx600,VPK5,VPK.AS,Logistik/Transport,NL0009432491
+322,Kühne & Nagel International AG,A0JLZL,EuroStoxx600,KNIA,KNIN.SW,Logistik/Transport,CH0025238863
+323,La Francaise des Jeux,-,EuroStoxx600,not_found,not_found,not_found,not_found
+324,Land Securities Group PLC,A2DW9E,EuroStoxx600,LSU2,LAND.L,Immobilien,GB00BYW0PQ60
+325,Lanxess AG,547040,EuroStoxx600,LXS,LXS.DE,Chemie,DE0005470405
+326,Latour Investment AB,A2DY0M,EuroStoxx600,18LB,LATO-B.ST,Finanzdienstleistungen,SE0010100958
+327,LEG Immobilien SE,LEG111,EuroStoxx600,LEG,LEG.DE,Immobilien,DE000LEG1110
+328,Legal & General Group PLC,851584,EuroStoxx600,LGI,LGEN.L,Finanzdienstleistungen,GB0005603997
+329,Legrand S.A.,A0JKB2,EuroStoxx600,LRC,LR.PA,Elektrotechnologie,FR0010307819
+330,Leonardo S.p.A.,A0ETQX,EuroStoxx600,FMNB,LDO.MI,Industrie/Mischkonzerne,IT0003856405
+331,Lifco AB,A3CN22,EuroStoxx600,1L30,LIFCO-B.ST,Industrie/Mischkonzerne,SE0015949201
+332,Linde PLC,A2DSYC,EuroStoxx600,LIN,LIN,Chemie,IE00BZ12WP82
+333,Lloyds Banking Group PLC,871784,EuroStoxx600,LLD,LLOY.L,Finanzdienstleistungen,GB0008706128
+334,Logitech International S.A.,A0J3YT,EuroStoxx600,LTEC,LOGN.SW,Hardware,CH0025751329
+335,London & Stamford Property PLC,A1C37D,EuroStoxx600,5PP,LMP.L,Immobilien,GB00B4WFW713
+336,London Stock Exchange Group PLC,A0JEJF,EuroStoxx600,LS4C,LSEG.L,Finanzdienstleistungen,GB00B0SWJX34
+337,Lonza Group AG,928619,EuroStoxx600,LO3,LONN.SW,Chemie,CH0013841017
+338,Lundbergföretagen AB,884780,EuroStoxx600,LU3B,LUND-B.ST,Finanzdienstleistungen,SE0000108847
+339,Lundin Petroleum AB,729364,EuroStoxx600,LYV,LUNE.ST,Öl/Gas,SE0000825820
+340,LVMH Moet Hennessy Louis Vuitton SE,853292,EuroStoxx600,MOH,MC.PA,Konsumgüter,FR0000121014
+341,M&G Prudential PLC,-,EuroStoxx600,not_found,not_found,not_found,not_found
+342,Man Group Ltd.,A2PG8B,EuroStoxx600,M3N,EMG.L,Finanzdienstleistungen,JE00BJ1DLW90
+343,Marks & Spencer Group PLC,534418,EuroStoxx600,MA6,MKS.L,Handel/E-Commerce,GB0031274896
+344,Mediobanca - Banca di Credito Finanziario S.p.A.,851715,EuroStoxx600,ME9,MB.MI,Finanzdienstleistungen,IT0000062957
+345,Meggitt Plc,865048,EuroStoxx600,MGI,MGGT.L,Luftfahrt/Rüstung,GB0005758098
+346,Melrose Industries PLC,A2AC1T,EuroStoxx600,not_found,not_found,not_found,not_found
+347,Merck KGaA,659990,EuroStoxx600,MRK,MRK.DE,Pharma,DE0006599905
+348,Merlin Properties Socimi S.A.,A116WC,EuroStoxx600,MEQA,MRL.MC,Immobilien,ES0105025003
+349,Metso Outotec Corp.,A0LBTW,EuroStoxx600,M6Q,MOCORP.HE,Maschinenbau,FI0009014575
+350,MIPS AB O.N.,A2DNT6,EuroStoxx600,7M1,MIPS.ST,Freizeitprodukte,SE0009216278
+351,Moncler S.p.A.,A1W66W,EuroStoxx600,MOV,MIPS.ST,Bekleidung/Textil,IT0004965148
+352,Mondi PLC,A0MQ8X,EuroStoxx600,KYC,MNDI.L,Holz/Papier,GB00B1CRLC47
+353,MorphoSys AG,663200,EuroStoxx600,MOR,MOR.DE,Biotechnologie,DE0006632003
+354,Mowi ASA,924848,EuroStoxx600,PND,MOWI.OL,Nahrungsmittel/Agrar,NO0003054108
+355,MTU Aero Engines AG,A0D9PT,EuroStoxx600,MTX,MTX.DE,Luftfahrt/Rüstung,DE000A0D9PT0
+356,Münchener Rückversicherungs-Gesellschaft AG in München,843002,EuroStoxx600,MUV2,MUV2.DE,Finanzdienstleistungen,DE0008430026
+357,National Grid PLC,A2DQWX,EuroStoxx600,NNGF,NG.L,Versorger,GB00BDR05C01
+358,Natixis S.A.,853760,EuroStoxx600,not_found,not_found,not_found,not_found
+359,Naturgy Energy Group S.A.,853598,EuroStoxx600,GAN,NTGY.MC,Versorger,ES0116870314
+360,NatWest Group PLC,A1JXTD,EuroStoxx600,RYS1,NWG.L,Finanzdienstleistungen,GB00B7T77214
+361,Nel ASA,A0B733,EuroStoxx600,D7G,NEL.OL,Erneuerbare Energien,NO0010081235
+362,Nemetschek SE,645290,EuroStoxx600,NEM,NEM.DE,Software,DE0006452907
+363,Neste Corp.,A0D9U6,EuroStoxx600,NEF,NESTE.HE,Öl/Gas,FI0009013296
+364,Nestle S.A.,A0Q4DC,EuroStoxx600,NESR,NESN.SW,Nahrungsmittel/Agrar,CH0038863350
+365,Netcompany Group A/S,-,EuroStoxx600,not_found,not_found,not_found,not_found
+366,Nexi S.p.A.,A2PF9H,EuroStoxx600,N0XA,NEXI.MI,Finanzdienstleistungen,IT0005366767
+367,"NEXT PLC,",779551,EuroStoxx600,NXG,NXT.L,Handel/E-Commerce,GB0032089863
+368,NIBE Industrier AB,A3CRAH,EuroStoxx600,NJB,NIBE-B.ST,Sonstige Technologie,SE0015988019
+369,NN Group N.V.,A115DY,EuroStoxx600,2NN,NN.AS,Finanzdienstleistungen,NL0010773842
+370,Nokia Oyj,870737,EuroStoxx600,NOA3,NOKIA.HE,Telekom,FI0009000681
+371,Nokian Renkaat OYJ,895780,EuroStoxx600,NRE,TYRES.HE,Fahrzeuge,FI0009005318
+372,Nordea Bank Abp,A2N6F4,EuroStoxx600,04Q,NDA-SE.ST,Finanzdienstleistungen,FI4000297767
+373,Nordic Entertainment Group AB,-,EuroStoxx600,not_found,not_found,not_found,not_found
+374,Nordic Semiconductor ASA,932405,EuroStoxx600,N0S,NOD.OL,Halbleiter,NO0003055501
+375,Norsk Hydro ASA,851908,EuroStoxx600,NOH1,NHY.OL,Versorger,NO0005052605
+376,Novartis AG,904278,EuroStoxx600,NOT,NOVN.SW,Pharma,CH0012005267
+377,Novo-Nordisk AS,A1XA8R,EuroStoxx600,NOVC,NOVO-B.CO,Pharma,DK0060534915
+378,Novozymes A/S,A1JP9Y,EuroStoxx600,NZM2,NZYM-B.CO,Biotechnologie,DK0060336014
+379,Ocado Group PLC,A1C2GZ,EuroStoxx600,0OC,OCDO.L,Handel/E-Commerce,GB00B3MBS747
+380,OMV AG,874341,EuroStoxx600,OMV,OMV.VI,Öl/Gas,AT0000743059
+381,Orange S.A.,906849,EuroStoxx600,not_found,not_found,not_found,not_found
+382,"OREAL (L') INH. EO 0,2",853888,EuroStoxx600,LOR,OR.PA,Konsumgüter,FR0000120321
+383,Orion Corp.,A0J3QM,EuroStoxx600,OFK,ORNBV.HE,Pharma,FI0009014377
+384,Orkla ASA,864042,EuroStoxx600,OKL,ORK.OL,Industrie/Mischkonzerne,NO0003733800
+385,Orpea,575626,EuroStoxx600,OPA,ORP.PA,Gesundheitswesen,FR0000184798
+386,Orsted A/S,A0NBLH,EuroStoxx600,D2G,ORSTED.CO,Versorger,DK0060094928
+387,Oxford Nanopore Technologies Ltd.,A3C307,EuroStoxx600,4R0,ONT.L,Biotechnologie,GB00BP6S8Z30
+388,Pandora A/S,A1C6JV,EuroStoxx600,3P7,PNDORA.CO,Konsumgüter,DK0060252690
+389,Partners Group Holding AG,A0JJY6,EuroStoxx600,P2H,PGHN.SW,Finanzdienstleistungen,CH0024608827
+390,Pearson PLC,858266,EuroStoxx600,PES,PSON.L,Medien,GB0006776081
+391,Pennon Group PLC,A0J371,EuroStoxx600,not_found,not_found,not_found,not_found
+392,Pernod-Ricard S.A.,853373,EuroStoxx600,PER,RI.PA,Getränke/Tabak,FR0000120693
+393,Persimmon PLC,882058,EuroStoxx600,OHP,PSN.L,Bau/Infrastruktur,GB0006825383
+394,Phoenix Group Holdings PLC,A2N805,EuroStoxx600,1BF,PHNX.L,Finanzdienstleistungen,GB00BGXQNP29
+395,Polski Koncern Naftowy Orlen S.A.,929424,EuroStoxx600,PKY1,PKN.WA,Öl/Gas,PLPKN0000018
+396,Polymetal Intl PLC,A1JLWT,EuroStoxx600,PM6,POLY.L,Rohstoffe,JE00B6T5S470
+397,Porsche Automobil Holding SE,PAH003,EuroStoxx600,PAH3,PAH3.DE,Finanzdienstleistungen,DE000PAH0038
+398,Poste Italiane S.p.A.,A14V64,EuroStoxx600,7PI,PST.MI,Logistik/Transport,IT0003796171
+399,Powszechna Kasa Oszczednosci [PKO] Bank Polski S.A.,A0DLEV,EuroStoxx600,P9O,PKO.WA,Finanzdienstleistungen,PLPKO0000016
+400,Powszechny Zaklad Ubezpieczen S.A.,A0YCYA,EuroStoxx600,7PZ,PZU.WA,Finanzdienstleistungen,PLPZU0000011
+401,"PRIMARY HEALTH LS-,0125",A142J2,EuroStoxx600,PP51,PHP.L,Immobilien,GB00BYRJ5J14
+402,ProSiebenSat.1 Media SE,PSM777,EuroStoxx600,PSM,PSM.DE,Medien,DE000PSM7770
+403,Prosus N.V.,-,EuroStoxx600,not_found,not_found,not_found,not_found
+404,Proximus S.A.,A0B9FU,EuroStoxx600,BX7,PROX.BR,Telekom,BE0003810273
+405,Prudential PLC,852069,EuroStoxx600,PRU,PRU.L,Finanzdienstleistungen,GB0007099541
+406,Prysmian S.p.A.,A0MP84,EuroStoxx600,AEU,PRY.MI,Sonstige Technologie,IT0004176001
+407,PSP Swiss Property AG,A0CA16,EuroStoxx600,P7S,PSPN.SW,Immobilien,CH0018294154
+408,Publicis Groupe S.A.,859386,EuroStoxx600,PU4,PUB.PA,Dienstleistungen,FR0000130577
+409,Puma SE,696960,EuroStoxx600,PUM,PUM.DE,Freizeitprodukte,DE0006969603
+410,Qiagen N.V.,A2DKCH,EuroStoxx600,QIA,QGEN,Biotechnologie,NL0012169213
+411,Quilter PLC,A2JK4L,EuroStoxx600,2FQ,QLT.L,Finanzdienstleistungen,GB00BDCXV269
+412,Raiffeisen Bank International AG,A0D9SU,EuroStoxx600,RAW,RBI.VI,Finanzdienstleistungen,AT0000606306
+413,Randstad N.V.,879309,EuroStoxx600,RSH,RAND.AS,Dienstleistungen,NL0000379121
+414,Rational AG,701080,EuroStoxx600,RAA,RAA.DE,Konsumgüter,DE0007010803
+415,Reckitt Benckiser Group PLC,A0M1W6,EuroStoxx600,3RB,RKT.L,Konsumgüter,GB00B24CGK77
+416,Recordati - Industria Chimica e Farmaceutica S.p.A.,A0EABR,EuroStoxx600,RER1,REC.MI,Biotechnologie,IT0003828271
+417,Red Electrica Corporacion S.A.,A2ANA3,EuroStoxx600,RE21,REE.MC,Versorger,ES0173093024
+418,Relx PLC,A0M95J,EuroStoxx600,RDEB,REL.L,Medien,GB00B2B0DG97
+419,Remy Cointreau S.A.,883206,EuroStoxx600,RMC,RCO.PA,Getränke/Tabak,FR0000130395
+420,Renault S.A.,893113,EuroStoxx600,RNL,RNO.PA,Fahrzeuge,FR0000131906
+421,Rentokil Initial PLC,A0EQ3A,EuroStoxx600,RTO1,RTO.L,Dienstleistungen,GB00B082RF11
+422,Repsol S.A.,876845,EuroStoxx600,REP,REP.MC,Öl/Gas,ES0173516115
+423,Rexel S.A.,A0MM7Q,EuroStoxx600,E7V,RXL.PA,Handel/E-Commerce,FR0010451203
+424,Rheinmetall AG,703000,EuroStoxx600,RHM,RHM.DE,Maschinenbau,DE0007030009
+425,Rightmove PLC,A2NB0W,EuroStoxx600,3JDA,RMV.L,Internet,GB00BGDT3G23
+426,RINGK.LANDBOBK DK 1,A2DSNH,EuroStoxx600,CJ2,RILBA.CO,Finanzdienstleistungen,DK0060854669
+427,Rio Tinto PLC,852147,EuroStoxx600,RIO1,RIO.L,Rohstoffe,GB0007188757
+428,ROCHE HLDG AG GEN.,855167,EuroStoxx600,RHO5,ROG.SW,Pharma,CH0012032048
+429,Rockwool International A/S,889488,EuroStoxx600,R90,ROCK-B.CO,Bau/Infrastruktur,DK0010219153
+430,Rolls Royce Holdings PLC,A1H81L,EuroStoxx600,RRU,RR.L,Luftfahrt/Rüstung,GB00B63H8491
+431,Rotork PLC,A14RF2,EuroStoxx600,RO41,ROR.L,Maschinenbau,GB00BVFNZH21
+432,Royal Mail PLC,A1W5N2,EuroStoxx600,RYE,RMG.L,Logistik/Transport,GB00BDVZYZ77
+433,Royal Unibrew A/S,-,EuroStoxx600,not_found,not_found,not_found,not_found
+434,Rubis S.A.,A2DUVQ,EuroStoxx600,BYNN,RUI.PA,Öl/Gas,FR0013269123
+435,RWE AG,703712,EuroStoxx600,RWE,RWE.DE,Versorger,DE0007037129
+436,Ryanair Holdings PLC,A1401Z,EuroStoxx600,RY4C,RYA.IR,Luftfahrt/Rüstung,IE00BYTBXV33
+437,S.A. D'Ieteren NV,A1H5AN,EuroStoxx600,DJDA,DIE.BR,Fahrzeuge,BE0974259880
+438,Safestore Holdings PLC,A0MLXJ,EuroStoxx600,IHF,SAFE.L,Logistik/Transport,GB00B1N7Z094
+439,Safran S.A.,924781,EuroStoxx600,IHF,SAF.PA,Luftfahrt/Rüstung,FR0000073272
+440,Salmar ASA,A0MR2G,EuroStoxx600,JEP,SALM.OL,Nahrungsmittel/Agrar,NO0010310956
+441,Samhallsbyggnadsbolaget I Norden AB,A2E40N,EuroStoxx600,JSI,SBB-B.ST,Immobilien,SE0009554454
+442,Sampo OYJ,881463,EuroStoxx600,JSI,SAMPO.HE,Finanzdienstleistungen,FI0009003305
+443,SANDVIK AB,865956,EuroStoxx600,SVKB,SAND.ST,Maschinenbau,SE0000667891
+444,Sanofi S.A.,920657,EuroStoxx600,SNW,SAN.PA,Pharma,FR0000120578
+445,SAP SE,716460,EuroStoxx600,SAP,SAP.DE,Software,DE0007164600
+446,Sartorius AG Vz.,716563,EuroStoxx600,SRT3,SRT3.DE,Sonstige Technologie,DE0007165631
+447,Sartorius Stedim Biotech S.A.,A2AJKS,EuroStoxx600,56S1,DIM.PA,Biotechnologie,FR0013154002
+448,SBM Offshore N.V.,A0JLZV,EuroStoxx600,IHCB,SBMO.AS,Öl/Gas,NL0000360618
+449,Scatec Solar ASA,A12C5D,EuroStoxx600,66T,SCATC.OL,Erneuerbare Energien,NO0010715139
+450,Schibsted-Gruppen,884432,EuroStoxx600,XPG,SCHA.OL,Medien,NO0003028904
+451,Schindler Holding AG,A0JEHV,EuroStoxx600,SHRQ,SCHP.SW,Bau/Infrastruktur,CH0024638196
+452,Schneider Electric SE,860180,EuroStoxx600,SND,SU.PA,Elektrotechnologie,FR0000121972
+453,Schroders PLC,929969,EuroStoxx600,PYX,SDR.L,Finanzdienstleistungen,GB0002405495
+454,Scor SE,A0LGQX,EuroStoxx600,SDRC,SCR.PA,Finanzdienstleistungen,FR0010411983
+455,Scout24 AG,A12DM8,EuroStoxx600,G24,G24.DE,Internet,DE000A12DM80
+456,SEB S.A.,862948,EuroStoxx600,GRB,SK.PA,Konsumgüter,FR0000121709
+457,SECTRA AB B (P.S.),A3C4TV,EuroStoxx600,61L1,SECT-B.ST,IT-Dienstleistungen,SE0016278196
+458,Securitas AB,883870,EuroStoxx600,S7MB,SECU-B.ST,Dienstleistungen,SE0000163594
+459,Segro PLC,A0N9B0,EuroStoxx600,S4VC,SGRO.L,Immobilien,GB00B5ZN1N88
+460,SES S.A.,914993,EuroStoxx600,SES,SGBAF,Telekom,LU0088087324
+461,Severn Trent PLC,A0LBHG,EuroStoxx600,SVT1,SVT.L,Getränke/Tabak,GB00B1FH8J72
+462,SGS S.A.,870264,EuroStoxx600,SUVN,SGSN.SW,Dienstleistungen,CH0002497458
+463,Shell PLC,A0D94M,EuroStoxx600,not_found,not_found,not_found,not_found
+464,Shop Apotheke Europe N.V.,A2AR94,EuroStoxx600,SAE,SAE.DE,Internet,NL0012044747
+465,Siegfried Holding AG,891169,EuroStoxx600,SQG,SFZN.SW,Pharma,CH0014284498
+466,Siemens AG,723610,EuroStoxx600,SIE,SIE.DE,Elektrotechnologie,DE0007236101
+467,Siemens Energy AG,ENER6Y,EuroStoxx600,ENR,ENR.DE,Industrie/Mischkonzerne,DE000ENER6Y0
+468,Siemens Gamesa Renewable Energy S.A.,A0B5Z8,EuroStoxx600,GTQ1,SGRE.MC,Erneuerbare Energien,ES0143416115
+469,Siemens Healthineers AG,SHL100,EuroStoxx600,SHL,SHL.DE,Gesundheitswesen,DE000SHL1006
+470,SIG Combibloc Group AG,-,EuroStoxx600,not_found,not_found,not_found,not_found
+471,Signify N.V.,A2AJ7T,EuroStoxx600,G14,LIGHT.AS,Elektrotechnologie,NL0011821392
+472,Sika AG,A2JNV8,EuroStoxx600,SIKA,SIKA.SW,Chemie,CH0418792922
+473,SimCorp A/S,A1WZM4,EuroStoxx600,XCL1,SIM.CO,Software,DK0060495240
+474,Sinch AB,A141LF,EuroStoxx600,not_found,not_found,not_found,not_found
+475,Skandinaviska Enskilda Banken AB,859768,EuroStoxx600,SEBA,SEB-A.ST,Finanzdienstleistungen,SE0000148884
+476,SKANSKA AB,863784,EuroStoxx600,SKNB,SKA-B.ST,Bau/Infrastruktur,SE0000113250
+477,SKF AB,852608,EuroStoxx600,SKFB,SKF-B.ST,Maschinenbau,SE0000108227
+478,Smith & Nephew PLC,502816,EuroStoxx600,NPW1,SN.L,Gesundheitswesen,GB0009223206
+479,Smiths Group PLC,A0MSHN,EuroStoxx600,QS2A,SMIN.L,Industrie/Mischkonzerne,GB00B1WY2338
+480,Smurfit Kappa Group PLC,A0MLCS,EuroStoxx600,SK3,SK3.IR,Holz/Papier,IE00B1RR8406
+481,Snam S.p.A.,764545,EuroStoxx600,SNM,SRG.MI,Öl/Gas,IT0003153415
+482,Societe Generale S.A.,873403,EuroStoxx600,SGE,GLE.PA,Finanzdienstleistungen,FR0000130809
+483,Sodexo S.A.,870935,EuroStoxx600,SJ7,SW.PA,Dienstleistungen,FR0000121220
+484,Sofina S.A.,852448,EuroStoxx600,8FS,SOF.BR,Finanzdienstleistungen,BE0003717312
+485,Softcat PLC,A1430G,EuroStoxx600,SF5,SCT.L,IT-Dienstleistungen,GB00BYZDVK82
+486,SOFTWAREONE N,-,EuroStoxx600,not_found,not_found,not_found,not_found
+487,Soitec S.A.,A2DKAC,EuroStoxx600,SOH1,SOI.PA,Halbleiter,FR0013227113
+488,Solvay S.A.,856200,EuroStoxx600,SOL,SOLB.BR,Chemie,BE0003470755
+489,Sonova Holding AG,893484,EuroStoxx600,PHBN,SOON.SW,Sonstige Technologie,CH0012549785
+490,Sopra Steria Group S.A.,880013,EuroStoxx600,OR8,SOP.PA,IT-Dienstleistungen,FR0000050809
+491,Spectris PLC,884647,EuroStoxx600,FA9,SXS.L,Sonstige Technologie,GB0003308607
+492,Spie S.A.,A14UTB,EuroStoxx600,4SP,SPIE.PA,Dienstleistungen,FR0012757854
+493,Spirax-Sarco Engineering PLC,A14Q5B,EuroStoxx600,1LNB,SPX.L,Maschinenbau,GB00BWFGQN14
+494,SSE PLC,881905,EuroStoxx600,SCT,SSE.L,Versorger,GB0007908733
+495,St. James Place Capital Plc.,888460,EuroStoxx600,1IV,STJ.L,Dienstleistungen,GB0007669376
+496,Stadler Rail AG,A2ACPS,EuroStoxx600,6RL,SRAIL.SW,Logistik/Transport,CH0002178181
+497,Standard Chartered PLC,859123,EuroStoxx600,STD,STAN.L,Finanzdienstleistungen,GB0004082847
+498,Standard Life Aberdeen PLC,-,EuroStoxx600,not_found,not_found,not_found,not_found
+499,Stellantis N.V.,A2QL01,EuroStoxx600,8TI,STLA.MI,Fahrzeuge,NL00150001Q9
+500,STMicroelectronics N.V.,893438,EuroStoxx600,SGM,STM.PA,Halbleiter,NL0000226223
+501,Stora Enso Oyj.,871004,EuroStoxx600,ENUR,STERV.HE,Holz/Papier,FI0009005961
+502,Storebrand ASA,867218,EuroStoxx600,SKT,STB.OL,Finanzdienstleistungen,NO0003053605
+503,STORSKOGEN GROUP AB SER.B,A3C4JU,EuroStoxx600,0VK,STOR-B.ST,Finanzdienstleistungen,SE0016797732
+504,Straumann Holding AG,914326,EuroStoxx600,QS5,STMN.SW,Gesundheitswesen,CH0012280076
+505,Suez S.A.,A0Q418,EuroStoxx600,SZ1,SEV.PA,Versorger,FR0010613471
+506,Svenska Cellulosa AB,856193,EuroStoxx600,SCA,SCA-B.ST,Holz/Papier,SE0000112724
+507,Svenska Handelsbanken AB,A14S60,EuroStoxx600,SVHH,SHB-A.ST,Finanzdienstleistungen,SE0007100599
+508,"SWECO AB B        SK 1,-",A2QJA4,EuroStoxx600,7W71,SWEC-B.ST,Dienstleistungen,SE0014960373
+509,Swedbank AB,895705,EuroStoxx600,FRYA,SWED-A.ST,Finanzdienstleistungen,SE0000242455
+510,Swedish Match AB,A3CNFX,EuroStoxx600,SWMC,SWMA.ST,Konsumgüter,SE0015812219
+511,Swedish Orphan Biovitrum AB,A0LA5K,EuroStoxx600,B6E,SOBI.ST,Biotechnologie,SE0000872095
+512,Swiss Life Holding AG,778237,EuroStoxx600,SLW,SLHN.SW,Finanzdienstleistungen,CH0014852781
+513,Swiss Prime Site AG,927016,EuroStoxx600,SU1N,SPSN.SW,Immobilien,CH0008038389
+514,Swiss Re AG,A1H81M,EuroStoxx600,SR9,SREN.SW,Finanzdienstleistungen,CH0126881561
+515,Swisscom AG,916234,EuroStoxx600,SWJ,SCMN.SW,Telekom,CH0008742519
+516,Symrise AG,SYM999,EuroStoxx600,SY1,SY1.DE,Chemie,DE000SYM9999
+517,TAG Immobilien AG,830350,EuroStoxx600,TEG,TEG.DE,Immobilien,DE0008303504
+518,Takeaway. com N.V.,A2ASAC,EuroStoxx600,T5W,TKWY.AS,Internet,NL0012015705
+519,Tate & Lyle PLC,854798,EuroStoxx600,TLY,TATE.L,Nahrungsmittel/Agrar,GB0008754136
+520,Taylor Wimpey PLC,852015,EuroStoxx600,TWW,TW.L,Bau/Infrastruktur,GB0008782301
+521,Tecan Group AG,922557,EuroStoxx600,TEN,TECN.SW,Gesundheitswesen,CH0012100191
+522,TechnipFMC Ltd.,A2DJQK,EuroStoxx600,1T1,FTI,Öl/Gas,GB00BDSFG982
+523,TELE2 AB,A1WYU5,EuroStoxx600,not_found,not_found,not_found,not_found
+524,Telecom Italia S.p.A.,120470,EuroStoxx600,TQI,TIT.MI,Telekom,IT0003497168
+525,Telefonica S.A.,850775,EuroStoxx600,TNE5,TEF.MC,Telekom,ES0178430E18
+526,Telenor ASA,591260,EuroStoxx600,TEQ,TEL.OL,Telekom,NO0010063308
+527,Telia Company AB,938475,EuroStoxx600,TLS,TELIA.ST,Telekom,SE0000667925
+528,Temenos AG,676682,EuroStoxx600,TE8N,TEMN.SW,Software,CH0012453913
+529,Tenaris S.A.,164557,EuroStoxx600,TW11,TEN.MI,Eisen/Stahl,LU0156801721
+530,Terna S.P.A.,A0B5N8,EuroStoxx600,UEI,TRN.MI,Erneuerbare Energien,IT0003242622
+531,Tesco PLC,A2QQMK,EuroStoxx600,TCO0,TSCO.L,Handel/E-Commerce,GB00BLGZ9862
+532,Thales S.A.,850842,EuroStoxx600,CSF,HO.PA,Elektrotechnologie,FR0000121329
+533,The British Land Co. PLC,852556,EuroStoxx600,BLD,BLND.L,Immobilien,GB0001367019
+534,The Sage Group PLC,A1WYYZ,EuroStoxx600,SGK1,SGE.L,Dienstleistungen,GB00B8C3BL03
+535,The Swatch Group AG,865126,EuroStoxx600,UHR,UHR.SW,Konsumgüter,CH0012255151
+536,The Weir Group PLC,857968,EuroStoxx600,42W,WEIR.L,Maschinenbau,GB0009465807
+537,Thule Group AB,A12FTD,EuroStoxx600,TU0,THULE.ST,Freizeitprodukte,SE0006422390
+538,thyssenkrupp AG,750000,EuroStoxx600,TKA,TKA.DE,Eisen/Stahl,DE0007500001
+539,Tomra Systems ASA,872535,EuroStoxx600,TMR,TOM.OL,Maschinenbau,NO0005668905
+540,TotalEnergies SE,850727,EuroStoxx600,TOTB,TTE.PA,Öl/Gas,FR0000120271
+541,Trainline PLC,-,EuroStoxx600,not_found,not_found,not_found,not_found
+542,Travis Perkins PLC,A3CN01,EuroStoxx600,LFPB,TPK.L,Bau/Infrastruktur,GB00BK9RKT01
+543,Trelleborg AB,873098,EuroStoxx600,TLLB,TREL-B.ST,Industrie/Mischkonzerne,SE0000114837
+544,Tryg AS,A14S5W,EuroStoxx600,T2V1,TRYG.CO,Finanzdienstleistungen,DK0060636678
+545,TUI AG,TUAG00,EuroStoxx600,TUI1,TUI1.DE,Hotels/Tourismus,DE000TUAG000
+546,Téléperformance SE,889287,EuroStoxx600,RCF,TEP.PA,Dienstleistungen,FR0000051807
+547,Ubisoft Entertainment S.A.,901581,EuroStoxx600,UEN,UBI.PA,Software,FR0000054470
+548,UBS Group AG,A12DFH,EuroStoxx600,0UB,UBSG.SW,Finanzdienstleistungen,CH0244767585
+549,UCB S.A.,852738,EuroStoxx600,UNC,UCB.BR,Pharma,BE0003739530
+550,Umicore S.A.,A2H5A3,EuroStoxx600,NVJP,UMI.BR,Chemie,BE0974320526
+551,Unibail-Rodamco-Westfield SE,A2JH5S,EuroStoxx600,1BR1,URW.AS,Immobilien,FR0013326246
+552,UniCredit S.p.A.,A2DJV6,EuroStoxx600,CRIN,UCG.MI,Finanzdienstleistungen,IT0005239360
+553,Unilever PLC,A0JNE2,EuroStoxx600,UNVB,ULVR.L,Konsumgüter,GB00B10RZP78
+554,Uniper SE,UNSE01,EuroStoxx600,UN01,UN01.DE,Versorger,DE000UNSE018
+555,Unite Group PLC,634811,EuroStoxx600,UN01,UN01.DE,Versorger,DE000UNSE018
+556,United Internet AG,508903,EuroStoxx600,UTDI,UTDI.DE,Internet,DE0005089031
+557,United Utilities Group PLC,A0Q4EC,EuroStoxx600,UUEC,UU.L,Versorger,GB00B39J2M42
+558,UPM Kymmene Corp.,881026,EuroStoxx600,RPL,UPM.HE,Holz/Papier,FI0009005987
+559,Valeo SE,A2ALDB,EuroStoxx600,VSA2,FR.PA,Fahrzeuge,FR0013176526
+560,Valmet Oyj,A1XA9J,EuroStoxx600,2VO,VALMT.HE,Maschinenbau,FI4000074984
+561,VAT Group AG,A2AGGY,EuroStoxx600,19V,VACN.SW,Maschinenbau,CH0311864901
+562,Veolia Environnement S.A.,501451,EuroStoxx600,VVD,VIE.PA,Versorger,FR0000124141
+563,Verbund AG,877738,EuroStoxx600,OEWA,VER.VI,Versorger,AT0000746409
+564,Vestas Wind Systems AS,A3CMNS,EuroStoxx600,VWSB,VWS.CO,Erneuerbare Energien,DK0061539921
+565,Victrex PLC,898554,EuroStoxx600,1OY,VCT.L,Kunststoffe/Verpackungen,GB0009292243
+566,Vifor Pharma AG,A2DRZ4,EuroStoxx600,G2AA,VIFN.SW,Pharma,CH0364749348
+567,Vinci S.A.,867475,EuroStoxx600,SQU,DG.PA,Bau/Infrastruktur,FR0000125486
+568,Virgin Money UK PLC,A2AD8K,EuroStoxx600,42YA,VMUK.L,Finanzdienstleistungen,GB00BD6GN030
+569,Viscofan S.A.,872335,EuroStoxx600,VIS,VIS.MC,Nahrungsmittel/Agrar,ES0184262212
+570,Vivendi S.A.,591068,EuroStoxx600,VVU,VIV.PA,Unterhaltung,FR0000127771
+571,Vodafone Group PLC,A1XA83,EuroStoxx600,VODI,VOD.L,Telekom,GB00BH4HKS39
+572,voestalpine AG,897200,EuroStoxx600,VAS,VOE.VI,Eisen/Stahl,AT0000937503
+573,Volkswagen AG Vz.,766403,EuroStoxx600,VOW3,VOW3.DE,Fahrzeuge,DE0007664039
+574,Volvo,855689,EuroStoxx600,VOL1,VOLVB.PR,Fahrzeuge,SE0000115446
+575,Volvo Car AB,A3C5QN,EuroStoxx600,8JO,VOLCAR-B.ST,Fahrzeuge,SE0016844831
+576,Vonovia SE,A1ML7J,EuroStoxx600,VNA,VNA.DE,Immobilien,DE000A1ML7J1
+577,Wallenstam AB,A14TU2,EuroStoxx600,WAEC,WALL-B.ST,Immobilien,SE0007074844
+578,Warehouses De Pauw S.C.A.,A2PXG1,EuroStoxx600,WPHB,WDP.BR,Immobilien,BE0974349814
+579,Watches of Switzerland Group Ltd.,A2PLJE,EuroStoxx600,not_found,not_found,not_found,not_found
+580,Wendel S.A.,850709,EuroStoxx600,WIS,MF.PA,Finanzdienstleistungen,FR0000121204
+581,Whitbread PLC,A0LGB1,EuroStoxx600,WHF4,WTB.L,Hotels/Tourismus,GB00B1KJJ408
+582,Wienerberger AG,852894,EuroStoxx600,WIB,WIE.VI,Bau/Infrastruktur,AT0000831706
+583,Wizz Air Holdings PLC,A14NPS,EuroStoxx600,WI2,WIZZ.L,Luftfahrt/Rüstung,JE00BN574F90
+584,Wm Morrison Supermarkets PLC,880225,EuroStoxx600,,not_found,Handel/E-Commerce,GB0006043169
+585,Wolters Kluwer N.V.,A0J2R1,EuroStoxx600,WOSB,WKL.AS,Medien,NL0000395903
+586,Worldline SA,A116LR,EuroStoxx600,WO6,WLN.PA,IT-Dienstleistungen,FR0011981968
+587,WPP PLC,A1J2BZ,EuroStoxx600,0WP,WPP.L,Dienstleistungen,JE00B8KF9B49
+588,Wärtsilä Corp.,881050,EuroStoxx600,MTA,WRT1V.HE,Maschinenbau,FI0009003727
+589,Yara International ASA,A0BL7F,EuroStoxx600,IU2,YAR.OL,Chemie,NO0010208051
+590,Zalando SE,ZAL111,EuroStoxx600,ZAL,ZAL.DE,Handel/E-Commerce,DE000ZAL1111
+591,Zur Rose Group AG,A0Q6J0,EuroStoxx600,ZRE,ROSE.SW,Pharma,CH0042615283
+592,Zurich Insurance Group AG,579919,EuroStoxx600,ZFIN,ZURN.SW,Finanzdienstleistungen,CH0011075394

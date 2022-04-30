@@ -1,0 +1,1378 @@
+,name,wkn,index,de_ticker,ticker,industry,ISIN
+0,3D Systems Corp,888346,NYSE,SYV,DDD,Hardware,US88554D2053
+1,3M Company,851745,NYSE,MMM,MMM,Konsumgüter,US88579Y1010
+2,A10 Networks,A1XEYC,NYSE,8A0,ATEN,Netzwerktechnik,US0021211018
+3,AAR Corp,862821,NYSE,ARZ,AIR,Dienstleistungen,US0003611052
+4,ABB Ltd,675089,NYSE,ABJA,ABB,Elektrotechnologie,US0003752047
+5,Abbott Laboratories,850103,NYSE,ABL,ABT,Pharma,US0028241000
+6,ABBVIE,A1J84E,NYSE,4AB,ABBV,Pharma,US00287Y1091
+7,Abercrombie & Fitch Co,903016,NYSE,AFT,ANF,Bekleidung/Textil,US0028962076
+8,ABM Industries,857218,NYSE,AB4,ABM,Dienstleistungen,US0009571003
+9,Acadia Realty Trust,985331,NYSE,WX1,AKR,Immobilien,US0042391096
+10,Accenture PLC,A0YAQA,NYSE,CSA,ACN,IT-Dienstleistungen,IE00B4BNMY34
+11,Acco Brands Corp,A0F7D1,NYSE,A3B,ACCO,Konsumgüter,US00081T1088
+12,Acuity Brands,813307,NYSE,AQ8,AYI,Bau/Infrastruktur,US00508Y1029
+13,Adecoagro SA,A1H63F,NYSE,ACD,AGRO,Nahrungsmittel/Agrar,LU0584671464
+14,Advance Auto Parts,982516,NYSE,AWN,AAP,Fahrzeuge,US00751Y1064
+15,Advanced Drainage Systems,A117FL,NYSE,6DA,WMS,Bau/Infrastruktur,US00790R1041
+16,Advantest Corp.,A0KE8F,NYSE,VANA,ATEYY,Elektrotechnologie,US00762U2006
+17,Aecom,A0MMEV,NYSE,E6Z,ACM,Dienstleistungen,US00766T1007
+18,Aegon NV,873131,NYSE,AENF,AEG,Finanzdienstleistungen,US0079241032
+19,Aercap Holdings NV,A0LFB3,NYSE,R1D,AER,Luftfahrt/Rüstung,NL0000687663
+20,Aerojet Rocketdyne Holdings,A14RBW,NYSE,GCY,AJRD,Sonstige Technologie,US0078001056
+21,AES Corp,882177,NYSE,AES,AES,Versorger,US00130H1059
+22,Affiliated Managers Group,910682,NYSE,AFS,AMG,Finanzdienstleistungen,US0082521081
+23,Aflac,853081,NYSE,AFL,AFL,Finanzdienstleistungen,US0010551028
+24,AG Mortgage Investment Trust,A1JLMZ,NYSE,not_found,not_found,not_found,not_found
+25,AGCO Corp,888282,NYSE,AGJ,AGCO,Fahrzeuge,US0010841023
+26,Agilent Technologies,929138,NYSE,AG8,A,Elektrotechnologie,US00846U1016
+27,Agnico Eagle Mines Ltd,860325,NYSE,AE9,AEM,Rohstoffe,CA0084741085
+28,Agree Realty Corp,890700,NYSE,AGL,ADC,Immobilien,US0084921008
+29,Air Lease Corp,A1H92R,NYSE,AVLA,AL,Luftfahrt/Rüstung,US00912X3026
+30,Air Products & Chemicals,854912,NYSE,AP3,APD,Chemie,US0091581068
+31,Alamo Group,886106,NYSE,AL3,ALG,Maschinenbau,US0113111076
+32,Alaska Air Group,869843,NYSE,ALK,ALK,Luftfahrt/Rüstung,US0116591092
+33,Albany International Corp,874315,NYSE,AII,AIN,Sonstige Technologie,US0123481089
+34,Albemarle Corp,890167,NYSE,AMC,ALB,Chemie,US0126531013
+35,Alexander & Baldwin,A1J0RZ,NYSE,ABU,ALEX,Immobilien,US0144911049
+36,Alexander's,857899,NYSE,AXE,ALX,Immobilien,US0147521092
+37,Alexandria Real Estate Equities,907179,NYSE,A6W,ARE,Immobilien,US0152711091
+38,Alibaba Group Holding Limited,A117ME,NYSE,AHLA,BABA,Handel/E-Commerce,US01609W1027
+39,Alleghany Corp,872718,NYSE,AGA,Y,Finanzdienstleistungen,US0171751003
+40,Allegheny Technologies,931083,NYSE,ATD,ATI,Eisen/Stahl,US01741R1023
+41,Allegion Public Limited,A1W869,NYSE,60A,ALLE,Sonstige Technologie,IE00BFRT3W74
+42,ALLETE,A0DJ2T,NYSE,AEBA,ALE,Versorger,US0185223007
+43,Alliance Data Systems Corp,934251,NYSE,LID,ADS,Dienstleistungen,US0185811082
+44,AllianceBernstein Holding LP,A0JEGN,NYSE,,AB,Finanzdienstleistungen,US01881G1067
+45,Alliant Energy Corp,855870,NYSE,AY1,LNT,Versorger,US0188021085
+46,Allison Transmission Holdings,A1JGSV,NYSE,1A7,ALSN,Maschinenbau,US01973R1014
+47,Allstate Corp (The),886429,NYSE,ALS,ALL,Finanzdienstleistungen,US0200021014
+48,Ally Financial,A1W2MF,NYSE,GMZ,ALLY,Finanzdienstleistungen,US02005N1000
+49,Altria Group,200417,NYSE,PHM7,MO,Getränke/Tabak,US02209S1033
+50,Alum Corp,982495,NYSE,AOCA,ACH,Rohstoffe,US0222761092
+51,Ambev SA,A1W749,NYSE,AMNA,AMNA.F,Getränke/Tabak,US02319V1035
+52,AMC Entertainment Holdings,A1W90H,NYSE,AH9,AMC,Unterhaltung,US00165C1045
+53,Ameren Corp,911535,NYSE,AE4,AEE,Versorger,US0236081024
+54,Ameresco,A1C2FD,NYSE,4AM,AMRC,Dienstleistungen,US02361E1082
+55,America Movil SAB de CV,603115,NYSE,MV9L,AMX,Telekom,US02364W1053
+56,American Assets Trust,A1H59V,NYSE,not_found,AAT,Immobilien,US0240131047
+57,American Axle & Manufacturing Holdings,918692,NYSE,AYA,AXL,Fahrzeuge,US0240611030
+58,American Campus Communities,A0B7TP,NYSE,FGA,ACC,Immobilien,US0248351001
+59,American Eagle Outfitters,897113,NYSE,AFG,AEO,Bekleidung/Textil,US02553E1064
+60,American Electric Power Company,850222,NYSE,AEP,AEP,Versorger,US0255371017
+61,American Equity Investment Life Holding Company,914349,NYSE,AM5,AEL,Finanzdienstleistungen,US0256762065
+62,American Express Company,850226,NYSE,AEC1,AXP,Finanzdienstleistungen,US0258161092
+63,American Financial Group,894969,NYSE,QFI,AFG,Finanzdienstleistungen,US0259321042
+64,American Homes 4 Rent,A1W3P0,NYSE,A4XA,AMH,Immobilien,US02665T3068
+65,American International Group,A0X88Z,NYSE,AINN,AIG,Finanzdienstleistungen,US0268747849
+66,American Realty Investors,541936,NYSE,not_found,not_found,not_found,not_found
+67,American States Water Company,881720,NYSE,FDK,AWR,Dienstleistungen,US0298991011
+68,American Tower Corp,A1JRLA,NYSE,A0T,AMT,Immobilien,US03027X1000
+69,American Vanguard Corp,675543,NYSE,AVJ,AVD,Chemie,US0303711081
+70,American Water Works Company,A0NJ38,NYSE,AWC,AWK,Versorger,US0304201033
+71,Ameriprise Financial,A0F55S,NYSE,A4S,AMP,Finanzdienstleistungen,US03076C1062
+72,AmerisourceBergen Corp,766149,NYSE,ABG,ABC,Dienstleistungen,US03073E1055
+73,Ametek,908668,NYSE,AK1,AME,Elektrotechnologie,US0311001004
+74,AMN Healthcare Services,798185,NYSE,HCQ,AMN,Gesundheitswesen,US0017441017
+75,Ampco-Pittsburgh Corp,852259,NYSE,,AP,Eisen/Stahl,US0320371034
+76,Amphenol Corp,882749,NYSE,XPH,APH,Elektrotechnologie,US0320951017
+77,AMREP Corp,856767,NYSE,not_found,not_found,not_found,not_found
+78,AngloGold Ashanti Limited,915102,NYSE,AOD,AU,Rohstoffe,US0351282068
+79,Anheuser-Busch INBEV SA/NV,A0N916,NYSE,ITKA,BUD,Getränke/Tabak,US03524A1088
+80,Annaly Capital Management,909823,NYSE,AAY,NLY,Finanzdienstleistungen,US0357104092
+81,ANTERO RESOURCES Corp,A1W4U4,NYSE,7A6,AR,Öl/Gas,US03674X1063
+82,ANTHEM,A12FMV,NYSE,A58,ANTM,Gesundheitswesen,US0367521038
+83,AO Smith Corp,868323,NYSE,3SM,AOS,Maschinenbau,US8318652091
+84,APA Corp,857530,NYSE,not_found,not_found,not_found,not_found
+85,Apollo Commercial Real Estate Finance,A0YA4B,NYSE,9A1,ARI,Finanzdienstleistungen,US03762U1051
+86,Apple Hospitality REIT,A14VYT,NYSE,48T,APLE,Immobilien,US03784Y2000
+87,Applied Industrial Technologies,861210,NYSE,AT4,AIT,Handel/E-Commerce,US03820C1053
+88,AptarGroup,886413,NYSE,AGT,ATR,Kunststoffe/Verpackungen,US0383361039
+89,Aptiv PLC,A1JPLB,NYSE,D7A,APTV,Fahrzeuge,JE00B783TY65
+90,ARAMARK,A1W92R,NYSE,0AK,ARMK,Dienstleistungen,US03852U1060
+91,Arbor Realty Trust,A0CAPU,NYSE,OWQ,ABR,Immobilien,US0389231087
+92,ARC Document Solutions,A1KA8Z,NYSE,BK1,ARC,Dienstleistungen,US00191G1031
+93,Archer Daniels Midland Company,854161,NYSE,ADM,ADM,Getränke/Tabak,US0394831020
+94,Arcos Dorados Holdings,A1H9NG,NYSE,AD8,ARCO,Nahrungsmittel/Agrar,VGG0457F1071
+95,ARDMORE SHIPPING Corp,A1W4G1,NYSE,A61,ASC,Logistik/Transport,MHY0207T1001
+96,Ares Commercial Real Estate Corp,A1J0GG,NYSE,41I,ACRE,Immobilien,US04013V1089
+97,Argan,784598,NYSE,1AW,AGX,Bau/Infrastruktur,US04010E1091
+98,Arista Networks,A11099,NYSE,117,ANET,Netzwerktechnik,US0404131064
+99,Armada Hoffler Properties,A1WY9H,NYSE,791,AHH,Immobilien,US04208T1088
+100,Armstrong World Industries,A0LCJG,NYSE,91A,AWI,Bau/Infrastruktur,US04247X1028
+101,Arrow Electronics,855225,NYSE,ARW,ARW,IT-Dienstleistungen,US0427351004
+102,Arthur J Gallagher & Co,869761,NYSE,GAH,AJG,Finanzdienstleistungen,US3635761097
+103,Artisan Partners Asset Management,A1JU4Y,NYSE,AP0,APAM,Finanzdienstleistungen,US04316A1088
+104,ASA Gold and Precious Metals Limited,A0DLN4,NYSE,FZ6,ASA,Finanzdienstleistungen,BMG3156P1032
+105,Asbury Automotive Group,766687,NYSE,AWG,ABG,Handel/E-Commerce,US0434361046
+106,Aspen Aerogels,A115KY,NYSE,AP1,ASPN,Bau/Infrastruktur,US04523Y1055
+107,Aspen Insurance Holdings Limited,-,NYSE,not_found,not_found,not_found,not_found
+108,Associated Banc-Corp,907145,NYSE,AB5,ASB,Finanzdienstleistungen,US0454871056
+109,Assurant,A0BLRP,NYSE,ZAS,AIZ,Finanzdienstleistungen,US04621X1081
+110,Assured Guaranty Ltd,A0CATL,NYSE,DHU,AGO,Finanzdienstleistungen,BMG0585R1060
+111,AstraZeneca PLC,886715,NYSE,ZEGA,AZN,Pharma,US0463531089
+112,AT&T,A0RM5Z,NYSE,PE2,TPC,Bau/Infrastruktur,US9011091082
+113,AT&T,A0HL9Z,NYSE,SOBA,T,Telekom,US00206R1023
+114,Atmos Energy Corp,868746,NYSE,AEO,ATO,Öl/Gas,US0495601058
+115,AU Optronics Corp,621971,NYSE,AU7A,AUOTY,Hardware,US0022551073
+116,Autohome,A1W97C,NYSE,8AHB,ATHM,Internet,US05278C1071
+117,Autoliv,906892,NYSE,LIV,ALV,Fahrzeuge,US0528001094
+118,AutoNation,880953,NYSE,RWI,AN,Handel/E-Commerce,US05329W1027
+119,AutoZone,881531,NYSE,AZ5,AZO,Handel/E-Commerce,US0533321024
+120,AvalonBay Communities,914867,NYSE,WV8,AVB,Immobilien,US0534841012
+121,Avery Dennison Corp,850354,NYSE,AV3,AVY,Dienstleistungen,US0536111091
+122,Avista Corp,856142,NYSE,AV6,AVA,Versorger,US05379B1070
+123,Aviva Plc,A0YC5C,NYSE,GU8E,AVVIY,Finanzdienstleistungen,US05382A1043
+124,Avnet,850355,NYSE,VNI,AVT,IT-Dienstleistungen,US0538071038
+125,Axalta Coating Systems Ltd,A12EDV,NYSE,9AX,AXTA,Chemie,BMG0750C1082
+126,Axis Capital Holders Limited,482025,NYSE,AXV,AXS,Finanzdienstleistungen,BMG0692U1099
+127,AZZ,863132,NYSE,AI7,AZZ,Sonstige Technologie,US0024741045
+128,B&G Foods,A0CATC,NYSE,DHR,BGS,Nahrungsmittel/Agrar,US05508R1068
+129,Badger Meter,863871,NYSE,33B,BMI,Maschinenbau,US0565251081
+130,Ball Corp,860408,NYSE,BL8,BLL,Kunststoffe/Verpackungen,US0584981064
+131,Banc of California,A1W2U2,NYSE,FPB,BANC,Finanzdienstleistungen,US05990K1060
+132,Banco Bilbao Vizcaya Argentaria SA,876152,NYSE,BBVA,BBVA,Finanzdienstleistungen,US05946K1016
+133,Banco Bradesco SA,A0B9WE,NYSE,BREC,BBD,Finanzdienstleistungen,US0594603039
+134,Banco Bradesco SA,A1JWED,NYSE,BREA,BBDO,Finanzdienstleistungen,US0594604029
+135,Banco de ChileAmerican,529496,NYSE,G4RA,G4RA.F,Finanzdienstleistungen,US0595201064
+136,Banco Latinoamericano de Comercio Exterior SA,884869,NYSE,D8Q,BLX,Finanzdienstleistungen,PAP169941328
+137,Banco Macro SA,A0JJT4,NYSE,B4W,BMA,Finanzdienstleistungen,US05961W1053
+138,Banco Santander (Brasil) SA,A0YBKP,NYSE,DBSA,DBSA.F,Finanzdienstleistungen,US05967A1079
+139,Banco Santander SA,873816,NYSE,BSDK,SAN,Finanzdienstleistungen,US05964H1059
+140,Banco Santander-Chile,904916,NYSE,BSA,BSAC,Finanzdienstleistungen,US05965X1090
+141,Bancolombia SA,896739,NYSE,BXK,CIB,Finanzdienstleistungen,US05968L1026
+142,Bank of America Corp,858388,NYSE,NCB,BAC,Finanzdienstleistungen,US0605051046
+143,Bank of Hawaii Corp,875284,NYSE,PIV,BOH,Finanzdienstleistungen,US0625401098
+144,Bank of Montreal,850386,NYSE,BZZ,BMO.TO,Finanzdienstleistungen,CA0636711016
+145,Bank of New York Mellon Corp,A0MVKA,NYSE,BN9,BMO.TO,Finanzdienstleistungen,US0640581007
+146,Bank of Nova Scotia,850388,NYSE,BKN,BMO.TO,Finanzdienstleistungen,CA0641491075
+147,Bankunited,A1H51S,NYSE,BNU,BKU,Finanzdienstleistungen,US06652K1034
+148,Barclays PLC,911762,NYSE,BCY2,BCS,Finanzdienstleistungen,US06738E2046
+149,Barnes & Noble Education,A14WT8,NYSE,2BN,BNED,Handel/E-Commerce,US06777U1016
+150,Barnes Group,861254,NYSE,BG4,B,Sonstige Technologie,US0678061096
+151,BARRACUDA NETWORKS DL-001,A1W6GG,NYSE,,not_found,Netzwerktechnik,US0683231049
+152,Barrick Gold Corp,870450,NYSE,ABR,ABX.TO,Rohstoffe,CA0679011084
+153,Baxter International,853815,NYSE,BTL,BAX,Gesundheitswesen,US0718131099
+154,Baytex Energy Corp,A1H5TA,NYSE,B5X,BTE.TO,Öl/Gas,CA07317Q1054
+155,BCE,A0J3LN,NYSE,BCE1,BCE.TO,Telekom,CA05534B7604
+156,Beazer Homes USA,A1J51W,NYSE,BE4A,BZH,Bau/Infrastruktur,US07556Q8814
+157,Becton Dickinson and Co,857675,NYSE,BOX,BDX,Gesundheitswesen,US0758871091
+158,Belden,A0B8CA,NYSE,QCTA,BDC,Elektrotechnologie,US0774541066
+159,Benchmark Electronics,885906,NYSE,BMU,BHE,Elektrotechnologie,US08160H1014
+160,Berkshire Hathaway,854075,NYSE,BRH,BRK-A,Finanzdienstleistungen,US0846701086
+161,Berkshire Hathaway,A0YJQ2,NYSE,BRYN,BRK-B,Finanzdienstleistungen,US0846707026
+162,Berkshire Hills Bancorp,676594,NYSE,4I9,BHLB,Finanzdienstleistungen,US0846801076
+163,Berry Global Group,A1J4U3,NYSE,BP0,BERY,Kunststoffe/Verpackungen,US08579W1036
+164,Best Buy Company,873629,NYSE,BUY,BBY,Handel/E-Commerce,US0865161014
+165,BHP Group Limited,863578,NYSE,BHP,BHP,Rohstoffe,US0886061086
+166,BHP Group Plc,909062,NYSE,BIL1,BBL,Rohstoffe,US05545E2090
+167,Big Lots,869884,NYSE,4B3,BIG,Handel/E-Commerce,US0893021032
+168,Bio-Rad Laboratories,862449,NYSE,BUW,BIO-B,Biotechnologie,US0905721082
+169,Bio-Rad Laboratories IncClass A,865406,NYSE,BUWA,BIO,Biotechnologie,US0905722072
+170,Bitauto Holdings Limited,A1C89E,NYSE,,not_found,Internet,US0917271076
+171,Black Hills Corp,867434,NYSE,BHI,BKH,Versorger,US0921131092
+172,Blackrock,928193,NYSE,BLQA,BLK,Finanzdienstleistungen,US09247X1019
+173,Blackstone Mortgage Trust,A1T90Y,NYSE,079A,BXMT,Finanzdienstleistungen,US09257W1009
+174,Boeing Company,850471,NYSE,BCO,BA,Luftfahrt/Rüstung,US0970231058
+175,Boise Cascade Company,A1KCND,NYSE,BC0,BCC,Bau/Infrastruktur,US09739D1000
+176,Boot Barn Holdings,A12EFD,NYSE,OBB,BOOT,Handel/E-Commerce,US0994061002
+177,Booz Allen Hamilton Holding Corp,A1C599,NYSE,BZ9,BAH,Dienstleistungen,US0995021062
+178,BorgWarner,887320,NYSE,BGW,BWA,Fahrzeuge,US0997241064
+179,Boston Beer Company,898161,NYSE,BBEA,SAM,Getränke/Tabak,US1005571070
+180,Boston Properties,907550,NYSE,BO9,BXP,Finanzdienstleistungen,US1011211018
+181,Boston Scientific Corp,884113,NYSE,BSX,BSX,Gesundheitswesen,US1011371077
+182,BOX,A110YG,NYSE,3BX,BOX,Internet,US10316T1043
+183,Boyd Gaming Corp,896499,NYSE,BO5,BYD,Unterhaltung,US1033041013
+184,BP plc,850518,NYSE,BSU,BP,Öl/Gas,US0556221044
+185,BP Prudhoe Bay Royalty Trust,985301,NYSE,BMI,BPT,Finanzdienstleistungen,US0556301077
+186,Brady Corp,900104,NYSE,BRV,BRC,Sonstige Technologie,US1046741062
+187,Brandywine Realty Trust,875818,NYSE,B2X,BDN,Immobilien,US1053682035
+188,BrasilAgro - Companhia Brasileira de Propriedades Agricolas,A1C6JK,NYSE,52BA,52BA.F,Nahrungsmittel/Agrar,US10554B1044
+189,Braskem SA,896191,NYSE,BRD,BRD.F,Chemie,US1055321053
+190,BRF - Brasil Foods SA,A0N9BM,NYSE,P5Y,BRFSN.MX,Nahrungsmittel/Agrar,US10552T1079
+191,Bright Horizons Family Solutions,A1KB0K,NYSE,BHA,BFAM,Dienstleistungen,US1091941005
+192,Brink's Company (The),264748,NYSE,PTY,BCO,Dienstleistungen,US1096961040
+193,Brinker International,881396,NYSE,BKJ,EAT,Nahrungsmittel/Agrar,US1096411004
+194,Bristol-Myers Squibb Co,850501,NYSE,BRM,BMY,Pharma,US1101221083
+195,Brixmor Property Group,A1W514,NYSE,BXR,BRX,Immobilien,US11120U1051
+196,Broadridge Financial Solutions,A0MMP1,NYSE,5B9,BR,Finanzdienstleistungen,US11133T1034
+197,Brookdale Senior Living,A0HL7W,NYSE,B7S,BKD,Immobilien,US1124631045
+198,Brookfield Asset Management,A0HNRY,NYSE,BKAA,BAM-A.TO,Finanzdienstleistungen,CA1125851040
+199,Brookfield Infrastructure Partners LP,A0M74Z,NYSE,not_found,BIP,Versorger,BMG162521014
+200,Brookfield Renewable Partners LP,A1JQFZ,NYSE,not_found,not_found,not_found,not_found
+201,Brown & Brown,896895,NYSE,BTW,BRO,Finanzdienstleistungen,US1152361010
+202,Brown-Forman Corp,850530,NYSE,BF5A,BF-A,Getränke/Tabak,US1156371007
+203,Brown-Forman Corp,856693,NYSE,BF5B,BF-B,Getränke/Tabak,US1156372096
+204,BRT Apartments Corp,985178,NYSE,WWA,BRT,Immobilien,US0556453035
+205,Brunswick Corp,850531,NYSE,BWI,BC,Freizeitprodukte,US1170431092
+206,Buckle (The),884929,NYSE,BK2,BKE,Handel/E-Commerce,US1184401065
+207,Build-A-Bear Workshop,A0DK8F,NYSE,FPW,BBW,Konsumgüter,US1200761047
+208,Bunge Limited,762269,NYSE,BU3,BG,Nahrungsmittel/Agrar,BMG169621056
+209,Burlington Stores,A1W54Y,NYSE,BUI,BURL,Handel/E-Commerce,US1220171060
+210,BWX Technologies,A14V4U,NYSE,4BW,BWXT,Maschinenbau,US05605H1005
+211,C3ai,A0YBXE,NYSE,FRM2,AAIC,Finanzdienstleistungen,US0413562051
+212,Cable One,A14UKB,NYSE,XC1,CABO,Telekom,US12685J1051
+213,Cabot Corp,856744,NYSE,CBT,CBT,Chemie,US1270551013
+214,Cabot Oil & Gas Corp,881646,NYSE,XCQ,CTRA,Öl/Gas,US1270971039
+215,Caci International CLA,906006,NYSE,CA8A,CACI,Internet,US1271903049
+216,CAE,854167,NYSE,CE9,CAE.TO,Luftfahrt/Rüstung,CA1247651088
+217,Caleres,A14T37,NYSE,BRP,CAL,Bekleidung/Textil,US1295001044
+218,California Water Service,850556,NYSE,WT5,CWT,Versorger,US1307881029
+219,CALIX,A1CVEW,NYSE,CXA,CALX,Netzwerktechnik,US13100M5094
+220,Callaway Golf Company,883644,NYSE,CLY,ELY,Freizeitprodukte,US1311931042
+221,Camden Property Trust,985335,NYSE,CAL,CPT,Immobilien,US1331311027
+222,Cameco Corp,882017,NYSE,CJ6,CCO.TO,Rohstoffe,CA13321L1085
+223,Campbell Soup Company,850561,NYSE,CSC,CPB,Nahrungsmittel/Agrar,US1344291091
+224,Canadian Imperial Bank of Commerce,850576,NYSE,CAI,CM.TO,Finanzdienstleistungen,CA1360691010
+225,Canadian National Railway,897879,NYSE,CY2,CNR.TO,Logistik/Transport,CA1363751027
+226,Canadian Natural Resources Limited,865114,NYSE,CRC,CNQ.TO,Rohstoffe,CA1363851017
+227,Canadian Pacific Railway,798292,NYSE,PC8,CP.TO,Logistik/Transport,CA13645T1003
+228,Canon,866490,NYSE,CNNA,CAJ,Sonstige Technologie,US1380063099
+229,Capital One Financial,893413,NYSE,CFX,COF,Finanzdienstleistungen,US14040H1059
+230,Capstead Mortgage Corp,872385,NYSE,not_found,not_found,not_found,not_found
+231,Capstead Mortgage Corp,A110TA,NYSE,not_found,not_found,not_found,not_found
+232,Cardinal Health,880206,NYSE,CLH,CAH,Gesundheitswesen,US14149Y1082
+233,CARE.COM,A1XB98,NYSE,not_found,not_found,not_found,not_found
+234,Carlisle Companies,871884,NYSE,CLE,CSL,Industrie/Mischkonzerne,US1423391002
+235,CarMax,662604,NYSE,XA4,KMX,Handel/E-Commerce,US1431301027
+236,Carnival Corp,120100,NYSE,CVC1,CCL,Hotels/Tourismus,PA1436583006
+237,Carnival PLC,264713,NYSE,POH3,CUK,Hotels/Tourismus,US14365C1036
+238,Carpenter Technology Corp,858605,NYSE,XTY,CRS,Eisen/Stahl,US1442851036
+239,Carriage Services,902313,NYSE,C57,CSV,Dienstleistungen,US1439051079
+240,Carter's,777514,NYSE,HCH,CRI,Bekleidung/Textil,US1462291097
+241,Castlight Health,A1XEPE,NYSE,109,CSLT,Software,US14862Q1004
+242,CATALENT,A112H2,NYSE,0C8,CTLT,Pharma,US1488061029
+243,Catchmark Timber Trust,A110ZX,NYSE,6F7,CTT,Immobilien,US14912Y2028
+244,Caterpillar,850598,NYSE,CAT1,CAT,Maschinenbau,US1491231015
+245,CATO Corp,881902,NYSE,CO2A,CATO,Handel/E-Commerce,US1492051065
+246,CBIZ,A0F5F5,NYSE,XC4,CBZ,Dienstleistungen,US1248051021
+247,Cbre Group,A1JLYH,NYSE,RF6,CBRE,Immobilien,US12504L1098
+248,Cedar Fair LP,876729,NYSE,,FUN,Hotels/Tourismus,US1501851067
+249,Cedar Realty Trust,-,NYSE,not_found,not_found,not_found,not_found
+250,"Celadon Group, Inc.",889409,NYSE,CG2,CGIP,Logistik/Transport,US1508381001
+251,Celanese Corp,A0DP2A,NYSE,DG3,CE,Chemie,US1508701034
+252,Celestica,914782,NYSE,CTW,CLS.TO,Elektrotechnologie,CA15101Q1081
+253,Cellcom Israel Ltd,A0MKP2,NYSE,F5U,CEL.TA,Telekom,IL0011015349
+254,Cemex SAB de CV,925905,NYSE,CEXA,CX,Bau/Infrastruktur,US1512908898
+255,Cenovus Energy,A0YD8C,NYSE,CXD,CVE.TO,Öl/Gas,CA15135U1093
+256,Centene Corp,766458,NYSE,QEN,CNC,Gesundheitswesen,US15135B1017
+257,CenterPoint Energy,854566,NYSE,HOU,CNP,Versorger,US15189T1079
+258,Centrais Eletricas Brasileiras SA- Eletrobras,901849,NYSE,L3XC,EBR-B,Versorger,US15234Q1085
+259,Centrais Eletricas Brasileiras SA- Eletrobras,903460,NYSE,L3XB,EBR,Versorger,US15234Q2075
+260,Central Pacific Financial Corp,A1H60J,NYSE,XCP1,CPF,Finanzdienstleistungen,US1547604090
+261,Century Communities,A114W9,NYSE,CCT,CCS,Bau/Infrastruktur,US1565043007
+262,CenturyLink,866405,NYSE,not_found,not_found,not_found,not_found
+263,CF Industries Holding,A0ES9N,NYSE,C4F,CF,Chemie,US1252691001
+264,CHANNELADVISOR Corp,A1T84J,NYSE,CDL,ECOM,Software,US1591791009
+265,Charles River Laboratories International,939391,NYSE,RV6,CRL,Pharma,US1598641074
+266,Charles Schwab Corp (The),874171,NYSE,SWG,SCHW,Finanzdienstleistungen,US8085131055
+267,Chatham Lodging Trust,A1CW27,NYSE,not_found,CLDT,Immobilien,US16208T1025
+268,Cheetah Mobile,A113JY,NYSE,0C9A,CMCM,Software,US1630751048
+269,CHEGG,A1W4ER,NYSE,0CG,CHGG,Dienstleistungen,US1630921096
+270,Chemed Corp,A0CBF4,NYSE,CXM,CHE,Gesundheitswesen,US16359R1032
+271,Chevron Corp,852552,NYSE,CHV,CVX,Öl/Gas,US1667641005
+272,CHICAGO BRIDGE+IR. EO-01,693235,NYSE,not_found,not_found,not_found,not_found
+273,Chicos FAS,907418,NYSE,YC8,CHS,Bekleidung/Textil,US1686151028
+274,China Eastern Airlines,905284,NYSE,CIA,CEA,Luftfahrt/Rüstung,US16937R1041
+275,China Life Insurance Company Ltd,A0BKRY,NYSE,CLF,LFC,Finanzdienstleistungen,US16939P1066
+276,CHINA PETROLEUM & CHEMICAL Corp,578971,NYSE,CHUA,SNP,Öl/Gas,US16941R1086
+277,China Southern Airlines Company Limited,907982,NYSE,ZNH,ZNH.F,Luftfahrt/Rüstung,US1694091091
+278,CHINA TELECOM H YC 1,A0M4XS,NYSE,ZCH,0728.HK,Telekom,CNE1000002V2
+279,China Yuchai International Ltd,893697,NYSE,CYD,CYD,Fahrzeuge,BMG210821051
+280,Chipotle Mexican Grill,A0ESP5,NYSE,C9F,CMG,Nahrungsmittel/Agrar,US1696561059
+281,Choice Hotels Intnl,915916,NYSE,CZH,CHH,Hotels/Tourismus,US1699051066
+282,Chubb Limited,A0Q636,NYSE,AEX,CB,Finanzdienstleistungen,CH0044328745
+283,CHUNGHWA TELECOM CO Ltd,A1H4PX,NYSE,CHWD,CHT,Telekom,US17133Q5027
+284,Church & Dwight Co,864371,NYSE,CXU,CHD,Konsumgüter,US1713401024
+285,Ciena Corp,A0LDA7,NYSE,CIE1,CIEN,Telekom,US1717793095
+286,Cinemark Holdings,A0MK44,NYSE,ZZA,CNK,Unterhaltung,US17243V1026
+287,CIRCOR International,929260,NYSE,CCI,CIR,Maschinenbau,US17273K1097
+288,CIT Group,A0YGL2,NYSE,not_found,not_found,not_found,not_found
+289,Citigroup,899500,NYSE,CH5,CPK,Versorger,US1653031088
+290,Citigroup,A1H92V,NYSE,TRVC,C,Finanzdienstleistungen,US1729674242
+291,Citizens,694147,NYSE,YCX,CIA,Finanzdienstleistungen,US1747401008
+292,Citizens Financial Group,A12BD3,NYSE,1C5,CFG,Finanzdienstleistungen,US1746101054
+293,City Office Reit,A12E4P,NYSE,5QV,CIO,Immobilien,US1785871013
+294,Clean Harbors,876514,NYSE,CH6,CLH,Biotechnologie,US1844961078
+295,Clearwater Paper Corp,A0RDWM,NYSE,5WC,CLW,Holz/Papier,US18538R1032
+296,CLIFFS NATURAL RES,A0RBDY,NYSE,not_found,not_found,not_found,not_found
+297,Clorox Company,856678,NYSE,CXX,CLX,Kosmetik,US1890541097
+298,Cloud Peak Energy Inc,A0YERN,NYSE,,not_found,Rohstoffe,US18911Q1022
+299,CMS Energy Corp,850795,NYSE,CSG,CMS,Versorger,US1258961002
+300,CNA Financial Corp,856402,NYSE,CNH,CNA,Finanzdienstleistungen,US1261171003
+301,CNH Industrial NV,A1W599,NYSE,37C,CNHI,Industrie/Mischkonzerne,NL0010545661
+302,CNO Financial Group,A1CYFY,NYSE,COS,CNO,Finanzdienstleistungen,US12621E1038
+303,CNOOC Limited,631636,NYSE,NC2A,not_found,Öl/Gas,US1261321095
+304,Coca-Cola Company,850663,NYSE,CCC3,KO,Getränke/Tabak,US1912161007
+305,Coca-Cola FEMSA SAB DE CV,887811,NYSE,CFSL,KOF,Getränke/Tabak,US1912411089
+306,Coeur Mining,A0RNL2,NYSE,CDM1,CDE,Rohstoffe,US1921085049
+307,Cohen & Steers,A0B7TN,NYSE,FG9,CNS,Finanzdienstleistungen,US19247A1007
+308,Colfax Corp,A0MVPD,NYSE,C52,CFX,Maschinenbau,US1940141062
+309,Colgate-Palmolive Company,850667,NYSE,CPA,CL,Konsumgüter,US1941621039
+310,Columbia Property Trust,A1XBGJ,NYSE,,not_found,Immobilien,US1982872038
+311,Comerica,864861,NYSE,CA3,CMA,Finanzdienstleistungen,US2003401070
+312,Comfort Systems USA,907784,NYSE,9CF,FIX,Dienstleistungen,US1999081045
+313,Commercial Metals Company,855786,NYSE,CMS,CMC,Eisen/Stahl,US2017231034
+314,Community Bank System,896709,NYSE,CBY,CBU,Finanzdienstleistungen,US2036071064
+315,Community Health Systems,939156,NYSE,CG5,CYH,Gesundheitswesen,US2036681086
+316,Community Healthcare Trust,A142P1,NYSE,4U9,CHCT,Immobilien,US20369C1062
+317,Companhia DE Saneamento B Sico DO Estado DE SAO Paulo-Sabesp Ads's,621975,NYSE,SAJA,SBS,Dienstleistungen,US20441A1025
+318,Companhia Energetica De Minas Gerais-CEMIG,895236,NYSE,CID,CIGN.MX,Versorger,US2044096012
+319,Companhia Energetica De Minas Gerais-CEMIG,A0YDQJ,NYSE,CIDS,CIG-C,Versorger,US2044098828
+320,Companhia Siderurgica Nacional SA,907167,NYSE,CQWA,SID,Eisen/Stahl,US20440W1053
+321,Compania Cervecerias Unidas SA,885057,NYSE,CVU,CVU.F,Getränke/Tabak,US2044291043
+322,Compania de Minas Buenaventura SA,900844,NYSE,MBU,not_found,Rohstoffe,US2044481040
+323,Compass Diversified,A0JMWA,NYSE,5CX,CODI,Finanzdienstleistungen,US20451Q1040
+324,Compass Minerals International,A0BKZZ,NYSE,CM8,CMP,Rohstoffe,US20451N1019
+325,Conagra Brands,861259,NYSE,CAO,CAG,Nahrungsmittel/Agrar,US2058871029
+326,Concord Medical Services Holding Limited,A0YF3D,NYSE,C2CA,CCM,Gesundheitswesen,US2062771058
+327,ConocoPhillips,575302,NYSE,YCP,COP,Öl/Gas,US20825C1045
+328,Consolidated Edison,911563,NYSE,EDC,ED,Elektrotechnologie,US2091151041
+329,Constellation Brands,871918,NYSE,CB1A,STZ,Getränke/Tabak,US21036P1084
+330,Constellation Brands,871887,NYSE,CB1B,STZ-B,Getränke/Tabak,US21036P2074
+331,Consumers Energy Company $4.50 Cumulative Preferred,A0YDQL,NYSE,not_found,not_found,not_found,not_found
+332,Continental Resources,A0MQ12,NYSE,C5L,CLR,Öl/Gas,US2120151012
+333,CONTROLADORA VUELA COMPAniA DE AVIACIoN SAB DE CV,A1W5BG,NYSE,2CDA,2CDA.F,Luftfahrt/Rüstung,US21240E1055
+334,Cooper Companies (The),867409,NYSE,CP6,COO,Gesundheitswesen,US2166484020
+335,Cooper-Standard Automotive,A1H5BU,NYSE,C31,CPS,Fahrzeuge,US21676P1030
+336,Copa Holdings SA,A0H1Q1,NYSE,C2H,CPA,Luftfahrt/Rüstung,PAP310761054
+337,Core Laboratories NV,897269,NYSE,CEI,CLB,Öl/Gas,NL0000200384
+338,Coresite Realty Corp,A1C3R4,NYSE,not_found,not_found,not_found,not_found
+339,Corning,850808,NYSE,GLW,GLW,Industrie/Mischkonzerne,US2193501051
+340,Corporate Office Properties Trust,913833,NYSE,WX7,OFC,Immobilien,US22002T1088
+341,Corrections Corp. of America,785392,NYSE,not_found,not_found,not_found,not_found
+342,Costamare,A1C8A6,NYSE,LCM,CMRE,Logistik/Transport,MHY1771G1026
+343,COTY,A1WY6X,NYSE,CO3A,COTY,Kosmetik,US2220702037
+344,Covanta Holding Corp,A0F60S,NYSE,not_found,not_found,not_found,not_found
+345,Crane Company,850819,NYSE,CZN,CR,Industrie/Mischkonzerne,US2243991054
+346,Crawford & Company,938270,NYSE,CWK0,CRD-A,Finanzdienstleistungen,US2246332066
+347,Crawford & Company,884741,NYSE,CWK,CRD-B,Finanzdienstleistungen,US2246331076
+348,CRED.SUISSE GRP NA SF-04,876800,NYSE,CSX,CSGN.SW,Finanzdienstleistungen,CH0012138530
+349,Credicorp Ltd,899417,NYSE,D8V,BAP,Finanzdienstleistungen,BMG2519Y1084
+350,Credit Enhanced Corts Trust,A0YDRF,NYSE,not_found,not_found,not_found,not_found
+351,Credit Suisse Group,911778,NYSE,CSX1,CSX1.F,Finanzdienstleistungen,US2254011081
+352,CRESCENT POINT ENERGY Corp,A0NDGG,NYSE,016,CPG.TO,Öl/Gas,CA22576C1014
+353,CRH Public Limited,923944,NYSE,XCRA,CRH,Bau/Infrastruktur,US12626K2033
+354,Cross Timbers Royalty Trust,938271,NYSE,not_found,not_found,not_found,not_found
+355,Crown Holdings,252092,NYSE,CWN,CCK,Kunststoffe/Verpackungen,US2283681060
+356,CryoLife,900006,NYSE,CYL,AORT,Pharma,US2289031005
+357,CTS Corp,850843,NYSE,XT1,CTS,Elektrotechnologie,US1265011056
+358,CubeSmart,A1JKQD,NYSE,UK8,CUBE,Immobilien,US2296631094
+359,Cullen/Frost Bankers,906913,NYSE,CFZ,CFR,Finanzdienstleistungen,US2298991090
+360,Culp,919437,NYSE,CUZ,CULP,Bekleidung/Textil,US2302151053
+361,Cummins,853121,NYSE,CUM,CMI,Maschinenbau,US2310211063
+362,Curtiss-Wright Corp,850852,NYSE,CWT,CW,Industrie/Mischkonzerne,US2315611010
+363,Customers Bancorp,A1WZCH,NYSE,334,CUBI,Finanzdienstleistungen,US23204G1004
+364,CVR Energy,A0MUHT,NYSE,FL9,CVI,Öl/Gas,US12662P1084
+365,CVS HEALTH Corp,859034,NYSE,CVS,CVS,Handel/E-Commerce,US1266501006
+366,Cypress Environmental Partners LP,A1XCBB,NYSE,,CELP,Öl/Gas,US2327511075
+367,Dana,A0NC7J,NYSE,4DH,DAN,Fahrzeuge,US2358252052
+368,Danaher Corp,866197,NYSE,DAP,DHR,Industrie/Mischkonzerne,US2358511028
+369,Daqo New Energy Corp,A1KAFV,NYSE,5DQ2,DQ,Erneuerbare Energien,US23703Q2030
+370,Darden Restaurants,895738,NYSE,DDN,DRI,Nahrungsmittel/Agrar,US2371941053
+371,Darling Ingredients,895117,NYSE,43D,DAR,Nahrungsmittel/Agrar,US2372661015
+372,DaVita,897914,NYSE,TRL,DVA,Gesundheitswesen,US23918K1088
+373,DCP Midstream LP,A0HMVE,NYSE,,DCP,Öl/Gas,US23311P1003
+374,Deckers Outdoor Corp,894298,NYSE,DO2,DECK,Bau/Infrastruktur,US2435371073
+375,Deere & Company,850866,NYSE,DCO,DE,Maschinenbau,US2441991054
+376,Delek Logistics Partners LP,A1J7X0,NYSE,not_found,DKL,Öl/Gas,US24664T1034
+377,Delta Air Lines,A0MQV8,NYSE,OYC,DAL,Luftfahrt/Rüstung,US2473617023
+378,Deluxe Corp,860049,NYSE,DL8,DLX,Handel/E-Commerce,US2480191012
+379,Deutsche Bank Aktiengesellschaft,514000,NYSE,DBK,DBK.DE,Finanzdienstleistungen,DE0005140008
+380,Devon Energy Corp,925345,NYSE,DY6,DVN,Öl/Gas,US25179M1036
+381,DHT Holdings,A1J059,NYSE,D8EN,DHT,Logistik/Transport,MHY2065G1219
+382,Diageo plc,899505,NYSE,GUIA,DEO,Getränke/Tabak,US25243Q2057
+383,Diamond Offshore Drilling,897577,NYSE,,not_found,Öl/Gas,US25271C1027
+384,DiamondRock Hospitality Company,A0EQ4U,NYSE,HBO,DRH,Immobilien,US2527843013
+385,Diana Shipping,A0D9BX,NYSE,DSZ,DSX,Logistik/Transport,MHY2066G1044
+386,Diana Shipping,A1XFR8,NYSE,not_found,not_found,not_found,not_found
+387,Dick's Sporting Goods,662541,NYSE,DSG,DKS,Freizeitprodukte,US2533931026
+388,Diebold Nixdorf,856244,NYSE,DBD,DBD,Sonstige Technologie,US2536511031
+389,Digital Realty Trust,A0DLFT,NYSE,FQI,DLR,Immobilien,US2538681030
+390,Dillards,861569,NYSE,DL7A,DDS,Handel/E-Commerce,US2540671011
+391,Dine Brands Global,A0Q3V8,NYSE,IHP,DIN,Nahrungsmittel/Agrar,US2544231069
+392,Discover Financial Services,A0MUES,NYSE,DC7,DFS,Finanzdienstleistungen,US2547091080
+393,Dolby Laboratories IncClass A,A0DNCY,NYSE,FUO,DLB,Sonstige Technologie,US25659T1079
+394,Dollar General Corp,A0YEES,NYSE,7DG,DG,Handel/E-Commerce,US2566771059
+395,Dominion Energy,932798,NYSE,DOD,D,Versorger,US25746U1097
+396,Domino's Pizza,A0B6VQ,NYSE,EZV,DPZ,Nahrungsmittel/Agrar,US25754A2015
+397,DOMTAR Corp,A0RPCJ,NYSE,,UFS.TO,Holz/Papier,US2575592033
+398,Donaldson Company,859763,NYSE,DNZ,DCI,Sonstige Technologie,US2576511099
+399,DORIAN LPG Ltd,A1135G,NYSE,0DA,LPG,Logistik/Transport,MHY2106R1100
+400,Douglas Dynamics,A1CVGB,NYSE,5D4,PLOW,Maschinenbau,US25960R1059
+401,Douglas Emmett,A0LCP8,NYSE,D8K,DEI,Immobilien,US25960P1093
+402,Dover Corp,853707,NYSE,DOV,DOV,Maschinenbau,US2600031080
+403,Dover Motorsports,903175,NYSE,not_found,not_found,not_found,not_found
+404,DR Horton,884312,NYSE,HO2,DHI,Bau/Infrastruktur,US23331A1097
+405,Dr Reddy's Laboratories Limited,659157,NYSE,RDDA,RDY,Pharma,US2561352038
+406,DRDGOLD Ltd,A0MXRT,NYSE,DUBA,DUBA.F,Rohstoffe,US26152H3012
+407,Dril-Quip,910217,NYSE,DQU,DRQ,Öl/Gas,US2620371045
+408,DTE Energy Company,853943,NYSE,DGY,DTE,Versorger,US2333311072
+409,Ducommun,861421,NYSE,DUM,DCO,Sonstige Technologie,US2641471097
+410,Duke Energy Corp,A1J0EV,NYSE,D2MN,DUK,Versorger,US26441C2044
+411,Duke Realty Corp,887674,NYSE,DUR,DRE,Immobilien,US2644115055
+412,Dycom Industries,877158,NYSE,DYI,DY,Telekom,US2674751019
+413,Dynagas LNG Parners LP,A1W8VH,NYSE,DGL,DLNG,Logistik/Transport,MHY2188B1083
+414,Dynegy Inc. (New),A1J5JU,NYSE,not_found,not_found,not_found,not_found
+415,Eagle Materials,A0BLQZ,NYSE,E5M,EXP,Bau/Infrastruktur,US26969P1084
+416,Eagle Point Credit Company Inc,A2ASGJ,NYSE,not_found,not_found,not_found,not_found
+417,Easterly Government Properties,A14NJ2,NYSE,E05,DEA,Immobilien,US27616P1030
+418,EastGroup Properties,985160,NYSE,EGO,EGP,Immobilien,US2772761019
+419,Eastman Chemical Company,889082,NYSE,EAC,EMN,Chemie,US2774321002
+420,Eastman Kodak Company,A1W4RC,NYSE,KODN,KODK,Konsumgüter,US2774614067
+421,Eaton Corp,A1J88N,NYSE,3EC,ETN,Elektrotechnologie,IE00B8KQN827
+422,Ecolab,854545,NYSE,ECJ,ECL,Chemie,US2788651006
+423,Ecopetrol SA,A0Q9ZL,NYSE,ECHA,ECHA.F,Öl/Gas,US2791581091
+424,Edison International,887629,NYSE,EIX,EIX,Versorger,US2810201077
+425,Edwards Lifesciences Corp,936853,NYSE,EWL,EW,Pharma,US28176E1082
+426,Eli Lilly & Co,858560,NYSE,LLY,LLY,Pharma,US5324571083
+427,Ellington Residential Mortgage Reit,A1T940,NYSE,73Z,EARN,Finanzdienstleistungen,US2885781078
+428,Embotelladora Andina SA,906417,NYSE,AKOA,AKOA.SG,Getränke/Tabak,US29081P2048
+429,Embotelladora Andina SA,906418,NYSE,AKOB,AKOB.F,Getränke/Tabak,US29081P3038
+430,Embraer SA,A1C2PZ,NYSE,EMY,ERJN.MX,Luftfahrt/Rüstung,US29082A1079
+431,EMCOR Group,898814,NYSE,EM4,EME,Bau/Infrastruktur,US29084Q1004
+432,Emergent Biosolutions,A0LC2W,NYSE,ER4,EBS,Biotechnologie,US29089Q1058
+433,Emerson Electric Co,850981,NYSE,EMR,EMR,Elektrotechnologie,US2910111044
+434,Empire State Realty Trust,A1W6FF,NYSE,ES9,ESRT,Immobilien,US2921041065
+435,Employers Holdings,A0MKCX,NYSE,YGB,EIG,Finanzdienstleistungen,US2922181043
+436,Empresa Distribuidora Y Comercializadora Norte SA,A0MQYC,NYSE,PWD1,EDN,Versorger,US29244A1025
+437,Enable Midstream Partners LP,A1100W,NYSE,not_found,not_found,not_found,not_found
+438,Enbridge,885427,NYSE,EN3,ENB.TO,Öl/Gas,CA29250N1050
+439,Endeavour Silver Corp,A0DJ0N,NYSE,EJD,EDR.TO,Rohstoffe,CA29258Y1034
+440,Enel Americas SA,888164,NYSE,NER,ENIA,Versorger,US29274F1049
+441,Energy Transfer LP,A0JJTN,NYSE,not_found,ET,Öl/Gas,US29273V1008
+442,Enerplus Corp,A1H499,NYSE,E17,ERF.TO,Finanzdienstleistungen,CA2927661025
+443,EnerSys,A0B7EH,NYSE,FDN,ENS,Elektrotechnologie,US29275Y1029
+444,ENI SpA,898285,NYSE,ENI1,E,Versorger,US26874R1086
+445,Enlink Midstream LLC,A1XFKA,NYSE,0E41,ENLC,Öl/Gas,US29336T1007
+446,Ennis,850998,NYSE,,EBF,Konsumgüter,US2933891028
+447,Enova International,A12D51,NYSE,27E,ENVA,Finanzdienstleistungen,US29357K1034
+448,Enpro Industries,633524,NYSE,EP9,NPO,Maschinenbau,US29355X1072
+449,Entergy Corp,889290,NYSE,ETY,ETR,Versorger,US29364G1031
+450,Enterprise Products Partners LP,915716,NYSE,,EPD,Öl/Gas,US2937921078
+451,Entravision Communication,938502,NYSE,EV9,EVC,Medien,US29382R1077
+452,ENVESTNET,A1C2NW,NYSE,30E,ENV,Finanzdienstleistungen,US29404K1060
+453,Envision Healthcare Holdings Inc.,A1W3DY,NYSE,not_found,not_found,not_found,not_found
+454,Enzo Biochem,865607,NYSE,EZB,ENZ,Biotechnologie,US2941001024
+455,EOG Resources,877961,NYSE,EO5,EOG,Öl/Gas,US26875P1012
+456,Epam Systems,A1JS9Q,NYSE,E3M,EPAM,Software,US29414B1044
+457,EPR Properties,A1J8BX,NYSE,not_found,not_found,not_found,not_found
+458,EPR Properties,A1J8BY,NYSE,not_found,not_found,not_found,not_found
+459,EQT Corp,A0RFZL,NYSE,EQ6,EQT,Öl/Gas,US26884L1098
+460,Equifax,854618,NYSE,EFX,EFX,Finanzdienstleistungen,US2944291051
+461,Equity Commonwealth,A119BD,NYSE,HP5A,EQC,Immobilien,US2946281027
+462,Equity Commonwealth 6 1/,-,NYSE,not_found,not_found,not_found,not_found
+463,Equity Lifestyle Properties,A0DNDJ,NYSE,MHV,ELS,Immobilien,US29472R1086
+464,Equity Residential,985334,NYSE,EQR,EQR,Immobilien,US29476L1070
+465,Eros International PLC,A1W7D2,NYSE,E1OA,ESGC,Unterhaltung,IM00B86NL059
+466,ESCO Technologies,880907,NYSE,ET7,ESE,Sonstige Technologie,US2963151046
+467,Essent Group Ltd,A1W6VY,NYSE,EG0,ESNT,Finanzdienstleistungen,BMG3198U1027
+468,Essex Property Trust,891315,NYSE,EXP,ESS,Immobilien,US2971781057
+469,Estee Lauder Companies (The),897933,NYSE,ELAA,EL,Kosmetik,US5184391044
+470,Ethan Allen Interiors,885974,NYSE,not_found,ETD,Handel/E-Commerce,US2976021046
+471,Evercore,A0KEXP,NYSE,QGJ,EVR,Finanzdienstleistungen,US29977A1051
+472,Everest Re Group Ltd,580891,NYSE,ERE,RE,Finanzdienstleistungen,BMG3223R1088
+473,Eversource Energy,A14NE5,NYSE,NWJ,ES,Versorger,US30040W1080
+474,EVERTEC,A1T8GY,NYSE,2EV,EVTC,IT-Dienstleistungen,PR30040P1032
+475,Evogene Ltd,A0Q7UP,NYSE,not_found,EVGN.TA,Biotechnologie,IL0011050551
+476,EW Scripps Company (The),A0Q50J,NYSE,SQ6B,SSP,Medien,US8110544025
+477,Exelon Corp,852011,NYSE,PEO,EXC,Versorger,US30161N1019
+478,Express,A1CYT2,NYSE,02Z,EXPR,Bekleidung/Textil,US30219E1038
+479,Extra Space Storage,A0B7S6,NYSE,FG8,EXR,Logistik/Transport,US30225T1025
+480,Exxon Mobil Corp,852549,NYSE,XONA,XOM,Öl/Gas,US30231G1022
+481,Fabrinet,A0Q2S5,NYSE,FAN,FN,Elektrotechnologie,KYG3323L1005
+482,Factset Research Systems,901629,NYSE,FA1,FDS,Finanzdienstleistungen,US3030751057
+483,Fair Isaac Corp,873369,NYSE,FRI,FICO,Software,US3032501047
+484,Farmland Partners,A1XE4J,NYSE,0FA,FPI,Immobilien,US31154R1095
+485,Federal Agricultural Mortgage Corp,938456,NYSE,A35,AGM,Finanzdienstleistungen,US3131483063
+486,Federal Signal Corp,857967,NYSE,FSG,FSS,Fahrzeuge,US3138551086
+487,Federated Hermes,914304,NYSE,3KC,FHI,Finanzdienstleistungen,US3142111034
+488,FedEx Corp,912029,NYSE,FDX,FDX,Logistik/Transport,US31428X1063
+489,Ferro Corp,851060,NYSE,FR9,FOE,Sonstige Technologie,US3154051003
+490,Fidelity National Information Services,A0H1FP,NYSE,ZGY,FIS,IT-Dienstleistungen,US31620M1062
+491,First American Financial Corp,A1C0EH,NYSE,Y1F,FAF,Finanzdienstleistungen,US31847R1023
+492,First BanCorp,A1C9RC,NYSE,OLWN,FBP,Finanzdienstleistungen,PR3186727065
+493,First Commonwealth Financial Corp,919114,NYSE,FCF,FCF,Finanzdienstleistungen,US3198291078
+494,First Horizon Corp,A0CAN7,NYSE,FT2,FHN,Finanzdienstleistungen,US3205171057
+495,First Industrial Realty Trust,893711,NYSE,F5W,FR,Immobilien,US32054K1034
+496,FIRST MAJESTIC SILVER Corp,A0LHKJ,NYSE,FMV,FR.TO,Rohstoffe,CA32076V1031
+497,First Republic Bank,A1C7VF,NYSE,81R,FRC,Finanzdienstleistungen,US33616C1009
+498,FirstEnergy Corp,910509,NYSE,FE7,FE,Versorger,US3379321074
+499,Flagstar Bancorp,A1J51V,NYSE,FL2P,FBC,Finanzdienstleistungen,US3379307057
+500,FleetCor Technologies,A1C3R3,NYSE,07G,FLT,Sonstige Technologie,US3390411052
+501,Flotek Industries,A0F43X,NYSE,F2I,FTK,Maschinenbau,US3433891021
+502,Flowers Foods,632326,NYSE,FWF,FLO,Nahrungsmittel/Agrar,US3434981011
+503,Flowserve Corp,864999,NYSE,FWV,FLS,Maschinenbau,US34354P1057
+504,Fluor Corp,591332,NYSE,FLU,FLR,Bau/Infrastruktur,US3434121022
+505,FMC Corp,871138,NYSE,FMQ,FMC,Chemie,US3024913036
+506,FNB Corp,-,NYSE,not_found,not_found,not_found,not_found
+507,FNB Corp,919910,NYSE,FN2,FNB,Finanzdienstleistungen,US3025201019
+508,Fomento Economico Mexicano SAB DE CV,915671,NYSE,FOMA,FMX,Getränke/Tabak,US3444191064
+509,Foot Locker,877539,NYSE,WOO,FL,Handel/E-Commerce,US3448491049
+510,Ford Motor Company,502391,NYSE,FMC1,F,Fahrzeuge,US3453708600
+511,Foresight Energy LP,A1159A,NYSE,,not_found,Rohstoffe,US34552U1043
+512,FORTUNA Silver Mines,A0ETVA,NYSE,F4S,FVI.TO,Rohstoffe,CA3499151080
+513,Fortune Brands Home & Security,A1JE0N,NYSE,2FB,FBHS,Bau/Infrastruktur,US34964C1062
+514,Forum Energy Technologies Inc.,A2QJA0,NYSE,1FE1,FET,Öl/Gas,US34984V2097
+515,Franco-Nevada Corp,A0M8PX,NYSE,3FO,FNV.TO,Rohstoffe,CA3518581051
+516,Frank's International NV,A1W3ZG,NYSE,FK2,XPRO,Öl/Gas,NL0010556684
+517,Franklin Covey Company,884271,NYSE,,FC,Dienstleistungen,US3534691098
+518,Franklin Resources,870315,NYSE,FRK,BEN,Finanzdienstleistungen,US3546131018
+519,Freeport-McMoran,896476,NYSE,FPMB,FCX,Rohstoffe,US35671D8570
+520,Fresenius Medical Care AG & Co KGaA,879529,NYSE,FMEA,FMS,Gesundheitswesen,US3580291066
+521,Fresh Del Monte Produce,910307,NYSE,FDM,FDP,Nahrungsmittel/Agrar,KYG367381053
+522,FTI Consulting,907337,NYSE,FCQ,FCN,Dienstleistungen,US3029411093
+523,Future Fuel Corp,A0YHQB,NYSE,3FF,FF,Chemie,US36116M1062
+524,Gabelli Equity Trust Inc.,871949,NYSE,1KY,GAB,Finanzdienstleistungen,US3623971013
+525,GAMCO Investors,A0F56H,NYSE,6JV,GBL,Finanzdienstleistungen,US3614381040
+526,GameStop Corp,A0HGDX,NYSE,GS2C,GME,Unterhaltung,US36467W1099
+527,Gap (The),863533,NYSE,GAP,GPS,Bekleidung/Textil,US3647601083
+528,Gartner,887957,NYSE,GGRA,IT,IT-Dienstleistungen,US3666511072
+529,Gaslog Partners LP,A112DR,NYSE,03G,GLOP,Logistik/Transport,MHY2687W1084
+530,GATX Corp,851137,NYSE,GAX,GATX,Dienstleistungen,US3614481030
+531,Generac Holdings,A0YGR4,NYSE,G84,GNRC,Elektrotechnologie,US3687361044
+532,General Dynamics Corp,851143,NYSE,GDX,GD,Luftfahrt/Rüstung,US3695501086
+533,General Mills,853862,NYSE,GRM,GIS,Nahrungsmittel/Agrar,US3703341046
+534,General Motors Company,A1C9CM,NYSE,8GM,GM,Fahrzeuge,US37045V1008
+535,Genesco,851167,NYSE,GN8,GCO,Bekleidung/Textil,US3715321028
+536,Genesis Energy LP,904955,NYSE,,GEL,Öl/Gas,US3719271047
+537,GENIE ENERGY Ltd,A1JMHT,NYSE,6GE,GNE,Öl/Gas,US3722842081
+538,Genpact Limited,A0MXL7,NYSE,35G,G,Dienstleistungen,BMG3922B1072
+539,Genuine Parts Company,858406,NYSE,GPT,GPC,Fahrzeuge,US3724601055
+540,Genworth Financial,A0CA8M,NYSE,GGK,GNW,Finanzdienstleistungen,US37247D1063
+541,Geopark Limited,A0JML6,NYSE,G6O,GPRK,Öl/Gas,BMG383271050
+542,Gerdau SA,915270,NYSE,GDUA,GGB,Eisen/Stahl,US3737371050
+543,Getty Realty Corp,929043,NYSE,not_found,GTY,Immobilien,US3742971092
+544,Gildan Activewear,915121,NYSE,VGA,GIL.TO,Bekleidung/Textil,CA3759161035
+545,GlaxoSmithKline plc,940610,NYSE,GS7A,GSK,Pharma,US37733W1053
+546,Global Partners LP,A0HF1S,NYSE,not_found,GLP,Öl/Gas,US37946R1095
+547,Global Payments,603111,NYSE,GLO,GPN,IT-Dienstleistungen,US37940X1028
+548,Global Ship Lease,A2ANKV,NYSE,not_found,not_found,not_found,not_found
+549,Globant SA,A117M8,NYSE,2G2,GLOB,IT-Dienstleistungen,LU0974299876
+550,Globus Medical,A1J2LY,NYSE,GM0N,GMED,Gesundheitswesen,US3795772082
+551,GoDaddy,A14QAF,NYSE,38D,GDDY,Internet,US3802371076
+552,Gold Fields Ltd,862484,NYSE,EDG,GFI,Rohstoffe,US38059T1060
+553,Goldcorp Inc,890493,NYSE,not_found,not_found,not_found,not_found
+554,Goldman Sachs Group,920332,NYSE,GOS,GS,Finanzdienstleistungen,US38141G1040
+555,GP Strategies Corp,897296,NYSE,not_found,not_found,not_found,not_found
+556,Graco,859357,NYSE,GA8,GGG,Sonstige Technologie,US3841091040
+557,Graham Corp,857127,NYSE,781,GHM,Maschinenbau,US3845561063
+558,Graham Holdings Company,A1W9DT,NYSE,WPOB,GHC,Medien,US3846371041
+559,Granite Construction,879080,NYSE,GRG,GVA,Bau/Infrastruktur,US3873281071
+560,Granite Real Estate Investment Trust,A1KAGY,NYSE,4I7,GRT-UN.TO,Immobilien,CA3874371147
+561,Graphic Packaging Holding Company,A0NGSQ,NYSE,4W8,GPK,Kunststoffe/Verpackungen,US3886891015
+562,Gray Television,902961,NYSE,GCZB,GTN,Medien,US3893751061
+563,Gray Television,903419,NYSE,GCZA,GTN-A,Medien,US3893752051
+564,Great Ajax Corp,A14Q7L,NYSE,45R,AJX,Immobilien,US38983D3008
+565,Green Dot Corp,A1C0P5,NYSE,5GN,GDOT,Finanzdienstleistungen,US39304D1028
+566,Greenbrier Companies (The),891600,NYSE,G90,GBX,Maschinenbau,US3936571013
+567,Greenhill & Co,A0B9GF,NYSE,GH3,GHL,Finanzdienstleistungen,US3952591044
+568,Greif,924031,NYSE,GB6B,GEF-B,Kunststoffe/Verpackungen,US3976242061
+569,Greif,866263,NYSE,GR3,GEF,Kunststoffe/Verpackungen,US3976241071
+570,Griffon Corp,856788,NYSE,GFF,GFF,Dienstleistungen,US3984331021
+571,Group 1 Automotive,910163,NYSE,GAV,GPI,Handel/E-Commerce,US3989051095
+572,GRUMA SAB DE CV B ADR/5,A1J4GH,NYSE,not_found,not_found,not_found,not_found
+573,Grupo Aeroportuario del Pacifico SAB de CV Amer Dep Shares (each rep 10 Ser B shares),A0JDTM,NYSE,G9N,PAC,Luftfahrt/Rüstung,US4005061019
+574,Grupo Aeroportuario del Sureste SA,579253,NYSE,AEDA,ASR,Logistik/Transport,US40051E2028
+575,Grupo Aval Acciones Y Valores SA,A12A8M,NYSE,6GAA,6GAA.F,Finanzdienstleistungen,US40053W1018
+576,Grupo Televisa SA,888781,NYSE,TLV,TV,Medien,US40049J2069
+577,GTT Communications,A1XBSM,NYSE,2G6,GTTNQ,Telekom,US3623931009
+578,Guess,902204,NYSE,GU9,GES,Bekleidung/Textil,US4016171054
+579,Guidewire Software,A1JS4X,NYSE,0GS,GWRE,Software,US40171V1008
+580,H&R Block,859376,NYSE,HRB,HRB,Finanzdienstleistungen,US0936711052
+581,Haemonetics Corp,881782,NYSE,HAZ,HAE,Gesundheitswesen,US4050241003
+582,Halliburton Company,853986,NYSE,HAL,HAL,Öl/Gas,US4062161017
+583,Halyard Health Inc.,A12DEJ,NYSE,not_found,not_found,not_found,not_found
+584,Hanesbrands,A0KEQF,NYSE,HN9,HBI,Nahrungsmittel/Agrar,US4103451021
+585,Hanger,882976,NYSE,HO8,HNGR,Gesundheitswesen,US41043F2083
+586,Hannon Armstrong Sustainable Infrastructure Capital,A1T9C5,NYSE,6HA,HASI,Immobilien,US41068X1000
+587,Hanover Insurance Group (The),A0ESNN,NYSE,AF4,THG,Finanzdienstleistungen,US4108671052
+588,Harley-Davidson,871394,NYSE,HAR,HOG,Fahrzeuge,US4128221086
+589,Harmony Gold Mining Company Ltd.,851267,NYSE,HAM1,HAR.JO,Rohstoffe,ZAE000015228
+590,Harsco Corp,851271,NYSE,HA7,HSC,Industrie/Mischkonzerne,US4158641070
+591,Hartford Financial Services Group,-,NYSE,not_found,not_found,not_found,not_found
+592,Hartford Financial Services Group (The),898521,NYSE,HFF,HIG,Finanzdienstleistungen,US4165151048
+593,Haverty Furniture Companies,889712,NYSE,25F,HVT,Bau/Infrastruktur,US4195961010
+594,Haverty Furniture Companies,938472,NYSE,25F0,HVT-A,Bau/Infrastruktur,US4195962000
+595,Hawaiian Electric Industries,868056,NYSE,HWI,HE,Versorger,US4198701009
+596,HB Fuller Company,861402,NYSE,HB1,FUL,Chemie,US3596941068
+597,HCA Healthcare,A1JFMW,NYSE,2BH,HCA,Gesundheitswesen,US40412C1018
+598,HCI Group,A1W02H,NYSE,0H5,HCI,Finanzdienstleistungen,US40416E1038
+599,HDFC Bank Limited,694482,NYSE,HDFA,HDFA.F,Finanzdienstleistungen,US40415F1012
+600,Healthcare Realty Trust,886627,NYSE,HR6,HR,Immobilien,US4219461047
+601,Hecla Mining Company,854693,NYSE,HCL,HL,Rohstoffe,US4227041062
+602,HEICO Corp,889997,NYSE,HC1,HEI,Luftfahrt/Rüstung,US4228061093
+603,HEICO Corp,914043,NYSE,HC1A,HEI-A,Luftfahrt/Rüstung,US4228062083
+604,Helix Energy Solutions Group,A0JD3R,NYSE,CTV,HLX,Öl/Gas,US42330P1075
+605,Helmerich & Payne,851292,NYSE,HPC,HP,Öl/Gas,US4234521015
+606,Herbalife Nutrition Ltd,A0DNX7,NYSE,HOO,HLF,Nahrungsmittel/Agrar,KYG4412G1010
+607,Hercules Capital,A0ERTZ,NYSE,not_found,not_found,not_found,not_found
+608,Heritage Insurance Holdings,A113GG,NYSE,11H,HRTG,Finanzdienstleistungen,US42727J1025
+609,HERSHA HOSPITALITY TRUST,-,NYSE,not_found,not_found,not_found,not_found
+610,Hershey Company (The),851297,NYSE,HSY,HSY,Nahrungsmittel/Agrar,US4278661081
+611,Hess Corp,A0JMQL,NYSE,AHC,HES,Öl/Gas,US42809H1077
+612,Hexcel Corp,894306,NYSE,HXL,HXL,Industrie/Mischkonzerne,US4282911084
+613,Hi-Crush,A1J2SL,NYSE,,not_found,Öl/Gas,US4283371098
+614,Highwoods Properties,891252,NYSE,HQS,HIW,Immobilien,US4312841087
+615,Hill International,A0KETE,NYSE,HLZ,HIL,Dienstleistungen,US4314661012
+616,Hill-Rom Holdings,A0NJH0,NYSE,not_found,not_found,not_found,not_found
+617,Hillenbrand,A0NHFB,NYSE,9HI,HI,Dienstleistungen,US4315711089
+618,Hilltop Holdings,A0MX4M,NYSE,WXF,HTH,Finanzdienstleistungen,US4327481010
+619,Hilton Worldwide Holdings Inc.,A1W92N,NYSE,not_found,not_found,not_found,not_found
+620,HNI Corp,A0CA2A,NYSE,HO9,HNI,Bau/Infrastruktur,US4042511000
+621,Hoegh LNG Partners LP,A119NL,NYSE,1H6,HMLP,Logistik/Transport,MHY3262R1009
+622,Holly Energy Partners LP,A0B9ZA,NYSE,,HEP,Öl/Gas,US4357631070
+623,HOLLYFRONTIER Corp,A1JCLQ,NYSE,HL8,HFC,Öl/Gas,US4361061082
+624,Home Depot,866953,NYSE,HDI,HD,Handel/E-Commerce,US4370761029
+625,Honda Motor Co Ltd,858326,NYSE,HDMA,HMC,Fahrzeuge,US4381283088
+626,Honeywell International,870153,NYSE,ALD,HON,Industrie/Mischkonzerne,US4385161066
+627,Horace Mann Educators Corp,882987,NYSE,HM9,HMN,Finanzdienstleistungen,US4403271046
+628,Hormel Foods Corp,850875,NYSE,HO7,HRL,Nahrungsmittel/Agrar,US4404521001
+629,Host Hotels & Resorts,918239,NYSE,HMT,HST,Hotels/Tourismus,US44107P1049
+630,Howard Hughes Corp (The),A1C7ML,NYSE,HHE,HHC,Immobilien,US44267D1072
+631,HSBC Holdings PLC,924153,NYSE,HBC2,HSBC,Finanzdienstleistungen,US4042804066
+632,Huaneng Power Intl,892647,NYSE,HUP,HNP,Versorger,US4433041005
+633,HUBSPOT,A12CWQ,NYSE,096,HUBS,Software,US4435731009
+634,Hudbay Minerals,A0DPL4,NYSE,OCKA,HBM.TO,Rohstoffe,CA4436281022
+635,Hudson Pacific Properties,A1CZMY,NYSE,HP9,HPP,Immobilien,US4440971095
+636,Humana,856584,NYSE,HUM,HUM,Finanzdienstleistungen,US4448591028
+637,Huntington Ingalls Industries,A1JE8X,NYSE,HI4,HII,Industrie/Mischkonzerne,US4464131063
+638,Huntsman Corp,A0DQGM,NYSE,HTR,HUN,Chemie,US4470111075
+639,Hyatt Hotels Corp,A0YAKV,NYSE,1HTA,H,Hotels/Tourismus,US4485791028
+640,Hyster-Yale Materials Handling,A1J4R3,NYSE,HYEA,HY,Maschinenbau,US4491721050
+641,IAMGold Corp,899657,NYSE,IAL,IMG.TO,Rohstoffe,CA4509131088
+642,ICICI Bank Limited,936793,NYSE,ICBA,IBN,Finanzdienstleistungen,US45104G1040
+643,ICL Group Ltd,902166,NYSE,not_found,ICL.TA,Chemie,IL0002810146
+644,IDACORP,916694,NYSE,IDJ,IDA,Versorger,US4511071064
+645,IDEX Corp,877444,NYSE,ID7,IEX,Maschinenbau,US45167R1041
+646,IDT Corp,A0RF6V,NYSE,IDC2,IDT,Telekom,US4489475073
+647,Illinois Tool Works,861219,NYSE,ILT,ITW,Maschinenbau,US4523081093
+648,Imax Corp,896801,NYSE,IMA,IMAX,Unterhaltung,CA45245E1097
+649,Independence Holding Company,922423,NYSE,,IHC,Finanzdienstleistungen,US4534403070
+650,Industrias Bachoco SAB De CV,918399,NYSE,7DR,IBA,Nahrungsmittel/Agrar,US4564631087
+651,Infosys Limited,919668,NYSE,IOY,0XSE.L,IT-Dienstleistungen,US4567881085
+652,ING Groep NV,907466,NYSE,INNA,ING,Finanzdienstleistungen,US4568371037
+653,Ingredion,A1JYNM,NYSE,CNP,INGR,Nahrungsmittel/Agrar,US4571871023
+654,INPHI Corp,A1C230,NYSE,not_found,not_found,not_found,not_found
+655,Insperity,A1H74T,NYSE,ASF,NSP,Dienstleistungen,US45778Q1076
+656,Installed Building Products,A1XDU6,NYSE,2IL,IBP,Bau/Infrastruktur,US45780R1014
+657,Intelsat S A,A1T9LQ,NYSE,IJSA,INTEQ,Telekom,LU0914713705
+658,Intercontinental Exchange,A1W5H0,NYSE,IC2,ICE,Finanzdienstleistungen,US45866F1049
+659,International Business Machines Corp,851399,NYSE,IBM,IBM,Hardware,US4592001014
+660,International Flavors & Fragrances,853881,NYSE,IFF,IFF,Chemie,US4595061015
+661,International Paper Co,851413,NYSE,INP,IP,Holz/Papier,US4601461035
+662,Interpublic Group of Companies (The),851781,NYSE,IPG,IPG,Unterhaltung,US4606901001
+663,Interstate Power & Light Company Perp Prd Ser D,-,NYSE,not_found,not_found,not_found,not_found
+664,Invacare Corp,868973,NYSE,IV3,IVC,Gesundheitswesen,US4612031017
+665,Invesco Ltd,A0M6U7,NYSE,3IW,IVZ,Finanzdienstleistungen,BMG491BT1088
+666,Invesco Mortgage Capital,A0X806,NYSE,7M2,IVR,Finanzdienstleistungen,US46131B1008
+667,Invitae Corp,A14NKG,NYSE,IV8,NVTA,Gesundheitswesen,US46185L1035
+668,IRSA Inversiones y Representaciones SA,907725,NYSE,IRYA,IRS,Immobilien,US4500472042
+669,ISTAR,929187,NYSE,OLZ,STAR,Finanzdienstleistungen,US45031U1016
+670,Itau Unibanco Holding SA,A0RGKJ,NYSE,BVXB,ITUB,Finanzdienstleistungen,US4655621062
+671,Jabil,886423,NYSE,JBL,JBL,Halbleiter,US4663131039
+672,Jacobs Engineering Group,864215,NYSE,JEG,J,Industrie/Mischkonzerne,US4698141078
+673,JAMES HARDIE INDUSTRIES plc,A0HGEC,NYSE,JHA0,JHX,Bau/Infrastruktur,US47030M1062
+674,JC Penney Company,851991,NYSE,not_found,not_found,not_found,not_found
+675,Jinkosolar Holdings CO,A0Q87R,NYSE,ZJS1,ZJS1.F,Erneuerbare Energien,US47759T1007
+676,JM Smucker Company (The),633835,NYSE,JM2,SJM,Nahrungsmittel/Agrar,US8326964058
+677,JMP Group LLC,-,NYSE,not_found,not_found,not_found,not_found
+678,John Bean Technologies Corp,A0Q6F9,NYSE,JBT,JBT,Sonstige Technologie,US4778391049
+679,John Wiley & Sons,-,NYSE,not_found,not_found,not_found,not_found
+680,John Wiley & Sons,909878,NYSE,2F7,JW-A,Medien,US9682232064
+681,Johnson & Johnson,853260,NYSE,JNJ,JNJ,Konsumgüter,US4781601046
+682,Jones Lang LaSalle,908217,NYSE,4J2,JLL,Immobilien,US48020Q1076
+683,JPMorgan Chase & Co,850628,NYSE,CMC,JPM,Finanzdienstleistungen,US46625H1005
+684,Kadant,884567,NYSE,KDA,KAI,Maschinenbau,US48282T1043
+685,Kaman Corp,861220,NYSE,KA1,KAMN,Industrie/Mischkonzerne,US4835481031
+686,KAR Auction Services,A0YF1W,NYSE,XKR,KAR,Dienstleistungen,US48238T1097
+687,Kayne Anderson MLP Inv. Co.,A0MXKB,NYSE,KA5,KYN,Finanzdienstleistungen,US4866061066
+688,KB Financial Group,A0RAQX,NYSE,KBIA,KB,Finanzdienstleistungen,US48241A1051
+689,KB Home,876635,NYSE,KBH,KBH,Immobilien,US48666K1097
+690,KBR,A0LEFS,NYSE,K6B,KBR,Bau/Infrastruktur,US48242W1062
+691,Kellogg Company,853265,NYSE,KEL,K,Nahrungsmittel/Agrar,US4878361082
+692,Kemper Corp,A1JEFA,NYSE,UI2,KMPR,Finanzdienstleistungen,US4884011002
+693,Kennametal,855783,NYSE,KM3,KMT,Maschinenbau,US4891701009
+694,Kennedy-Wilson Holdings,A0YFMB,NYSE,13K,KW,Immobilien,US4893981070
+695,KeyCorp,869353,NYSE,KEY,KEY,Finanzdienstleistungen,US4932671088
+696,Keysight Technologies,A12B6J,NYSE,1KT,KEYS,Elektrotechnologie,US49338L1035
+697,Kilroy Realty Corp,905164,NYSE,KRC,KRC,Immobilien,US49427F1084
+698,Kimberly-Clark Corp,855178,NYSE,KMY,KMB,Holz/Papier,US4943681035
+699,Kimco Realty Corp,883111,NYSE,KIC,KIM,Immobilien,US49446R1095
+700,Kinder Morgan,A1H6GK,NYSE,2KD,KMI,Öl/Gas,US49456B1017
+701,Kinross Gold Corp,A0DM94,NYSE,KIN2,K.TO,Rohstoffe,CA4969024047
+702,Kirby Corp,863669,NYSE,KIY,KEX,Logistik/Transport,US4972661064
+703,Knot Offshore Partners LP,A1T9FV,NYSE,KO4,KNOP,Logistik/Transport,MHY481251012
+704,KNOWLES Corp,A1XD6Z,NYSE,1K3,KN,Elektrotechnologie,US49926D1090
+705,Kohl's Corp,884195,NYSE,KHP,KSS,Handel/E-Commerce,US5002551043
+706,Koninklijke Philips NV,940936,NYSE,PHIA,PHG,Elektrotechnologie,US5004723038
+707,Koppers Holdings,A0JC0E,NYSE,KO9,KOP,Rohstoffe,US50060P1066
+708,Korea Electric Power Corp,893161,NYSE,KOP,KOP.F,Versorger,US5006311063
+709,Korn Ferry,919027,NYSE,KFY,KFY,Dienstleistungen,US5006432000
+710,Kosmos Energy Ltd,A1H7RE,NYSE,not_found,not_found,not_found,not_found
+711,Kraton Corp,A0YF58,NYSE,K21,KRA,Chemie,US50077C1062
+712,Kroger Co (The),851544,NYSE,KOG,KR,Nahrungsmittel/Agrar,US5010441013
+713,Kronos Worldwide,776950,NYSE,K1W,KRO,Chemie,US50105F1057
+714,KT Corp,922613,NYSE,KTC,KTC.F,Telekom,US48268K1016
+715,Kyocera Corp.,860614,NYSE,KYR,6971.T,Hardware,JP3249600002
+716,La-Z-Boy,860095,NYSE,LAZ,LZB,Konsumgüter,US5053361078
+717,Laboratory Corp,895308,NYSE,LAB,LH,Sonstige Technologie,US50540R4092
+718,LADDER CAPITAL Corp,A1XD2P,NYSE,LD1A,LADR,Finanzdienstleistungen,US5057431042
+719,Lannett Company,882871,NYSE,LN5,LCI,Pharma,US5160121019
+720,Las Vegas Sands Corp,A0B8S2,NYSE,LCR,LVS,Unterhaltung,US5178341070
+721,LATAM Airlines Group SA,A1J5XB,NYSE,LFL,LTMAQ,Luftfahrt/Rüstung,US51817R1068
+722,Lazard Ltd,A0DQP8,NYSE,not_found,LAZ,Finanzdienstleistungen,BMG540501027
+723,Lear Corp,A0YERL,NYSE,LE6N,LEA,Fahrzeuge,US5218652049
+724,Leggett & Platt,883524,NYSE,LP1,LEG,Industrie/Mischkonzerne,US5246601075
+725,Leidos Holdings,A1W5CT,NYSE,S6IA,LDOS,IT-Dienstleistungen,US5253271028
+726,Leju Holdings Limited,A11074,NYSE,1LUA,LEJU,Internet,US50187J1088
+727,Lennar Corp,851022,NYSE,LNN,LEN,Bau/Infrastruktur,US5260571048
+728,Lennar Corp,258288,NYSE,LNN0,LEN-B,Bau/Infrastruktur,US5260573028
+729,Lennox International,924838,NYSE,LXI,LII,Sonstige Technologie,US5261071071
+730,Level 3 Communications Inc.,A1JL12,NYSE,not_found,not_found,not_found,not_found
+731,LG Display Co Ltd,A0B68Y,NYSE,LGA,LPL,Hardware,US50186V1026
+732,LIGHTINTHEBOX HOLDING CO Ltd,A1W0AW,NYSE,L4XA,LITBN.MX,Internet,US53225G1022
+733,Lincoln National Corp,859406,NYSE,LCO,LNC,Finanzdienstleistungen,US5341871094
+734,Lindsay Corp,904057,NYSE,LMF,LNN,Sonstige Technologie,US5355551061
+735,Lithia Motors,914076,NYSE,LMO,LAD,Fahrzeuge,US5367971034
+736,Live Nation Entertainment,A0H0VZ,NYSE,3LN,LYV,Unterhaltung,US5380341090
+737,LL Flooring Holdings,A0YGDM,NYSE,not_found,LL,Handel/E-Commerce,US55003T1079
+738,Lloyds Banking Group PLC,766625,NYSE,LLD2,LYG,Finanzdienstleistungen,US5394391099
+739,Lockheed Martin Corp,894648,NYSE,LOM,LMT,Luftfahrt/Rüstung,US5398301094
+740,Loews Corp,851615,NYSE,LTR,L,Finanzdienstleistungen,US5404241086
+741,Louisiana-Pacific Corp,861032,NYSE,LP3,LPX,Bau/Infrastruktur,US5463471053
+742,Lowe's Companies,859545,NYSE,LWE,LOW,Bau/Infrastruktur,US5486611073
+743,LS Starrett Company (The),860546,NYSE,not_found,not_found,not_found,not_found
+744,LSB Industries,866808,NYSE,LS3,LXU,Maschinenbau,US5021601043
+745,LTC Properties,884625,NYSE,LTP,LTC,Immobilien,US5021751020
+746,Luby's,-,NYSE,not_found,not_found,not_found,not_found
+747,LXP Industrial Trust,907209,NYSE,LXN,LXP,Immobilien,US5290431015
+748,LXP Industrial Trust,A0ETGQ,NYSE,not_found,not_found,not_found,not_found
+749,LyondellBasell Industries NV,A1CWRM,NYSE,DLY,LYB,Chemie,NL0009434992
+750,M&T Bank Corp,863582,NYSE,MTZ,MTB,Finanzdienstleistungen,US55261F1049
+751,M/I Homes,888374,NYSE,4MI,MHO,Bau/Infrastruktur,US55305B1017
+752,Macerich Company (The),888353,NYSE,M6G,MAC,Immobilien,US5543821012
+753,Mack-Cali Realty Corp,892485,NYSE,WY4,VRE,Immobilien,US5544891048
+754,Macquarie Infrastructure Holdings LLC,A0MU9M,NYSE,14M,MIC,Bau/Infrastruktur,US55608B1052
+755,Macy's,A0MS7Y,NYSE,FDO,M,Handel/E-Commerce,US55616P1049
+756,Magellan Midstream Partners LP,358665,NYSE,,MMP,Logistik/Transport,US5590801065
+757,Magna International,868610,NYSE,MGA,MG.TO,Fahrzeuge,CA5592224011
+758,Magnachip Semiconductor Corp,A1C1SD,NYSE,SMG,MX,Halbleiter,US55933J2033
+759,Maiden Holdings,-,NYSE,not_found,not_found,not_found,not_found
+760,MAIDEN HOLDINGS Ltd,A144GP,NYSE,not_found,not_found,not_found,not_found
+761,Main Street Capital Corp,A0X8Y3,NYSE,13M,MAIN,Finanzdienstleistungen,US56035L1044
+762,MainStay MacKay DefinedTerm Municipal Opportunitie,-,NYSE,not_found,not_found,not_found,not_found
+763,Mallinckrodt Public Limited,A1W0TN,NYSE,MCD,MNKKQ,Pharma,IE00BBGT3753
+764,Manchester United PLC,A1J2MK,NYSE,MUF,MANU,Freizeitprodukte,KYG5784H1065
+765,Manning & Napier,A1JP7N,NYSE,MN0,MN,Finanzdienstleistungen,US56382Q1022
+766,ManpowerGroup,881964,NYSE,MPW,MAN,Dienstleistungen,US56418H1005
+767,Manulife Financial Corp,926517,NYSE,MLU,MFC.TO,Finanzdienstleistungen,CA56501R1064
+768,Marathon Oil Corp,852789,NYSE,USS,MRO,Öl/Gas,US5658491064
+769,MARATHON PETROLEUM Corp,A1JEXK,NYSE,MPN,MPC,Öl/Gas,US56585A1025
+770,Marcus & Millichap,A1W54Z,NYSE,M6M,MMI,Immobilien,US5663241090
+771,Marcus Corp (The),860665,NYSE,3L1,MCS,Unterhaltung,US5663301068
+772,Marine Products Corp,630850,NYSE,,MPX,Fahrzeuge,US5684271084
+773,MarineMax,914727,NYSE,MLW,HZO,Dienstleistungen,US5679081084
+774,Markel Corp,885036,NYSE,MKV,MKL,Finanzdienstleistungen,US5705351048
+775,MARRIOTT VACATIONS WORLDWIDE Corp,A1JNDJ,NYSE,M8V,VAC,Hotels/Tourismus,US57164Y1073
+776,Marsh & McLennan Companies,858415,NYSE,MSN,MMC,Finanzdienstleistungen,US5717481023
+777,Martin Marietta Materials,889585,NYSE,MMX,MLM,Bau/Infrastruktur,US5732841060
+778,Masco Corp,856632,NYSE,MSQ,MAS,Bau/Infrastruktur,US5745991068
+779,MASONITE INTERNATIONAL Corp,A1W3YG,NYSE,MII,DOOR,Bau/Infrastruktur,CA5753851099
+780,MasTec,861257,NYSE,MY8,MTZ,Elektrotechnologie,US5763231090
+781,Mastercard,A0F602,NYSE,M4I,MA,Finanzdienstleistungen,US57636Q1040
+782,Matador Resources Company,A1JTVV,NYSE,7MR,MTDR,Öl/Gas,US5764852050
+783,Materion Corp,A1JH3T,NYSE,BEM,MTRN,Sonstige Technologie,US5766901012
+784,Matsons,A1J0SW,NYSE,68M,MATX,Logistik/Transport,US57686G1058
+785,Maui Land & Pineapple Co,936600,NYSE,not_found,not_found,not_found,not_found
+786,MAXIMUS,907462,NYSE,MMY,MMS,Dienstleistungen,US5779331041
+787,MAXLINEAR,A0RM07,NYSE,JMX,MXL,Halbleiter,US57776J1007
+788,MBIA,874020,NYSE,MBJ,MBI,Finanzdienstleistungen,US55262C1009
+789,McCormick & Company,769073,NYSE,MCX0,MKC-V,Nahrungsmittel/Agrar,US5797801074
+790,McCormick & Company,858250,NYSE,MCX,MKC,Nahrungsmittel/Agrar,US5797802064
+791,McDonald's Corp,856958,NYSE,MDO,MCD,Nahrungsmittel/Agrar,US5801351017
+792,Mcewen Mining,A1JS7T,NYSE,US8A,MUX,Rohstoffe,US58039P1075
+793,McKesson Corp,893953,NYSE,MCK,MCK,Gesundheitswesen,US58155Q1031
+794,MDC Holdings,870917,NYSE,MDH,MDC,Bau/Infrastruktur,US5526761086
+795,MDU Resources Group,858925,NYSE,MRE,MDU,Öl/Gas,US5526901096
+796,Mechel PAO,A1CYLK,NYSE,MHSE,MTL-P,Eisen/Stahl,US5838405091
+797,Medical Properties Trust,A0ETK5,NYSE,M3P,MPW,Immobilien,US58463J3041
+798,Medifast,889384,NYSE,MDF,MED,Biotechnologie,US58470H1014
+799,Mednax,A0RELL,NYSE,PDC,MD,Gesundheitswesen,US58502B1061
+800,Medtronic plc,A14M2J,NYSE,2M6,MDT,Gesundheitswesen,IE00BTN1Y115
+801,Merck & Co,A0YD8Q,NYSE,6MK,MRK,Pharma,US58933Y1055
+802,Mercury General Corp,870346,NYSE,MCG,MCY,Finanzdienstleistungen,US5894001008
+803,Meredith Corp,855421,NYSE,not_found,not_found,not_found,not_found
+804,Meritage Homes Corp,876864,NYSE,MEY,MTH,Bau/Infrastruktur,US59001A1025
+805,MERITOR,A1JFWH,NYSE,AID1,MTOR,Fahrzeuge,US59001K1007
+806,Mesa Royalty Trust,985184,NYSE,not_found,not_found,not_found,not_found
+807,Mesabi Trust,985163,NYSE,not_found,MSB,Finanzdienstleistungen,US5906721015
+808,Methode Electronics,900070,NYSE,ME5A,MEI,Elektrotechnologie,US5915202007
+809,MetLife,934623,NYSE,MWZ,MET,Finanzdienstleistungen,US59156R1086
+810,Metlife,A0JD89,NYSE,not_found,not_found,not_found,not_found
+811,Mettler-Toledo International,910553,NYSE,MTO,MTD,Maschinenbau,US5926881054
+812,MFA Financial,938237,NYSE,M4Z,MFA,Immobilien,US55272X1028
+813,MGIC Investment Corp,882538,NYSE,MGC,MTG,Finanzdienstleistungen,US5528481030
+814,MGM Resorts International,880883,NYSE,MGG,MGM,Hotels/Tourismus,US5529531015
+815,Mid-America Apartment Communities,889495,NYSE,M2K,MAA,Immobilien,US59522J1034
+816,Miller Industries,899083,NYSE,5OJ,MLR,Fahrzeuge,US6005512040
+817,Mine Safety,A1XFCC,NYSE,M07,MSA,Sonstige Technologie,US5534981064
+818,Minerals Technologies,885032,NYSE,MNK,MTX,Rohstoffe,US6031581068
+819,Mirvac Group,924371,NYSE,MJB,MGR.AX,Immobilien,AU000000MGR9
+820,Mistras Group,A0Q9U5,NYSE,not_found,MG,Dienstleistungen,US60649T1079
+821,Mitsubishi UFJ Financial Group,A0HF5M,NYSE,MFZA,MUFGN.MX,Finanzdienstleistungen,US6068221042
+822,MIX Telematics Limited,A1W322,NYSE,3PQA,MIXT,Software,US60688N1028
+823,Mizuho Financial Group,A0LEKK,NYSE,MZ8A,MZ8A.F,Finanzdienstleistungen,US60687Y1091
+824,Mobile TeleSystems Public Joint Stock Company,501757,NYSE,MKY,MBT,Telekom,US6074091090
+825,Model N,A1T68U,NYSE,2MD,MODN,Software,US6075251024
+826,Modine Manufacturing Co,869795,NYSE,MMF,MOD,Sonstige Technologie,US6078281002
+827,Moelis & Company,A1XDZ8,NYSE,17M,MC,Finanzdienstleistungen,US60786M1053
+828,Mohawk Industries,885067,NYSE,MWK,MHK,Sonstige Technologie,US6081901042
+829,Molina Healthcare,157781,NYSE,MHG,MOH,Gesundheitswesen,US60855R1005
+830,Molson Coors Beverage Company,A0DQWU,NYSE,NY70,TAP-A,Getränke/Tabak,US60871R1005
+831,Molson Coors Beverage Company,A0DPTB,NYSE,NY7,TAP,Getränke/Tabak,US60871R2094
+832,Monmouth Real Estate Investment Corp,-,NYSE,not_found,not_found,not_found,not_found
+833,Moody's Corp,915246,NYSE,DUT,MCO,Finanzdienstleistungen,US6153691059
+834,MOOG,855344,NYSE,MO7R,MOG-B,Industrie/Mischkonzerne,US6153943013
+835,Moog,865511,NYSE,MO7A,MOG-A,Industrie/Mischkonzerne,US6153942023
+836,Morgan Stanley,885836,NYSE,DWD,MS,Finanzdienstleistungen,US6174464486
+837,Mosaic Company (The),A1JFWK,NYSE,02M,MOS,Chemie,US61945C1036
+838,Motorola Solutions,A0YHMA,NYSE,MTLA,MSI,Halbleiter,US6200763075
+839,Movado Group,887998,NYSE,MV4,MOV,Konsumgüter,US6245801062
+840,Mplx LP,A1J7DR,NYSE,,MPLX,Öl/Gas,US55336V1008
+841,MRC Global,A1JV8K,NYSE,37M,MRC,Dienstleistungen,US55345K1034
+842,MSC Industrial Direct Co,898493,NYSE,98M,MSM,Dienstleistungen,US5535301064
+843,MSCI,A0M63R,NYSE,3HM,MSCI,Finanzdienstleistungen,US55354G1004
+844,Mueller Industries,887240,NYSE,MUD,MLI,Eisen/Stahl,US6247561029
+845,Mueller Water Products,A0J2LX,NYSE,JT5,MWA,Sonstige Technologie,US6247581084
+846,Murphy Oil Corp,856127,NYSE,MUQ,MUR,Öl/Gas,US6267171022
+847,Murphy USA,A1W33K,NYSE,1MU,MUSA,Handel/E-Commerce,US6267551025
+848,MV Oil Trust,A0RCH9,NYSE,not_found,not_found,not_found,not_found
+849,Myers Industries,867141,NYSE,MJF,MYE,Kunststoffe/Verpackungen,US6284641098
+850,NACCO Industries,871882,NYSE,NA6A,NC,Industrie/Mischkonzerne,US6295791031
+851,Nam Tai Property,A112DK,NYSE,NT1,NTP,Immobilien,VGG639071023
+852,NATIONAL BANK HOLDINGS Corp,A1J4XM,NYSE,NB9,NBHC,Finanzdienstleistungen,US6337071046
+853,National Fuel Gas Co,854564,NYSE,NFG,NFG,Öl/Gas,US6361801011
+854,National Health Investors,884296,NYSE,WX6,NHI,Immobilien,US63633D1046
+855,National Presto Industries,856768,NYSE,not_found,NPK,Konsumgüter,US6372151042
+856,National Retail Properties,A0JMJZ,NYSE,CZ2,NNN,Immobilien,US6374171063
+857,National Storage Affiliates Trust,A14VRL,NYSE,4GC,NSA,Immobilien,US6378701063
+858,Natural Gas Services Group,777494,NYSE,NGS,NGS,Öl/Gas,US63886Q1094
+859,Natural Grocers BY Vitamin Cottage,A1J0X2,NYSE,N2V,NGVC,Handel/E-Commerce,US63888U1088
+860,Nautilus,887012,NYSE,DF3,NLS,Freizeitprodukte,US63910B1026
+861,Navigant Consulting,903129,NYSE,,not_found,Dienstleistungen,US63935N1072
+862,NAVIGATOR HOLDINGS Ltd,A1JY36,NYSE,1NV,NVGS,Logistik/Transport,MHY621321089
+863,Navistar International,886965,NYSE,not_found,not_found,not_found,not_found
+864,NCR Corp,919692,NYSE,NCR1,NCR,Software,US62886E1082
+865,Neenah,A0DLD1,NYSE,NQI,NP,Holz/Papier,US6400791090
+866,Nelnet,911438,NYSE,NIJ,NNI,Finanzdienstleistungen,US64031N1081
+867,NEOPHOTONICS Corp,A1CX0N,NYSE,,NPTN,Elektrotechnologie,US64051T1007
+868,NEVRO Corp,A12EPL,NYSE,1N7,NVRO,Gesundheitswesen,US64157F1030
+869,New Jersey Resources Corp,873388,NYSE,NJ1,NJR,Versorger,US6460251068
+870,NEW MOUNTAIN FINANCE Corp,A1JJ6G,NYSE,1N4,NMFC,Finanzdienstleistungen,US6475511001
+871,New Oriental Education and Technology Group,A0KFDH,NYSE,N1U,EDU,Dienstleistungen,US6475811070
+872,New Relic,A12FNA,NYSE,2NR,NEWR,Software,US64829B1008
+873,New York Community Capital Trust V (BONUSES),889375,NYSE,QC1,NYCB,Finanzdienstleistungen,US6494451031
+874,New York Times Co,857534,NYSE,NYT,NYT,Medien,US6501111073
+875,Newell Brands,860036,NYSE,NWL,NWL,Konsumgüter,US6512291062
+876,NewMarket Corp,A0B5U3,NYSE,UG9,NEU,Chemie,US6515871076
+877,Newmont Corp,853823,NYSE,NMM,NEM,Rohstoffe,US6516391066
+878,Newpark Resources,854501,NYSE,NWP,NR,Öl/Gas,US6517185046
+879,NexPoint Residential Trust,A14QBV,NYSE,5O4,NXRT,Immobilien,US65341D1028
+880,Nextera Energy Inc,A1CZ4H,NYSE,FP3,NEE,Erneuerbare Energien,US65339F1012
+881,NextEra Energy Partners LP,A116WY,NYSE,1N6,NEP,Erneuerbare Energien,US65341B1061
+882,NGL Energy Partners LP,A1H9NM,NYSE,,NGL,Öl/Gas,US62913M1071
+883,Nidec Corp.,505531,NYSE,NIB1,NJDCY,Hardware,US6540901096
+884,Nike,866993,NYSE,NKE,NKE,Freizeitprodukte,US6541061031
+885,NIPPON TEL. TEL.,873029,NYSE,NTT,9432.T,Telekom,JP3735400008
+886,NiSource,876731,NYSE,NOU,NI,Versorger,US65473P1057
+887,NL Industries,851829,NYSE,not_found,NL,Industrie/Mischkonzerne,US6291564077
+888,Noah Holdings Limited,A1C8V1,NYSE,6NO,NOAH,Finanzdienstleistungen,US65487X1028
+889,Noble Corp,A1W86Q,NYSE,not_found,not_found,not_found,not_found
+890,Nokia Corp,892885,NYSE,NOAA,NOK,Telekom,US6549022043
+891,"Nomura Holdings, Inc.",857054,NYSE,NSE,8604.T,Finanzdienstleistungen,JP3762600009
+892,Nordic American Tanker,394869,NYSE,B3O,NAT,Logistik/Transport,BMG657731060
+893,Nordstrom,867804,NYSE,NRD,JWN,Handel/E-Commerce,US6556641008
+894,Norfolk Southern Corp,867028,NYSE,NFS,NSC,Logistik/Transport,US6558441084
+895,North European Oil Royalty Trust,985169,NYSE,not_found,not_found,not_found,not_found
+896,Northrop Grumman Corp,851915,NYSE,NTH,NOC,Luftfahrt/Rüstung,US6668071029
+897,NorthWestern Corp,A0DLGF,NYSE,NWZA,NWE,Versorger,US6680743050
+898,NOV,903541,NYSE,not_found,not_found,not_found,not_found
+899,Novartis AG,907122,NYSE,NOTA,NVS,Pharma,US66987V1098
+900,Novo-Nordisk A/S,866931,NYSE,NOVA,NVO,Pharma,US6701002056
+901,NOW,A113R6,NYSE,11N,DNOW,Dienstleistungen,US67011P1003
+902,NRG Energy,A0BLR4,NYSE,NRA,NRG,Versorger,US6293775085
+903,"NTT DOCOMO, Inc.",916541,NYSE,not_found,not_found,not_found,not_found
+904,Nucor Corp,851918,NYSE,NUO,NUE,Eisen/Stahl,US6703461052
+905,NuSkin Enterprises,903911,NYSE,NUS,NUS,Kosmetik,US67018T1051
+906,NuStar Energy LP,A0MNTA,NYSE,,NS,Öl/Gas,US67058H1023
+907,NVR,888265,NYSE,NVE,NVR,Bau/Infrastruktur,US62944T1051
+908,Occidental Petroleum Corp,851921,NYSE,OPC,OXY,Öl/Gas,US6745991058
+909,Oceaneering International,865291,NYSE,OII,OII,Öl/Gas,US6752321025
+910,OFG Bancorp,A1T9X8,NYSE,OFP,OFG,Finanzdienstleistungen,PR67103X1020
+911,OGE Energy Corp,858352,NYSE,OG5,OGE,Versorger,US6708371033
+912,OIL States International,588716,NYSE,OI2,OIS,Öl/Gas,US6780261052
+913,Oil-Dri Corp,865311,NYSE,O4D,ODC,Chemie,US6778641000
+914,Old Republic International Corp,883298,NYSE,ORJ,ORI,Finanzdienstleistungen,US6802231042
+915,Olin Corp,851936,NYSE,OLN,OLN,Chemie,US6806652052
+916,Omega Healthcare Investors,890454,NYSE,WX4,OHI,Immobilien,US6819361006
+917,Omnicom Group,871706,NYSE,OCN,OMC,Dienstleistungen,US6819191064
+918,ONE GAS,A1XB2X,NYSE,OG9,OGS,Versorger,US68235P1084
+919,One Liberty Properties,878237,NYSE,O1A,OLP,Immobilien,US6824061039
+920,Oneok,911060,NYSE,ONK,OKE,Öl/Gas,US6826801036
+921,OPKO Health,A0MUUJ,NYSE,XCY,OPK,Pharma,US68375N1037
+922,Oppenheimer Holdings,A0X8PS,NYSE,not_found,not_found,not_found,not_found
+923,Oracle Corp,871460,NYSE,ORC,ORCL,Software,US68389X1054
+924,Orange,A1W1L6,NYSE,FTE1,ORAN,Telekom,US6840601065
+925,Orchid Island Capital,A1WZEU,NYSE,45U,ORC,Finanzdienstleistungen,US68571X1037
+926,Orion Engineered Carbons SA,A1183M,NYSE,0OE,OEC,Chemie,LU1092234845
+927,Orion Group Holdings,A0NDW6,NYSE,0OM,ORN,Bau/Infrastruktur,US68628V3087
+928,ORIX Corp,929254,NYSE,OIXA,IX,Finanzdienstleistungen,US6863301015
+929,Ormat Technologies,A0DK9X,NYSE,HNM,ORA,Erneuerbare Energien,US6866881021
+930,Oshkosh Corp,870494,NYSE,OK3,OSK,Fahrzeuge,US6882392011
+931,OUTFRONT Media,A12FJC,NYSE,76C,OUT,Dienstleistungen,US69007J1060
+932,Owens & Minor,904611,NYSE,6OM,OMI,Gesundheitswesen,US6907321029
+933,Owens Corning,A0LCN9,NYSE,O5Q,OC,Bau/Infrastruktur,US6907421019
+934,Oxford Industries,859547,NYSE,OXD,OXM,Bekleidung/Textil,US6914973093
+935,Packaging Corp,932483,NYSE,PKA,PKG,Holz/Papier,US6951561090
+936,Palo Alto Networks,A1JZ0Q,NYSE,5AP,PANW,Netzwerktechnik,US6974351057
+937,Pampa Energia SA,A0LEB0,NYSE,9PAA,PAM,Versorger,US6976602077
+938,PAR Technology Corp,867279,NYSE,35U,PAR,Sonstige Technologie,US6988841036
+939,Paramount Group,A1W9NU,NYSE,6PM,PGRE,Immobilien,US69924R1086
+940,Parker-Hannifin Corp,855950,NYSE,PAR,PH,Maschinenbau,US7010941042
+941,Party City Holdco,A14RM2,NYSE,5PY,PRTY,Handel/E-Commerce,US7021491052
+942,Paycom Software,A1XFVG,NYSE,0PY,PAYC,Software,US70432V1026
+943,PBF Energy,A1J9SG,NYSE,PEN,PBF,Öl/Gas,US69318G1067
+944,Pearson plc,929450,NYSE,PESA,PSO,Medien,US7050151056
+945,PEMBINA PIPELINE Corp,A1C563,NYSE,P5P,PPL.TO,Öl/Gas,CA7063271034
+946,Pennsylvania Real Estate Investment Trust,-,NYSE,not_found,not_found,not_found,not_found
+947,PennyMac Mortgage Investment Trust,A0Q4ZU,NYSE,8PM,PMT,Finanzdienstleistungen,US70931T1034
+948,Penske Automotive Group,A0MWJE,NYSE,UA9,PAG,Handel/E-Commerce,US70959W1036
+949,Pentair plc,A115FG,NYSE,PNT,PNR,Rohstoffe,IE00BLS09M33
+950,PepsiCo,851995,NYSE,PEP,PEP,Getränke/Tabak,US7134481081
+951,PerkinElmer,850943,NYSE,PKN,PKI,Sonstige Technologie,US7140461093
+952,Permian Basin Royalty Trust,985194,NYSE,P0BR,PBT,Öl/Gas,US7142361069
+953,Perrigo Company PLC,A1XAEY,NYSE,PIG,PRGO,Pharma,IE00BGH1M568
+954,PETROBRAS AR.B ADR/10 AP1,A0YBWD,NYSE,not_found,not_found,not_found,not_found
+955,Petrochina Company Limited,936983,NYSE,PC6A,PTR,Öl/Gas,US71646E1001
+956,Petroleo Brasileiro SA-Petrobras,615375,NYSE,PJX,PBR-A,Öl/Gas,US71654V1017
+957,Petroleo Brasileiro Sa-Petrobras ADS (REP 1 Common Share),541501,NYSE,PJXA,PBR,Öl/Gas,US71654V4086
+958,Pfizer,852009,NYSE,PFE,PFE,Pharma,US7170811035
+959,PG&E Corp,851962,NYSE,PCG,PCG,Versorger,US69331C1080
+960,Philip Morris International,A0NDBJ,NYSE,4I1,PM,Getränke/Tabak,US7181721090
+961,Phillips 66,A1JWQU,NYSE,R66,PSX,Öl/Gas,US7185461040
+962,Phillips 66 Partners LP,A1W27H,NYSE,,PSXP,Öl/Gas,US7185492078
+963,Phoenix NEW Media Limited,A1H98D,NYSE,1PXA,FENG,Medien,US71910C1036
+964,Physicians Realty Trust,A1W57P,NYSE,42O,DOC,Immobilien,US71943U1043
+965,Pinnacle West Capital Corp,853915,NYSE,PWC,PNW,Versorger,US7234841010
+966,Pioneer Natural Resource Co,908678,NYSE,PNK,PXD,Öl/Gas,US7237871071
+967,Piper Sandler Companies,A0BLBX,NYSE,PJR,PIPR,Finanzdienstleistungen,US7240781002
+968,Pitney Bowes,852025,NYSE,PBW,PBI,Dienstleistungen,US7244791007
+969,Plains All American Pipeline LP,917437,NYSE,,PAA,Öl/Gas,US7265031051
+970,Plantronics,-,NYSE,not_found,not_found,not_found,not_found
+971,PNC Financial Services Group,867679,NYSE,PNP,PNC,Finanzdienstleistungen,US6934751057
+972,PNM Resources,529983,NYSE,98P,PNM,Versorger,US69349H1077
+973,Polaris,893819,NYSE,PL6,PII,Fahrzeuge,US7310681025
+974,Portland General Electric Company,A0JK32,NYSE,49P,POR,Versorger,US7365088472
+975,POSCO,893094,NYSE,PKX,PKX,Eisen/Stahl,US6934831099
+976,Post Holdings,A1JS25,NYSE,2PO,POST,Nahrungsmittel/Agrar,US7374461041
+977,PPG Industries,852026,NYSE,PPQ,PPG,Chemie,US6935061076
+978,PPL Corp,895250,NYSE,PP9,PPL,Öl/Gas,US69351T1060
+979,Preferred Apartment Communities,A1C2BK,NYSE,P2A,APTS,Immobilien,US74039L1035
+980,Prestige Consumer Healthcare,A0DN17,NYSE,PBV,PBH,Dienstleistungen,US74112D1019
+981,Pretium Resources,A1H4B5,NYSE,6P7,PVG.TO,Rohstoffe,CA74139C1023
+982,PRIMERICA,A1CVKD,NYSE,PI7,PRI,Finanzdienstleistungen,US74164M1080
+983,Principal Financial Group,694660,NYSE,PG4,PFG,Finanzdienstleistungen,US74251V1026
+984,ProAssurance Corp,676103,NYSE,PRK,PRA,Finanzdienstleistungen,US74267C1062
+985,Procter & Gamble Company,852062,NYSE,PRG,PG,Konsumgüter,US7427181091
+986,Progressive Corp,865496,NYSE,PGV,PGR,Finanzdienstleistungen,US7433151039
+987,PROLOGIS,A1JBD1,NYSE,POJN,PLD,Immobilien,US74340W1036
+988,Pros Holdings,A0MRGS,NYSE,PH2,PRO,Software,US74346Y1038
+989,Prosperity Bancshares,923484,NYSE,PPY,PB,Finanzdienstleistungen,US7436061052
+990,Proto Labs,A1JUHT,NYSE,PRZ,PRLB,Maschinenbau,US7437131094
+991,Provident Financial Services,725214,NYSE,PQ3,PFS,Finanzdienstleistungen,US74386T1051
+992,Prudential Financial,764959,NYSE,PLL,PRU,Finanzdienstleistungen,US7443201022
+993,"PRUDENTIAL PLC LS-,05",852069,NYSE,PRU,PRU.L,Finanzdienstleistungen,GB0007099541
+994,Prudential Public Limited,A0HGTK,NYSE,not_found,not_found,not_found,not_found
+995,PS Business Parks,912488,NYSE,not_found,PSB,Immobilien,US69360J1079
+996,PT Telekomunikasi Indonesia,898255,NYSE,PTI,TLK,Telekom,US7156841063
+997,Public Service Enterprise Group,852070,NYSE,PSE,PEG,Versorger,US7445731067
+998,Public Storage,867609,NYSE,PUP,PSA,Immobilien,US74460D1090
+999,Pultegroup,854435,NYSE,PU7,PHM,Bau/Infrastruktur,US7458671010
+1000,Puma Biotechnology,A1J643,NYSE,0PB,PBYI,Biotechnologie,US74587V1070
+1001,PVH Corp,A1JHA5,NYSE,PVH,PVH,Bekleidung/Textil,US6936561009
+1002,Pzena Investment Management,A0MYXG,NYSE,3PZ1,PZN,Finanzdienstleistungen,US74731Q1031
+1003,Q2 Holdings,A1XEYE,NYSE,0Q2,QTWO,Software,US74736L1098
+1004,QEP Resources,A1CYV1,NYSE,not_found,not_found,not_found,not_found
+1005,QUAD/GRAPHICS,A1C12H,NYSE,QGU,QUAD,Dienstleistungen,US7473011093
+1006,Quaker Houghton,865108,NYSE,QUC,KWR,Chemie,US7473161070
+1007,Quanex Building Products Corp,A0MV6A,NYSE,4Q2,NX,Bau/Infrastruktur,US7476191041
+1008,Quanta Services,912294,NYSE,QAA,PWR,Dienstleistungen,US74762E1029
+1009,Quest Diagnostics,904533,NYSE,QDI,DGX,Gesundheitswesen,US74834L1008
+1010,Radian Group,885069,NYSE,RAG,RDN,Finanzdienstleistungen,US7502361014
+1011,Ralph Lauren Corp,A1JD3A,NYSE,PRL,RL,Bekleidung/Textil,US7512121010
+1012,Range Resources Corp,867939,NYSE,RAX,RRC,Öl/Gas,US75281A1097
+1013,Raymond James Financial,875072,NYSE,RJF,RJF,Finanzdienstleistungen,US7547301090
+1014,Rayonier,889684,NYSE,RA6,RYN,Holz/Papier,US7549071030
+1015,Rayonier Advanced Materials,A115CX,NYSE,RYQ,RYAM,Chemie,US75508B1044
+1016,Re/Max Holdings,A1W4VU,NYSE,2RM,RMAX,Immobilien,US75524W1080
+1017,REALOGY HOLDINGS Corp,A1J54Y,NYSE,04M,RLGY,Immobilien,US75605Y1064
+1018,Realty Income Corp,899744,NYSE,RY6,O,Immobilien,US7561091049
+1019,Redwood Trust,905851,NYSE,R2V,RWT,Immobilien,US7580754023
+1020,Regal Beloit Corp,876288,NYSE,RB8,RRX,Maschinenbau,US7587501039
+1021,Regency Centers Corp,888499,NYSE,RRC,REG,Immobilien,US7588491032
+1022,REGIONAL MANAGEMENT Corp,A1JXWY,NYSE,46F,RM,Finanzdienstleistungen,US75902K1060
+1023,REGIONS FINANCIAL Corp,-,NYSE,not_found,not_found,not_found,not_found
+1024,Regions Financial Corp,A0B6XA,NYSE,RN7,RF,Finanzdienstleistungen,US7591EP1005
+1025,Regis Corp,896286,NYSE,RGI,RGS,Dienstleistungen,US7589321071
+1026,Reinsurance Group of America,-,NYSE,not_found,not_found,not_found,not_found
+1027,Reinsurance Group of America,A0RC70,NYSE,RGPB,RGA,Finanzdienstleistungen,US7593516047
+1028,Reliance Steel & Aluminium Co,892629,NYSE,RS6,RS,Eisen/Stahl,US7595091023
+1029,RenaissanceRe Holdings Ltd,896628,NYSE,RRJ,RNR,Finanzdienstleistungen,BMG7496G1033
+1030,Republic Services,915201,NYSE,RPU,RSG,Dienstleistungen,US7607591002
+1031,ResMed,895878,NYSE,RME,RMD,Gesundheitswesen,US7611521078
+1032,Resolute Forest Products,A1JYW7,NYSE,7AB1,RFP,Holz/Papier,US76117W1099
+1033,Retail Properties OF America,A1JWRA,NYSE,not_found,not_found,not_found,not_found
+1034,Revlon,A0Q9V1,NYSE,RVL1,REV,Kosmetik,US7615256093
+1035,REX American Resources Corp,869089,NYSE,RX3,REX,Erneuerbare Energien,US7616241052
+1036,Rexford Industrial Realty,A1W27P,NYSE,3I0,REXR,Immobilien,US76169C1009
+1037,Reynolds America,A0B7KR,NYSE,not_found,not_found,not_found,not_found
+1038,RINGCENTRAL,A1W58K,NYSE,3RCA,RNG,Telekom,US76680R2067
+1039,Rio Tinto plc,868009,NYSE,RIOA,RIO,Rohstoffe,US7672041008
+1040,Ritchie Bros Auctioneers,912785,NYSE,2R8,RBA,Dienstleistungen,CA7677441056
+1041,RLI Corp,857241,NYSE,RL1,RLI,Finanzdienstleistungen,US7496071074
+1042,RLJ Lodging Trust,A1JAX4,NYSE,not_found,RLJ,Immobilien,US74965L1017
+1043,Robert Half International,856701,NYSE,RHJ,RHI,Dienstleistungen,US7703231032
+1044,Rockwell Automation,903978,NYSE,RWL,ROK,Elektrotechnologie,US7739031091
+1045,Rogers Communications,867590,NYSE,RCIB,RCI-B.TO,Telekom,CA7751092007
+1046,Rogers Corp,863178,NYSE,RG6,ROG,Elektrotechnologie,US7751331015
+1047,Rollins,859002,NYSE,RLS,ROL,Dienstleistungen,US7757111049
+1048,Roper Technologies,883563,NYSE,ROP,ROP,Elektrotechnologie,US7766961061
+1049,Royal Bank of Canada,852173,NYSE,RYC,RY.TO,Finanzdienstleistungen,CA7800871021
+1050,Royal Caribbean Group,886286,NYSE,RC8,RCL,Hotels/Tourismus,LR0008862868
+1051,Royal Dutch Shell PLC,A0ERUK,NYSE,R6C2,RDS-B,Öl/Gas,US7802591070
+1052,Royal Dutch Shell PLC,A0ET6Q,NYSE,R6C1,RDS-A,Öl/Gas,US7802592060
+1053,Royce Global Value Trust,A1W6BV,NYSE,not_found,not_found,not_found,not_found
+1054,Royce Micro-Cap Trust,939055,NYSE,not_found,not_found,not_found,not_found
+1055,Royce Value Trust,880604,NYSE,not_found,not_found,not_found,not_found
+1056,RPC,869766,NYSE,RLD,RES,Öl/Gas,US7496601060
+1057,RPM International,863462,NYSE,RP8,RPM,Chemie,US7496851038
+1058,Ryder System,855369,NYSE,RYD,R,Logistik/Transport,US7835491082
+1059,RYERSON HOLDING Corp,A1CXHX,NYSE,7RY,RYI,Eisen/Stahl,US7837541041
+1060,Ryman Hospitality Properties,A1J5LB,NYSE,4RH,RHP,Medien,US78377T1079
+1061,Sabine Royalty Trust,985206,NYSE,not_found,not_found,not_found,not_found
+1062,Safe Bulkers,A14TW8,NYSE,not_found,not_found,not_found,not_found
+1063,Safe Bulkers,A14T6H,NYSE,not_found,not_found,not_found,not_found
+1064,Safe Bulkers,A0Q2R4,NYSE,SBL,SB,Logistik/Transport,MHY7388L1039
+1065,Safeguard Scientifics,A0YAM0,NYSE,SFU1,SFE,Dienstleistungen,US7864492076
+1066,salesforce.com,A0B87V,NYSE,FOO,CRM,Software,US79466L3024
+1067,Sally Beauty Holdings,A0LETB,NYSE,S7V,SBH,Handel/E-Commerce,US79546E1047
+1068,San Juan Basin Royalty Trust UBI,985193,NYSE,not_found,not_found,not_found,not_found
+1069,Sanchez Energy Corporation,A1JRS0,NYSE,,not_found,Öl/Gas,US79970Y1055
+1070,Sanofi ADS,662283,NYSE,SNW2,SNY,Pharma,US80105N1054
+1071,Santander Consumer USA Holdings,A1XB31,NYSE,77S,SC,Finanzdienstleistungen,US80283M1018
+1072,SAP SE,879535,NYSE,SAPA,SAPA.F,Software,US8030542042
+1073,SARATOGA INVESTMENT Corp,A1C34N,NYSE,not_found,not_found,not_found,not_found
+1074,Sasol Limited,865585,NYSE,SAO,SSL,Öl/Gas,US8038663006
+1075,Saul Centers,887474,NYSE,SA4,BFS,Immobilien,US8043951016
+1076,SCE TRUST III,-,NYSE,not_found,not_found,not_found,not_found
+1077,Schlumberger Limited,853390,NYSE,SCL,SLB,Öl/Gas,AN8068571086
+1078,Schweitzer-Mauduit International,898081,NYSE,MH2,SWM,Holz/Papier,US8085411069
+1079,SCIENCE APPLICATIONS INTERNATIONAL Corp,A1W5U2,NYSE,85S,SAIC,IT-Dienstleistungen,US8086251076
+1080,Scotts Miracle-Gro Company (The),883369,NYSE,SCQA,SMG,Chemie,US8101861065
+1081,Seabridge Gold,541875,NYSE,SRM,SEA.TO,Rohstoffe,CA8119161054
+1082,Sealed Air Corp,913368,NYSE,SDA,SEE,Kunststoffe/Verpackungen,US81211K1007
+1083,Seaworld Entertainment,A1T8QH,NYSE,W2L,SEAS,Hotels/Tourismus,US81282V1008
+1084,SELECT MEDICAL HOLDINGS Corp,A0Q9RF,NYSE,S24,SEM,Gesundheitswesen,US81619Q1058
+1085,Semiconductor  Manufacturing International Corporation,A0B892,NYSE,not_found,not_found,not_found,not_found
+1086,Sempra,915266,NYSE,SE4,SRE,Versorger,US8168511090
+1087,Senior Housing Properties Trust,928485,NYSE,not_found,not_found,not_found,not_found
+1088,Sensient Technology Corp,864463,NYSE,SSF,SXT,Sonstige Technologie,US81725T1007
+1089,Service Corp,859232,NYSE,SVC,SCI,Dienstleistungen,US8175651046
+1090,SERVICENOW,A1JX4P,NYSE,4S0,NOW,IT-Dienstleistungen,US81762P1021
+1091,Shake Shack,A14MVX,NYSE,9SH,SHAK,Nahrungsmittel/Agrar,US8190471016
+1092,Shaw Communications,905979,NYSE,SWC,SJR-B.TO,Telekom,CA82028K2002
+1093,Shell Midstream Partners LP,A12D40,NYSE,not_found,SHLX,Öl/Gas,US8226341019
+1094,Sherwin-Williams Company (The),856050,NYSE,SJ3,SHW,Chemie,US8243481061
+1095,Shinhan Financial Group Co Ltd,727566,NYSE,KSF1,SHG,Finanzdienstleistungen,US8245961003
+1096,SHUTTERSTOCK,A1J51N,NYSE,S3T,SSTK,Dienstleistungen,US8256901005
+1097,Signet Jewelers Limited,A0Q9SE,NYSE,SZ2,SIG,Konsumgüter,BMG812761002
+1098,Simon Property Group,916647,NYSE,SQI,SPG,Finanzdienstleistungen,US8288061091
+1099,Simon Property Group,A0YA0J,NYSE,not_found,not_found,not_found,not_found
+1100,Simpson Manufacturing Co,912711,NYSE,TWL,SSD,Bau/Infrastruktur,US8290731053
+1101,Sinopec Shanghai Petrochemical Co Ltd,887169,NYSE,SHI,SHI,Chemie,US82935M1099
+1102,Six Flags Entertainment Corp,A1C180,NYSE,6FE,SIX,Unterhaltung,US83001A1025
+1103,SJW Group,939072,NYSE,76W,SJW,Versorger,US7843051043
+1104,SK Telecom Co Ltd,902578,NYSE,not_found,not_found,not_found,not_found
+1105,Skechers USA,922814,NYSE,SKAA,SKX,Bekleidung/Textil,US8305661055
+1106,SL GREEN REALTY Corp,-,NYSE,not_found,not_found,not_found,not_found
+1107,SM Energy Company,A1CZW5,NYSE,SJL,SM,Öl/Gas,US78454L1008
+1108,Smith & Nephew plc,939163,NYSE,NPWA,SNN,Gesundheitswesen,US83175M2052
+1109,Snap-on,853887,NYSE,SPU,SNA,Dienstleistungen,US8330341012
+1110,Sociedad Quimica y Minera de Chile SA,895007,NYSE,QYM,SQM,Chemie,US8336351056
+1111,Sonic Automotive,910513,NYSE,SA8A,SAH,Fahrzeuge,US83545G1022
+1112,Sonoco Products Company,861171,NYSE,SNS,SON,Kunststoffe/Verpackungen,US8354951027
+1113,SONY CORP.,853687,NYSE,SON1,6758.T,Konsumgüter,JP3435000009
+1114,Source Capital,867649,NYSE,not_found,not_found,not_found,not_found
+1115,South Jersey Industries,860789,NYSE,J4S,SJI,Versorger,US8385181081
+1116,Southern Company (The),852523,NYSE,SOT,SO,Versorger,US8425871071
+1117,Southern Copper Corp,A0HG1Y,NYSE,PCU,SCCO,Rohstoffe,US84265V1052
+1118,Southwest Airlines Co,862837,NYSE,SWN,LUV,Luftfahrt/Rüstung,US8447411088
+1119,Southwest Gas Holdings,863050,NYSE,SZR,SWX,Öl/Gas,US8448951025
+1120,Southwestern Energy Company,887333,NYSE,SW5,SWN,Öl/Gas,US8454671095
+1121,Spectra Energy Corp.,A0LHDG,NYSE,not_found,not_found,not_found,not_found
+1122,Spirit Aerosystems Holdings,A0LEXG,NYSE,S9Q,SPR,Luftfahrt/Rüstung,US8485741099
+1123,Sprague Resources LP,A1JPNK,NYSE,,SRLP,Öl/Gas,US8493431089
+1124,SPX Corp,850619,NYSE,SPW,SPXC,Sonstige Technologie,US7846351044
+1125,St Joe Company,862032,NYSE,JOE,JOE,Immobilien,US7901481009
+1126,Stag Industrial,A1C8BH,NYSE,SW6,STAG,Immobilien,US85254J1025
+1127,Standard Motor Products,855022,NYSE,SRU,SMP,Fahrzeuge,US8536661056
+1128,Standex International Corp,856956,NYSE,9SI,SXI,Maschinenbau,US8542311076
+1129,Stanley Black & Decker,A1CTQA,NYSE,SWF,SWK,Dienstleistungen,US8545021011
+1130,Stantec,813102,NYSE,S3A,STN.TO,Dienstleistungen,CA85472N1096
+1131,Star Group LP,898592,NYSE,not_found,not_found,not_found,not_found
+1132,Startek,907569,NYSE,K2R,SRT,Dienstleistungen,US85569C1071
+1133,Starwood Property Trust,A0N9JF,NYSE,VSP,STWD,Immobilien,US85571B1052
+1134,State Street Corp,A1XE4H,NYSE,not_found,not_found,not_found,not_found
+1135,State Street Corp,864777,NYSE,ZYA,STT,Finanzdienstleistungen,US8574771031
+1136,Statoil ASA,676685,NYSE,not_found,not_found,not_found,not_found
+1137,Steel Partners Holdings LP,A1CWVA,NYSE,not_found,SPLP,Finanzdienstleistungen,US85814R1077
+1138,Steelcase,912283,NYSE,GJB,SCS,Bau/Infrastruktur,US8581552036
+1139,STELLUS CAPITAL INVESTMENT Corp,A1KA51,NYSE,GO0,SCM,Finanzdienstleistungen,US8585681088
+1140,Stepan Co,859510,NYSE,96S,SCL,Chemie,US8585861003
+1141,Sterling Bancorp,A1W748,NYSE,PVDA,STL,Finanzdienstleistungen,US85917A1007
+1142,Stewart Information Services Corp,887667,NYSE,SIU,STC,Finanzdienstleistungen,US8603721015
+1143,Stifel Financial Corp,873773,NYSE,2SI,SF,Finanzdienstleistungen,US8606301021
+1144,STMicroelectronics NV,897710,NYSE,SGMR,STM,Halbleiter,US8610121027
+1145,Stoneridge,909846,NYSE,2GX,SRI,Elektrotechnologie,US86183P1021
+1146,STORE Capital Corp,A12CRU,NYSE,S76,STOR,Immobilien,US8621211007
+1147,Structured Products CorTS PECO Energy Cap Trust III,-,NYSE,not_found,not_found,not_found,not_found
+1148,Stryker Corp,864952,NYSE,SYK,SYK,Pharma,US8636671013
+1149,Sturm Ruger & Company,861820,NYSE,ST2,RGR,Sonstige Technologie,US8641591081
+1150,Suburban Propane Partners L P,924916,NYSE,,SPH,Öl/Gas,US8644821048
+1151,Sumitomo Mitsui Financial Group,A1C8HL,NYSE,XMFA,SMFG,Finanzdienstleistungen,US86562M2098
+1152,Summit Hotel Properties,A1H7RF,NYSE,SDP,INN,Immobilien,US8660821005
+1153,Summit Materials,A14QAG,NYSE,7SU,SUM,Bau/Infrastruktur,US86614U1007
+1154,Sun Communities,888745,NYSE,SCZ,SUI,Immobilien,US8666741041
+1155,Sun Life Financial,936039,NYSE,LIE,SLF.TO,Finanzdienstleistungen,CA8667961053
+1156,Suncoke Energy,A1JDCZ,NYSE,S01,SXC,Rohstoffe,US86722A1034
+1157,Suncor Energy,A0NJU2,NYSE,SM3,SU.TO,Öl/Gas,CA8672241079
+1158,Sunstone Hotel Investors,A0DK4W,NYSE,UF2,SHO,Immobilien,US8678921011
+1159,SunTrust Banks,871788,NYSE,not_found,not_found,not_found,not_found
+1160,Superior Industries International,866479,NYSE,SPD,SUP,Fahrzeuge,US8681681057
+1161,Synchrony Financial,A117UJ,NYSE,SFE,SYF,Finanzdienstleistungen,US87165B1035
+1162,Synovus Financial Corp,A114G1,NYSE,SYU1,SNV,Finanzdienstleistungen,US87161C5013
+1163,Sysco Corp,859121,NYSE,SYY,SYY,Nahrungsmittel/Agrar,US8718291078
+1164,T-Mobile US,A1T7LU,NYSE,TM5,TMUS,Telekom,US8725901040
+1165,Tahoe Resources,A1C0RA,NYSE,not_found,not_found,not_found,not_found
+1166,Taiwan Semiconductor Manufacturing Company Ltd,909800,NYSE,TSFA,TSM,Halbleiter,US8740391003
+1167,TAL Education Group,A1C7VE,NYSE,IZZ,TAL,Dienstleistungen,US8740801043
+1168,Tanger Factory Outlet Centers,886676,NYSE,T6O,SKT,Immobilien,US8754651060
+1169,Targa Resources Corp,A1C9E3,NYSE,TAR,TRGP,Öl/Gas,US87612G1013
+1170,Target Corp,856243,NYSE,DYH,TGT,Handel/E-Commerce,US87612E1064
+1171,Taro Pharmaceutical Industries Ltd,897505,NYSE,TAL,TARO,Pharma,IL0010827181
+1172,Tata Motors Limited,A0DJ9M,NYSE,TATB,TTM,Fahrzeuge,US8765685024
+1173,Taylor Morrison Home Corp,A1T8F9,NYSE,THM,TMHC,Bau/Infrastruktur,US87724P1066
+1174,TD SYNNEX Corp,250815,NYSE,SUX,SNX,IT-Dienstleistungen,US87162W1009
+1175,TE CONNECTIVITY Ltd,A0RP04,NYSE,9TC,TEL,Elektrotechnologie,CH0102993182
+1176,Team,865796,NYSE,T9C,TISI,Bau/Infrastruktur,US8781551002
+1177,Teck Resources Limited,858265,NYSE,TEKB,TECK-B.TO,Rohstoffe,CA8787422044
+1178,Teekay Corp,896253,NYSE,TCD,TK,Logistik/Transport,MHY8564W1030
+1179,Teekay LNG Partners LP,A0ET81,NYSE,,not_found,Logistik/Transport,MHY8564M1057
+1180,Teekay Offshore Partners LP,A0MR2M,NYSE,not_found,not_found,not_found,not_found
+1181,Tejon Ranch Co,864891,NYSE,2TJ,TRC,Immobilien,US8790801091
+1182,Telecom Argentina SA,894259,NYSE,TEO,TEO,Telekom,US8792732096
+1183,Telecom Italia S.P.A.,121866,NYSE,TQIA,TIIAY,Telekom,US87927Y1029
+1184,TELECOM ITALIA SPA CLASS A,121865,NYSE,TQI1,TIAIY,Telekom,US87927Y2019
+1185,Teledyne Technologies,926932,NYSE,TYZ,TDY,Elektrotechnologie,US8793601050
+1186,Teleflex,855853,NYSE,TBH,TFX,Gesundheitswesen,US8793691069
+1187,Telefonica SA,874715,NYSE,TNE2,TEF,Telekom,US8793822086
+1188,Telephone and Data Systems,A1JS1Q,NYSE,not_found,TDS,Telekom,US8794338298
+1189,Telus Corp,918447,NYSE,BCZ,T.TO,Telekom,CA87971M1032
+1190,Tempur Sealy International,A0BLAA,NYSE,TPD,TPX,Gesundheitswesen,US88023U1016
+1191,Tenaris S A,164558,NYSE,TW1,TS,Eisen/Stahl,US88031M1099
+1192,Tenet Healthcare Corp,A1J5US,NYSE,THC1,THC,Gesundheitswesen,US88033G4073
+1193,Tennant Company,858055,NYSE,TN1,TNC,Sonstige Technologie,US8803451033
+1194,Tenneco,928670,NYSE,TNN,TEN,Fahrzeuge,US8803491054
+1195,Tennessee Valley Authority Power Bonds 1998 Series D due June 1 2028,-,NYSE,not_found,not_found,not_found,not_found
+1196,TERADATA Corp,A0M0ZR,NYSE,3T4,TDC,Software,US88076W1036
+1197,Teradyne,859892,NYSE,TEY,TER,Halbleiter,US8807701029
+1198,Terex Corp,884072,NYSE,TXG,TEX,Maschinenbau,US8807791038
+1199,Ternium SA,A0ESPU,NYSE,T5Z,TX,Eisen/Stahl,US8808901081
+1200,TERRA NITROGEN COM.UTS,906383,NYSE,not_found,not_found,not_found,not_found
+1201,Terreno Realty Corp,A0YF59,NYSE,T37,TRNO,Immobilien,US88146M1018
+1202,TETRA Technologies,880267,NYSE,TGI,TTI,Öl/Gas,US88162F1057
+1203,Teva Pharmaceutical Industries Limited,883035,NYSE,TEV,TEVA,Pharma,US8816242098
+1204,Textainer Group Holdings limited,A0M49J,NYSE,3T7,TGH,Logistik/Transport,BMG8766E1093
+1205,Textron,852659,NYSE,TXT,TXT,Industrie/Mischkonzerne,US8832031012
+1206,The China Fund Inc.,884475,NYSE,CHN,CHN,Finanzdienstleistungen,US1693731077
+1207,THE Container Store Group,A1W7F4,NYSE,36C,TCS,Handel/E-Commerce,US2107511030
+1208,THE PNC Financial Services Group,A1JXFY,NYSE,not_found,not_found,not_found,not_found
+1209,Thermo Fisher Scientific,857209,NYSE,TN8,TMO,Gesundheitswesen,US8835561023
+1210,Thermon Group Holdings,A1H99U,NYSE,8TG,THR,Elektrotechnologie,US88362T1034
+1211,Thor Industries,872478,NYSE,TIV,THO,Fahrzeuge,US8851601018
+1212,Tiffany & Co,872811,NYSE,not_found,not_found,not_found,not_found
+1213,Tilly's,A1JXJK,NYSE,4TL,TLYS,Handel/E-Commerce,US8868851028
+1214,TIME WARNER DL-01,A0RGAY,NYSE,not_found,not_found,not_found,not_found
+1215,Timken Company (The),852676,NYSE,TKH,TKR,Eisen/Stahl,US8873891043
+1216,TIMKENSTEEL Corp,A116LK,NYSE,ZS2,TMST,Eisen/Stahl,US8873991033
+1217,Titan International,886485,NYSE,TZ4,TWI,Fahrzeuge,US88830M1027
+1218,TJX Companies,854854,NYSE,TJX,TJX,Bekleidung/Textil,US8725401090
+1219,Toll Brothers,871450,NYSE,TLK,TOL,Bau/Infrastruktur,US8894781033
+1220,Tootsie Roll Industries,865003,NYSE,TZ3,TR,Nahrungsmittel/Agrar,US8905161076
+1221,Toro Company (The),861568,NYSE,TO2,TTC,Maschinenbau,US8910921084
+1222,Toronto Dominion Bank,852684,NYSE,TDB,0VL8.L,Finanzdienstleistungen,CA8911605092
+1223,Total SE,882930,NYSE,TOTA,TOTA.SG,Öl/Gas,US89151E1091
+1224,Townsquare Media,A1175U,NYSE,2T8,TSQ,Medien,US8922311019
+1225,Toyota Motor Corp,888452,NYSE,TOMA,TM,Fahrzeuge,US8923313071
+1226,TransAlta Corp,885412,NYSE,TZ1,TA.TO,Versorger,CA89346D1078
+1227,Transcontinental Realty Investors,880309,NYSE,TI9,TCI,Immobilien,US8936172092
+1228,TransDigm Group,A0JEP3,NYSE,T7D,TDG,Luftfahrt/Rüstung,US8936411003
+1229,Transocean Ltd,A0REAY,NYSE,TOJ,RIG,Öl/Gas,CH0048265513
+1230,Transportadora de Gas del Sur SA,890708,NYSE,T2K1,TGS,Öl/Gas,US8938702045
+1231,Travelers Companies (The),A0MLX4,NYSE,PA9,TRV,Finanzdienstleistungen,US89417E1091
+1232,Trecora Resources,A116QC,NYSE,A34,TREC,Chemie,US8946481046
+1233,Tredegar Corp,877428,NYSE,T70,TG,Kunststoffe/Verpackungen,US8946501009
+1234,Treehouse Foods,A0ER18,NYSE,T4H,THS,Nahrungsmittel/Agrar,US89469A1043
+1235,Trex Company,938716,NYSE,TRR,TREX,Bau/Infrastruktur,US89531P1057
+1236,Tri Continental Corporation,852701,NYSE,not_found,not_found,not_found,not_found
+1237,Tri Pointe Homes,A1H9GR,NYSE,T86,TPH,Bau/Infrastruktur,US87265H1095
+1238,Tri-Continental Corp,880435,NYSE,not_found,not_found,not_found,not_found
+1239,Trinet Group,929937,NYSE,TN3,TNET,Dienstleistungen,US8962881079
+1240,Trinity Industries,856427,NYSE,TTA,TRN,Industrie/Mischkonzerne,US8965221091
+1241,TRINSEO SA DL -01,A116BS,NYSE,not_found,not_found,not_found,not_found
+1242,TRIPLEPOINT VENTURE GROWTH BDC Corp,A1XFEK,NYSE,6JS,TPVG,Finanzdienstleistungen,US89677Y1001
+1243,Triumph Group,903498,NYSE,TG7,TGI,Luftfahrt/Rüstung,US8968181011
+1244,Trueblue,A0M93G,NYSE,not_found,TBI,Dienstleistungen,US89785X1019
+1245,Trupanion,A117KY,NYSE,TPW,TRUP,Finanzdienstleistungen,US8982021060
+1246,Tupperware Brands Corp,901014,NYSE,TUP,TUP,Konsumgüter,US8998961044
+1247,Turkcell Iletisim Hizmetleri AS,806276,NYSE,TUL1,TKC,Telekom,US9001112047
+1248,Twitter,A1W6XZ,NYSE,TWR,TWTR,Internet,US90184L1026
+1249,Tyler Technologies,917099,NYSE,TYP,TYL,Software,US9022521051
+1250,Tyson Foods,870625,NYSE,TF7A,TSN,Nahrungsmittel/Agrar,US9024941034
+1251,UDR,A0MM15,NYSE,UF0,UDR,Immobilien,US9026531049
+1252,UGI Corp,887836,NYSE,3U6,UGI,Dienstleistungen,US9026811052
+1253,Ultrapar Participacoes SA,928325,NYSE,UGR,UGR.F,Rohstoffe,US90400P1012
+1254,UMH Properties,A0JNGE,NYSE,WXE,UMH,Immobilien,US9030021037
+1255,Under Armour,A0HL4V,NYSE,U9R,UAA,Bekleidung/Textil,US9043111072
+1256,UNIFI,-,NYSE,not_found,not_found,not_found,not_found
+1257,Unifirst Corp,867982,NYSE,U1N,UNF,Dienstleistungen,US9047081040
+1258,Unilever plc,854342,NYSE,UNVA,UL,Konsumgüter,US9047677045
+1259,Union Pacific Corp,858144,NYSE,UNP,UNP,Logistik/Transport,US9078181081
+1260,Unisys Corp,A0YCM4,NYSE,USY1,UIS,Hardware,US9092143067
+1261,United Airlines Holdings,A1C6TV,NYSE,UAL1,UAL,Luftfahrt/Rüstung,US9100471096
+1262,United Microelectronic Corp,A0M2R4,NYSE,UMCB,UMC,Halbleiter,US9108734057
+1263,United Parcel Service,929198,NYSE,UPAB,UPS,Logistik/Transport,US9113121068
+1264,United Rentals,911443,NYSE,UR3,URI,Dienstleistungen,US9113631090
+1265,United States Cellular Corp,875189,NYSE,US7,USM,Telekom,US9116841084
+1266,United States Steel Corp,529498,NYSE,USX1,X,Eisen/Stahl,US9129091081
+1267,Unitedhealth Group,869561,NYSE,UNH,UNH,Gesundheitswesen,US91324P1021
+1268,Unitil Corp,663242,NYSE,not_found,UTL,Versorger,US9132591077
+1269,Universal Corp,859669,NYSE,UVV,UVV,Getränke/Tabak,US9134561094
+1270,Universal Health Realty Income Trust,985290,NYSE,WY8,UHT,Immobilien,US91359E1055
+1271,Universal Health Services,866462,NYSE,UHS,UHS,Gesundheitswesen,US9139031002
+1272,Universal Insurance Hldg,911236,NYSE,5UI,UVE,Finanzdienstleistungen,US91359V1070
+1273,Universal Technical Institute,590097,NYSE,UTI,UTI,Dienstleistungen,US9139151040
+1274,Unum Group,872055,NYSE,UUM,UNM,Finanzdienstleistungen,US91529Y1064
+1275,Urban Edge Properties,A12HHQ,NYSE,3UE,UE,Immobilien,US91704F1049
+1276,Urstadt Biddle Properties,862816,NYSE,WVI,UBP,Immobilien,US9172861067
+1277,Urstadt Biddle Properties,939160,NYSE,WXB,UBA,Immobilien,US9172862057
+1278,US Bancorp,A0X9ZK,NYSE,not_found,not_found,not_found,not_found
+1279,US Bancorp,-,NYSE,not_found,not_found,not_found,not_found
+1280,US Bancorp,917523,NYSE,UB5,USB,Finanzdienstleistungen,US9029733048
+1281,US Bancorp,A1C0ZC,NYSE,22UA,not_found,not_found,not_found
+1282,US Physical Therapy,923954,NYSE,UPH,USPH,Gesundheitswesen,US90337L1089
+1283,US Silica Holdings,A1JS16,NYSE,USI,SLCA,Rohstoffe,US90346E1038
+1284,USA Compression Partners LP,A1KB0J,NYSE,,USAC,Öl/Gas,US90290N1090
+1285,USANA Health Sciences,923145,NYSE,USJ,USNA,Biotechnologie,US90328M1071
+1286,Vaalco Energy,883016,NYSE,VAW,EGY,Öl/Gas,US91851C2017
+1287,Vail Resorts,905285,NYSE,VAI,MTN,Hotels/Tourismus,US91879Q1094
+1288,Vale SA,A0RN7M,NYSE,CVLB,VALE,Eisen/Stahl,US91912E1055
+1289,Valero Energy Corp,908683,NYSE,V1L,VLO,Öl/Gas,US91913Y1001
+1290,Valley National Bancorp,874148,NYSE,VNB,VLY,Finanzdienstleistungen,US9197941076
+1291,Valmont Industries,858096,NYSE,VI1,VMI,Eisen/Stahl,US9202531011
+1292,Varian Medical Systems,852812,NYSE,not_found,not_found,not_found,not_found
+1293,Vector Group Ltd,874420,NYSE,VGR,VGR,Getränke/Tabak,US92240M1080
+1294,Vectrus,A12BGS,NYSE,1V1,VEC,Dienstleistungen,US92242T1016
+1295,Veeva Systems,A1W5SA,NYSE,VEE,VEEV,Software,US9224751084
+1296,Ventas,878380,NYSE,VEN,VTR,Immobilien,US92276F1003
+1297,VERITIV Corp,A116CF,NYSE,288,VRTV,Logistik/Transport,US9234541020
+1298,Verizon Communications,868402,NYSE,BAC,VZ,Telekom,US92343V1044
+1299,Vermilion Energy,A1C4MN,NYSE,CVZ,VET.TO,Öl/Gas,CA9237251058
+1300,VF Corp,857621,NYSE,VFP,VFC,Bekleidung/Textil,US9182041080
+1301,Viad Corp,A0B6NE,NYSE,DIL1,VVI,Dienstleistungen,US92552R4065
+1302,Vipshop Holdings Limited,A1JVJQ,NYSE,1VPA,1VPA.F,Internet,US92763W1036
+1303,VISA,A0NC7B,NYSE,3V64,V,Finanzdienstleistungen,US92826C8394
+1304,Vishay Intertechnology,861320,NYSE,VHY,VSH,Halbleiter,US9282981086
+1305,Vishay Precision Group,A1C1AL,NYSE,SV5,VPG,Elektrotechnologie,US92835K1034
+1306,Vista Outdoor,A14MAD,NYSE,5VO,VSTO,Freizeitprodukte,US9283771007
+1307,Visteon Corp,A1C6VY,NYSE,VS51,VC,Fahrzeuge,US92839U2069
+1308,Vivint Solar,A12AWB,NYSE,not_found,not_found,not_found,not_found
+1309,VMware,A0MYC8,NYSE,BZF1,VMW,Software,US9285634021
+1310,VOC Energy Trust,A1JGTZ,NYSE,5VC,VOC,Öl/Gas,US91829B1035
+1311,Vocera Communications,A1JVRE,NYSE,V00,VCRA,Telekom,US92857F1075
+1312,Vonage Holdings Corp,A0JM16,NYSE,V1Y,VG,Telekom,US92886T2015
+1313,Vornado Realty Trust,893899,NYSE,VO7,VNO,Immobilien,US9290421091
+1314,Voya Financial,A110V5,NYSE,V0Y,VOYA,Finanzdienstleistungen,US9290891004
+1315,Vulcan Materials Company(Holding Company),855854,NYSE,VMC,VMC,Bau/Infrastruktur,US9291601097
+1316,W&T Offshore,A0B5ZU,NYSE,UWV,WTI,Öl/Gas,US92922P1066
+1317,Wabash National Corp,883541,NYSE,WA9,WNC,Maschinenbau,US9295661071
+1318,Wabtec,896022,NYSE,WB2,WAB,Sonstige Technologie,US9297401088
+1319,Walker & Dunlop,A1C6W8,NYSE,5WD,WD,Finanzdienstleistungen,US93148P1021
+1320,Walmart,860853,NYSE,WMT,WMT,Handel/E-Commerce,US9311421039
+1321,Walt Disney Company (The),855686,NYSE,WDP,DIS,Unterhaltung,US2546871060
+1322,Washington Real Estate Investment Trust,985213,NYSE,WRI,WRE,Immobilien,US9396531017
+1323,Waste Management,893579,NYSE,UWS,WM,Dienstleistungen,US94106L1098
+1324,Waters Corp,898123,NYSE,WAZ,WAT,Sonstige Technologie,US9418481035
+1325,Watsco,885676,NYSE,WC3,WSO,Dienstleistungen,US9426222009
+1326,Watsco,857475,NYSE,WC30,WSO-B,Dienstleistungen,US9426221019
+1327,Watts Water Technologies,876388,NYSE,W3W,WTS,Sonstige Technologie,US9427491025
+1328,Wayfair,A12AKN,NYSE,1WF,W,Internet,US94419L1017
+1329,Webster Financial Corp,895305,NYSE,WED,WBS,Finanzdienstleistungen,US9478901096
+1330,Weis Markets,855101,NYSE,76K,WMK,Handel/E-Commerce,US9488491047
+1331,Wells Fargo,A0REP4,NYSE,not_found,not_found,not_found,not_found
+1332,Wells Fargo & Co,857949,NYSE,NWT,WFC,Finanzdienstleistungen,US9497461015
+1333,WESCO Aircraft Holdings,A1JDA6,NYSE,,not_found,Luftfahrt/Rüstung,US9508141036
+1334,Wesco International,922305,NYSE,WP7,WCC,Logistik/Transport,US95082P1057
+1335,West Pharmaceutical Services,864330,NYSE,WPS,WST,Pharma,US9553061055
+1336,Western Alliance Bancorporation,A0ETE2,NYSE,WEA,WAL,Finanzdienstleistungen,US9576381092
+1337,Western Union Company (The),A0LA17,NYSE,W3U,WU,Finanzdienstleistungen,US9598021098
+1338,Westlake Chemical Corp,A0B7ET,NYSE,UEO,WLK,Chemie,US9604131022
+1339,Westlake Chemical Partners LP,A118RE,NYSE,,WLKP,Chemie,US9604171036
+1340,Westpac Banking Corp,876713,NYSE,WBCC,WBK,Finanzdienstleistungen,US9612143019
+1341,WEX,A1J7A6,NYSE,WL9,WEX,Finanzdienstleistungen,US96208T1043
+1342,Weyerhaeuser Company,854357,NYSE,WHC,WY,Holz/Papier,US9621661043
+1343,Whirlpool Corp,856331,NYSE,WHR,WHR,Konsumgüter,US9633201069
+1344,White Mountains Insurance Group Ltd,870243,NYSE,WNI,WTM,Finanzdienstleistungen,BMG9618E1075
+1345,Whitestone REIT,A1JJ6F,NYSE,not_found,WSR,Immobilien,US9660842041
+1346,Williams Companies,855451,NYSE,WMB,WMB,Öl/Gas,US9694571004
+1347,Williams-Sonoma,867980,NYSE,WM1,WSM,Handel/E-Commerce,US9699041011
+1348,Winnebago Industries,857479,NYSE,WI1,WGO,Fahrzeuge,US9746371007
+1349,Wipro Limited,578886,NYSE,WIOA,WIT,Software,US97651M1099
+1350,WNS Holdings Limited,A0J381,NYSE,W9N,WNS,Dienstleistungen,US92932M1018
+1351,Wolverine World Wide,855987,NYSE,WW4,WWW,Bekleidung/Textil,US9780971035
+1352,Workday,A1J39P,NYSE,W7D,WDAY,Software,US98138H1014
+1353,Workiva,A12GL6,NYSE,0WKA,WK,Software,US98139A1051
+1354,World Fuel Services Corp,877876,NYSE,WFK,INT,Dienstleistungen,US9814751064
+1355,World Wrestling Entertainment,928669,NYSE,WWFA,WWE,Unterhaltung,US98156Q1085
+1356,Worthington Industries,870882,NYSE,WTH,WOR,Eisen/Stahl,US9818111026
+1357,WP Carey,A1J5SB,NYSE,WPY,WPC,Finanzdienstleistungen,US92936U1097
+1358,WR Berkley Corp,870493,NYSE,WR1,WRB,Finanzdienstleistungen,US0844231029
+1359,WR Grace & Co,913367,NYSE,,not_found,Chemie,US38388F1084
+1360,WW Grainger,857498,NYSE,GWW,GWW,Dienstleistungen,US3848021040
+1361,Xcel Energy,855009,NYSE,NRN,XEL,Versorger,US98389B1008
+1362,Xenia Hotels & Resorts,A14NUJ,NYSE,0XHR,XHR,Immobilien,US9840171030
+1363,Xinyuan Real Estate Co Ltd,A0M8JH,NYSE,3XRA,XIN,Bau/Infrastruktur,US98417P1057
+1364,XPO Logistics,A1JHUP,NYSE,UX2A,XPO,Logistik/Transport,US9837931008
+1365,Xylem,A1JMBU,NYSE,XY6,XYL,Dienstleistungen,US98419M1009
+1366,Yamana Gold,357818,NYSE,RNY,YRI.TO,Rohstoffe,CA98462Y1007
+1367,Yanzhou Coal Mining Company Ltd.,913195,NYSE,YZC,YZCAY,Rohstoffe,US9848461052
+1368,YELP,A1JQ9H,NYSE,Y9L,YELP,Internet,US9858171054
+1369,YPF Sociedad Anonima,886738,NYSE,YPF,YPF,Öl/Gas,US9842451000
+1370,Yum! Brands,909190,NYSE,TGR,YUM,Nahrungsmittel/Agrar,US9884981013
+1371,ZENDESK,A1115T,NYSE,0ZD,ZEN,Software,US98936J1016
+1372,Zimmer Biomet Holdings,753718,NYSE,ZIM,ZBH,Gesundheitswesen,US98956P1021
+1373,Zions Bancorporation NA,-,NYSE,not_found,not_found,not_found,not_found
+1374,Zions Bancorporation NA Dep Shs Repstg 1/40th Perp Pfd Ser G,-,NYSE,not_found,not_found,not_found,not_found
+1375,Zoe's Kitchen,A1W1P0,NYSE,not_found,not_found,not_found,not_found
+1376,ZOETIS,A1KBYX,NYSE,ZOE,ZTS,Pharma,US98978V1035

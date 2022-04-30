@@ -1,0 +1,225 @@
+,name,wkn,index,de_ticker,ticker,industry,ISIN
+0,Advantest Corp.,868805,NASDAQ,VAN,6857.T,Elektrotechnologie,JP3122400009
+1,AEON Co. Ltd.,863094,NASDAQ,JUS1,8267.T,Handel/E-Commerce,JP3388200002
+2,Ajinomoto Co. Inc.,853681,NASDAQ,AJI,2802.T,Nahrungsmittel/Agrar,JP3119600009
+3,Alps Electric Co. Ltd.,856461,NASDAQ,ALE,6770.T,Elektrotechnologie,JP3126400005
+4,Amada Holdings Co. Ltd.,858465,NASDAQ,AA2,6113.T,Maschinenbau,JP3122800000
+5,ANA Holdings Inc.,861920,NASDAQ,ANCA,9202.T,Luftfahrt/Rüstung,JP3429800000
+6,Aozora Bank Ltd.,A0LCLC,NASDAQ,AON,8304.T,Finanzdienstleistungen,JP3711200000
+7,Asahi Glass Co. Ltd.,853783,NASDAQ,SHJ,5201.T,Chemie,JP3112000009
+8,Asahi Group Holdings Ltd.,853764,NASDAQ,ABW,2502.T,Getränke/Tabak,JP3116000005
+9,Asahi Kasei Corp.,857993,NASDAQ,ASAA,3407.T,Chemie,JP3111200006
+10,Astellas Pharma Inc.,856273,NASDAQ,YPH,4503.T,Pharma,JP3942400007
+11,Bandai Namco Holdings Inc.,A0F6LZ,NASDAQ,N9B,7832.T,Unterhaltung,JP3778630008
+12,Bridgestone Corp.,857226,NASDAQ,BGT,5108.T,Fahrzeuge,JP3830800003
+13,Canon Inc.,853055,NASDAQ,CNN1,7751.T,Sonstige Technologie,JP3242800005
+14,Casio Computer Co. Ltd.,859901,NASDAQ,CAC1,6952.T,Hardware,JP3209000003
+15,Central Japan Railway Co.,908593,NASDAQ,JAP,9022.T,Logistik/Transport,JP3566800003
+16,"Chiba Bank, Ltd. (The)",869440,NASDAQ,CBR,8331.T,Finanzdienstleistungen,JP3511800009
+17,Chubu Electric Power Co. Inc.,853840,NASDAQ,0C2,9502.T,Versorger,JP3526600006
+18,Chugai Pharmaceutical Co. Ltd.,857216,NASDAQ,CUP,4519.T,Pharma,JP3519400000
+19,Citizen Holdings Co. Ltd.,856503,NASDAQ,CTZ,7762.T,Konsumgüter,JP3352400000
+20,COMSYS Holdings Corp.,358654,NASDAQ,CS7,1721.T,IT-Dienstleistungen,JP3305530002
+21,"Concordia Financial Group, Ltd.",A2AFG6,NASDAQ,YC3,7186.T,Finanzdienstleistungen,JP3305990008
+22,"Credit Saison Co., Ltd.",858069,NASDAQ,QC9,8253.T,Finanzdienstleistungen,JP3271400008
+23,Cyberagent Inc.,936388,NASDAQ,CL2,4751.T,Internet,JP3311400000
+24,Dai Nippon Printing Co. Ltd.,856615,NASDAQ,DNP,7912.T,Sonstige Technologie,JP3493800001
+25,Dai-Ichi Life Holdings Inc.,A1CS49,NASDAQ,QHH,8750.T,Finanzdienstleistungen,JP3476480003
+26,Daiichi Sankyo Co. Ltd.,A0F57T,NASDAQ,D4S,4568.T,Pharma,JP3475350009
+27,Daikin Industries Ltd.,857771,NASDAQ,DKI,6367.T,Maschinenbau,JP3481800005
+28,Dainippon Screen Mfg. Co. Ltd.,859619,NASDAQ,DAO,7735.T,Sonstige Technologie,JP3494600004
+29,Daiwa House Industry Co. Ltd.,856805,NASDAQ,DWH,1925.T,Bau/Infrastruktur,JP3505000004
+30,Daiwa Securities Group Inc.,857092,NASDAQ,DSE,8601.T,Finanzdienstleistungen,JP3502200003
+31,Dena Co. Ltd.,A0DQUH,NASDAQ,D2N,2432.T,Software,JP3548610009
+32,"Denka Co., Ltd.",858463,NASDAQ,DIK,4061.T,Chemie,JP3549600009
+33,Denso Corp.,858734,NASDAQ,DNO,6902.T,Fahrzeuge,JP3551500006
+34,Dentsu Inc.,763961,NASDAQ,DEN,4324.T,Dienstleistungen,JP3551520004
+35,DIC Corp.,864407,NASDAQ,DPN,4631.T,Chemie,JP3493400000
+36,"Dowa Holdings Co., Ltd.",858423,NASDAQ,DMI,5714.T,Rohstoffe,JP3638600001
+37,East Japan Railway Co.,887942,NASDAQ,EJR,9020.T,Industrie/Mischkonzerne,JP3783600004
+38,Ebara Corp.,858656,NASDAQ,EAR,6361.T,Maschinenbau,JP3166000004
+39,Eisai Co. Ltd.,855526,NASDAQ,not_found,not_found,not_found,not_found
+40,Fanuc Corp.,863731,NASDAQ,FUC,6954.T,Maschinenbau,JP3802400006
+41,Fast Retailing Co. Ltd.,891638,NASDAQ,FR7,9983.T,Handel/E-Commerce,JP3802300008
+42,Fuji Electric Co. Ltd.,857726,NASDAQ,FJE,6504.T,Elektrotechnologie,JP3820000002
+43,Fujifilm Holdings Corp.,854607,NASDAQ,FJI,4901.T,Konsumgüter,JP3814000000
+44,Fujikura Ltd.,859317,NASDAQ,FJK,5803.T,Elektrotechnologie,JP3811000003
+45,Fujitsu Ltd.,855182,NASDAQ,FUJ1,6702.T,Elektrotechnologie,JP3818000006
+46,FUKUOKA FINL GROUP,A0MMJH,NASDAQ,4FK,8354.T,Finanzdienstleistungen,JP3805010000
+47,Furukawa Co. Ltd.,861451,NASDAQ,FUR,5715.T,Maschinenbau,JP3826800009
+48,Furukawa Electric Co. Ltd.,854857,NASDAQ,FKA,5801.T,Handel/E-Commerce,JP3827200001
+49,GS Yuasa Corp.,A0B9FC,NASDAQ,G9Y,6674.T,Elektrotechnologie,JP3385820000
+50,Haseko Corp.,860797,NASDAQ,HS6,JP3768600003.SG,Bau/Infrastruktur,JP3768600003
+51,Hino Motors Ltd.,853852,NASDAQ,HMO,7205.T,Fahrzeuge,JP3792600003
+52,Hitachi Construction Machinery Co. Ltd.,869254,NASDAQ,HCM,6305.T,Maschinenbau,JP3787000003
+53,Hitachi Ltd.,853219,NASDAQ,HIA1,6501.T,Elektrotechnologie,JP3788600009
+54,Hitachi Zosen Corp.,858468,NASDAQ,HZS,7004.T,Maschinenbau,JP3789000001
+55,Hokuetsu Kishu Paper Co. Ltd.,875974,NASDAQ,HPE,3865.T,Holz/Papier,JP3841800000
+56,Honda Motor Co. Ltd.,853226,NASDAQ,HDM,7267.T,Fahrzeuge,JP3854600008
+57,Idemitsu Kosan Co. Ltd.,A0LB29,NASDAQ,I7B,5019.T,Öl/Gas,JP3142500002
+58,IHI Corp.,854347,NASDAQ,IWJ,7013.T,Maschinenbau,JP3134800006
+59,Inpex Corp.,A0JD4G,NASDAQ,I8U,1605.T,Öl/Gas,JP3294460005
+60,Isetan Mitsukoshi Holdings Ltd.,A0NFRG,NASDAQ,4HP,3099.T,Handel/E-Commerce,JP3894900004
+61,ISUZU Motors Ltd.,858329,NASDAQ,ISU,7202.T,Fahrzeuge,JP3137200006
+62,Itochu Corp.,855471,NASDAQ,IOC,8001.T,Industrie/Mischkonzerne,JP3143600009
+63,J. Front Retailing Co. Ltd.,A0MYXR,NASDAQ,JFM,3086.T,Handel/E-Commerce,JP3386380004
+64,"Japan Exchange Group, Inc.",A0B9K6,NASDAQ,OSK,8697.T,Finanzdienstleistungen,JP3183200009
+65,Japan Post Holding Co. Ltd.,A14Z74,NASDAQ,1JP,6178.T,Logistik/Transport,JP3752900005
+66,Japan Tobacco Inc.,893151,NASDAQ,JAT,2914.T,Getränke/Tabak,JP3726800000
+67,JFE Holdings Inc.,724564,NASDAQ,JFR,5411.T,Eisen/Stahl,JP3386030005
+68,JGC CORP.,859157,NASDAQ,VJC,1963.T,Bau/Infrastruktur,JP3667600005
+69,JTEKT Corp.,859112,NASDAQ,6JK,6473.T,Maschinenbau,JP3292200007
+70,JXTG Holdings Inc.,A1CS9H,NASDAQ,JHJ,5020.T,Öl/Gas,JP3386450005
+71,Kajima Corp.,857003,NASDAQ,KAJ,1812.T,Bau/Infrastruktur,JP3210200006
+72,Kao Corp.,857031,NASDAQ,KAO,4452.T,Konsumgüter,JP3205800000
+73,Kawasaki Heavy Industries Ltd.,858920,NASDAQ,KAO,7012.T,not_found,JP3224200000
+74,"Kawasaki Kisen Kaisha, Ltd.",862868,NASDAQ,KLI1,9107.T,Logistik/Transport,JP3223800008
+75,KDDI CORP.,887603,NASDAQ,DIP,9433.T,Telekom,JP3496400007
+76,Keio Corp.,863378,NASDAQ,not_found,9008.T,Logistik/Transport,JP3277800003
+77,KEISEI EL. RWY,867002,NASDAQ,KEI,9009.T,Logistik/Transport,JP3278600006
+78,Kikkoman Corp.,856983,NASDAQ,KIK,2801.T,Nahrungsmittel/Agrar,JP3240400006
+79,Kirin Holdings Co. Ltd.,853682,NASDAQ,KIR,2503.T,Getränke/Tabak,JP3258000003
+80,Kobe Steel Ltd.,858737,NASDAQ,KST,5406.T,Eisen/Stahl,JP3289800009
+81,Komatsu Ltd.,854658,NASDAQ,KOM1,6301.T,Maschinenbau,JP3304200003
+82,Konami Corp.,870269,NASDAQ,KOA,9766.T,Software,JP3300200007
+83,Konica Minolta Inc.,857929,NASDAQ,KPI1,4902.T,Konsumgüter,JP3300600008
+84,Kubota Corp.,857751,NASDAQ,KUO1,6326.T,Maschinenbau,JP3266400005
+85,Kuraray Co. Ltd.,858272,NASDAQ,KUY,3405.T,Chemie,JP3269600007
+86,Kyocera Corp.,860614,NASDAQ,KYR,6971.T,Hardware,JP3249600002
+87,Kyowa Hakko Kirin Co. Ltd.,858523,NASDAQ,KY4,4151.T,Pharma,JP3256000005
+88,Marubeni Corp.,860414,NASDAQ,MARA,8002.T,Handel/E-Commerce,JP3877600001
+89,Maruha Nichiro Corp.,-,NASDAQ,not_found,not_found,not_found,not_found
+90,Marui Group Co. Ltd.,855670,NASDAQ,MUI,8252.T,Handel/E-Commerce,JP3870400003
+91,Matsui Securities Co. Ltd.,694425,NASDAQ,MTW,8628.T,Finanzdienstleistungen,JP3863800003
+92,Mazda Motor Corp.,854131,NASDAQ,MZA,7261.T,Fahrzeuge,JP3868400007
+93,Meiji Holdings Co. Ltd.,A0RL1S,NASDAQ,3M0,2269.T,Nahrungsmittel/Agrar,JP3918000005
+94,Minebea Co. Ltd.,851838,NASDAQ,MEA,6479.T,Elektrotechnologie,JP3906000009
+95,Mitsubishi Chemical Holdings Corp.,A0F6CH,NASDAQ,M3C,4188.T,Chemie,JP3897700005
+96,Mitsubishi Corp.,857124,NASDAQ,MBI,8058.T,Elektrotechnologie,JP3898400001
+97,Mitsubishi Electric Corp.,856532,NASDAQ,MIE1,6503.T,Elektrotechnologie,JP3902400005
+98,Mitsubishi Estate Co. Ltd.,853684,NASDAQ,MES,8802.T,Immobilien,JP3899600005
+99,Mitsubishi Heavy Industries Ltd.,853314,NASDAQ,MIH,7011.T,Maschinenbau,JP3900000005
+100,Mitsubishi Logistics Corp.,869425,NASDAQ,MIB,9301.T,Logistik/Transport,JP3902000003
+101,Mitsubishi Materials Corp.,857634,NASDAQ,MUJ,5711.T,Sonstige Technologie,JP3903000002
+102,Mitsubishi Motors Corp.,876551,NASDAQ,MMO,7211.T,Fahrzeuge,JP3899800001
+103,Mitsubishi UFJ Financial Group Inc.,657892,NASDAQ,MFZ,8306.T,Finanzdienstleistungen,JP3902900004
+104,Mitsui & Co. Ltd.,853656,NASDAQ,MTS1,8031.T,Industrie/Mischkonzerne,JP3893600001
+105,Mitsui Chemicals Inc.,858586,NASDAQ,MTS1,4183.T,not_found,JP3888300005
+106,Mitsui Engineering & Shipbuilding Co. Ltd.,858575,NASDAQ,MSI,7003.T,not_found,JP3891600003
+107,Mitsui Fudosan Co. Ltd.,858019,NASDAQ,MFU,8801.T,Immobilien,JP3893200000
+108,Mitsui Mining & Smelting Co. Ltd.,860971,NASDAQ,MMG,5706.T,Rohstoffe,JP3888400003
+109,Mitsui O.S.K. Lines Ltd.,862503,NASDAQ,MILA,9104.T,Logistik/Transport,JP3362700001
+110,Mizuho Financial Group Inc.,200455,NASDAQ,MZ8,8411.T,Finanzdienstleistungen,JP3885780001
+111,"MS&AD Insurance Group Holdings, Inc.",A0NFRH,NASDAQ,59M,8725.T,Finanzdienstleistungen,JP3890310000
+112,NEC Corp.,853675,NASDAQ,NEC1,6701.T,Hardware,JP3733000008
+113,Nexon Co. Ltd,A1JPFB,NASDAQ,7NX,3659.T,Unterhaltung,JP3758190007
+114,NGK Insulators Ltd.,862417,NASDAQ,NGI,5333.T,Elektrotechnologie,JP3695200000
+115,Nh Food Ltd.,853946,NASDAQ,NI6,2282.T,Nahrungsmittel/Agrar,JP3743000006
+116,Nichirei Corp.,856386,NASDAQ,NI3,2871.T,Nahrungsmittel/Agrar,JP3665200006
+117,Nikon Corp.,853326,NASDAQ,NKN,7731.T,Konsumgüter,JP3657400002
+118,"Nippon Electric Glass Co., Ltd.",866059,NASDAQ,NPG,5214.T,Elektrotechnologie,JP3733400000
+119,Nippon Express Co. Ltd.,857297,NASDAQ,not_found,2871.T,Nahrungsmittel/Agrar,JP3665200006
+120,Nippon Light Metal Holdings Co Ltd.,A1J41T,NASDAQ,N9L,5703.T,Eisen/Stahl,JP3700200003
+121,Nippon Paper Industries Co Ltd.,859267,NASDAQ,9NI,3863.T,Holz/Papier,JP3721600009
+122,Nippon Sheet Glass Co. Ltd.,864743,NASDAQ,NI9,5202.T,Konsumgüter,JP3686800008
+123,Nippon Steel & Sumitomo Metal Corp.,859164,NASDAQ,NPS,5401.T,Eisen/Stahl,JP3381000003
+124,Nippon Suisan Kaisha Ltd.,854348,NASDAQ,71N,1332.T,Nahrungsmittel/Agrar,JP3718800000
+125,Nippon Telegraph and Telephone Corp.,873029,NASDAQ,NTT,9432.T,Telekom,JP3735400008
+126,Nippon Yusen K.K.,859849,NASDAQ,NYKA,9101.T,Logistik/Transport,JP3753000003
+127,Nissan Chemical Industries Ltd.,859269,NASDAQ,NSC,4021.T,Chemie,JP3670800006
+128,Nissan Motor Co. Ltd.,853686,NASDAQ,NISA,7201.T,Fahrzeuge,JP3672400003
+129,Nisshin Seifun Group Inc.,859590,NASDAQ,NISA,2002.T,Nahrungsmittel/Agrar,JP3676800000
+130,Nisshinbo Holdings Inc.,853942,NASDAQ,NBO,3105.T,Sonstige Technologie,JP3678000005
+131,NITTO DENKO CORP.,862930,NASDAQ,ND5,6988.T,Elektrotechnologie,JP3684000007
+132,Nomura Holdings Inc.,857054,NASDAQ,NSE,8604.T,Finanzdienstleistungen,JP3762600009
+133,NSK Ltd.,853685,NASDAQ,NSK,6471.T,Sonstige Technologie,JP3720800006
+134,NTN Corp.,854088,NASDAQ,NTN,6472.T,Maschinenbau,JP3165600002
+135,NTT Data Corp.,-,NASDAQ,not_found,not_found,not_found,not_found
+136,Obayashi Corp.,858426,NASDAQ,OBA,1802.T,Bau/Infrastruktur,JP3190000004
+137,"Odakyu Electric Railway Co., Ltd.",864706,NASDAQ,not_found,9007.T,Logistik/Transport,JP3196000008
+138,Oji Holdings Corp.,859846,NASDAQ,OJI,3861.T,Holz/Papier,JP3174410005
+139,Oki Electric Industry Co. Ltd.,857207,NASDAQ,OKI,6703.T,Hardware,JP3194000000
+140,Okuma Corp.,858980,NASDAQ,OKU,6103.T,Maschinenbau,JP3172100004
+141,Olympus Corp.,856840,NASDAQ,OLY1,7733.T,Gesundheitswesen,JP3201200007
+142,Omron Corp.,856877,NASDAQ,OMR1,6645.T,Elektrotechnologie,JP3197800000
+143,Osaka Gas Co. Ltd.,858464,NASDAQ,OSA,9532.T,Öl/Gas,JP3180400008
+144,Otsuka Holdings Company Ltd.,A1C9KC,NASDAQ,OS1,4578.T,Pharma,JP3188220002
+145,Pacific Metals Co. Ltd.,859172,NASDAQ,PYV,5541.T,Eisen/Stahl,JP3448000004
+146,Panasonic Corp.,853666,NASDAQ,MAT1,6752.T,Konsumgüter,JP3866800000
+147,Rakuten Inc.,927128,NASDAQ,RAK,4755.T,Internet,JP3967200001
+148,Resona Holdings Inc.,766461,NASDAQ,DW1,8308.T,Finanzdienstleistungen,JP3500610005
+149,Ricoh Co. Ltd.,854279,NASDAQ,RIC1,7752.T,Sonstige Technologie,JP3973400009
+150,Sapporo Holdings Ltd.,851177,NASDAQ,SBW,2501.T,Getränke/Tabak,JP3320800000
+151,Secom Co. Ltd.,863529,NASDAQ,XSC,9735.T,Dienstleistungen,JP3421800008
+152,Seiko Epson Corp.,471496,NASDAQ,SE7,6724.T,Hardware,JP3414750004
+153,Sekisui House Ltd.,850022,NASDAQ,SPH1,1928.T,Bau/Infrastruktur,JP3420600003
+154,Seven & I Holdings Co. Ltd.,A0F7DY,NASDAQ,S6M,3382.T,Handel/E-Commerce,JP3422950000
+155,Sharp Corp.,855383,NASDAQ,SRP,6753.T,Elektrotechnologie,JP3359600008
+156,Shimizu Corp.,857801,NASDAQ,XSZ,1803.T,Bau/Infrastruktur,JP3358800005
+157,Shin-Etsu Chemical Co. Ltd.,859118,NASDAQ,SEH,4063.T,Chemie,JP3371200001
+158,Shinsei Bank Ltd.,853140,NASDAQ,LCJ,8303.T,Finanzdienstleistungen,JP3729000004
+159,Shionogi & Co. Ltd.,855648,NASDAQ,SH0,4507.T,Pharma,JP3347200002
+160,Shiseido Co. Ltd.,854002,NASDAQ,SHD,4911.T,Kosmetik,JP3351600006
+161,Shizuoka Bank Ltd. (THE),855233,NASDAQ,ZUO,8355.T,Finanzdienstleistungen,JP3351200005
+162,Showa Denko K.K.,859554,NASDAQ,SWD,4004.T,Finanzdienstleistungen,JP3368000000
+163,Sky Perfect JSAT Corp.,A0MMJB,NASDAQ,SKM,9412.T,Telekom,JP3396350005
+164,Softbank Group Corp.,891624,NASDAQ,SFT,9984.T,Internet,JP3436100006
+165,Sojitz Corp.,255124,NASDAQ,XEB,2768.T,Industrie/Mischkonzerne,JP3663900003
+166,Sompo Hldgs Inc,A1CTAF,NASDAQ,ANK,8630.T,Finanzdienstleistungen,JP3165000005
+167,Sony Group Corp.,853687,NASDAQ,SON1,6758.T,Konsumgüter,JP3435000009
+168,Sumco Corp.,A0HGFA,NASDAQ,S3X,3436.T,Halbleiter,JP3322930003
+169,Sumitomo Chemical Co. Ltd.,853490,NASDAQ,SMM,4005.T,Chemie,JP3401400001
+170,Sumitomo Corp.,860364,NASDAQ,SUMA,8053.T,Industrie/Mischkonzerne,JP3404600003
+171,Sumitomo Dainippon Pharma Co.,858257,NASDAQ,DPM,4506.T,Pharma,JP3495000006
+172,Sumitomo Electric Industries Ltd.,857716,NASDAQ,SMO,5802.T,Elektrotechnologie,JP3407400005
+173,Sumitomo Heavy Industries Ltd.,859555,NASDAQ,SSM1,6302.T,Maschinenbau,JP3405400007
+174,Sumitomo Metal Mining Co. Ltd.,859470,NASDAQ,S19,5713.T,Industrie/Mischkonzerne,JP3402600005
+175,Sumitomo Mitsui Financial Group Inc.,778924,NASDAQ,XMF,8316.T,Finanzdienstleistungen,JP3890350006
+176,Sumitomo Mitsui Trust Holdings Inc.,529969,NASDAQ,MIU,8309.T,Finanzdienstleistungen,JP3892100003
+177,Sumitomo Osaka Cement Co. Ltd.,857803,NASDAQ,SU2,5232.T,Bau/Infrastruktur,JP3400900001
+178,Sumitomo Realty & Development Co. Ltd.,855211,NASDAQ,RL2,8830.T,Bau/Infrastruktur,JP3409000001
+179,Suzuki Motor Corp.,857310,NASDAQ,SUK,7269.T,Fahrzeuge,JP3397200001
+180,T & D Holdings Inc.,A0B9FA,NASDAQ,TZ6,8795.T,Finanzdienstleistungen,JP3539220008
+181,Taiheiyo Cement Corp.,858354,NASDAQ,TIE,5233.T,Bau/Infrastruktur,JP3449020001
+182,Taisei Corp.,857627,NASDAQ,TKK1,1801.T,Bau/Infrastruktur,JP3443600006
+183,Taiyo Yuden Co. Ltd.,863428,NASDAQ,TYC1,6976.T,Sonstige Technologie,JP3452000007
+184,Takara Shuzo,864062,NASDAQ,TAX,2531.T,Industrie/Mischkonzerne,JP3459600007
+185,Takashimaya Co. Ltd.,-,NASDAQ,not_found,not_found,not_found,not_found
+186,Takeda Pharmaceutical Co. Ltd.,853849,NASDAQ,TKD,4502.T,Chemie,JP3463000004
+187,TDK Corp.,857032,NASDAQ,TDK,6762.T,Hardware,JP3538800008
+188,Teijin Ltd.,855254,NASDAQ,TIJ,3401.T,Chemie,JP3544000007
+189,Terumo Corp.,867003,NASDAQ,TUO,4543.T,Gesundheitswesen,JP3546800008
+190,The Japan Steel Works Ltd.,858684,NASDAQ,J9R,5631.T,Eisen/Stahl,JP3721400004
+191,The Kansai Electric Power Co. Inc.,853264,NASDAQ,KPO,9503.T,Versorger,JP3228600007
+192,The Yokohama Rubber Co. Ltd.,858091,NASDAQ,YRB,5101.T,Kunststoffe/Verpackungen,JP3955800002
+193,"Tobu Railway Co., Ltd.",860384,NASDAQ,not_found,9001.T,Logistik/Transport,JP3597800006
+194,TOHO CO. LTD.,901949,NASDAQ,TZ7,8142.T,Handel/E-Commerce,JP3553200001
+195,Toho Zinc Company Ltd.,862871,NASDAQ,T62,5707.T,Rohstoffe,JP3599000001
+196,Tokai Carbon Co. Ltd.,862859,NASDAQ,7TC,5301.T,Chemie,JP3560800009
+197,Tokio Marine Holdings Inc.,542064,NASDAQ,not_found,not_found,not_found,not_found
+198,Tokuyama Corp.,860381,NASDAQ,TBT,4043.T,Industrie/Mischkonzerne,JP3625000009
+199,Tokyo Electric Power Company Holdings Inc.,854307,NASDAQ,TPO,9501.T,Versorger,JP3585800000
+200,Tokyo Electron Ltd.,865510,NASDAQ,TKY,8035.T,Elektrotechnologie,JP3571400005
+201,Tokyo Gas Co. Ltd.,855664,NASDAQ,TOG,9531.T,Versorger,JP3573000001
+202,Tokyo Tatemono Co. Ltd.,850796,NASDAQ,T6R,8804.T,Immobilien,JP3582600007
+203,Tokyu Corp.,864105,NASDAQ,01T,9005.T,Logistik/Transport,JP3574200006
+204,Tokyu Fudosan Holdings Corp,A1W44J,NASDAQ,T8F,3289.T,Immobilien,JP3569200003
+205,Toppan Printing Co. Ltd.,857049,NASDAQ,TPX,7911.T,Holz/Papier,JP3629000005
+206,Toray Industries Inc.,853974,NASDAQ,TOR1,3402.T,Chemie,JP3621000003
+207,Toshiba Corp.,853676,NASDAQ,TSE1,6502.T,Hardware,JP3592200004
+208,Tosoh Corp.,859557,NASDAQ,TOS,4042.T,Chemie,JP3595200001
+209,TOTO LTD.,857955,NASDAQ,TO4,5332.T,Bau/Infrastruktur,JP3596200000
+210,Toyo Seikan Group Holdings Ltd.,860369,NASDAQ,TQN,5901.T,Rohstoffe,JP3613400005
+211,Toyobo Co. Ltd.,860856,NASDAQ,TO7,3101.T,Sonstige Technologie,JP3619800000
+212,Toyota Motor Corporation,853510,NASDAQ,TOM,7203.T,Fahrzeuge,JP3633400001
+213,Toyota Tsusho Corp.,866920,NASDAQ,TOM,8015.T,not_found,JP3635000007
+214,Trend Micro Inc.,915793,NASDAQ,TMI,4704.T,Software,JP3637300009
+215,Ube Industries Ltd.,859490,NASDAQ,TMI,4208.T,not_found,JP3158800007
+216,Unitika Ltd.,-,NASDAQ,not_found,not_found,not_found,not_found
+217,West Japan Railway Co.,903186,NASDAQ,WEJ,9021.T,Logistik/Transport,JP3659000008
+218,Yahoo Japan Corp.,916008,NASDAQ,YOJ,4689.T,Internet,JP3933800009
+219,Yamaha Corp.,855314,NASDAQ,YHA,7951.T,Unterhaltung,JP3942600002
+220,Yamaha Motor Co. Ltd.,857690,NASDAQ,YMA,7272.T,Fahrzeuge,JP3942800008
+221,Yamato Holdings Co. Ltd.,864712,NASDAQ,not_found,not_found,not_found,not_found
+222,Yaskawa Electric Corp.,857658,NASDAQ,not_found,6506.T,not_found,JP3932000007
+223,Yokogawa Electric Corp.,856912,NASDAQ,YKE,6841.T,Elektrotechnologie,JP3955000009

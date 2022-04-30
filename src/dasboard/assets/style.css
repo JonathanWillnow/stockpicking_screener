@@ -1,0 +1,70 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin: 5;
+    background-color: #f8f8f8;
+}
+
+.header {
+    background-color: #2427be;
+    height: 256px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header-emoji {
+    font-size: 48px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header-title {
+    color: #030303;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header-title-2 {
+    color: #030303;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header-title-3 {
+    color: #030303;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header-description {
+    color: #030303;
+    margin: 4px auto;
+    text-align: center;
+    max-width: 384px;
+}
+
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1024px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 32px;
+}
+
+.justified {
+    text-align: justify !important;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card {
+    margin-bottom: 24px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.18);
+}
