@@ -1,0 +1,371 @@
+1644916250373	geckodriver	INFO	Listening on 127.0.0.1:56176
+1644916253424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilej5iLie"
+1644916255117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilej5iLie\\search.json.mozlz4", (void 0)))
+1644916258979	Marionette	INFO	Listening on port 56184
+1644916259292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644916281327	Marionette	INFO	Stopped listening on port 56184
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644916311150	geckodriver	INFO	Listening on 127.0.0.1:56241
+1644916314226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileEhdglc"
+1644916314902	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileEhdglc\\search.json.mozlz4", (void 0)))
+1644916317793	Marionette	INFO	Listening on port 56250
+1644916317956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644916335853	Marionette	INFO	Stopped listening on port 56250
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileEhdglc\protections.sqlite
+1644916419437	geckodriver	INFO	Listening on 127.0.0.1:56319
+1644916422485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileOdSXKQ"
+1644916423202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileOdSXKQ\\search.json.mozlz4", (void 0)))
+1644916426302	Marionette	INFO	Listening on port 56327
+1644916426729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644916443711	Marionette	INFO	Stopped listening on port 56327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileOdSXKQ\protections.sqlite
+1644916566642	geckodriver	INFO	Listening on 127.0.0.1:56431
+1644916569684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilesX5MaV"
+1644916570299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilesX5MaV\\search.json.mozlz4", (void 0)))
+1644916573325	Marionette	INFO	Listening on port 56440
+1644916573375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644916618392	Marionette	INFO	Stopped listening on port 56440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofilesX5MaV\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644917360972	geckodriver	INFO	Listening on 127.0.0.1:49200
+1644917363995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilearym3f"
+1644917364652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilearym3f\\search.json.mozlz4", (void 0)))
+1644917367753	Marionette	INFO	Listening on port 49209
+1644917368200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644917383733	Marionette	INFO	Stopped listening on port 49209
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofilearym3f\protections.sqlite
+1644917384756	geckodriver	INFO	Listening on 127.0.0.1:49265
+1644917387766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileJ8T0Mk"
+1644917388416	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileJ8T0Mk\\search.json.mozlz4", (void 0)))
+1644917391434	Marionette	INFO	Listening on port 49274
+1644917391466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644917443044	Marionette	INFO	Stopped listening on port 49274
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileJ8T0Mk\protections.sqlite
+1644917444109	geckodriver	INFO	Listening on 127.0.0.1:49341
+1644917447139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilebPTz3G"
+1644917447784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilebPTz3G\\search.json.mozlz4", (void 0)))
+1644917450661	Marionette	INFO	Listening on port 49351
+1644917450832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644917465844	Marionette	INFO	Stopped listening on port 49351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofilebPTz3G\protections.sqlite
+1645025909741	geckodriver	INFO	Listening on 127.0.0.1:55239
+1645025912770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile9DfCsT"
+1645025913449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile9DfCsT\\search.json.mozlz4", (void 0)))
+1645025916589	Marionette	INFO	Listening on port 55247
+1645025916975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645025932584	Marionette	INFO	Stopped listening on port 55247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofile9DfCsT\protections.sqlite
+1645025933572	geckodriver	INFO	Listening on 127.0.0.1:55304
+1645025936612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileEnsmNK"
+1645025937080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileEnsmNK\\search.json.mozlz4", (void 0)))
+1645025939837	Marionette	INFO	Listening on port 61416
+1645025940319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645025961566	Marionette	INFO	Stopped listening on port 61416
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileEnsmNK\protections.sqlite
+1645025962542	geckodriver	INFO	Listening on 127.0.0.1:61476
+1646570698025	geckodriver	INFO	Listening on 127.0.0.1:49876
+1646570701059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileBKwi33"
+1646570702148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileBKwi33\\search.json.mozlz4", (void 0)))
+1646570705458	Marionette	INFO	Listening on port 49987
+1646570705865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646570726152	Marionette	INFO	Stopped listening on port 49987
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileBKwi33\protections.sqlite
+[Parent 17656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1646746792161	geckodriver	INFO	Listening on 127.0.0.1:55751
+1646746795231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileM4qWZv"
+1646746796269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileM4qWZv\\search.json.mozlz4", (void 0)))
+1646746799757	Marionette	INFO	Listening on port 55763
+1646746800060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646746822674	Marionette	INFO	Stopped listening on port 55763
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileM4qWZv\protections.sqlite
+1646747080822	geckodriver	INFO	Listening on 127.0.0.1:50215
+1646747083885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilehfPyJU"
+1646747084359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilehfPyJU\\search.json.mozlz4", (void 0)))
+1646747087160	Marionette	INFO	Listening on port 64131
+1646747087562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646747110112	Marionette	INFO	Stopped listening on port 64131
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofilehfPyJU\protections.sqlite
+1646817625205	geckodriver	INFO	Listening on 127.0.0.1:60425
+1646817628229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilemw7ZvJ"
+1646817629403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilemw7ZvJ\\search.json.mozlz4", (void 0)))
+1646817632800	Marionette	INFO	Listening on port 60433
+1646817633045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646817655768	Marionette	INFO	Stopped listening on port 60433
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofilemw7ZvJ\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646818170319	geckodriver	INFO	Listening on 127.0.0.1:61293
+1646818173340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileirZxKQ"
+1646818173846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileirZxKQ\\search.json.mozlz4", (void 0)))
+1646818176819	Marionette	INFO	Listening on port 61301
+1646818177093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646818199881	Marionette	INFO	Stopped listening on port 61301
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileirZxKQ\protections.sqlite
+1652699782508	geckodriver	INFO	Listening on 127.0.0.1:51680
+1652699785599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile3AgIMf"
+1652699786052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile3AgIMf\\search.json.mozlz4", (void 0)))
+1652699788676	Marionette	INFO	Listening on port 51690
+1652699788799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652700080299	Marionette	INFO	Stopped listening on port 51690
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+onette	INFO	Listening on port 51880
+1652699954189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700079127	Marionette	INFO	Stopped listening on port 51880
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileNBs1rr\\search.json.mozlz4", (void 0)))
+1652700052796	Marionette	INFO	Listening on port 52032
+1652700053299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700413726	Marionette	INFO	Stopped listening on port 52032
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+te errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700414720	Marionette	INFO	Stopped listening on port 52184
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileWxX3yr\\search.json.mozlz4", (void 0)))
+1652700251807	Marionette	INFO	Listening on port 52332
+1652700251967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700416528	Marionette	INFO	Stopped listening on port 52332
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilePleLFq\\search.json.mozlz4", (void 0)))
+1652700351191	Marionette	INFO	Listening on port 52496
+1652700351350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700417881	Marionette	INFO	Stopped listening on port 52496
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileCmj815\\search.json.mozlz4", (void 0)))
+1652700417666	Marionette	INFO	Listening on port 52632
+1652700418094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700709636	Marionette	INFO	Stopped listening on port 52632
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilepp6EoD\\search.json.mozlz4", (void 0)))
+1652700611876	Marionette	INFO	Listening on port 52842
+1652700612169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700870355	Marionette	INFO	Stopped listening on port 52842
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilercBEsv\\search.json.mozlz4", (void 0)))
+1652700711036	Marionette	INFO	Listening on port 53005
+1652700711483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700871319	Marionette	INFO	Stopped listening on port 53005
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+onathan\\AppData\\Local\\Temp\\rust_mozprofile4v0v1j\\search.json.mozlz4", (void 0)))
+1652700743068	Marionette	INFO	Listening on port 53120
+1652700743490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652700872332	Marionette	INFO	Stopped listening on port 53120
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile3BVRiO\\search.json.mozlz4", (void 0)))
+1652700851042	Marionette	INFO	Listening on port 53290
+1652700851224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+console.error: (new TypeError("browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 182))
+1652709065632	Marionette	INFO	Stopped listening on port 53290
+JavaScript error: chrome://browser/content/browser.js, line 7927: uncaught exception: undefined
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 21100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+te errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652702880194	Marionette	INFO	Stopped listening on port 53707
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

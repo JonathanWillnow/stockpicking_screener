@@ -1,0 +1,637 @@
+1646763774268	geckodriver	INFO	Listening on 127.0.0.1:49678
+1646763777339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49679" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilelXluPC"
+1646763778308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilelXluPC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49679/devtools/browser/faea72f1-d80e-450c-9d80-8d8d13937306
+1646763782467	Marionette	INFO	Listening on port 49684
+1646763782677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646763799506	Marionette	INFO	Stopped listening on port 49684
+1646763802370	geckodriver	INFO	Listening on 127.0.0.1:49742
+1646763805405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49743" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofiley1eTVI"
+1646763805824	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofiley1eTVI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49743/devtools/browser/5e4617f8-b353-49f6-bd02-57c4d508054c
+1646763808637	Marionette	INFO	Listening on port 49750
+1646763809111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 703: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 703: WebGL context was lost.
+1646763893004	Marionette	INFO	Stopped listening on port 49750
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652701115056	geckodriver	INFO	Listening on 127.0.0.1:53863
+1652701118078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilerUtxW6"
+1652701118478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilerUtxW6\\search.json.mozlz4", (void 0)))
+1652701121059	Marionette	INFO	Listening on port 53872
+1652701121286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652702881652	Marionette	INFO	Stopped listening on port 53872
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilevLONlN\\search.json.mozlz4", (void 0)))
+1652701190155	Marionette	INFO	Listening on port 54011
+1652701190395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652702882542	Marionette	INFO	Stopped listening on port 54011
+2701280501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileofXThL"
+1652701280879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileofXThL\\search.json.mozlz4", (void 0)))
+1652701283264	Marionette	INFO	Listening on port 54162
+1652701283700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652702883360	Marionette	INFO	Stopped listening on port 54162
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileofXThL\protections.sqlite
+n.mozlz4", (void 0)))
+1652701394041	Marionette	INFO	Listening on port 54321
+1652701394360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652701640041	Marionette	INFO	Stopped listening on port 54321
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652702358035	geckodriver	INFO	Listening on 127.0.0.1:55077
+1652702361060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileBEjuyA"
+1652702361499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileBEjuyA\\search.json.mozlz4", (void 0)))
+1652702364380	Marionette	INFO	Listening on port 55086
+1652702364743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652702465080	Marionette	INFO	Stopped listening on port 55086
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652702817407	geckodriver	INFO	Listening on 127.0.0.1:57906
+1652702820449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileb2SVOh"
+1652702820822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileb2SVOh\\search.json.mozlz4", (void 0)))
+1652702823221	Marionette	INFO	Listening on port 57915
+1652702823641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652702884193	Marionette	INFO	Stopped listening on port 57915
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+onathan\\AppData\\Local\\Temp\\rust_mozprofilekuNcZu\\search.json.mozlz4", (void 0)))
+1652702883098	Marionette	INFO	Listening on port 58039
+1652702883207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652709059984	Marionette	INFO	Stopped listening on port 58039
+2703020676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileUHEWVc"
+1652703021170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileUHEWVc\\search.json.mozlz4", (void 0)))
+1652703023967	Marionette	INFO	Listening on port 58220
+1652703024341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711698274	Marionette	INFO	Stopped listening on port 58220
+2703177017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileihZenM"
+1652703177419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileihZenM\\search.json.mozlz4", (void 0)))
+1652703179753	Marionette	INFO	Listening on port 58405
+1652703180203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652709060768	Marionette	INFO	Stopped listening on port 58405
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileGmurIy\\search.json.mozlz4", (void 0)))
+1652703328539	Marionette	INFO	Listening on port 58580
+1652703328930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711697906	Marionette	INFO	Stopped listening on port 58580
+\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilefLxPUZ"
+1652703459543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilefLxPUZ\\search.json.mozlz4", (void 0)))
+1652703462290	Marionette	INFO	Listening on port 58751
+1652703462359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652709061180	Marionette	INFO	Stopped listening on port 58751
+2703683606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileTp0rS0"
+1652703684126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileTp0rS0\\search.json.mozlz4", (void 0)))
+1652703686941	Marionette	INFO	Listening on port 59017
+1652703687302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652709061894	Marionette	INFO	Stopped listening on port 59017
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile2iNLzR"
+1652703774124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile2iNLzR\\search.json.mozlz4", (void 0)))
+1652703776568	Marionette	INFO	Listening on port 59192
+1652703776954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652709062935	Marionette	INFO	Stopped listening on port 59192
+2703822620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileCvF3xi"
+1652703823054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileCvF3xi\\search.json.mozlz4", (void 0)))
+1652703825697	Marionette	INFO	Listening on port 59320
+1652703825804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652709063311	Marionette	INFO	Stopped listening on port 59320
+2703982413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileB8tN1V"
+1652703982993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileB8tN1V\\search.json.mozlz4", (void 0)))
+1652703985555	Marionette	INFO	Listening on port 59544
+1652703985613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711697480	Marionette	INFO	Stopped listening on port 59544
+2704192410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile1fBp9z"
+1652704192791	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile1fBp9z\\search.json.mozlz4", (void 0)))
+1652704195505	Marionette	INFO	Listening on port 59789
+1652704195623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652709064089	Marionette	INFO	Stopped listening on port 59789
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilevEpeGG\\search.json.mozlz4", (void 0)))
+1652704387335	Marionette	INFO	Listening on port 60037
+1652704387461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711697110	Marionette	INFO	Stopped listening on port 60037
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile3vJfyW\\search.json.mozlz4", (void 0)))
+1652704466070	Marionette	INFO	Listening on port 60182
+1652704466564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652709064548	Marionette	INFO	Stopped listening on port 60182
+2704777813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile0wdiO1"
+1652704778347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile0wdiO1\\search.json.mozlz4", (void 0)))
+1652704781765	Marionette	INFO	Listening on port 60489
+1652704781997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711696863	Marionette	INFO	Stopped listening on port 60489
+2704833824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileGTTEnp"
+1652704834198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileGTTEnp\\search.json.mozlz4", (void 0)))
+1652704836778	Marionette	INFO	Listening on port 60616
+1652704837013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711696443	Marionette	INFO	Stopped listening on port 60616
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_GraphicsError) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711678333	Marionette	INFO	Stopped listening on port 60757
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilevQwIJH\\search.json.mozlz4", (void 0)))
+1652705033273	Marionette	INFO	Listening on port 60955
+1652705033467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711696185	Marionette	INFO	Stopped listening on port 60955
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileRI5vf3\\search.json.mozlz4", (void 0)))
+1652705178247	Marionette	INFO	Listening on port 61162
+1652705178292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711695701	Marionette	INFO	Stopped listening on port 61162
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileBYGZyO\\search.json.mozlz4", (void 0)))
+1652705252877	Marionette	INFO	Listening on port 61326
+1652705253250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711695378	Marionette	INFO	Stopped listening on port 61326
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+onathan\\AppData\\Local\\Temp\\rust_mozprofileQ30Jl5\\search.json.mozlz4", (void 0)))
+1652705331166	Marionette	INFO	Listening on port 61481
+1652705331560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711695161	Marionette	INFO	Stopped listening on port 61481
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileQ30Jl5\protections.sqlite
+ored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711694735	Marionette	INFO	Stopped listening on port 61766
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileKRSSAL\protections.sqlite
+ing: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711694131	Marionette	INFO	Stopped listening on port 62077
+\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileFFTstW"
+1652705875167	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileFFTstW\\search.json.mozlz4", (void 0)))
+1652705877998	Marionette	INFO	Listening on port 62201
+1652705878490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711693983	Marionette	INFO	Stopped listening on port 62201
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileo1Sgry\\search.json.mozlz4", (void 0)))
+1652706065128	Marionette	INFO	Listening on port 62443
+1652706065197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711693428	Marionette	INFO	Stopped listening on port 62443
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+onathan\\AppData\\Local\\Temp\\rust_mozprofilewhLScH\\search.json.mozlz4", (void 0)))
+1652706117753	Marionette	INFO	Listening on port 62577
+1652706118270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711689476	Marionette	INFO	Stopped listening on port 62577
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofilewhLScH\protections.sqlite
+ored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711689330	Marionette	INFO	Stopped listening on port 62708
+\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileId2gTO"
+1652706294836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileId2gTO\\search.json.mozlz4", (void 0)))
+1652706297523	Marionette	INFO	Listening on port 62947
+1652706297933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711688732	Marionette	INFO	Stopped listening on port 62947
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile5MOCJC\\search.json.mozlz4", (void 0)))
+1652706531835	Marionette	INFO	Listening on port 63250
+1652706531894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711688299	Marionette	INFO	Stopped listening on port 63250
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile6IG01F\\search.json.mozlz4", (void 0)))
+1652706584990	Marionette	INFO	Listening on port 63406
+1652706585130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711687316	Marionette	INFO	Stopped listening on port 63406
+2706743531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile3zGxPn"
+1652706744171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile3zGxPn\\search.json.mozlz4", (void 0)))
+1652706747055	Marionette	INFO	Listening on port 63619
+1652706747230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711686983	Marionette	INFO	Stopped listening on port 63619
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofile3zGxPn\protections.sqlite
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+\\Local\\Temp\\rust_mozprofilegzP60U\\search.json.mozlz4", (void 0)))
+1652706950370	Marionette	INFO	Listening on port 63889
+1652706950888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711686471	Marionette	INFO	Stopped listening on port 63889
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofilegzP60U\protections.sqlite
+icate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711686098	Marionette	INFO	Stopped listening on port 64031
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 37848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ing on port 64203
+1652707099788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711685767	Marionette	INFO	Stopped listening on port 64203
+ "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofiley9JWWT\\search.json.mozlz4", (void 0)))
+1652707193897	Marionette	INFO	Listening on port 64376
+1652707194036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711684869	Marionette	INFO	Stopped listening on port 64376
+ "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilelGY3fI\\search.json.mozlz4", (void 0)))
+1652707404753	Marionette	INFO	Listening on port 64612
+1652707404785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711684652	Marionette	INFO	Stopped listening on port 64612
+\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileyJn4hs"
+1652707716331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileyJn4hs\\search.json.mozlz4", (void 0)))
+1652707719484	Marionette	INFO	Listening on port 64933
+1652707719600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711684096	Marionette	INFO	Stopped listening on port 64933
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+ 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711683665	Marionette	INFO	Stopped listening on port 65101
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+onathan\\AppData\\Local\\Temp\\rust_mozprofilekO3C94\\search.json.mozlz4", (void 0)))
+1652707913895	Marionette	INFO	Listening on port 65275
+1652707914054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711683071	Marionette	INFO	Stopped listening on port 65275
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+nette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilek3rW6I\\search.json.mozlz4", (void 0)))
+1652707961552	Marionette	INFO	Listening on port 65401
+1652707961989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711682452	Marionette	INFO	Stopped listening on port 65401
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofiletLBuYa"
+1652708001723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofiletLBuYa\\search.json.mozlz4", (void 0)))
+1652708004485	Marionette	INFO	Listening on port 65532
+1652708004897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711682408	Marionette	INFO	Stopped listening on port 65532
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofiletLBuYa\protections.sqlite
+n.mozlz4", (void 0)))
+1652708095573	Marionette	INFO	Listening on port 49302
+1652708095705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711679659	Marionette	INFO	Stopped listening on port 49302
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileJZ9kk7\\search.json.mozlz4", (void 0)))
+1652708535024	Marionette	INFO	Listening on port 50395
+1652708535129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1652711678488	Marionette	INFO	Stopped listening on port 50395
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileJZ9kk7\protections.sqlite
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+arionette	INFO	Listening on port 51068
+1652708910473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711678487	Marionette	INFO	Stopped listening on port 51068
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+te errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711680333	Marionette	INFO	Stopped listening on port 51276
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jonathan\AppData\Local\Temp\rust_mozprofileYV9lXI\protections.sqlite
+FoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileDZi2qN\\search.json.mozlz4", (void 0)))
+1652709174452	Marionette	INFO	Listening on port 51443
+1652709174786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711677352	Marionette	INFO	Stopped listening on port 51443
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofiletxRZjO\\search.json.mozlz4", (void 0)))
+1652709252818	Marionette	INFO	Listening on port 51587
+1652709252855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711677348	Marionette	INFO	Stopped listening on port 51587
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile80DHbm\\search.json.mozlz4", (void 0)))
+1652709759866	Marionette	INFO	Listening on port 52052
+1652709760359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711677017	Marionette	INFO	Stopped listening on port 52052
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofile8pJ7ny\\search.json.mozlz4", (void 0)))
+1652709849787	Marionette	INFO	Listening on port 52208
+1652709850109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652711676031	Marionette	INFO	Stopped listening on port 52208
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 48408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 48408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652795826278	geckodriver	INFO	Listening on 127.0.0.1:53808
+1652795829381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileqefGG8"
+1652795829920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileqefGG8\\search.json.mozlz4", (void 0)))
+1652795833017	Marionette	INFO	Listening on port 53816
+1652795833133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652795968758	Marionette	INFO	Stopped listening on port 53816
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652796430572	geckodriver	INFO	Listening on 127.0.0.1:54127
+1652796433582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileZ8adYw"
+1652796434232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofileZ8adYw\\search.json.mozlz4", (void 0)))
+1652796437782	Marionette	INFO	Listening on port 54135
+1652796437848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652796830395	Marionette	INFO	Stopped listening on port 54135
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652882801531	geckodriver	INFO	Listening on 127.0.0.1:56208
+1652882804608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilej7VgBf"
+1652882805182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jonathan\\AppData\\Local\\Temp\\rust_mozprofilej7VgBf\\search.json.mozlz4", (void 0)))
+1652882808299	Marionette	INFO	Listening on port 56216
+1652882808356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 37: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4049: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4050: unreachable code after return statement
+JavaScript warning: https://detailskronos.solare-stadt.de/assets_v06/js/combined.5.a7f2894.js, line 4230: unreachable code after return statement
+1652883078068	Marionette	INFO	Stopped listening on port 56216
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
