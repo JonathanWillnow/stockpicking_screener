@@ -9,6 +9,28 @@ from pandas_datareader.famafrench import get_available_datasets
 import pandas_datareader.data as web
 
 
+
+#rename industries to english
+industry_dict = {'Finanzdienstleistungen':'Financial Services', 'Logistik/Transport':"Logistics/Transportation", 'Versorger':'Utilities',
+       'Nahrungsmittel/Agrar':'Food/Agriculture', 'Industrie/Mischkonzerne':"Industry", 'Elektrotechnologie':"Electrical Technology", 'Bau/Infrastruktur':'Construction/Infrastructure', 
+       'Hotels/Tourismus':'Hotels/Tourism',
+       'Dienstleistungen':'Services', 'Freizeitprodukte':'Leisure Products', 'Immobilien':'Real Estate',
+       'Chemie': 'Chemicals', 'Luftfahrt/Rüstung':'Aerospace/Armaments', 'Öl/Gas':'Oil/Gas', 'Gesundheitswesen': 'Healthcare',
+       'Pharma':'Pharmaceuticals',  'Handel/E-Commerce':'Retail/E-commerce',  'IT-Dienstleistungen':'IT Services',
+       'Sonstige Technologie': 'Other Technology', 'Halbleiter':'Semiconductors', 'Maschinenbau':'Mechanical Engineering',  'Rohstoffe':'Raw Materials',
+       'Getränke/Tabak': 'Beverages/Tobacco', 'Eisen/Stahl':'Iron/Steel',  'Biotechnologie':'Biotechnology', 'Software':'Software',
+       'Fahrzeuge': 'Vehicles', 'Kosmetik': 'Cosmetics', 'Holz/Papier': 'Wood/Paper', 'Telekom':'Telecom',
+       'Bekleidung/Textil': 'Apparel/Textiles', 'Konsumgüter':'Consumer Goods', 'Kunststoffe/Verpackungen':'Plastics/Packaging',
+       'Unterhaltung':'Entertainment', 'Erneuerbare Energien':'Renewable Energies',  'Medien':'Media', 'Hardware':'Hardware'}
+
+
+
+
+
+
+
+
+
 def get_european_weights_ken_french():
     """
     Function to obtain the historic European 5 Fama French Factors from the official webiste.
@@ -102,11 +124,13 @@ def reorder_naming(frame):
     Returns:
         A pd.DataFrame that has a different ordering / naming, according to the function.
     """
-    frame_d = frame[
-        [
+    frame_i =frame.replace(industry_dict)
+    frame_d = frame_i[
+        [   
+            
             "Ticker",
+            "currentPrice",
             "Industry",
-           # "RV Score",
             "priceToBook",
             "FF_Assets_Growth_mean",
             "FF_Quality_actual",
@@ -133,7 +157,6 @@ def reorder_naming(frame):
             "pegRatio",
             "enterpriseToEbitda",
             "dividendYield",
-            "currentPrice",
             "quickRatio",
             "currentRatio",
             "debtToEquity",
@@ -149,6 +172,9 @@ def reorder_naming(frame):
             "floatShares",
             "sharesOutstanding",
             "heldPercentInsiders",
+            "Name"
+            
+
         ]
     ].dropna(
         subset=[
@@ -188,22 +214,22 @@ def reorder_naming(frame):
             "forwardEps": "EPS forw.",
             "pegRatio": "PEG",
             "enterpriseToEbitda": "EVEbitda",
-            "dividendYield": "Div %",
+            "dividendYield": "Div \u0025",
             "quickRatio": "QRatio",
             "currentRatio": "CRatio",
-            "debtToEquity": "DEquity",
-            "grossMargins": "GMargin",
-            "operatingMargins": "OMargin",
-            "RevGrowth": "dRev",
-            "GrossProfitGrowth": "dGrossP",
+            "debtToEquity": "D/Equity",
+            "grossMargins": "GMargin \u0025",
+            "operatingMargins": "OMargin \u0025",
+            "RevGrowth": "\u0394Rev",
+            "GrossProfitGrowth": "\u0394GrossP",
             "OpIncomeGrowth": "\u0394OpInc",
             "enterpriseValue": "EV",
             "marketCap": "MC",
             "floatShares": "Float",
             "sharesOutstanding": "SharesOut",
-            "heldPercentInsiders": "Insider",
+            "heldPercentInsiders": "Insider \u0025",
             "currentPrice":"Price",
         },
         inplace=True,
     )
-    return frame_d.drop(frame_d[(frame_d["Price"] < 1.0) | (frame_d["P/B"]< 0.05)].index)
+    return round(frame_d.drop(frame_d[(frame_d["Price"] < 1.0) | (frame_d["P/B"]< 0.05)].index),2)

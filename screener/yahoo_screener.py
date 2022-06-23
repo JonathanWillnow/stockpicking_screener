@@ -10,7 +10,7 @@ from multiprocessing.pool import ThreadPool
 import warnings
 
 
-#warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore")
 
 
 def get_data(stockticker,pkldata):
@@ -24,7 +24,6 @@ def get_data(stockticker,pkldata):
 
 
     """
-    print(stockticker)
     metrics_list = [
         "enterpriseValue",
         "marketCap",
@@ -89,15 +88,10 @@ def get_data(stockticker,pkldata):
         target = target.replace('not_found', np.nan)
         target = target.dropna()
 
-
-        # data_dict["name"] = stockinfo_pkl.name[stockinfo_pkl.ticker == stockticker].values[0]
-        # data_dict["industry"] = stockinfo_pkl.industry[stockinfo_pkl.ticker == stockticker].values[0]
         data_dict["Name"] = target.loc[:,"name"].item()
         data_dict["Industry"] = target.loc[:,"industry"].item()
         data_dict["de_ticker"] = target.loc[:,"de_ticker"].item()
     except Exception as e:
-        #print(e)
-        #print(stockticker)
         data_dict["Name"] = np.nan
         data_dict["Industry"] = np.nan
         data_dict["de_ticker"] = np.nan
@@ -133,12 +127,16 @@ def get_data(stockticker,pkldata):
         except Exception as e:
             data_dict[metric] = np.nan
 
-    for metric in check_list:
-
-        try:
-
+    try:
             with urllib.request.urlopen(links[2]) as url:
                 parsed_3 = json.loads(url.read().decode())
+    except Exception as e:
+        pass
+
+
+    for metric in check_list:
+        
+        try:
             data_dict[metric] = parsed_3["quoteSummary"]["result"][0]["summaryDetail"][
                 metric
             ]["raw"]
@@ -388,7 +386,7 @@ def calc_precentiles(final_frame):
         except Exception:
             final_frame.loc[row, inv_metrics[metric]] = np.nan
 
-    return final_frame
+    return round(final_frame, 2)
 
 def fun_process_stocks_new(pklinput, datalist):
     """
@@ -404,18 +402,13 @@ def fun_process_stocks_new(pklinput, datalist):
         - None, but saves a file.
 
     """
-    stockinfo_pkl = pd.read_csv(f"original_data/csv_files/{str(datalist)}")
+    stockinfo_pkl = pd.read_csv(f"screener/original_data/csv_files/{str(datalist)}")
     stocklist = clean_stock_selection(pklinput)
     try:
         pklinput.drop("Unnamed: 0", axis=1, inplace=True)
     except Exception:
         pass
     frame = pd.DataFrame({})
-
-
-    # with ThreadPool() as p:
-    #     frame = frame.append(p.map(get_data, stocklist.ticker))
-    #     p.close()
 
     input_ls = [pklinput]*len(stocklist.ticker.to_list())
     input_ls = [(i,j)for i, j in zip(stocklist.ticker.to_list(),input_ls)] 
@@ -468,8 +461,5 @@ def fun_process_stocks_new(pklinput, datalist):
         except:
             pass
 
-
-    today = datetime.today().strftime("%Y-%m-%d")
-    # final_frame = calc_precentiles(frame)
-    frame.to_pickle(f"screened_data/proc_{datalist}.pkl")
+    frame.to_pickle(f"screener/screened_data/proc_{datalist}.pkl")
     return
