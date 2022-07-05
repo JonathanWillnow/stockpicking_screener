@@ -102,7 +102,7 @@ def calculate_precentiles_score(rv_dataframe, metric_dict):
 #rename industries to english
 industry_dict = {'Finanzdienstleistungen':'Financial Services', 'Logistik/Transport':"Logistics/Transportation", 'Versorger':'Utilities',
        'Nahrungsmittel/Agrar':'Food/Agriculture', 'Industrie/Mischkonzerne':"Industry", 'Elektrotechnologie':"Electrical Technology", 'Bau/Infrastruktur':'Construction/Infrastructure', 
-       'Hotels/Tourismus':'Hotels/Tourism',
+       'Hotels/Tourismus':'Hotels/Tourism', 'Hardware':'Hardware',
        'Dienstleistungen':'Services', 'Freizeitprodukte':'Leisure Products', 'Immobilien':'Real Estate',
        'Chemie': 'Chemicals', 'Luftfahrt/Rüstung':'Aerospace/Armaments', 'Öl/Gas':'Oil/Gas', 'Gesundheitswesen': 'Healthcare',
        'Pharma':'Pharmaceuticals',  'Handel/E-Commerce':'Retail/E-commerce',  'IT-Dienstleistungen':'IT Services',
@@ -125,12 +125,13 @@ def reorder_naming(frame):
         A pd.DataFrame that has a different ordering / naming, according to the function.
     """
     frame_i =frame.replace(industry_dict)
-    frame_d = frame_i[
+    frame_dd = frame_i[
         [   
-            
+            "Name",
             "Ticker",
             "currentPrice",
             "Industry",
+            "Country",
             "priceToBook",
             "FF_Assets_Growth_mean",
             "FF_Quality_actual",
@@ -157,6 +158,8 @@ def reorder_naming(frame):
             "pegRatio",
             "enterpriseToEbitda",
             "dividendYield",
+            "fiveYearAvgDividendYield",
+            "payoutRatio",
             "quickRatio",
             "currentRatio",
             "debtToEquity",
@@ -172,20 +175,22 @@ def reorder_naming(frame):
             "floatShares",
             "sharesOutstanding",
             "heldPercentInsiders",
-            "Name"
-            
-
+         #   "Ticker",
         ]
     ].dropna(
         subset=[
-            "MC_percentile",
-            "PB_percentile",
-            "FF_Cons_actual_percentile",
-            "FFQ(inv)_a_percentile",
-            "Industry",
+            # "MC_percentile",
+            # "PB_percentile",
+            # "FF_Cons_actual_percentile",
+            # "FFQ(inv)_a_percentile",
+            #"currentPrice",
             "Ticker",
+            "returnOnEquity"
         ]
     )
+
+    frame_d = frame_dd.dropna(axis=1, how="all")
+
     frame_d.rename(
         columns={
            # "RV Score": "Score",
@@ -195,12 +200,12 @@ def reorder_naming(frame):
             "FF_Quality_Growth": "\u0394FFQ",
             "returnOnEquity": "ROE",
             "returnOnAssets": "ROA",
-            "priceToSalesTrailing12Months": "P/S",
+            "priceToSalesTrailing12Months": "P/S TTM",
             "enterpriseToRevenue": "EV/RV",
             "PB_percentile": "PB per",
             "MC_percentile": "MC per",
             "FF_Cons_actual_percentile": "act. FFA per",
-            "FFA_m_percentile": "mean FFA per",
+            "FFA_m_percentile": "\u2300FFA per",
             "FFQ(inv)_a_percentile": "FFQ(i) per",
             "FFQ(inv)_g_percentile": "\u0394FFQ(i) per",
             "ROE(inv)_percentile": "ROE(i) per",
@@ -214,7 +219,9 @@ def reorder_naming(frame):
             "forwardEps": "EPS forw.",
             "pegRatio": "PEG",
             "enterpriseToEbitda": "EVEbitda",
-            "dividendYield": "Div \u0025",
+            "dividendYield": "Div\u0025",
+            "fiveYearAvgDividendYield":"5y\u2300  Div\u0025",
+            "payoutRatio":"Payout\u0025",
             "quickRatio": "QRatio",
             "currentRatio": "CRatio",
             "debtToEquity": "D/Equity",

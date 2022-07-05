@@ -1,3 +1,4 @@
+from unicodedata import numeric
 import ujson as json
 import itertools
 import urllib.request, json, time
@@ -42,6 +43,8 @@ def get_data(stockticker,pkldata):
         "enterpriseToRevenue",
         "enterpriseToEbitda",
         "dividendYield",
+        "fiveYearAvgDividendYield",
+        "payoutRatio"
     ]
     financial_list = [
         "currentPrice",
@@ -70,6 +73,8 @@ def get_data(stockticker,pkldata):
         "marketCap",
         "priceToSalesTrailing12Months",
         "dividendYield",
+        "fiveYearAvgDividendYield",
+        "payoutRatio"
     ]
     
     components = [
@@ -90,34 +95,42 @@ def get_data(stockticker,pkldata):
 
         data_dict["Name"] = target.loc[:,"name"].item()
         data_dict["Industry"] = target.loc[:,"industry"].item()
-        data_dict["de_ticker"] = target.loc[:,"de_ticker"].item()
+        data_dict["Country"] = target.loc[:,"index"].item()
+        #data_dict["de_ticker"] = target.loc[:,"de_ticker"].item()
     except Exception as e:
         data_dict["Name"] = np.nan
         data_dict["Industry"] = np.nan
-        data_dict["de_ticker"] = np.nan
+        data_dict["Country"] = np.nan
+        #print(f"{stockticker} failed with Exception: {str(e)}")
 
     try: 
         with urllib.request.urlopen(links[0]) as url:
             parsed_1 = json.loads(url.read().decode())
     except Exception as e:
-        pass
+        try: 
+            with urllib.request.urlopen(links[0]) as url:
+                parsed_1 = json.loads(url.read().decode())
+        except Exception as e:
+            pass
 
     for metric in metrics_list:
         try:
             data_dict[metric] = parsed_1["quoteSummary"]["result"][0][
                 "defaultKeyStatistics"
             ][metric]["raw"]
-        except Exception:
+        except Exception as e:
             data_dict[metric] = np.nan
+            #print(f"metric_list - {stockticker} failed with Exception: {str(e)}")
 
     try:
-
         with urllib.request.urlopen(links[1]) as url:
             parsed_2 = json.loads(url.read().decode())
     except Exception as e:
-        pass
-        #print(e)
-        #print(stockticker)
+        try:
+            with urllib.request.urlopen(links[1]) as url:
+                parsed_2 = json.loads(url.read().decode())
+        except Exception as e:
+            pass
 
     for metric in financial_list:
         try:
@@ -126,12 +139,17 @@ def get_data(stockticker,pkldata):
             ]["raw"]
         except Exception as e:
             data_dict[metric] = np.nan
+            #print(f"financial_list - {stockticker} failed with Exception: {str(e)}")
 
     try:
+        with urllib.request.urlopen(links[2]) as url:
+            parsed_3 = json.loads(url.read().decode())
+    except Exception as e:
+        try:
             with urllib.request.urlopen(links[2]) as url:
                 parsed_3 = json.loads(url.read().decode())
-    except Exception as e:
-        pass
+        except Exception as e:
+            pass
 
 
     for metric in check_list:
@@ -142,6 +160,17 @@ def get_data(stockticker,pkldata):
             ]["raw"]
         except Exception as e:
             pass
+
+
+    # price check
+    if data_dict["currentPrice"] == np.nan:
+        try:
+            data_dict["currentPrice"] = parsed_3["quoteSummary"]["result"][0]["summaryDetail"][
+                    "previousClose"
+                ]["raw"]
+        except Exception as e:
+            print(f"no Price found! - {stockticker} failed with Exception: {str(e)}")
+
 
     FF_Quality_year_frame, parsed_5 = calculate_FF_Quality(stockticker)
     # Calculate Growth rates and report recent and mean FF_Quality Factor
@@ -157,6 +186,7 @@ def get_data(stockticker,pkldata):
             )
         except Exception as e:
             data_dict[measure] = np.nan
+            #print(f"growth_measuer_dict - {stockticker} failed with Exception: {str(e)}")
 
     try:
         data_dict["FF_Quality_actual"] = FF_Quality_year_frame[
@@ -234,9 +264,23 @@ def calculate_FF_Quality(stock):
         with urllib.request.urlopen(query_url_5) as url:
             parsed_5 = json.loads(url.read().decode())
     except Exception as e:
-        #print(e)
-        #print(stock)
-        parsed_5 = "not avaliable"
+        try:
+            query_url_4 = (
+                "https://query2.finance.yahoo.com/v10/finance/quoteSummary/"
+                + str(stock)
+                + "?modules=incomeStatementHistory"
+            )
+            with urllib.request.urlopen(query_url_4) as url:
+                parsed_4 = json.loads(url.read().decode())
+            query_url_5 = (
+                "https://query2.finance.yahoo.com/v10/finance/quoteSummary/"
+                + str(stock)
+                + "?modules=balanceSheetHistory"
+            )
+            with urllib.request.urlopen(query_url_5) as url:
+                parsed_5 = json.loads(url.read().decode())
+        except Exception as e:
+            parsed_5 = "not avaliable"
 
 
     for year in range(5):
@@ -388,6 +432,82 @@ def calc_precentiles(final_frame):
 
     return round(final_frame, 2)
 
+
+
+def calc_precentiles_all(final_frame):
+    """
+    Function to calculate percentiles of several selected metrics.
+
+    Inputs:
+        - final_frame(pd.DataFrame): pd.DataFrame with all the information and the metrics for which percentiles should be calculated.
+    Returns:
+        - The same pd.DataFrame, but now also with the calculated percentiles.
+
+    """
+
+    # TODO: We need the price in the same currency!
+    #############################################################################################################
+    metrics = {
+        "priceToBook": "PB_percentile",
+        #"enterpriseValue": "EV_percentile",
+        #"marketCap": "MC_percentile",
+        "priceToSalesTrailing12Months": "PS_percentile",
+        #"enterpriseToRevenue": "EToRev_precentile",
+        #"enterpriseToEbitda": "EToEbitda_percentile",
+        "FF_Assets_Growth_mean": "FFA_m_percentile",
+        "FF_Assets_Growth_actual": "FF_Cons_actual_percentile",
+    }
+    metrics_to_correct = {
+        "enterpriseValue": "EV_percentile",
+        "marketCap": "MC_percentile",
+        "enterpriseToRevenue": "EToRev_precentile",
+        "enterpriseToEbitda": "EToEbitda_percentile",
+    
+    }
+    for row, metric in itertools.product(final_frame.index, metrics):
+        try:
+            final_frame.loc[row, metrics[metric]] = (
+                stats.percentileofscore(
+                    final_frame[metric], final_frame.loc[row, metric]
+                )
+                / 100
+            )
+        except Exception:
+            final_frame.loc[row, metrics[metric]] = np.nan
+    
+    for row, metric in itertools.product(final_frame.index, metrics_to_correct):
+        final_frame.loc[row, metrics_to_correct[metric]] = np.nan
+    
+    metrics_to_nan = ["enterpriseValue", "enterpriseToRevenue", "enterpriseToEbitda", "marketCap"]
+
+    for row, metric in itertools.product(final_frame.index, metrics_to_nan):
+        final_frame.loc[row, metric] = np.nan
+    
+    
+    #############################################################################################################
+
+
+    # metrics where we have to invert the percentile
+    inv_metrics = {
+        "returnOnEquity": "ROE(inv)_percentile",
+        "FF_Quality_Growth": "FFQ(inv)_g_percentile",
+        "FF_Quality_actual": "FFQ(inv)_a_percentile",
+        "FF_Quality_mean": "FFQ(inv)_m_percentile",
+    }
+
+    for row, metric in itertools.product(final_frame.index, inv_metrics):
+        try:
+            final_frame.loc[row, inv_metrics[metric]] = 1 - (
+                stats.percentileofscore(
+                    final_frame[metric], final_frame.loc[row, metric]
+                )
+                / 100
+            )
+        except Exception:
+            final_frame.loc[row, inv_metrics[metric]] = np.nan
+
+    return round(final_frame, 2)
+
 def fun_process_stocks_new(pklinput, datalist):
     """
     Function that combines the whole process of obtaining the information. This function in itself calls clean_stock_selection(), get_data() and calc_percentiles().
@@ -442,6 +562,8 @@ def fun_process_stocks_new(pklinput, datalist):
         "sharesOutstanding",
         "heldPercentInsiders",
         "dividendYield",
+        "fiveYearAvgDividendYield",
+        "payoutRatio",
         "returnOnAssets",
         "returnOnEquity",
         "revenueGrowth",

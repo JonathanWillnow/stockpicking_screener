@@ -1,0 +1,1283 @@
+,name,wkn,index,de_ticker,ticker,industry,ISIN
+0,ABB Ltd.,919730,CH,ABJ,ABBN.SW,Elektrotechnologie,CH0012221716
+1,Addex Therapeutics SA,A0MSH6,CH,APE,ADXN.SW,Pharma,CH0029850754
+2,Adecco Group AG,922031,CH,ADI1,ADEN.SW,Dienstleistungen,CH0012138605
+3,Adval Tech Holding AG,914585,CH,28D,ADVN.SW,Sonstige Technologie,CH0008967926
+4,AFG Arbonia-Forster-Holding AG,A1CUXD,CH,ANGA,ARBN.SW,Fahrzeuge,CH0110240600
+5,Airesis S.A.,890218,CH,HPJN,AIRE.SW,Finanzdienstleistungen,CH0010947627
+6,Allreal Holding AG,935276,CH,AZ4N,ALLN.SW,Immobilien,CH0008837566
+7,ALSO Holding AG,A0JJW1,CH,9AS,ALSN.SW,Logistik/Transport,CH0024590272
+8,APG SGA SA,A0B7X3,CH,279,APGN.SW,Dienstleistungen,CH0019107025
+9,APTG AG NAM. SF 5,A1139M,CH,,not_found,Kunststoffe/Verpackungen,CH0242606942
+10,Aryzta AG,A0Q4FN,CH,YZA,ARYN.SW,Nahrungsmittel/Agrar,CH0043238366
+11,Ascom Holding AG,885933,CH,AH2N,ASCN.SW,IT-Dienstleistungen,CH0011339204
+12,Autoneum Holding AG,A1H900,CH,AN9,AUTN.SW,Fahrzeuge,CH0127480363
+13,Bachem AG,-,CH,not_found,not_found,not_found,not_found
+14,Baloise Holding AG,853020,CH,BLON,BALN.SW,Finanzdienstleistungen,CH0012410517
+15,Bank Linth LLB AG,-,CH,not_found,not_found,not_found,not_found
+16,Barry Callebaut AG,914661,CH,BCLN,BARN.SW,Nahrungsmittel/Agrar,CH0009002962
+17,Basellandschaftliche Kantonalbank,577348,CH,294,BLKB.SW,Finanzdienstleistungen,CH0001473559
+18,Basilea Pharmaceutica AG,A0B9GA,CH,PK5,BSLN.SW,Biotechnologie,CH0011432447
+19,Basler Kantonalbank,871627,CH,0B8,BSKP.SW,Finanzdienstleistungen,CH0009236461
+20,BB Biotech AG,A0NFN3,CH,BBZA,BION.SW,Biotechnologie,CH0038389992
+21,Belimo Holding AG,897962,CH,not_found,not_found,not_found,not_found
+22,Bellevue Group AG,A0LG3Z,CH,SJZN,BBN.SW,Finanzdienstleistungen,CH0028422100
+23,Berner Kantonalbank AG,922036,CH,BEHV,BEKN.SW,Finanzdienstleistungen,CH0009691608
+24,BFW Liegenschaft AG,A0MRHE,CH,,not_found,Immobilien,CH0018206117
+25,BKW AG,A1JLZG,CH,B9W,BKW.SW,Versorger,CH0130293662
+26,Bossard Holding AG,A111WS,CH,0B7,BOSN.SW,Maschinenbau,CH0238627142
+27,Bucher Industries AG,A0EAHZ,CH,BUHA,BUCN.SW,Maschinenbau,CH0002432174
+28,Burckhardt Compression Holding AG,A0J3NX,CH,B5H,BCHN.SW,Maschinenbau,CH0025536027
+29,Burkhalter Holding AG,A1WZP3,CH,BKMA,BRKN.SW,Elektrotechnologie,CH0212255803
+30,BVZ Holding AG,-,CH,not_found,not_found,not_found,not_found
+31,Calida Holding AG,A1JJES,CH,C7UA,CALN.SW,Bekleidung/Textil,CH0126639464
+32,Carlo Gavazzi Holding AG,869279,CH,D9N,GAV.SW,Elektrotechnologie,CH0011003594
+33,Castle Alternative Invest AG,-,CH,not_found,not_found,not_found,not_found
+34,Castle Private Equity AG,A0RDWE,CH,CLQN,CPEN.SW,Finanzdienstleistungen,CH0048854746
+35,Cembra Money Bank AG,A1W65V,CH,GEH,CMBN.SW,Finanzdienstleistungen,CH0225173167
+36,Chocoladefabriken Lindt & Sprüngli AG,859568,CH,LSPN,LISN.SW,Nahrungsmittel/Agrar,CH0010570759
+37,Chocoladefabriken Lindt & Sprüngli AG,870503,CH,LSPP,LISP.SW,Nahrungsmittel/Agrar,CH0010570767
+38,CI Com SA,-,CH,not_found,not_found,not_found,not_found
+39,Cicor Technologies S.A.,913744,CH,CRLN,CICN.SW,Elektrotechnologie,CH0008702190
+40,Clariant AG,895929,CH,CLRN,CLN.SW,Chemie,CH0012142631
+41,COLTENE Holding AG,-,CH,not_found,not_found,not_found,not_found
+42,Compagnie FinanciereTradition S.A.,-,CH,not_found,not_found,not_found,not_found
+43,Compagnie Financière Richemont AG,A1W5CV,CH,RITN,CFR.SW,Konsumgüter,CH0210483332
+44,Conzzeta AG,A117LR,CH,HNX1,BYS.SW,Maschinenbau,CH0244017502
+45,CPH Chemie + Papier Holding AG Class A,-,CH,not_found,not_found,not_found,not_found
+46,Crealogix Holding,552904,CH,CX1,CLXN.SW,Software,CH0011115703
+47,Credit Suisse Group AG,876800,CH,CSX,CSGN.SW,Finanzdienstleistungen,CH0012138530
+48,Datacolor AG,-,CH,not_found,not_found,not_found,not_found
+49,DKSH Holding AG,A1JU9U,CH,DS5,DKSH.SW,Dienstleistungen,CH0126673539
+50,dormakaba Holding AG,898080,CH,KABN,DOKA.SW,Elektrotechnologie,CH0011795959
+51,Dufry AG,A0HMLM,CH,D2J,DUFN.SW,Handel/E-Commerce,CH0023405456
+52,Dätwyler Holding AG Inhaber-Aktien SF 5,A0MVC2,CH,31D1,DAE.SW,Netzwerktechnik,CH0030486770
+53,EEII AG-BR,-,CH,not_found,not_found,not_found,not_found
+54,EFG International AG,A0F6VT,CH,E2S,EFGN.SW,Finanzdienstleistungen,CH0022268228
+55,Elma Electronic AG,-,CH,not_found,not_found,not_found,not_found
+56,Emmi AG,798263,CH,FV6,EMMN.SW,Nahrungsmittel/Agrar,CH0012829898
+57,Ems-Chemie Holding AG,593186,CH,EMC1,EMSN.SW,Chemie,CH0016440353
+58,Energiedienst Holding AG,A0Q40B,CH,KWK3,EDHN.SW,Versorger,CH0039651184
+59,ENR RUSSIA INVEST SA,-,CH,not_found,not_found,not_found,not_found
+60,Evolva Holding AG,A0EAKH,CH,ADF,EVE.SW,Biotechnologie,CH0021218067
+61,Feintool International Holding AG,905428,CH,FTO,FTON.SW,Maschinenbau,CH0009320091
+62,Forbo Holding AG,871047,CH,FOZN,FORN.SW,Industrie/Mischkonzerne,CH0003541510
+63,GAM Holding AG,A0YBKX,CH,GAD,GAM.SW,Finanzdienstleistungen,CH0102659627
+64,Geberit AG,A0MQWG,CH,GBRA,GEBN.SW,Bau/Infrastruktur,CH0030170408
+65,Georg Fischer AG,851082,CH,not_found,not_found,not_found,not_found
+66,Givaudan SA,938427,CH,GIN,GIVN.SW,Chemie,CH0010645932
+67,Glarner Kantonalbank,A116HQ,CH,GLR,GLKBN.SW,Finanzdienstleistungen,CH0189396655
+68,Graubündner Kantonalbank,870191,CH,1Y3,GRKP.SW,Finanzdienstleistungen,CH0001340204
+69,Groupe Minoteries SA,-,CH,not_found,not_found,not_found,not_found
+70,Gurit Holding AG,870988,CH,not_found,not_found,not_found,not_found
+71,HBM Healthcare Investments AG,984345,CH,5H5A,HBMN.SW,Finanzdienstleistungen,CH0012627250
+72,HIAG IMMOBILIEN HOLDING AG,A113S6,CH,0HG,HIAG.SW,Immobilien,CH0239518779
+73,Highlight Event & Entertainment AG,896040,CH,L60,HLEE.SW,Unterhaltung,CH0003583256
+74,HOCHDORF Holding AG,A0MYT7,CH,1Z3,HOCN.SW,Nahrungsmittel/Agrar,CH0024666528
+75,Holcim Ltd.,869898,CH,HLBN,HOLN.SW,Bau/Infrastruktur,CH0012214059
+76,Hypothekarbank Lenzburg AG,851354,CH,1Y2,HBLN.SW,Finanzdienstleistungen,CH0001341608
+77,Implenia AG,A0JEGJ,CH,I8T,IMPN.SW,Bau/Infrastruktur,CH0023868554
+78,Inficon Holding AG,588714,CH,IFZ,IFCN.SW,Sonstige Technologie,CH0011029946
+79,Interroll Holding S.A.,907155,CH,I3H,INRN.SW,Eisen/Stahl,CH0006372897
+80,IVF Hartmann Holding AG,A1J1DQ,CH,283,VBSN.SW,Gesundheitswesen,CH0187624256
+81,Julius Baer Gruppe AG,A0YBDU,CH,JGE,BAER.SW,Finanzdienstleistungen,CH0102484968
+82,Jungfraubahn Holding AG,A0CACJ,CH,J4F,JFN.SW,Hotels/Tourismus,CH0017875789
+83,Kardex AG,A0RMWK,CH,KAX2,KARN.SW,Dienstleistungen,CH0100837282
+84,Komax Holding AG,907324,CH,KR8,KOMN.SW,Handel/E-Commerce,CH0010702154
+85,Kudelski S.A.,915684,CH,KUD,KUD.SW,Elektrotechnologie,CH0012268360
+86,Kühne & Nagel International AG,A0JLZL,CH,KNIA,KNIN.SW,Logistik/Transport,CH0025238863
+87,Leclanche S.A.,A1CUUB,CH,278,LECN.SW,Elektrotechnologie,CH0110303119
+88,Lem Holding SA,A0F657,CH,LELA,LEHN.SW,Elektrotechnologie,CH0022427626
+89,Leonteq AG,A1J642,CH,EFL,LEON.SW,Finanzdienstleistungen,CH0190891181
+90,Logitech International S.A.,A0J3YT,CH,LTEC,LOGN.SW,Hardware,CH0025751329
+91,Lonza Group AG,928619,CH,LO3,LONN.SW,Chemie,CH0013841017
+92,Luzerner Kantonalbank AG,634379,CH,4J6,LUKN.SW,Finanzdienstleistungen,CH0011693600
+93,MCH Group AG,-,CH,not_found,not_found,not_found,not_found
+94,Metall Zug AG,A0Q221,CH,NDH1,METN.SW,Industrie/Mischkonzerne,CH0039821084
+95,Meyer Burger Technology AG,-,CH,not_found,not_found,not_found,not_found
+96,Mikron Holding AG,879404,CH,MH4N,MIKN.SW,Maschinenbau,CH0003390066
+97,Mobimo Holding AG,930290,CH,M1H,MOBN.SW,Immobilien,CH0011108872
+98,Nebag AG,763793,CH,NWR,NBEN.SW,Finanzdienstleistungen,CH0005059438
+99,Nestle S.A.,A0Q4DC,CH,NESR,NESN.SW,Nahrungsmittel/Agrar,CH0038863350
+100,New Value AG,552932,CH,N7V,THAG.SW,Dienstleistungen,CH0010819867
+101,"NEW VENTURE.INH. SF 6,00",909499,CH,,not_found,Finanzdienstleistungen,CH0007036830
+102,Novartis AG,904278,CH,NOT,NOVN.SW,Pharma,CH0012005267
+103,OC Oerlikon Corporation AG,863037,CH,OBH,OERL.SW,Sonstige Technologie,CH0000816824
+104,Orascom Development Holding AG,A0NJ37,CH,4O7,ODHN.SW,Immobilien,CH0038285679
+105,Orell Füssli Holding AG,895701,CH,OFH,OFN.SW,Medien,CH0003420806
+106,Orior AG,A1CXAY,CH,9OI,ORON.SW,Nahrungsmittel/Agrar,CH0111677362
+107,Pargesa Holding S.A.,A0ER8P,CH,,not_found,Finanzdienstleistungen,CH0021783391
+108,Partners Group Holding AG,A0JJY6,CH,P2H,PGHN.SW,Finanzdienstleistungen,CH0024608827
+109,Peach Property Group AG,A1C8PJ,CH,P6Z,PEAN.SW,Immobilien,CH0118530366
+110,Phoenix Mecano AG,875738,CH,PXM,PM.SW,Elektrotechnologie,CH0002187810
+111,Private Equity Holding Ag,906781,CH,PEQ,PEHN.SW,Finanzdienstleistungen,CH0006089921
+112,PSP Swiss Property AG,A0CA16,CH,P7S,PSPN.SW,Immobilien,CH0018294154
+113,Rieter Holding AG,869929,CH,RIHN,RIEN.SW,Maschinenbau,CH0003671440
+114,ROCHE HLDG AG GEN.,855167,CH,RHO5,ROG.SW,Pharma,CH0012032048
+115,Roche Holding AG,851311,CH,RHO,RO.SW,Pharma,CH0012032113
+116,Romande Energie Holding S.A.,A0J3EC,CH,CVNA,HREN.SW,Versorger,CH0025607331
+117,Santhera Pharmaceuticals Holding AG,A0LCUK,CH,S3F,SANN.SW,Pharma,CH0027148649
+118,Schaffner Holding AG,914783,CH,SFRN,SAHN.SW,Elektrotechnologie,CH0009062099
+119,Schindler Holding AG,A0JEHV,CH,SHRQ,SCHP.SW,Bau/Infrastruktur,CH0024638196
+120,Schindler Holding AG,A0JJWH,CH,SHR,SCHN.SW,Maschinenbau,CH0024638212
+121,Schlatter Industries AG,-,CH,not_found,not_found,not_found,not_found
+122,SCHMOLZ + BICKENBACH AG,905370,CH,SSN,STLN.SW,Eisen/Stahl,CH0005795668
+123,Schweiter Technologies AG,879123,CH,SN2,SWTQ.SW,Sonstige Technologie,CH0010754924
+124,Schweizerische Nationalbank,852243,CH,1Y4,SNBN.SW,Finanzdienstleistungen,CH0001319265
+125,SFS Group AG,A112DM,CH,021,SFSN.SW,Maschinenbau,CH0239229302
+126,SGS S.A.,870264,CH,SUVN,SGSN.SW,Dienstleistungen,CH0002497458
+127,Siegfried Holding AG,891169,CH,SQG,SFZN.SW,Pharma,CH0014284498
+128,Sonova Holding AG,893484,CH,PHBN,SOON.SW,Sonstige Technologie,CH0012549785
+129,St. Galler Kantonalbank AG,632296,CH,GNBN,SGKN.SW,Finanzdienstleistungen,CH0011484067
+130,Starrag Group Holding AG,-,CH,not_found,not_found,not_found,not_found
+131,Straumann Holding AG,-,CH,not_found,not_found,not_found,not_found
+132,Sulzer AG,A0NJPK,CH,SUL1,SUN.SW,Maschinenbau,CH0038388911
+133,Swiss Finance & Property Investment AG,-,CH,not_found,not_found,not_found,not_found
+134,Swiss Life Holding AG,778237,CH,SLW,SLHN.SW,Finanzdienstleistungen,CH0014852781
+135,Swiss Prime Site AG,927016,CH,SU1N,SPSN.SW,Immobilien,CH0008038389
+136,Swiss Re AG,A1H81M,CH,SR9,SREN.SW,Finanzdienstleistungen,CH0126881561
+137,Swisscom AG,916234,CH,SWJ,SCMN.SW,Telekom,CH0008742519
+138,Swissquote GRP Holding S.A.,938312,CH,1SQ,SQN.SW,Finanzdienstleistungen,CH0010675863
+139,Tamedia,578908,CH,TAMN,TXGN.SW,Medien,CH0011178255
+140,Tecan Group AG,922557,CH,TEN,TECN.SW,Gesundheitswesen,CH0012100191
+141,Temenos AG,676682,CH,TE8N,TEMN.SW,Software,CH0012453913
+142,The Swatch Group AG,871110,CH,UHRN,UHRN.SW,Konsumgüter,CH0012255144
+143,The Swatch Group AG,865126,CH,UHR,UHR.SW,Konsumgüter,CH0012255151
+144,Thurgauer Kantonalbank,A110VU,CH,TK2A,TKBP.SW,Finanzdienstleistungen,CH0231351104
+145,Tornos Holding AG,632630,CH,TNSN,TOHN.SW,Dienstleistungen,CH0011607683
+146,Transocean Ltd.,A0REAY,CH,TOJ,RIG,Öl/Gas,CH0048265513
+147,u-blox Holding AG,A0M2K9,CH,3BG,UBXN.SW,Sonstige Technologie,CH0033361673
+148,USI Group Holdings AG,-,CH,not_found,not_found,not_found,not_found
+149,Valiant Holding AG,157770,CH,VAT,VATN.SW,Finanzdienstleistungen,CH0014786500
+150,Valora Holding AG,870262,CH,VLON,VALN.SW,Handel/E-Commerce,CH0002088976
+151,Vaudoise Assurances Holding S.A.,A0ETZV,CH,VAHB,VAHN.SW,Finanzdienstleistungen,CH0021545667
+152,Villars Holding SA,-,CH,not_found,not_found,not_found,not_found
+153,Von Roll Holding AG,873209,CH,ROH,ROL.SW,Finanzdienstleistungen,CH0003245351
+154,Vontobel Holding AG,675054,CH,VTLN,VONN.SW,Finanzdienstleistungen,CH0012335540
+155,Walter Meier AG,A1T798,CH,B4A1,MTG.SW,Maschinenbau,CH0208062627
+156,Warteck Invest AG,875838,CH,5K4,WARN.SW,Immobilien,CH0002619481
+157,Ypsomed Holding AG,-,CH,not_found,not_found,not_found,not_found
+158,Zurich Insurance Group AG,579919,CH,ZFIN,ZURN.SW,Finanzdienstleistungen,CH0011075394
+159,Zwahlen & Mayr SA,-,CH,not_found,not_found,not_found,not_found
+160,A.P. Moller - Maersk A/S,861837,DNK,DP4B,MAERSK-B.CO,Logistik/Transport,DK0010244508
+161,A.P. Moller - Maersk A/S,861929,DNK,DP4A,MAERSK-A.CO,Logistik/Transport,DK0010244425
+162,AGF A/S NAM.,925542,DNK,5IN,AGF-B.CO,Freizeitprodukte,DK0010263722
+163,Alm Brand A/S,886785,DNK,1AM,ALMB.CO,Finanzdienstleistungen,DK0015250344
+164,Atlantic Petroleum P/F Group,A0DN9X,DNK,B3W,ATLA-DKK.CO,Öl/Gas,FO000A0DN9X4
+165,Bang & Olufsen AS,871970,DNK,BUOB,BO.CO,Unterhaltung,DK0010218429
+166,Bavarian Nordic AS,917165,DNK,BV3,BAVA.CO,Biotechnologie,DK0015998017
+167,BioAlliance Pharma,A0HMXA,DNK,C4X,ALONX.PA,Biotechnologie,FR0010095596
+168,Bioporto A/S,893191,DNK,2P4,BIOPOR.CO,Biotechnologie,DK0011048619
+169,Brodrene Hartmann AS,870246,DNK,CQ5,HART.CO,Kunststoffe/Verpackungen,DK0010256197
+170,BRONDBYERNES IF FODBOLD AS,881008,DNK,BYXB,BIF.CO,Freizeitprodukte,DK0010247956
+171,Carlsberg A/S,854095,DNK,CBGA,CARL-A.CO,Getränke/Tabak,DK0010181676
+172,Carlsberg A/S,861061,DNK,CBGB,CARL-B.CO,Getränke/Tabak,DK0010181759
+173,cBrain A/S,A0JDT8,DNK,C6F,CBRAIN.CO,IT-Dienstleistungen,DK0060030286
+174,Cemat A/S,872148,DNK,1X9,CEMAT.CO,Immobilien,DK0010271584
+175,Chemometec AS,A0MS80,DNK,CHY,CHEMM.CO,Gesundheitswesen,DK0060055861
+176,Christian Hansen Holding AS,A1CZWD,DNK,51C,CHR.CO,Nahrungsmittel/Agrar,DK0060227585
+177,Colombus It Partner A/S,914335,DNK,P1F,COLUM.CO,Software,DK0010268366
+178,Coloplast AS,A1KAGC,DNK,CBHD,COLO-B.CO,Chemie,DK0060448595
+179,Dalhoff Larsen & Horneman A/S,A0JMC6,DNK,2D2,SIG.CO,Holz/Papier,DK0060038933
+180,Dampskibsselskabet Norden A/S,A0MQ8K,DNK,D69,DNORD.CO,Logistik/Transport,DK0060083210
+181,Danske Bank A/S,850857,DNK,DSN,DANSKE.CO,Finanzdienstleistungen,DK0010274414
+182,DSV Panalpina A/S,A0MRDY,DNK,DS81,DSV.CO,Logistik/Transport,DK0060079531
+183,"EAC INVEST AS NAM. DK 3,5",851952,DNK,not_found,not_found,not_found,not_found
+184,FLSmidth & Co. AS,860885,DNK,F6O1,FLS.CO,Industrie/Mischkonzerne,DK0010234467
+185,G4S PLC,A0B7CY,DNK,,not_found,Dienstleistungen,GB00B01FLG62
+186,Gabriel Holding A/S,A0NB6E,DNK,1GH,GABR.CO,Bekleidung/Textil,DK0060124691
+187,Genmab AS,565131,DNK,GE9,GMAB.CO,Biotechnologie,DK0010272202
+188,GN Store Nord AS,854734,DNK,GNN,GN.CO,Sonstige Technologie,DK0010272632
+189,H. Lundbeck A/S,922351,DNK,not_found,not_found,not_found,not_found
+190,ISS AS,A1XE8F,DNK,QJQ,ISS.CO,Dienstleistungen,DK0060542181
+191,Jyske Bank A/S,A0DKMP,DNK,JYS1,JYSK.CO,Finanzdienstleistungen,DK0010307958
+192,Kobenhavns Lufthavne AS,890262,DNK,KLH,KBHL.CO,Dienstleistungen,DK0010201102
+193,Matas A/S,A1W023,DNK,1MTA,MATAS.CO,Handel/E-Commerce,DK0060497295
+194,Newcap Holding A/S,907249,DNK,25N,NEWCAP.CO,Finanzdienstleistungen,DK0010212570
+195,NKT Holding AS,861226,DNK,NKT,NKT.CO,Elektrotechnologie,DK0010287663
+196,NNIT A/S,A14MS1,DNK,5NN,NNIT.CO,IT-Dienstleistungen,DK0060580512
+197,NORTH MEDIA AS NAM. DK 5,903257,DNK,3S8,NORTHM.CO,Medien,DK0010270347
+198,Novo-Nordisk AS,A1XA8R,DNK,NOVC,NOVO-B.CO,Pharma,DK0060534915
+199,Novozymes A/S,A1JP9Y,DNK,NZM2,NZYM-B.CO,Biotechnologie,DK0060336014
+200,Pandora A/S,A1C6JV,DNK,3P7,PNDORA.CO,Konsumgüter,DK0060252690
+201,PARKEN SPORT&ENTERTAINMENT AS NAVNE-AKTIER DK 20,910543,DNK,D2V,PARKEN.CO,Unterhaltung,DK0010237643
+202,Rockwool A/S,889488,DNK,R90,ROCK-B.CO,Bau/Infrastruktur,DK0010219153
+203,Royal Unibrew A/S,-,DNK,not_found,not_found,not_found,not_found
+204,RTX A/S,939166,DNK,RTE,RTX.CO,Telekom,DK0010267129
+205,SAS AB,A1C0DX,DNK,SSV2,SAS.ST,Luftfahrt/Rüstung,SE0003366871
+206,Schouw & Co.,882803,DNK,5RF,SCHO.CO,Industrie/Mischkonzerne,DK0010253921
+207,SimCorp A/S,A1WZM4,DNK,XCL1,SIM.CO,Software,DK0060495240
+208,Solar A/S,A0BLGA,DNK,ZVR,SOLAR-B.CO,Handel/E-Commerce,DK0010274844
+209,Spar Nord Bank A/S,A0HDE3,DNK,0SR,SPNO.CO,Finanzdienstleistungen,DK0060036564
+210,Sydbank AS,A0D9FT,DNK,TM2,SYDB.CO,Finanzdienstleistungen,DK0010311471
+211,Topdanmark AS,A1JYUM,DNK,TQ71,TOP.CO,Finanzdienstleistungen,DK0060477503
+212,Tryg AS,A14S5W,DNK,T2V1,TRYG.CO,Finanzdienstleistungen,DK0060636678
+213,Vestas Wind Systems AS,913769,DNK,not_found,not_found,not_found,not_found
+214,Vestjsk Bank A/S,A0B9Y4,DNK,24V,VJBA.CO,Finanzdienstleistungen,DK0010304500
+215,Zealand Pharma A/S,A0YJW7,DNK,22Z,ZEAL.CO,Pharma,DK0060257814
+216,Afarak Group Oyj,918629,FIN,V5W,AFAGR.HE,Rohstoffe,FI0009800098
+217,Aktia Bank OYJ,A1W1T4,FIN,2A41,AKTIA.HE,Finanzdienstleistungen,FI4000058870
+218,Alma Media Corp,A0HHHL,FIN,A4M,ALMA.HE,Medien,FI0009013114
+219,Altia Oyj,A2JG1R,FIN,28Q,ANORA.HE,Getränke/Tabak,FI4000292438
+220,Asiakastieto Group Oyj,A14QWU,FIN,AKA,ENENTO.HE,Finanzdienstleistungen,FI4000123195
+221,Aspo Oyj,929400,FIN,ZYD,ASPO.HE,Logistik/Transport,FI0009008072
+222,Aspocomp Group PLC,929401,FIN,ACN,ACG1V.HE,Elektrotechnologie,FI0009008080
+223,Basware Oy,935319,FIN,BWV,BAS1V.HE,Software,FI0009008403
+224,Bittium Oyj,916295,FIN,JOT,BITTI.HE,Dienstleistungen,FI0009007264
+225,CapMan Oyj,657298,FIN,AP6,CAPMAN.HE,Finanzdienstleistungen,FI0009009377
+226,Cargotec Corp.,A0ERKS,FIN,C1C,CGCBV.HE,Logistik/Transport,FI0009013429
+227,Caverion Oyj,A1W0D0,FIN,C7O,CAV1V.HE,Bau/Infrastruktur,FI4000062781
+228,COMPONENTA CORP.,795329,FIN,not_found,not_found,not_found,not_found
+229,Digia OYJ,928278,FIN,S2Y,DIGIA.HE,IT-Dienstleistungen,FI0009007983
+230,Digitalist Group Oyj,928185,FIN,TI6,DIGIGR.HE,Software,FI0009008007
+231,Dovre Group Oyj,929183,FIN,0BE,DOV1V.HE,Dienstleistungen,FI0009008098
+232,Elisa Oyj,615402,FIN,EIA,ELISA.HE,Telekom,FI0009007884
+233,Endomines AB,A2AHZA,FIN,ED01,ENDO.ST,Rohstoffe,SE0008294334
+234,Etteplan Oyj,938050,FIN,EPL,ETTE.HE,Sonstige Technologie,FI0009008650
+235,F-Secure Oyj,928744,FIN,DTV,FSC1V.HE,Software,FI0009801310
+236,Finnair Oyj,891823,FIN,FAI,FIA1S.HE,Luftfahrt/Rüstung,FI0009003230
+237,Fiskars Oy AB,871059,FIN,A8X,FSKRS.HE,Konsumgüter,FI0009000400
+238,Fortum Oyj,916660,FIN,FOT,FORTUM.HE,Öl/Gas,FI0009007132
+239,HARVIA OYJ,A2JF1C,FIN,G1U,HARVIA.HE,Konsumgüter,FI4000306873
+240,HKScan Oyj,912673,FIN,HK4,HKSAV.HE,Nahrungsmittel/Agrar,FI0009006308
+241,Huhtamäki Oyj,870740,FIN,HUKI,HUH1V.HE,Kunststoffe/Verpackungen,FI0009000459
+242,INCAP OYJ,916668,FIN,I8J,ICP1V.HE,Elektrotechnologie,FI0009006407
+243,Innofactor Oyj,920512,FIN,TJG,IFA1V.HE,IT-Dienstleistungen,FI0009007637
+244,Kamux Oyj,A2AJ82,FIN,4K8,KAMUX.HE,Fahrzeuge,FI4000206750
+245,Kemira Oy,893079,FIN,KEM,KEMIRA.HE,Chemie,FI0009004824
+246,Kesko Oyj,884884,FIN,KEK,not_found,Handel/E-Commerce,FI0009000202
+247,Kesla OYJ,918638,FIN,KSLA,KELAS.HE,Maschinenbau,FI0009900237
+248,KONE Corp. (New),A0ET4X,FIN,KC4,KNEBV.HE,Maschinenbau,FI0009013403
+249,Konecranes Oyj,899827,FIN,K34,KCR.HE,Maschinenbau,FI0009005870
+250,Lassila & Tikanoja OYJ,898607,FIN,LT5,LAT1V.HE,Dienstleistungen,FI0009010854
+251,Lehto Group Oyj,A2AHZH,FIN,L7G,LEHTO.HE,Bau/Infrastruktur,FI4000081138
+252,Metso Outotec Corp.,A0LBTW,FIN,M6Q,MOCORP.HE,Maschinenbau,FI0009014575
+253,Metsä Board Oyj,876917,FIN,MSRB,0O7A.IL,Holz/Papier,FI0009000665
+254,Neste Corp.,A0D9U6,FIN,NEF,NESTE.HE,Öl/Gas,FI0009013296
+255,Nokia Oyj,870737,FIN,NOA3,NOKIA.HE,Telekom,FI0009000681
+256,Nokian Renkaat OYJ,895780,FIN,NRE,TYRES.HE,Fahrzeuge,FI0009005318
+257,"NURMINEN LOG.OYJ A EO1,70",918635,FIN,8I4,NLG1V.HE,Logistik/Transport,FI0009900187
+258,Olvi,898037,FIN,OVI,OLVAS.HE,Getränke/Tabak,FI0009900401
+259,Oriola Oyj,A0J3P9,FIN,O5O,OKDBV.HE,Gesundheitswesen,FI0009014351
+260,Orion Corp.,A0J3QM,FIN,OFK,ORNBV.HE,Pharma,FI0009014377
+261,Outokumpu Oyj,885421,FIN,OUTA,OUT1V.HE,Rohstoffe,FI0009002422
+262,Photo-Me International PLC,602290,FIN,XXH,SSH1V.HE,Software,FI0009008270
+263,Pihlajalinna Oy,A14UF2,FIN,38P,PIHLIS.HE,Gesundheitswesen,FI4000092556
+264,Ponsse Oy,902564,FIN,PNS,PON1V.HE,Maschinenbau,FI0009005078
+265,"QT GROUP PLC EO-,10",A2AH7G,FIN,2QT,QTCOM.HE,Software,FI4000198031
+266,Raisio Oyj,899738,FIN,RATV,RAIVV.HE,Industrie/Mischkonzerne,FI0009002943
+267,Rapala Network Corp.,917602,FIN,RAP,RAP1V.HE,Freizeitprodukte,FI0009007355
+268,Revenio Group Corp.,-,FIN,not_found,not_found,not_found,not_found
+269,Robit Oyj,A14TP3,FIN,RO3,ROBIT.HE,Maschinenbau,FI4000150016
+270,Rovio Entertainment OYJ,A2DXQD,FIN,R0F,ROVIO.HE,Unterhaltung,FI4000266804
+271,Sampo OYJ,881463,FIN,SMPA,SAMPO.HE,Finanzdienstleistungen,FI0009003305
+272,Sanoma Oyj,922218,FIN,SNQB,SANOMA.HE,Medien,FI0009007694
+273,Sievi Capital Oyj,938508,FIN,WE3,SIEVI.HE,Finanzdienstleistungen,FI0009008924
+274,SIILI SOLUTIONS OYJ,A1XFJ0,FIN,N88,SIILI.HE,IT-Dienstleistungen,FI4000043435
+275,Solteq Oyj,928282,FIN,B3M,SOLTEQ.HE,IT-Dienstleistungen,FI0009007991
+276,Sotkamo Silver AB,A0MMF4,FIN,VSO,not_found,Rohstoffe,SE0001057910
+277,SRV Yhtioet Oyj,A0MSY7,FIN,B7J,SRV1V.HE,Bau/Infrastruktur,FI0009015309
+278,SSAB AB,887029,FIN,SKWA,SSAB-A.ST,Eisen/Stahl,SE0000171100
+279,SSAB AB -B- FRIA,881832,FIN,SKWC,SSAB-B.ST,Eisen/Stahl,SE0000120669
+280,Stockmann Oyj Abp,870557,FIN,SOMB,STOCKA.HE,Handel/E-Commerce,FI0009000251
+281,"STORA ENSO OYJ A EO 1,70",870734,FIN,ENUA,ENUA.F,Holz/Papier,FI0009005953
+282,Stora Enso Oyj.,871004,FIN,ENUR,STERV.HE,Holz/Papier,FI0009005961
+283,Suominen Corp.,806454,FIN,1S0,SUY1V.HE,Konsumgüter,FI0009010862
+284,TAALERI OYJ,A1W7P1,FIN,295,TAALA.HE,Finanzdienstleistungen,FI4000062195
+285,Tecnotree OYJ,658932,FIN,3TT,TEM1V.HE,Telekom,FI0009010227
+286,Teleste Corp.,919696,FIN,TS6,TLT1V.HE,Dienstleistungen,FI0009007728
+287,Telia Company AB,938475,FIN,TLS,TELIA.ST,Telekom,SE0000667925
+288,Terveystalo Oy,A2H5F4,FIN,4TS,TTALO.HE,Gesundheitswesen,FI4000252127
+289,Tieto Oyj,870798,FIN,TTEB,TIETO.HE,IT-Dienstleistungen,FI0009000277
+290,Tokmanni Group Corp.,A2AH6M,FIN,TK9,TOKMAN.HE,Handel/E-Commerce,FI4000197934
+291,Tulikivi Oyj,887689,FIN,TUZA,TULAV.HE,Bau/Infrastruktur,FI0009900583
+292,UPM Kymmene Corp.,881026,FIN,RPL,UPM.HE,Holz/Papier,FI0009005987
+293,Uponor Oyj,897947,FIN,UPN,UPONOR.HE,Sonstige Technologie,FI0009002158
+294,Vaisala Oyj,897122,FIN,VAYA,VAIAS.HE,Sonstige Technologie,FI0009900682
+295,Valmet Oyj,A1XA9J,FIN,2VO,VALMT.HE,Maschinenbau,FI4000074984
+296,Valoe Oyj,914085,FIN,7RT,VALOE.HE,Erneuerbare Energien,FI0009006951
+297,Wärtsilä Corp.,881050,FIN,MTA,WRT1V.HE,Maschinenbau,FI0009003727
+298,YIT Oyj,906227,FIN,YIT,YIT.HE,Industrie/Mischkonzerne,FI0009800643
+299,Yleiselektroniikka Oyj,918658,FIN,YKK,BOREO.HE,Handel/E-Commerce,FI0009900724
+300,4D Pharma PLC,A1XD45,GB,4DY,DDDD.L,Pharma,GB00BJL5BR07
+301,7Digital Group PLC,A114V0,GB,UZJ1,7DIG.L,Handel/E-Commerce,GB00BMH46555
+302,88 Energy Ltd.,A14PRT,GB,POQ,88E.AX,Öl/Gas,AU00000088E2
+303,888 Holdings PLC,A0F640,GB,C8V,888.L,Unterhaltung,GI000A0F6407
+304,A.G. Barr PLC,A1JXU7,GB,AF72,BAG.L,Getränke/Tabak,GB00B6XZKY75
+305,AB Dynamics PLC,A1W36D,GB,6DY,ABDP.L,Maschinenbau,GB00B9GQVG73
+306,Abbott Laboratories,850103,GB,ABL,ABT,Pharma,US0028241000
+307,Abcam PLC,A1C605,GB,A8C1,ABC.L,Biotechnologie,GB00B6774699
+308,Acal PLC,876004,GB,9A5,DSCV.L,Elektrotechnologie,GB0000055888
+309,accesso Technology Group PLC,914199,GB,LQG,ACSO.L,Sonstige Technologie,GB0001771426
+310,Accsys Technologies PLC,A12A7G,GB,1D8,AXS.L,Holz/Papier,GB00BQQFX454
+311,Active Energy Group PLC,A0MUKN,GB,BZHA,AEG.L,Elektrotechnologie,GB00B1YMN108
+312,Actual Experience PLC,A1XEDE,GB,9F8,ACT.L,IT-Dienstleistungen,GB00BJ05QC14
+313,Admiral Group PLC,A0DJ58,GB,FLN,ADM.L,Finanzdienstleistungen,GB00B02J6398
+314,Advanced Medical Solutions Group PLC,905598,GB,AQA,AMS.L,Gesundheitswesen,GB0004536594
+315,Afarak Group Oyj,918629,GB,V5W,AFAGR.HE,Rohstoffe,FI0009800098
+316,AFC Energy PLC,A0MNJ0,GB,QC8,AFC.L,Erneuerbare Energien,GB00B18S7B29
+317,Aggreko PLC,A1XFZR,GB,,not_found,Dienstleistungen,GB00BK1PTB77
+318,Agronomics Ltd.,A12AS6,GB,V77,ANIC.L,Finanzdienstleistungen,IM00B6QH1J21
+319,Air China Ltd.,A0M4WT,GB,AD2,0753.HK,Luftfahrt/Rüstung,CNE1000001S0
+320,Alba Mineral Resources PLC,A0EQ18,GB,9AB,ALBA.L,Rohstoffe,GB00B06KBB18
+321,"ALEXANDER MININGLS-,003",A0D93A,GB,not_found,not_found,not_found,not_found
+322,Allergy Therapeutics PLC,A0EAWN,GB,HHU,AGY.L,Pharma,GB00B02LCQ05
+323,Alliance Pharma PLC,913253,GB,DVL,APH.L,Pharma,GB0031030819
+324,Allied Minds PLC,A116XC,GB,AMJ,ALM.L,Finanzdienstleistungen,GB00BLRLH124
+325,Altitude Group PLC,A0HHJV,GB,D9E,ALT.L,Dienstleistungen,GB00B0LSFV82
+326,Alumasc Group PLC,907523,GB,0JL,ALU.L,Bau/Infrastruktur,GB0000280353
+327,AMINEX PLC,872577,GB,DOP,AEX.L,Öl/Gas,IE0003073255
+328,Amino Technologies PLC,A0B6VJ,GB,DWJ,AFRN.L,Elektrotechnologie,GB00B013SN63
+329,"AMPHION INNOVAT. LS -,01",A0J2VM,GB,,not_found,Pharma,GB00B0DJNP99
+330,Amur Minerals Corp.,A0JJTJ,GB,A7L,AMC.L,Rohstoffe,VGG042401007
+331,ANA Holdings Inc.,861920,GB,ANCA,9202.T,Luftfahrt/Rüstung,JP3429800000
+332,ANGLE plc,A0B7QK,GB,DWV,AGL.L,Dienstleistungen,GB0034330679
+333,Anglesey Mining PLC,876817,GB,4A0,AYM.L,Rohstoffe,GB0000320472
+334,Anglo American PLC,A0MUKL,GB,NGLB,AAL.L,Rohstoffe,GB00B1XZS820
+335,Anglo Asian Mining PLC,A0HGPZ,GB,A4A,AAZ.L,Rohstoffe,GB00B0C18177
+336,Anglo Pacific Group PLC,871733,GB,HGR,APF.L,Rohstoffe,GB0006449366
+337,Animalcare Group PLC,A1C7WL,GB,WQ7,ANCR.L,Pharma,GB0032350695
+338,Anpario PLC,A1C4Q5,GB,KI9A,ANP.L,Biotechnologie,GB00B3NWT178
+339,Antofagasta PLC,867578,GB,FG1,ANTO.L,Rohstoffe,GB0000456144
+340,AO World PLC,A1XEN9,GB,81A,AO.L,Internet,GB00BJTNFH41
+341,"AORTECH INTL PLC   LS0,05",121857,GB,AOHA,RUA.L,Gesundheitswesen,GB0033360586
+342,Applied Graphene Materials PLC,A1W8HP,GB,94A,AGM.L,Chemie,GB00BFSSB742
+343,Appreciate Group PLC,917699,GB,PG5,APP.L,Finanzdienstleistungen,GB0006710643
+344,Arbuthnot Banking Group PLC,936286,GB,RX2,ARBB.L,Finanzdienstleistungen,GB0007922338
+345,Argo Group Ltd.,A0Q2GA,GB,IW6,ARGO.L,Finanzdienstleistungen,IM00B2RDSS92
+346,Argos Resources Ltd.,A1C22X,GB,00G,ARG.L,Öl/Gas,FK0114538241
+347,Ariana Resources PLC,A0MS1U,GB,4A6,AAU.L,Rohstoffe,GB00B085SD50
+348,Armadale Capital PLC,A14T4N,GB,M1Q1,ACP.L,Finanzdienstleistungen,GB00BYMSY631
+349,Ashmore Group Ltd.,A0LB2S,GB,A1B,ASHM.L,Finanzdienstleistungen,GB00B132NW22
+350,Ashtead Group PLC,894565,GB,0LC,AHT.L,Dienstleistungen,GB0000536739
+351,Asiamet Resources Ltd.,A14XBY,GB,0FK,ARS.L,Rohstoffe,BM04521V1038
+352,ASOS PLC,912703,GB,DYQ,ASC.L,Handel/E-Commerce,GB0030927254
+353,AssetCo PLC,A1JKMK,GB,DYJA,ASTO.L,Dienstleistungen,GB00B42VYZ16
+354,Associated British Foods PLC,920876,GB,AFO1,ABF.L,Nahrungsmittel/Agrar,GB0006731235
+355,AstraZeneca PLC,886455,GB,ZEG,AZN.L,Pharma,GB0009895292
+356,Atlantic Lithium Ltd.,A14NU0,GB,BSG,ALL.L,Rohstoffe,AU0000XINEX3
+357,Auto Trader Group PLC,A14PY2,GB,2UA,AUTO.L,Internet,GB00BVYVFW23
+358,"AVANTI CMNCTS GRP LS-,01",A0MM9K,GB,,not_found,Telekom,GB00B1VCNQ84
+359,Avation PLC,A0KDZA,GB,9K0,AVAP.L,Dienstleistungen,GB00B196F554
+360,AVEVA Group PLC,A1W0MM,GB,4A91,AVV.L,IT-Dienstleistungen,GB00BBG9VN75
+361,Avingtrans PLC,873350,GB,DZR,AVG.L,Sonstige Technologie,GB0009188797
+362,Aviva PLC,854013,GB,not_found,not_found,not_found,not_found
+363,Avon Rubber PLC,854768,GB,1OK,AVON.L,Luftfahrt/Rüstung,GB0000667013
+364,Babcock International Group PLC,877431,GB,BW3,BAB.L,Dienstleistungen,GB0009697037
+365,BAE SYSTEMS PLC,866131,GB,BSP,BA.L,Luftfahrt/Rüstung,GB0002634946
+366,Balfour Beatty PLC,855539,GB,BIH,BBY.L,Bau/Infrastruktur,GB0000961622
+367,Banco Bilbao Vizcaya Argentaria S.A. (BBVA),875773,GB,BOY,BBVA.MC,Finanzdienstleistungen,ES0113211835
+368,Banco Santander S.A.,858872,GB,BSD2,SAN.MC,Finanzdienstleistungen,ES0113900J37
+369,Bango PLC,A0HGYU,GB,B1O,BGO.L,Internet,GB00B0BRN552
+370,Bank of America Corp.,858388,GB,NCB,BAC,Finanzdienstleistungen,US0605051046
+371,Barclays PLC,850403,GB,BCY,BARC.L,Finanzdienstleistungen,GB0031348658
+372,Barloworld Ltd.,854646,GB,BRL1,BAW.JO,Industrie/Mischkonzerne,ZAE000026639
+373,Baron Oil PLC,A0DK4Z,GB,GHA,BOIL.L,Öl/Gas,GB00B01QGH57
+374,Barratt Developments PLC,859551,GB,3BA,BDEV.L,Bau/Infrastruktur,GB0000811801
+375,Base Resources Ltd.,A0Q7M2,GB,B4Z,BSE.AX,Rohstoffe,AU000000BSE5
+376,BASF SE,BASF11,GB,BAS,BAS.DE,Chemie,DE000BASF111
+377,BATM Advanced Communications Ltd.,901876,GB,BAV,BVC.L,Telekom,IL0010849045
+378,Begbies Traynor Group PLC,A0D9NA,GB,BTA,BEG.L,Dienstleistungen,GB00B0305S97
+379,Bellway PLC,869646,GB,41B,BWY.L,Bau/Infrastruktur,GB0000904986
+380,Benchmark Hldgs PLC,A1XA9S,GB,31B,BMK.L,Pharma,GB00BGHPT808
+381,Beowulf Mining PLC,A0CAGN,GB,B4E,BEM.L,Rohstoffe,GB0033163287
+382,Berkeley Energia Ltd.,911733,GB,B5R,BKY.AX,Rohstoffe,AU000000BKY0
+383,Best of the Best PLC,A0KEY4,GB,B5O,BOTB.L,Unterhaltung,GB00B16S3505
+384,Beximco Pharmaceuticals Ltd. GDRs,A0ETTX,GB,R2WA,BXP.L,Pharma,US0885792061
+385,Bezant Resources PLC,A0LAVD,GB,BN5,BZT.L,Rohstoffe,GB00B1CKQD97
+386,Big Yellow Group PLC,539971,GB,B9Y,BYG.L,Logistik/Transport,GB0002869419
+387,Biofrontera AG,604611,GB,B8F,B8F.DE,Biotechnologie,DE0006046113
+388,Bioventix PLC,A113DD,GB,51B,BVXP.L,Biotechnologie,GB00B4QVDF07
+389,Blackbird PLC,935959,GB,FBD,BIRD.L,Sonstige Technologie,GB0004740477
+390,Blancco Technology Group PLC,A0D9RG,GB,F2B,BLTG.L,Software,GB00B06GNN57
+391,Bloomsbury Publishing PLC,460093,GB,5JZ,BMY.L,Medien,GB0033147751
+392,Bodycote Plc,A0RDRL,GB,21T,BOY.L,Maschinenbau,GB00B3FLWH99
+393,Boeing Co.,850471,GB,BCO,BA,Luftfahrt/Rüstung,US0970231058
+394,Boohoo.com PLC,A1XFBJ,GB,1B9,BOO.L,Internet,JE00BG6L7297
+395,Borders & Southern Petroleum PLC,A0ERTR,GB,B5T,BOR.L,Öl/Gas,GB00B08F4599
+396,Bovis Homes Group PLC,911164,GB,44B,VTY.L,Bau/Infrastruktur,GB0001859296
+397,BowLeven PLC,A0DPUC,GB,BO2,BLVN.L,Öl/Gas,GB00B04PYL99
+398,BP PLC,850517,GB,BPE5,BP.L,Öl/Gas,GB0007980591
+399,Braemar Shipping Services PLC,938752,GB,5K9,BMS.L,Logistik/Transport,GB0000600931
+400,Brand Architekts Group PLC,876620,GB,H0F,BAR.L,Kosmetik,GB0008667304
+401,Brave Bison Group PLC,A1W8QU,GB,RT7,BBSN.L,IT-Dienstleistungen,GB00BF8HJ774
+402,Breedon Aggregates Ltd.,A0Q3V3,GB,CQB,BREE.L,Finanzdienstleistungen,JE00B2419D89
+403,Brewin Dolphin Holdings PLC,935091,GB,0TY,BRW.L,Finanzdienstleistungen,GB0001765816
+404,British American Tobacco PLC,916018,GB,BMT,BATS.L,Getränke/Tabak,GB0002875804
+405,Britvic PLC,A0HMX9,GB,B6S,BVIC.L,Getränke/Tabak,GB00B0N8QD54
+406,BT Group PLC,794796,GB,BTQ,BT-A.L,Telekom,GB0030913577
+407,Bunzl PLC,A0ET3E,GB,BUZ1,BNZL.L,Dienstleistungen,GB00B0744B38
+408,Burberry Group PLC,691197,GB,BB2,BRBY.L,Bekleidung/Textil,GB0031743007
+409,Bushveld Minerals Ltd.,A1KBVY,GB,23U,BMN.L,Rohstoffe,GG00B4TM3943
+410,Byotrol PLC,A0F4WX,GB,B7Y,GB00B0999995.SG,Biotechnologie,GB00B0999995
+411,C&C Group PLC,A0CA07,GB,GCC,CCR.L,Getränke/Tabak,IE00B010DT83
+412,C4X Discovery Holdings PLC,A12D8B,GB,C4J,C4XD.L,Pharma,GB00BQQ2RV18
+413,"CADENCE MINERALS LS-,0001",A0X96S,GB,not_found,not_found,not_found,not_found
+414,Cadogan Petroleum PLC,A0MWMF,GB,CPD,CAD.L,Öl/Gas,GB00B12WC938
+415,Cairn Energy PLC,A1JSPE,GB,not_found,not_found,not_found,not_found
+416,Cairn Homes PLC,A14UTJ,GB,C5H,CRN.L,Bau/Infrastruktur,IE00BWY4ZF18
+417,Cambria Africa PLC,A0MXY8,GB,4L1,CMB.L,Finanzdienstleistungen,IM00B28CVH58
+418,Cambridge Cognition Holdings PLC,A1T9LW,GB,1M7,COG.L,Gesundheitswesen,GB00B8DV9647
+419,Camellia PLC,865930,GB,CMF,CAM.L,Finanzdienstleistungen,GB0001667087
+420,CANACCORD GENUITY GRP INC,A0B6V4,GB,C6U,CF.TO,Finanzdienstleistungen,CA1348011091
+421,Capita PLC,A0MZ15,GB,CTAA,CPI.L,Finanzdienstleistungen,GB00B23K0M20
+422,Capital & Counties Properties PLC,A1CUUR,GB,C20,CAPC.L,Immobilien,GB00B62G9D36
+423,Capital Drilling Ltd.,A1CYV4,GB,C8D,CAPD.L,Rohstoffe,BMG022411000
+424,CARCLO PLC,872295,GB,C1Y,CAR.L,Kunststoffe/Verpackungen,GB0001751915
+425,Card Factory PLC,A114CM,GB,0CT,CARD.L,Handel/E-Commerce,GB00BLY2F708
+426,Caretech Holdings PLC,A0HGPU,GB,C5P,CTH.L,Gesundheitswesen,GB00B0KWHQ09
+427,Carnival PLC,120071,GB,POH1,CCL.L,Hotels/Tourismus,GB0031215220
+428,"CARPETRIGHT PLC LS-,01",904879,GB,,not_found,Handel/E-Commerce,GB0001772945
+429,Caspian Sunrise PLC,A0MSCF,GB,RO1,CASP.L,Öl/Gas,GB00B1W0VW36
+430,Castings PLC,935246,GB,9Z9,CGS.L,Maschinenbau,GB0001795680
+431,Centamin PLC,A1JPZ6,GB,7CT,CEY.L,Rohstoffe,JE00B5TT1872
+432,Central Asia Metals PLC,A1C6T4,GB,9C3,CAML.L,Rohstoffe,GB00B67KBV28
+433,CentralNic Group PLC,A1W4X9,GB,4CN,CNIC.L,Internet,GB00BCCW4X83
+434,Centrica PLC,A0DK6K,GB,CENB,CNA.L,Versorger,GB00B033F229
+435,Chaarat Holdings Ltd.,A0M7L5,GB,9IS,CGH.L,Rohstoffe,VGG203461055
+436,Chamberlin PLC,A0B75A,GB,CCV,CMH.L,Maschinenbau,GB0001870228
+437,Chariot Oil & Gas Ltd.,A0Q17M,GB,C62,CHAR.L,Öl/Gas,GG00B2R9PM06
+438,Checkit PLC,A0ETUX,GB,EKC1,CKT.L,Software,GB00B0C5RG72
+439,Chemring Group PLC,A1JFNS,GB,CMN1,CHG.L,Luftfahrt/Rüstung,GB00B45C9X44
+440,Chesnara PLC,-,GB,not_found,not_found,not_found,not_found
+441,China Nonferrous Gold Ltd.,A1W9KL,GB,KRB,CNG.L,Rohstoffe,KYG215771042
+442,China Steel Corp. (GDRs),884144,GB,CNS,CNSD.IL,Eisen/Stahl,USY150411251
+443,Churchill China PLC,928847,GB,EQW,CHH.L,Konsumgüter,GB0001961035
+444,Cineworld Group PLC,A0J2XW,GB,DQ6,CINE.L,Unterhaltung,GB00B15FWH70
+445,Circassia Pharmaceuticals PLC,A1XFBM,GB,82C,CIR.L,Biotechnologie,GB00BJVD3B28
+446,Clarkson PLC,872503,GB,1DH,CKN.L,Dienstleistungen,GB0002018363
+447,Clear Leisure PLC,A1CYK3,GB,BYA1,QBT.L,Finanzdienstleistungen,GB00B50P5B53
+448,Close Brothers Group Plc,874082,GB,CS3,CBG.L,Finanzdienstleistungen,GB0007668071
+449,Cloudcoco Group PLC,A1T7LK,GB,GV2A,CLCO.L,Software,GB00B8GRBX01
+450,CML Microsystems PLC,868706,GB,92M,CML.L,Halbleiter,GB0001602944
+451,Coats Group PLC,A1JA3L,GB,4TC,COA.L,Bekleidung/Textil,GB00B4YZN328
+452,Coca-Cola HBC AG,A1T7B9,GB,C0Q,CCH.L,Getränke/Tabak,CH0198251305
+453,Cohort PLC,A0JDZC,GB,C7K,CHRT.L,Dienstleistungen,GB00B0YD2B94
+454,Commerzbank AG,CBK100,GB,CBK,CBK.DE,Finanzdienstleistungen,DE000CBK1001
+455,Compagnie de Saint-Gobain S.A.,872087,GB,GOB,SGO.PA,Bau/Infrastruktur,FR0000125007
+456,Computacenter PLC,A14NH6,GB,COUD,CCC.L,Software,GB00BV9FP302
+457,Concurrent Technologies PLC,929339,GB,FJV,CNC.L,Elektrotechnologie,GB0002183191
+458,Condor Gold PLC,A1JZFM,GB,W5XA,CNR.L,Rohstoffe,GB00B8225591
+459,Connemara Mining Co. PLC,A0X958,GB,48O,ARK.L,Rohstoffe,IE00B2357X72
+460,Coral Products PLC,A0B97V,GB,0EN,CRU.L,Kunststoffe/Verpackungen,GB0002235736
+461,Corero Network Security PLC,A0RPMU,GB,NYA1,CNS.L,Software,GB00B54X0432
+462,Costain Group PLC,A1CUSQ,GB,5JY,COST.L,Bau/Infrastruktur,GB00B64NSP76
+463,Countrywide PLC,A1H56R,GB,not_found,not_found,not_found,not_found
+464,Craneware PLC,A0MS3H,GB,3X6,CRW.L,Software,GB00B2425G68
+465,Cranswick PLC,-,GB,not_found,not_found,not_found,not_found
+466,Creightons PLC,875658,GB,5K8,CRL.L,Konsumgüter,GB0002341666
+467,Crest Nicholson Holdings Plc.,A1KCZN,GB,C38,CRST.L,Bau/Infrastruktur,GB00B8VZXT93
+468,CRH PLC,864684,GB,CRG,CRG.IR,Bau/Infrastruktur,IE0001827041
+469,Crimson Tide PLC,A0DJ5W,GB,EYM,TIDE.L,Software,GB0002080082
+470,CROSSRIDER LTD,A12CX7,GB,8C2,KAPE.L,Dienstleistungen,IM00BQ8NYV14
+471,CVS Group PLC,A0M5AJ,GB,4C9,CVSG.L,Gesundheitswesen,GB00B2863827
+472,D S Smith PLC,877238,GB,1KR,SMDS.L,Kunststoffe/Verpackungen,GB0008220112
+473,D4t4 Solutions PLC,603036,GB,5H9,D4T4.L,IT-Dienstleistungen,GB0001351955
+474,Dairy Farm International Holdings Ltd.,928180,GB,DFA1,D01.SI,Handel/E-Commerce,BMG2624N1535
+475,Dalata Hotel Group PLC,A1XE3D,GB,DHG,DHG.IR,Hotels/Tourismus,IE00BJMZDW83
+476,Datang International Power Generation Co. Ltd.,A0M4XW,GB,BJI,0991.HK,Versorger,CNE1000002Z3
+477,DCC PLC,903840,GB,DCC,DCC.L,Dienstleistungen,IE0002424939
+478,De La Rue PLC,A0RBSQ,GB,DL1C,DLAR.L,Dienstleistungen,GB00B3DGH821
+479,DECHRA PHARMACEUTICALS PLC,578968,GB,1PK,DPH.L,Pharma,GB0009633180
+480,Deepmatter Group PLC,A0M95H,GB,K6YA,DMTR.L,Finanzdienstleistungen,GB00B29YYY86
+481,Deltex Medical Group PLC,927020,GB,DX9,DEMG.L,Gesundheitswesen,GB0059337583
+482,Deltic Energy PLC,A1JYS0,GB,7RC,DELT.L,Finanzdienstleistungen,GB00B6SYKF01
+483,Derwent London PLC,897679,GB,DVK,DLN.L,Immobilien,GB0002652740
+484,Devro PLC,887062,GB,5H8,DVO.L,Nahrungsmittel/Agrar,GB0002670437
+485,DFS Furniture PLC,A14NPR,GB,DF0,DFS.L,Handel/E-Commerce,GB00BTC0LB89
+486,Diageo PLC,851247,GB,GUI,DGE.L,Getränke/Tabak,GB0002374006
+487,Dialight PLC,812820,GB,3HQ,DIA.L,Elektrotechnologie,GB0033057794
+488,Dignity PLC,A12DVV,GB,DN8E,DTY.L,Dienstleistungen,GB00BRB37M78
+489,Dillistone Group PLC,A0J3FJ,GB,D2Y,DSG.L,Software,GB00B13QQB40
+490,Diploma PLC,-,GB,not_found,not_found,not_found,not_found
+491,Direct Line Insurance Group PLC,A14USN,GB,D1LN,DLG.L,Finanzdienstleistungen,GB00BY9D0Y18
+492,DotDigital Group PLC,A1H6LT,GB,3DO,DOTD.L,Software,GB00B3W40C23
+493,DP Poland PLC,A1C209,GB,2OP,DPP.L,Nahrungsmittel/Agrar,GB00B3Q74M51
+494,Drax Group PLC,A0MK9W,GB,D9F2,DRX.L,Versorger,GB00B1VNSX38
+495,Dunelm Group PLC,A0LCM4,GB,DFQ,DNLM.L,Handel/E-Commerce,GB00B1CKQ739
+496,E-Therapeutics PLC,A0M8VQ,GB,3AQ,ETX.L,Pharma,GB00B2823H99
+497,Easyjet PLC,A1JTC1,GB,EJT1,EZJ.L,Luftfahrt/Rüstung,GB00B7KR2P84
+498,Ebiquity PLC,762554,GB,YO4,EBQ.L,Dienstleistungen,GB0004126057
+499,Eckoh PLC,121850,GB,TZ5A,ECK.L,Software,GB0033359141
+500,Eco Animal Health Group PLC,135655,GB,LWA,EAH.L,Gesundheitswesen,GB0032036807
+501,Eden Research PLC,A0Q7CY,GB,9T7,EDEN.L,Chemie,GB0001646941
+502,Egdon Resources PLC,A0M7NX,GB,4ED,EDR.L,Öl/Gas,GB00B28YML29
+503,EKF Diagnostics Holdings PLC,622434,GB,LYF,EKF.L,Dienstleistungen,GB0031509804
+504,Eleco PLC,919028,GB,5H3,ELCO.L,Software,GB0003081246
+505,Electrocomponents PLC,862727,GB,ECN,RS1.L,Elektrotechnologie,GB0003096442
+506,Emis Group PLC,A1CVN6,GB,483,EMIS.L,IT-Dienstleistungen,GB00B61D1Y04
+507,Empyrean Energy PLC,A0HGP0,GB,E1E,EME.L,Öl/Gas,GB00B09G2351
+508,Enquest PLC,A1CTAH,GB,3EQ,ENQ.L,Öl/Gas,GB00B635TG28
+509,Entain PLC,A1CWWN,GB,6GI,ENT.L,Unterhaltung,IM00B5VQMV65
+510,ENTEQ UPSTREAM PLC,A1JKCT,GB,5EQ,NTQ.L,Öl/Gas,GB00B41Q8Q68
+511,Epwin Group PLC,A1164R,GB,2E3,EPWN.L,Bau/Infrastruktur,GB00BNGY4Y86
+512,Equals Group Plc,A119M7,GB,2FX,EQLS.L,Finanzdienstleistungen,GB00BLS0XX25
+513,Ergomed PLC,A117XM,GB,2EM,ERGO.L,Pharma,GB00BN7ZCY67
+514,Essentra PLC,A0ET3D,GB,HOF,ESNT.L,Kunststoffe/Verpackungen,GB00B0744359
+515,Eurasia Mining PLC,928489,GB,EUH,EUA.L,Rohstoffe,GB0003230421
+516,Eurocell PLC,A1W9PL,GB,6YQ,ECEL.L,Kunststoffe/Verpackungen,GB00BVV2KN49
+517,Euromoney Institutional Investor Plc,893440,GB,EUM,ERM.L,Medien,GB0006886666
+518,Europa Oil & Gas Holdings PLC,A0D9KS,GB,EGN,EOG.L,Öl/Gas,GB00B03CJS30
+519,"EVERYMAN MEDIA GR. LS-,10",A1W7XY,GB,EVY,EMAN.L,Unterhaltung,GB00BFH55S51
+520,Evraz plc,A1JMT9,GB,EVZ,not_found,Eisen/Stahl,GB00B71N6K86
+521,Experian Group PLC,A0KDZM,GB,J2B,EXPN.L,Dienstleistungen,GB00B19NLV48
+522,Falcon Oil & Gas Ltd.,A0EALA,GB,FAC,FO.V,Öl/Gas,CA3060711015
+523,Fastforward Innovations Ltd.,A12D3K,GB,LYZ1,SEED.L,Finanzdienstleistungen,GG00BRK9BQ81
+524,FBD Holdings PLC,932239,GB,EG7,EG7.IR,Finanzdienstleistungen,IE0003290289
+525,FDM Group [Holdings] PLC,A116TF,GB,17F,FDM.L,IT-Dienstleistungen,GB00BLWDVP51
+526,Feedback PLC,A0B6UQ,GB,GZM,GB0003340550.SG,Sonstige Technologie,GB0003340550
+527,FERREXPO PLC,A0MRG2,GB,FEX,FXPO.L,Rohstoffe,GB00B1XH2C03
+528,Fevertree PLC,A12EXX,GB,FV8,FEVR.L,Getränke/Tabak,GB00BRJ9BJ26
+529,Filtronic PLC,897725,GB,FTI,FTC.L,Hardware,GB0003362992
+530,Finnaust Mining PLC,A1W8Q8,GB,S5WA,JAY.L,Rohstoffe,GB00BFD3VF20
+531,Finsbury Food Group PLC,919638,GB,GYZ,GB0009186429.SG,Nahrungsmittel/Agrar,GB0009186429
+532,FireAngel Safety Technology Group PLC,A113GA,GB,901,FA.L,Elektrotechnologie,GB0030508757
+533,"FIRESTONE DIAMONDS LS-,01",A11192,GB,,not_found,Rohstoffe,GB00BKX59Y86
+534,First Derivatives PLC,911641,GB,GYQ,FDP.L,Dienstleistungen,GB0031477770
+535,FIRST QUANTUM MINERALS LTD.,904604,GB,IZ1,FM.TO,Rohstoffe,CA3359341052
+536,Firstgroup PLC,896516,GB,FGR,FGP.L,Logistik/Transport,GB0003452173
+537,Flowtech FluidPower PLC,A114T7,GB,2FW,FLO.L,Maschinenbau,GB00BM4NR742
+538,Flutter Entertainment PLC,A14RX5,GB,PPB,FLTR.L,Unterhaltung,IE00BWT6H894
+539,"Flybe Group Plc, Exeter",A1H4HR,GB,,not_found,Luftfahrt/Rüstung,GB00B4QMVR10
+540,Focusrite PLC,A12GLU,GB,0FO,TUNE.L,Konsumgüter,GB00BSBMW716
+541,FONDUL PRO.GDR REGS LN-85,A14SE0,GB,FP4G,FP4G.F,Finanzdienstleistungen,US34460G1067
+542,Fox Marble Holdings Plc,A1J82N,GB,9ZL,not_found,Bau/Infrastruktur,GB00B7LGG306
+543,Foxtons Group PLC,A1W5AS,GB,FXG,FOXT.L,Immobilien,GB00BCKFY513
+544,Fresnillo PLC,A0MVZE,GB,FNL,FRES.L,Rohstoffe,GB00B2QPKJ12
+545,Frontier Developments PLC,A1W2R3,GB,5FD,FDEV.L,Unterhaltung,GB00BBT32N39
+546,Frontier IP Group PLC,A1C8NE,GB,8WT,FIPP.L,Dienstleistungen,GB00B63PS212
+547,Fulcrum Utility Services Ltd.,A1C2K5,GB,0U0,FCRM.L,Bau/Infrastruktur,KYG368851047
+548,Fulham Shore Plc/The,A12D0Q,GB,1AT,GB00B9F8VG44.SG,Nahrungsmittel/Agrar,GB00B9F8VG44
+549,Fuller Smith & Turner PLC,A0MXAU,GB,1ZJ,FSTA.L,Freizeitprodukte,GB00B1YPC344
+550,Futura Medical PLC,911670,GB,GYX,FUM.L,Pharma,GB0033278473
+551,G3 Exploration Ltd.,A0KEYZ,GB,G3J,not_found,Öl/Gas,KYG409381053
+552,G4S PLC,A0B7CY,GB,,not_found,Dienstleistungen,GB00B01FLG62
+553,Galantas Gold Corp.,-,GB,not_found,not_found,not_found,not_found
+554,Galileo Resources PLC,A1JMJR,GB,2GA,GLR.L,Rohstoffe,GB00B115T142
+555,Galliford Try PLC,A0YA62,GB,not_found,not_found,not_found,not_found
+556,Games Workshop Group PLC,900512,GB,G7W,GAW.L,Unterhaltung,GB0003718474
+557,Gaming Realms PLC,A1W2VW,GB,RNE1,GMR.L,Unterhaltung,GB00BBHXD542
+558,Gamma Communications PLC,A12DHG,GB,6GC,GAMA.L,Telekom,GB00BQS10J50
+559,Gateley Holdings PLC,A14TLH,GB,5I2,GTLY.L,Dienstleistungen,GB00BXB07J71
+560,Gattaca PLC,A0LCVL,GB,MNZ,GATC.L,Dienstleistungen,GB00B1FMDQ43
+561,Gazprom Neft PJSC,A0J4TC,GB,,GAZ.IL,Öl/Gas,US36829G1076
+562,GB Group PLC,914859,GB,0GB,GBG.L,IT-Dienstleistungen,GB0006870611
+563,GCM Resources PLC,A0CA7J,GB,LFD,GCM.L,Rohstoffe,GB00B00KV284
+564,Gear4music (Holdings) PLC,A14R8M,GB,G4A,G4M.L,Freizeitprodukte,GB00BW9PJQ87
+565,Gem Diamonds Ltd.,A0MK5R,GB,ZVW,GEMD.L,Rohstoffe,VGG379591065
+566,Genedrive PLC,A0ML2T,GB,D6M,GDR.L,Biotechnologie,GB00B1VKB244
+567,Genel Energy PLC,A1JBXU,GB,4VL,GENL.L,Finanzdienstleistungen,JE00B55Q3P39
+568,Genuit Group PLC,A1113H,GB,0P5,GEN.L,Bau/Infrastruktur,GB00BKRC5K31
+569,Genus PLC,762548,GB,GBE,GNS.L,Biotechnologie,GB0002074580
+570,Getech Group PLC,A0HFW3,GB,3AS,GTC.L,Öl/Gas,GB00B0HZVP95
+571,Gfinity PLC,A12GNL,GB,3GF,GFIN.L,Unterhaltung,GB00BT9QD572
+572,Glanbia PLC,883867,GB,GL9,GL9.IR,Nahrungsmittel/Agrar,IE0000669501
+573,Glencore PLC,A1JAGV,GB,8GC,GLEN.L,Rohstoffe,JE00B4T3BW64
+574,GLI Finance Ltd.,A0MS12,GB,97F,GB00B0CL3P62.SG,Finanzdienstleistungen,GB00B0CL3P62
+575,Global Telecom Holding S.A.E. (GDRs),A1W6DW,GB,not_found,GB00B0CL3P62.SG,Finanzdienstleistungen,GB00B0CL3P62
+576,GlobalData PLC,A1T7R3,GB,YK6B,DATA.L,Dienstleistungen,GB00B87ZTG26
+577,Go-Ahead Group PLC,908670,GB,G9X,GOG.L,Logistik/Transport,GB0003753778
+578,Goldplat PLC,A0KDV2,GB,G7N,GDP.L,Rohstoffe,GB00B0HCWM45
+579,GoldStone Resources Ltd.,A12DSX,GB,GVL1,GRL.L,Rohstoffe,JE00BRJ8YF63
+580,Gooch & Housego PLC,911933,GB,GPL,GHH.L,Elektrotechnologie,GB0002259116
+581,Good Energy Group PLC,A1J2D2,GB,G0J,GOOD.L,Versorger,GB0033600353
+582,Goodwin PLC,A0B60R,GB,GDW,GDWN.L,Maschinenbau,GB0003781050
+583,Grafton Group PLC,A0B5PL,GB,GN5,GFTU.L,Bau/Infrastruktur,IE00B00MZ448
+584,Grainger PLC,A0DN8N,GB,1U4,GRI.L,Immobilien,GB00B04V1276
+585,Great Western Mining Corp.,A0RM2C,GB,8GW,GWMO.L,Rohstoffe,IE00B1FR8863
+586,Greatland Gold PLC,A0J3TY,GB,G8G,GGP.L,Rohstoffe,GB00B15XDH89
+587,Greencore Group PLC,881630,GB,GCG,GNC.L,Nahrungsmittel/Agrar,IE0003864109
+588,Greggs PLC,A0RMZD,GB,41G1,GRG.L,Nahrungsmittel/Agrar,GB00B63QSB39
+589,Gresham Computing PLC,902267,GB,GCU,GHT.L,Software,GB0008808825
+590,Griffin Mining Ltd.,798062,GB,GG7,GFM.L,Rohstoffe,BMG319201049
+591,GSK PLC,940561,GB,GS7,GSK.L,Pharma,GB0009252882
+592,Gulf Marine Services Plc,A1XFA0,GB,G0M,GMS.L,Logistik/Transport,GB00BJVWTM27
+593,Gusbourne PLC,A1J6EV,GB,S8E,GUS.L,Getränke/Tabak,GB00B8TS4M09
+594,Halfords Group Plc,A0B5TU,GB,HDK,HFD.L,Handel/E-Commerce,GB00B012TP20
+595,HALMA PLC,865047,GB,H11,HLMA.L,Maschinenbau,GB0004052071
+596,Hansard Global PLC,A0LGDU,GB,H9G,IM00B1H1XF89.SG,Finanzdienstleistungen,IM00B1H1XF89
+597,Harbourvest Global Private Equity Ltd.,A12C4N,GB,9JF,HVPE.L,Finanzdienstleistungen,GG00BR30MJ80
+598,HARDY OIL + GAS PLC DL-01,A0F463,GB,,not_found,Öl/Gas,GB00B09MB366
+599,Hargreaves Lansdown PLC,A0MR1A,GB,DMB,HL.L,Finanzdienstleistungen,GB00B1VZ0M25
+600,Hargreaves Services PLC,A0HMDY,GB,H6W,HSP.L,Dienstleistungen,GB00B0MTC970
+601,Haydale Graphene Industries Plc,A11193,GB,6HG,HAYD.L,Chemie,GB00BKWQ1135
+602,Hays PLC,881825,GB,HAY,HAS.L,Industrie/Mischkonzerne,GB0004161021
+603,Henry Boot PLC,579006,GB,0KH,BOOT.L,Bau/Infrastruktur,GB0001110096
+604,Highland Gold Mining Ltd,172963,GB,,not_found,Rohstoffe,GB0032360173
+605,Highlands Natural Resources PLC,A14Q02,GB,7HR,CHLL.L,Pharma,GB00BWC4X262
+606,Hikma Pharmaceuticals PLC,A0HG69,GB,H5P,HIK.L,Pharma,GB00B0LCW083
+607,Hill & Smith Holdings PLC,608307,GB,7HL,HILS.L,Maschinenbau,GB0004270301
+608,Hilton Food Group PLC,A0MR59,GB,FAG,HFG.L,Nahrungsmittel/Agrar,GB00B1V9NW54
+609,Hiscox Ltd.,A14PZ0,GB,H2X3,HSX.L,Finanzdienstleistungen,BMG4593F1389
+610,Hochschild Mining PLC,A0LC38,GB,H3M,HOC.L,Rohstoffe,GB00B1FW5029
+611,Homeserve PLC,A14VF0,GB,XHSB,HSV.L,Dienstleistungen,GB00BYYTFB60
+612,Honeywell International Inc.,870153,GB,ALD,HON,Industrie/Mischkonzerne,US4385161066
+613,Hongkong Land Holdings Ltd.,877047,GB,HLH,H78.SI,Immobilien,BMG4587L1090
+614,Hornby PLC,A0B53J,GB,HNB,HRN.L,Unterhaltung,GB00B01CZ652
+615,HSBC Holdings PLC,923893,GB,HBC1,HSBA.L,Finanzdienstleistungen,GB0005405286
+616,HSS Hire Group PLC,A14M50,GB,HG3,HSS.L,Dienstleistungen,GB00BVFD4645
+617,Hummingbird Resources PLC,A1H57G,GB,2HM,HUM.L,Rohstoffe,GB00B60BWY28
+618,Hunting PLC,867085,GB,0YT,HTG.L,Öl/Gas,GB0004478896
+619,Hurricane Energy PLC,A1JTT2,GB,HUT,HUR.L,Öl/Gas,GB00B580MF54
+620,Ideagen PLC,A1J0T9,GB,5IG,IDEA.L,Software,GB00B0CM0C50
+621,Idox PLC,675545,GB,LWL,IDOX.L,IT-Dienstleistungen,GB0002998192
+622,Ienergizer Ltd.,A1C50R,GB,9I1,IBPO.L,Dienstleistungen,GG00B54NMG96
+623,IG Design Group PLC,912554,GB,LYG,IGR.L,Konsumgüter,GB0004526900
+624,IG Group Holdings PLC,A0EARV,GB,I5G,IGG.L,Finanzdienstleistungen,GB00B06QFB75
+625,Ilika PLC,A1CYM5,GB,I8A,IKA.L,Elektrotechnologie,GB00B608Z994
+626,Image Scan Holdings PLC,912537,GB,LWN,IGE.L,Software,GB0031410581
+627,IMI PLC,A1XCMM,GB,IMI1,IMI.L,Maschinenbau,GB00BGLP8L22
+628,Immedia Group PLC,A0B6UC,GB,LWW,IME.L,Finanzdienstleistungen,GB0033881904
+629,ImmuPharma PLC,A0BMC4,GB,25I,IMM.L,Pharma,GB0033711010
+630,Impax Asset Management Group PLC,912542,GB,LW4,IPX.L,Finanzdienstleistungen,GB0004905260
+631,Imperial Brands PLC,903000,GB,ITB,IMB.L,Getränke/Tabak,GB0004544929
+632,Inchcape PLC,A1CWUA,GB,IJCA,INCH.L,Logistik/Transport,GB00B61TVQ02
+633,Independent Oil & Gas PLC,A1W6DD,GB,IO7,IOG.L,Öl/Gas,GB00BF49WF64
+634,India Capital Growth Funbd Ltd.,A0JMXQ,GB,B8H,IGC.L,Finanzdienstleistungen,GB00B0P8RJ60
+635,Indivior PLC,A12FHW,GB,2IV,INDV.L,Pharma,GB00BRS65X63
+636,Indus Gas Ltd.,A0Q234,GB,59Q,INDI.L,Öl/Gas,GG00B39HF298
+637,Informa PLC,A114PL,GB,IEA,INF.L,Medien,GB00BMJ6DW54
+638,Inspiration Healthcare Group PLC,A14T00,GB,LXD1,IHC.L,Gesundheitswesen,GB00BXDZL105
+639,Inspired Energy PLC,A1JXA3,GB,7PK,INSE.L,Dienstleistungen,GB00B5TZC716
+640,Instem PLC,A1C7NS,GB,54I,INS.L,IT-Dienstleistungen,GB00B3TQCK30
+641,Intercede Group PLC,912553,GB,LYD,IGP.L,Software,GB0003287249
+642,International Business Machines Corp.,851399,GB,IBM,IBM,Hardware,US4592001014
+643,International Consolidated Airlines Group S.A.,A1H6AJ,GB,INR,IAG.L,Luftfahrt/Rüstung,ES0177542018
+644,International Personal Finance Plc,A0MV91,GB,3I8,IPF.L,Finanzdienstleistungen,GB00B1YKG049
+645,Intertek Group PLC,633526,GB,IT1,ITRK.L,Dienstleistungen,GB0031638363
+646,Investec PLC,A0J32R,GB,IVKA,INVP.L,Finanzdienstleistungen,GB00B17BBQ50
+647,Iofina PLC,A0QZ9D,GB,IF7,IOF.L,Öl/Gas,GB00B2QL5C79
+648,Iomart Group PLC,912567,GB,LYU,IOM.L,Internet,GB0004281639
+649,IP Group PLC,-,GB,not_found,not_found,not_found,not_found
+650,IQGeo Group PLC,A1JG2F,GB,6KN,IQG.L,Software,GB00B3NCXX73
+651,Irish Continental Group PLC,A112M8,GB,IR5B,ICGC.L,Logistik/Transport,IE00BLP58571
+652,Ironveld PLC,693533,GB,NYJ,IRON.L,Rohstoffe,GB0030426455
+653,ITM Power PLC,A0B57L,GB,IJ8,ITM.L,Erneuerbare Energien,GB00B0130H42
+654,ITV PLC,A0BLQP,GB,IJ7,ITV.L,Medien,GB0033986497
+655,J. Sainsbury PLC,A0B6G0,GB,SUY1,SBRY.L,Handel/E-Commerce,GB00B019KW72
+656,James Cropper PLC,A0DJ5X,GB,6JC,CRPR.L,Holz/Papier,GB0002346053
+657,James Fisher and Sons PLC,871184,GB,6FJ,FSJ.L,Dienstleistungen,GB0003395000
+658,James Halstead PLC,A0JD96,GB,HSJA,JHD.L,Bau/Infrastruktur,GB00B0LS8535
+659,Jardine Matheson Holdings Ltd.,869042,GB,H4W,J36.SI,Finanzdienstleistungen,BMG507361001
+660,Jardine Strategic Holdings Ltd.,919287,GB,not_found,J36.SI,Finanzdienstleistungen,BMG507361001
+661,Jet2 PLC,A0J37H,GB,DG1,JET2.L,Luftfahrt/Rüstung,GB00B1722W11
+662,John Menzies PLC,-,GB,not_found,not_found,not_found,not_found
+663,John Wood Group PLC,A1JGY5,GB,JWG1,WG.L,Öl/Gas,GB00B5N0P849
+664,Johnson Service Group PLC,864483,GB,5K7,JSG.L,Dienstleistungen,GB0004762810
+665,JPMorgan Chase & Co.,850628,GB,CMC,JPM,Finanzdienstleistungen,US46625H1005
+666,Jubilee Metals Group PLC,912589,GB,JI5,JLP.L,Rohstoffe,GB0031852162
+667,Judges Scientific PLC,912588,GB,IUF,JDG.L,Sonstige Technologie,GB0032398678
+668,Jupiter Energy Ltd.,A0ERKU,GB,J2E,JPR.AX,Öl/Gas,AU000000JPR6
+669,Jupiter Fund Management PLC,A1C0S3,GB,4JF,JUP.L,Finanzdienstleistungen,GB00B53P2009
+670,Just Group PLC,A1W8J6,GB,JR0,JUST.L,Finanzdienstleistungen,GB00BCRX1J15
+671,Kainos Group PLC,A14WHA,GB,1KG,KNOS.L,IT-Dienstleistungen,GB00BZ0D6727
+672,Katoro Gold PLC,A14SMC,GB,622,KAT.L,Rohstoffe,GB00BSNBL022
+673,KAZ Minerals Plc,A0HFWR,GB,,not_found,Rohstoffe,GB00B0HZPV38
+674,Kazera Global PLC,A1J7F7,GB,W3L1,KZG.L,Dienstleistungen,GB00B830HW33
+675,Keller Group PLC,890808,GB,01K,KLR.L,Bau/Infrastruktur,GB0004866223
+676,Kerry Group PLC,886291,GB,KRZ,KRZ.IR,Nahrungsmittel/Agrar,IE0004906560
+677,Keywords Studios PLC,A1W33F,GB,KS3,KWS.L,IT-Dienstleistungen,GB00BBQ38507
+678,Kibo Energy PLC,A1T6AW,GB,1I8,KIBO.L,Rohstoffe,IE00B97C0C31
+679,Kier Group PLC,918585,GB,10I,KIE.L,Bau/Infrastruktur,GB0004915632
+680,Kin & Carta PLC,882948,GB,9L2,KCT.L,Medien,GB0007689002
+681,Kingfisher PLC,812861,GB,KFI1,KGF.L,Handel/E-Commerce,GB0033195214
+682,Kingspan Group PLC,905605,GB,KRX,KRX.IR,Bau/Infrastruktur,IE0004927939
+683,Kinovo PLC,A14QFL,GB,0D6,KINO.L,Dienstleistungen,GB00BV9GHQ09
+684,Kodal Minerals PLC,A1XBMR,GB,7UE,KOD.L,Rohstoffe,GB00BH3X7Y70
+685,Konami Corp.,870269,GB,KOA,9766.T,Software,JP3300200007
+686,"KOOVS PLC LS -,01",A1XFBZ,GB,,not_found,Bekleidung/Textil,GB00BHB22S55
+687,Kromek Group PLC,A1W64P,GB,4KM,KMK.L,Sonstige Technologie,GB00BD7V5D43
+688,Lamprell PLC,A0LC3A,GB,L51,LAM.L,Öl/Gas,GB00B1CL5249
+689,Lancashire Holdings Ltd.,A0HM5W,GB,LNH,LRE.L,Finanzdienstleistungen,BMG5361W1047
+690,Lansdowne Oil & Gas PLC,A0JL3F,GB,L2J,LOGP.L,Öl/Gas,GB00B1250X28
+691,Larsen and Toubro Ltd. (GDRs),895354,GB,LTO,LTOUF,Industrie/Mischkonzerne,USY5217N1183
+692,"Laura Ashley Holdings, PLC",870376,GB,,not_found,Bekleidung/Textil,GB0000533728
+693,Law Debenture Corp PLC,-,GB,not_found,not_found,not_found,not_found
+694,Learning Technolog.Group PLC,A1W8G9,GB,LTG,LTG.L,Software,GB00B4T7HX10
+695,Legal & General Group PLC,851584,GB,LGI,LGEN.L,Finanzdienstleistungen,GB0005603997
+696,Live Company Group PLC,A1W9R6,GB,PTV3,LVCG.L,Dienstleistungen,GB00BGSGT481
+697,Lloyds Banking Group PLC,871784,GB,LLD,LLOY.L,Finanzdienstleistungen,GB0008706128
+698,London & Stamford Property PLC,A1C37D,GB,5PP,LMP.L,Immobilien,GB00B4WFW713
+699,London Stock Exchange Group PLC,A0JEJF,GB,LS4C,LSEG.L,Finanzdienstleistungen,GB00B0SWJX34
+700,Lookers PLC,A0J3QR,GB,LO6A,LOOK.L,Handel/E-Commerce,GB00B17MMZ46
+701,M&C Saatchi PLC,A0DLHB,GB,IZH,SAA.L,Dienstleistungen,GB00B01F7T14
+702,M.P. Evans Group PLC,868448,GB,NYP,MPE.L,Nahrungsmittel/Agrar,GB0007538100
+703,Macfarlane Group PLC,905201,GB,5K6,MACF.L,Kunststoffe/Verpackungen,GB0005518872
+704,Magyar Telekom Telecommunications PLC (ADRs),910447,GB,MGYA,MYTAY,Telekom,US5597761098
+705,Mahindra & Mahindra Ltd. (GDRs),899481,GB,MOM,MHID.IL,Fahrzeuge,USY541641194
+706,Mandarin Oriental International Ltd.,872956,GB,1C4,M04.SI,Hotels/Tourismus,BMG578481068
+707,Manx Financial Group PLC,A0NBXP,GB,3IM,MFX.L,Finanzdienstleistungen,IM00B28ZPX83
+708,Marks & Spencer Group PLC,534418,GB,MA6,MKS.L,Handel/E-Commerce,GB0031274896
+709,Marsh & McLennan Cos. Inc.,858415,GB,MSN,MMC,Finanzdienstleistungen,US5717481023
+710,Marshalls plc,A0B59C,GB,1QG,MSLH.L,Bau/Infrastruktur,GB00B012BV22
+711,Marston's plc.,A0LGA4,GB,WVDA,MARS.L,Hotels/Tourismus,GB00B1JQDM80
+712,McBride PLC,896261,GB,10W,MCB.L,Konsumgüter,GB0005746358
+713,McColls Retail Group PLC,A1XE2N,GB,2M2,GB00BJ3VW957.SG,Handel/E-Commerce,GB00BJ3VW957
+714,MCKAY SECURITIES PLC-ORD,-,GB,not_found,not_found,not_found,not_found
+715,Mears Group PLC,913631,GB,MM7,MER.L,Bau/Infrastruktur,GB0005630420
+716,Mediclinic International PLC,A1W0TP,GB,MO4,MDC.L,Gesundheitswesen,GB00B8HX8Z88
+717,Meggitt Plc,865048,GB,MGI,MGGT.L,Luftfahrt/Rüstung,GB0005758098
+718,Metals Exploration PLC,A0DPHS,GB,MJ4,MTL.L,Rohstoffe,GB00B0394F60
+719,MICHELMERSH BRICK HOLDINGS PLC,A0B6TZ,GB,MPO,MBH.L,Bau/Infrastruktur,GB00B013H060
+720,"MIDATECH PHARMA LS-,00005",A12FM7,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+721,Mincon Group PLC,A1W5BS,GB,MIO,MCON.L,Maschinenbau,IE00BD64C665
+722,MINERA IRL LTD,A0MP6A,GB,DZX,not_found,Rohstoffe,JE00B1HNYF12
+723,Minoan Group PLC,A0KEXA,GB,61T,MIN.L,Hotels/Tourismus,GB0008497975
+724,Mitchells & Butlers Plc,A0LB7F,GB,MABB,MAB.L,Hotels/Tourismus,GB00B1FP6H53
+725,Mitie Group PLC,864585,GB,MZ4,MTO.L,Dienstleistungen,GB0004657408
+726,Mitsubishi Corp.,857124,GB,MBI,8058.T,Elektrotechnologie,JP3898400001
+727,Mitsubishi Electric Corp.,856532,GB,MIE1,6503.T,Elektrotechnologie,JP3902400005
+728,Mobile Streams PLC,A0JDJP,GB,M4G,MOS.L,Telekom,GB00B0WJ3L68
+729,Mobility One Ltd.,A0MWXE,GB,31M,JE00B1Z48326.SG,Sonstige Technologie,JE00B1Z48326
+730,MOL Hungarian Oil and Gas Company Plc (ADRs),898178,GB,MOGG,US6084642023.SG,Öl/Gas,US6084642023
+731,Mondi PLC,A0MQ8X,GB,KYC,MNDI.L,Holz/Papier,GB00B1CRLC47
+732,Moneysupermarket.com Group PLC,A0MW73,GB,39M,MONY.L,Internet,GB00B1ZBKY84
+733,Morgan Advanced Materials PLC,857412,GB,MGJ,MGAM.L,Maschinenbau,GB0006027295
+734,Morgan Sindall Group PLC,936287,GB,0KN,MGNS.L,Bau/Infrastruktur,GB0008085614
+735,Mosenergosbyt PJSC (ADRs),899416,GB,,not_found,Versorger,US0373763087
+736,Mothercare Plc,501824,GB,MTR,MTC.L,Handel/E-Commerce,GB0009067447
+737,MS International PLC,865031,GB,6QK,MSI.L,Maschinenbau,GB0005957005
+738,MTI Wireless Edge Ltd.,A0JEQ2,GB,M7O,MWE.L,Telekom,IL0010958762
+739,Mulberry Group PLC,900941,GB,MUY,MUL.L,Konsumgüter,GB0006094303
+740,Myanmar Investments International Ltd.,A1W0KM,GB,22M,MIL.L,Finanzdienstleistungen,VGG636111004
+741,MySale Group PLC,A116HF,GB,2MY,MYSL.L,Internet,JE00BMH4MR96
+742,N Brown Group PLC,-,GB,not_found,not_found,not_found,not_found
+743,Naked Wines Plc,A0B7SL,GB,MWJ,WINE.L,Getränke/Tabak,GB00B021F836
+744,Nanoco Group PLC,A0EASE,GB,GXG,NANO.L,Biotechnologie,GB00B01JLR99
+745,"NASSTAR PLC LS-,01",A0ESUY,GB,,not_found,Software,GB00B0T1S097
+746,National Express Group PLC,888871,GB,3NA,NEX.L,Logistik/Transport,GB0006215205
+747,NatWest Group PLC,A1JXTD,GB,RYS1,NWG.L,Finanzdienstleistungen,GB00B7T77214
+748,NB Private Equity Partners Ltd.,A0MXLB,GB,31X,NBPE.L,Finanzdienstleistungen,GG00B1ZBD492
+749,NCC Group PLC,A0EAWX,GB,NZB,NCC.L,IT-Dienstleistungen,GB00B01QGK86
+750,Ncondenzi Energy Ltd.,A1C0M6,GB,9NE,NCCL.L,Rohstoffe,VGG640631039
+751,Netcall PLC,931062,GB,NEW,NET.L,Sonstige Technologie,GB0000060532
+752,Next Fifteen Communications Group PLC,929977,GB,8LS,NFC.L,Dienstleistungen,GB0030026057
+753,"NEXT PLC,",779551,GB,NXG,NXT.L,Handel/E-Commerce,GB0032089863
+754,Nichols PLC,895696,GB,NRV,NICL.L,Getränke/Tabak,GB0006389398
+755,Nomad Foods Ltd.,A112D1,GB,0NH,NOMD,Nahrungsmittel/Agrar,VGG6564A1057
+756,Non-Standard Finance PLC,A14NXG,GB,5NF,NSF.L,Finanzdienstleistungen,GB00BRJ6JV17
+757,Norsk Hydro ASA,851908,GB,NOH1,NHY.OL,Versorger,NO0005052605
+758,Northamber PLC,A0NG51,GB,8GJ,NAR.L,IT-Dienstleistungen,GB00B2Q99X01
+759,Nostrum Oil & Gas PLC,A114UC,GB,3NO,NOG.L,Öl/Gas,GB00BGP6Q951
+760,"NWF GROUP PLC      LS-,25",913250,GB,NYY,NWF.L,Handel/E-Commerce,GB0006523608
+761,Oakley Capital Investments Limited,A0MX1X,GB,34O,OCI.L,Finanzdienstleistungen,BMG670131058
+762,Obtala Ltd.,A1C16V,GB,OB7,WBI.L,Rohstoffe,GG00B4WJSD17
+763,Ocado Group PLC,A1C2GZ,GB,0OC,OCDO.L,Handel/E-Commerce,GB00B3MBS747
+764,Oilex Ltd.,813017,GB,OLX,OEX.AX,Öl/Gas,AU000000OEX8
+765,"OMEGA DIAGNOST.GR. LS-,04",A0MYRK,GB,RVKA,ODX.L,Gesundheitswesen,GB00B1VCP282
+766,On-Line PLC,935273,GB,RCQ,OBC.L,Internet,GB0006601479
+767,One Media iP Group PLC,A1W7RP,GB,1M9,OMIP.L,Medien,GB00B1DRDZ07
+768,OPG Power Ventures PLC,A0Q24Z,GB,OPB,OPG.L,Versorger,IM00B2R3RX72
+769,OptiBiotix Health PLC,A118S6,GB,OB3,OPTI.L,Biotechnologie,GB00BP0RTP38
+770,Oracle Coalfields PLC,A0YH55,GB,9OC,ORCP.L,Rohstoffe,GB00B23JN426
+771,Oriole Resources PLC,A0HM5M,GB,S1Y,ORR.L,Rohstoffe,GB00B0T29327
+772,Orosur Mining Inc.,A0YJNS,GB,UR2,OMI.V,Rohstoffe,CA6871961059
+773,Ortac Resources Ltd.,A1C4W6,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+774,OTP Bank Ltd.,896173,GB,OSZG,not_found,Finanzdienstleistungen,USX607461166
+775,Ovoca Gold PLC,A0YG05,GB,OVXA,OVXA.IR,Biotechnologie,IE00B4XVDC01
+776,Oxford Instruments PLC,868366,GB,OX3,OXIG.L,Sonstige Technologie,GB0006650450
+777,Oxford Metrics PLC,693492,GB,RNI,OMG.L,Sonstige Technologie,GB0030312788
+778,PageGroup PLC,658848,GB,3MI,PAGE.L,Dienstleistungen,GB0030232317
+779,Pan African Resources PLC,913531,GB,RTZ,PAF.L,Rohstoffe,GB0004300496
+780,Pantheon Resources PLC,A0JKKZ,GB,P3K,PANR.L,Öl/Gas,GB00B125SX82
+781,Paragon Banking Group PLC,A0NBD6,GB,46P1,PAG.L,Finanzdienstleistungen,GB00B2NGPM57
+782,Parity Group PLC,A0JNHL,GB,PAY1,PTY.L,Software,GB00B1235860
+783,Parkmead Group PLC,A1W9RR,GB,LYK1,PMG.L,Finanzdienstleistungen,GB00BGCYZL73
+784,PayPoint PLC,A0DK8C,GB,PAN,PAY.L,Finanzdienstleistungen,GB00B02QND93
+785,PCF Group PLC,345842,GB,RLW,PCF.L,Finanzdienstleistungen,GB0004189378
+786,PCI Pal PLC,911547,GB,FVA,PCIP.L,Dienstleistungen,GB0009737155
+787,Pearson PLC,858266,GB,PES,PSON.L,Medien,GB0006776081
+788,"PEMBRIDGE RES PLC LS-,001",A1JDP2,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+789,Pendragon PLC,A0LGHK,GB,0PD,PDG.L,Fahrzeuge,GB00B1JQBT10
+790,Pennon Group PLC,A0J371,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+791,Permanent TSB Group Holdings PLC,A14P7U,GB,IL0A,IL0A.IR,Finanzdienstleistungen,IE00BWB8X525
+792,Persimmon PLC,882058,GB,OHP,PSN.L,Bau/Infrastruktur,GB0006825383
+793,Petra Diamonds Ltd.,908093,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+794,Petrel Resources PLC,694395,GB,PQ4,PET.L,Öl/Gas,IE0001340177
+795,Petro Matad Ltd.,A0QZWA,GB,HA3,HA3.F,Öl/Gas,IM00B292WR19
+796,Petrofac Ltd.,A0HF9Y,GB,P2F,PFC.L,Öl/Gas,GB00B0H2K534
+797,Petroneft Resources PLC,A0LA4N,GB,P8ET,P8ET.IR,Öl/Gas,IE00B0Q82B24
+798,Petropavlovsk PLC,570795,GB,PHZ,POG.L,Rohstoffe,GB0031544546
+799,Pets At Home Group PLC,A1XFE7,GB,6P8,PETS.L,Handel/E-Commerce,GB00BJ62K685
+800,Pfizer Inc.,852009,GB,PFE,PFE,Pharma,US7170811035
+801,Phoenix Global Resources PLC,A1JZZA,GB,RCDC,PGR.L,Öl/Gas,GB00B7LHJ340
+802,Photo-Me International,854667,GB,PHQ,PHTM.L,Dienstleistungen,GB0008481250
+803,"PLANT HEALTH CARE LS-,01",A0EANP,GB,PC5,PHC.L,Gesundheitswesen,GB00B01JC540
+804,Playtech PLC,A1J0S4,GB,PL8,PTEC.L,Internet,IM00B7S9G985
+805,Plus500 Ltd.,A1W3GY,GB,P55,PLUS.L,Finanzdienstleistungen,IL0011284465
+806,"PME AFRICAN INF. DL-,01",A0MW6G,GB,,not_found,Finanzdienstleistungen,IM00B1WSL611
+807,Polar Capital Holdings PLC,A0MKEV,GB,XZF,POLR.L,Finanzdienstleistungen,GB00B1GCLT25
+808,Polymetal Intl PLC,A1JLWT,GB,PM6,POLY.L,Rohstoffe,JE00B6T5S470
+809,PowerHouse Energy Group plc,-,GB,not_found,not_found,not_found,not_found
+810,PPHE Hotel Group Ltd.,A0MW4C,GB,32P,PPH.L,Hotels/Tourismus,GG00B1Z5FH87
+811,Premaitha Health PLC,A116JH,GB,BQB1,YGEN.L,Elektrotechnologie,GB00BN31ZD89
+812,Premier Foods PLC,A1JWNB,GB,FOJ1,PFD.L,Nahrungsmittel/Agrar,GB00B7N0K053
+813,Premier Oil PLC,A1H9WB,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+814,President Energy PLC,A0RAQM,GB,NNH1,PPC.L,Öl/Gas,GB00B3DDP128
+815,Pressure Technologies PLC,A0MUGB,GB,PRS,PRES.L,Sonstige Technologie,GB00B1XFKR57
+816,Proteome Sciences PLC,935051,GB,PI2,PRM.L,Sonstige Technologie,GB0003104196
+817,Proton Power Systems PLC,A0LC22,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+818,Provexis PLC,A0ETZW,GB,NZCA,PXS.L,Nahrungsmittel/Agrar,GB00B0923P27
+819,Providence Resources PLC,A1CWXB,GB,PZQA,PZQA.IR,Öl/Gas,IE00B66B5T26
+820,Provident Financial PLC,A0MV90,GB,PRVA,PFG.L,Finanzdienstleistungen,GB00B1Z4ST84
+821,Prudential PLC,852069,GB,PRU,PRU.L,Finanzdienstleistungen,GB0007099541
+822,Puretech Health PLC,A14VK6,GB,0VQ,PRTC.L,Biotechnologie,GB00BY2Z0H74
+823,PZ Cussons PLC,A0LAV3,GB,1ZQ,PZC.L,Dienstleistungen,GB00B19Z1432
+824,Qinetiq Group PLC,A0JDDS,GB,QY6,QQ.L,Sonstige Technologie,GB00B0WMWD03
+825,Quadrise Fuels Intl. PLC,A0JJ7Z,GB,8QF,QFI.L,Öl/Gas,GB00B11DDB67
+826,RANGE RES. LTD,874152,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+827,Raven Property Group Ltd.,A0HM9B,GB,R4M,not_found,Immobilien,GB00B0D5V538
+828,Reabold Resources PLC,A1KA04,GB,AWL1,RBD.L,Öl/Gas,GB00B95L0551
+829,Reach PLC,885738,GB,AWL1,RBD.L,Öl/Gas,GB00B95L0551
+830,REACT Group PLC,A14XLL,GB,D1IN,REAT.L,Dienstleistungen,GB00BZ2JBG28
+831,Real Good Food PLC,A0BKJX,GB,MLM,RGD.L,Nahrungsmittel/Agrar,GB0033572867
+832,Reckitt Benckiser Group PLC,A0M1W6,GB,3RB,RKT.L,Konsumgüter,GB00B24CGK77
+833,Redcentric PLC,A1KC94,GB,6YD,RCN.L,IT-Dienstleistungen,GB00B7TW1V39
+834,Redde Northgate PLC,A0YAV3,GB,21W,REDD.L,Fahrzeuge,GB00B41H7391
+835,REDT ENERGY PLC,A0JL3X,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+836,Redx Pharma PLC,A14Q2L,GB,0RX,REDX.L,Biotechnologie,GB00BSNB6S51
+837,Regal Petroleum PLC,813713,GB,RHN,ENW.L,Öl/Gas,GB0031775819
+838,Reliance Industries GDR,884241,GB,RLI,RLI.F,Industrie/Mischkonzerne,US7594701077
+839,Relx PLC,A0M95J,GB,RDEB,REL.L,Medien,GB00B2B0DG97
+840,Renewi PLC,876457,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+841,Renishaw PLC,868884,GB,REW,RSW.L,Sonstige Technologie,GB0007323586
+842,Renold PLC,855288,GB,7M5,RNO.L,Maschinenbau,GB0007325078
+843,Rentokil Initial PLC,A0EQ3A,GB,RTO1,RTO.L,Dienstleistungen,GB00B082RF11
+844,Restaurant Group PLC,A0JDNW,GB,R2K,RTN.L,Nahrungsmittel/Agrar,GB00B0YG1K06
+845,Restore PLC,A1C055,GB,MWDA,RST.L,Dienstleistungen,GB00B5NR1S72
+846,Revolution Bars Group PLC,A14QAH,GB,R5B,RBG.L,Hotels/Tourismus,GB00BVDPPV41
+847,Ricardo PLC,868727,GB,RIR,RCDO.L,Fahrzeuge,GB0007370074
+848,Ricoh Co. Ltd.,854279,GB,RIC1,7752.T,Sonstige Technologie,JP3973400009
+849,Rio Tinto PLC,852147,GB,RIO1,RIO.L,Rohstoffe,GB0007188757
+850,RM PLC,A1XEY8,GB,RMP1,RM.L,IT-Dienstleistungen,GB00BJT0FF39
+851,Robert Walters PLC,502815,GB,RBW,RWA.L,Dienstleistungen,GB0008475088
+852,Robinson PLC,A0B6TW,GB,RSV,GB00B00K4418.SG,Kunststoffe/Verpackungen,GB00B00K4418
+853,Rockhopper Exploration PLC,A0F6YF,GB,R4Y,RKH.L,Öl/Gas,GB00B0FVQX23
+854,Rolls Royce Holdings PLC,A1H81L,GB,RRU,RR.L,Luftfahrt/Rüstung,GB00B63H8491
+855,Ross Group PLC,876475,GB,8SS,RGP.L,Dienstleistungen,GB0002192606
+856,Rosslyn Data Technologies PLC,A113DE,GB,7IU,RDT.L,Software,GB00BKX5CP01
+857,"Rostelekom,PJSC Mezhdugorodno. (ADRs)",912293,GB,RTL,not_found,Telekom,US7785291078
+858,Rotala PLC,A0MVK0,GB,08U,ROL.L,Logistik/Transport,GB00B1Z2MP60
+859,Rotork PLC,A14RF2,GB,RO41,ROR.L,Maschinenbau,GB00BVFNZH21
+860,Royal Dutch Shell PLC,A0ER6S,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+861,Royal Mail PLC,A1W5N2,GB,RYE,RMG.L,Logistik/Transport,GB00BDVZYZ77
+862,RPS Group Plc.,874849,GB,RG8,RPS.L,Dienstleistungen,GB0007594764
+863,RSA Insurance Group PLC,A1100M,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+864,Rurelec PLC,A0EREA,GB,R1A,RUR.L,Versorger,GB00B01XPW41
+865,RWS Holdings PLC,A14NG2,GB,RWJ1,RWS.L,Dienstleistungen,GB00BVFCZV34
+866,S & U PLC,A0BKSX,GB,97V,SUS.L,Finanzdienstleistungen,GB0007655037
+867,Safestay PLC,A113GL,GB,5RI,SSTY.L,Hotels/Tourismus,GB00BKT0J702
+868,Safestore Holdings PLC,A0MLXJ,GB,IHF,SAFE.L,Logistik/Transport,GB00B1N7Z094
+869,Safestyle UK PLC,A1XAFK,GB,73S,SFE.L,Bau/Infrastruktur,JE00BGP63272
+870,Samsung Electronics Co. Ltd. (GDRs),881823,GB,SSUN,SMSD.IL,Elektrotechnologie,US7960502018
+871,San Leon Energy PLC,A14T92,GB,SZX1,not_found,Öl/Gas,IE00BWVFTP56
+872,Savannah Petroleum PLC,A118Z6,GB,9SP,SAVE.L,Öl/Gas,GB00BP41S218
+873,Savannah Resources PLC,A1C8XS,GB,SAV,SAV.L,Rohstoffe,GB00B647W791
+874,Savills PLC,A0JLZC,GB,1YZ,SVS.L,Immobilien,GB00B135BJ46
+875,Scancell Holdings PLC.,A1JZ3D,GB,SCP,SCLP.L,Biotechnologie,GB00B63D3314
+876,Schlumberger N.V.,853390,GB,SCL,SLB,Öl/Gas,AN8068571086
+877,Schroders PLC,929969,GB,PYX,SDR.L,Finanzdienstleistungen,GB0002405495
+878,Schroders PLC,929950,GB,PYXA,SDRC.L,Finanzdienstleistungen,GB0002395811
+879,Science in Sport PLC,A1W1X9,GB,8D9,SIS.L,Nahrungsmittel/Agrar,GB00BBPV5329
+880,Scientific Digital Imaging PLC,A0RDUF,GB,SD0,SDI.L,Sonstige Technologie,GB00B3FBWW43
+881,Seeing Machines Ltd.,A0LAV0,GB,M2Z,SEE.L,Sonstige Technologie,AU0000XINAJ0
+882,Segro PLC,A0N9B0,GB,S4VC,SGRO.L,Immobilien,GB00B5ZN1N88
+883,Senior plc,852271,GB,1JD,SNR.L,Luftfahrt/Rüstung,GB0007958233
+884,Seplat Petroleum Development Co.,A11059,GB,134,SEPL.L,Öl/Gas,NGSEPLAT0008
+885,Serco Group PLC,899328,GB,SEO,SRP.L,Dienstleistungen,GB0007973794
+886,Serica Energy PLC,A0F664,GB,A3P,SQZ.L,Öl/Gas,GB00B0CY5V57
+887,Severfield PLC,A0M10S,GB,0L3,SFR.L,Eisen/Stahl,GB00B27YGJ97
+888,Severn Trent PLC,A0LBHG,GB,SVT1,SVT.L,Getränke/Tabak,GB00B1FH8J72
+889,Shaftesbury PLC,908076,GB,OVW,SHB.L,Immobilien,GB0007990962
+890,Shanta Gold Ltd.,A0JMP8,GB,35S,SHG.L,Rohstoffe,GB00B0CGR828
+891,Shell PLC,A0D94M,GB,not_found,KAT.L,Rohstoffe,GB00BSNBL022
+892,Shoe Zone PLC,A115LD,GB,86W,SHOE.L,Handel/E-Commerce,GB00BLTVCF91
+893,SIG PLC,888153,GB,QIG,SHI.L,Bau/Infrastruktur,GB0008025412
+894,Signet Jewelers Ltd.,A0Q9SE,GB,SZ2,SIG,Konsumgüter,BMG812761002
+895,Silence Therapeutics PLC,-,GB,not_found,not_found,not_found,not_found
+896,Simec Atlantis Energy Ltd.,A1XEZF,GB,7K8,SAE.L,Erneuerbare Energien,SG9999011118
+897,Sirius Real Estate Ltd.,A0MQ7T,GB,EYI,SRE.L,Immobilien,GG00B1W3VF54
+898,Smart Metering Systems PLC,A1JHHD,GB,SMC,SMS.L,Sonstige Technologie,GB00B4X1RC86
+899,Smith & Nephew PLC,502816,GB,NPW1,SN.L,Gesundheitswesen,GB0009223206
+900,Smiths Group PLC,A0MSHN,GB,QS2A,SMIN.L,Industrie/Mischkonzerne,GB00B1WY2338
+901,Smiths News PLC,A0J3U3,GB,T6N,SNWS.L,Medien,GB00B17WCR61
+902,Smurfit Kappa Group PLC,A0MLCS,GB,SK3,SK3.IR,Holz/Papier,IE00B1RR8406
+903,SOCO International PLC,A1CWVZ,GB,OCS1,PHAR.L,Öl/Gas,GB00B572ZV91
+904,SolGold PLC,A0JDJ3,GB,S8F,SOLG.L,Rohstoffe,GB00B0WD0R35
+905,Sopheon PLC,A12GBV,GB,TXB3,SPE.L,Software,GB00BSZM1369
+906,Sound Oil PLC,A1KAFP,GB,88S1,SOU.L,Öl/Gas,GB00B90XFF12
+907,South32 Ltd.,A14QLH,GB,32Z,S32.AX,Rohstoffe,AU000000S320
+908,Spectris PLC,884647,GB,FA9,SXS.L,Sonstige Technologie,GB0003308607
+909,Spirax-Sarco Engineering PLC,A14Q5B,GB,1LNB,SPX.L,Maschinenbau,GB00BWFGQN14
+910,Spire Healthcare Group PLC,A117ZX,GB,S00,SPI.L,Gesundheitswesen,GB00BNLPYF73
+911,Spirent Communications PLC,856880,GB,BW8,SPT.L,Hardware,GB0004726096
+912,Sportech PLC,A0M7MS,GB,ROEA,SPO.L,Unterhaltung,GB00B28ZPV64
+913,Sports Direct International PLC,A0MK5S,GB,ZVX,FRAS.L,Handel/E-Commerce,GB00B1QH8P22
+914,SRT Marine Systems PLC,A0MS2G,GB,6S7,SRT.L,Telekom,GB00B0M8KM36
+915,SSE PLC,881905,GB,SCT,SSE.L,Versorger,GB0007908733
+916,"ST.JAMES'S PLACE LS-,15",888460,GB,1IV,STJ.L,Dienstleistungen,GB0007669376
+917,Staffline Group PLC,A0D9LZ,GB,OSU,STAF.L,Dienstleistungen,GB00B040L800
+918,Stagecoach Group PLC,A1JKFH,GB,SHP5,SGC.L,Logistik/Transport,GB00B6YTLS95
+919,Standard Chartered PLC,859123,GB,STD,STAN.L,Finanzdienstleistungen,GB0004082847
+920,"STANLEY GIBBONS GP LS-,01",578002,GB,TB6,SGI.L,Dienstleistungen,GB0009628438
+921,Starvest PLC,913518,GB,OX2,SVE.L,Finanzdienstleistungen,GB0009619817
+922,Steppe Cement Ltd.,A0JEKA,GB,ST9,STCM.L,Bau/Infrastruktur,MYA004433001
+923,Sterling Energy PLC,A0YF88,GB,TB8A,AET.L,Öl/Gas,GB00B4X3Q493
+924,Sthree PLC,A0HL48,GB,S8T,STEM.L,Dienstleistungen,GB00B0KM9T71
+925,STM Group PLC,A0MNMZ,GB,IQF,STM.L,Finanzdienstleistungen,IM00B1S9KY98
+926,Stobart Group Ltd.,A0LA9M,GB,1SJ,ESKN.L,Logistik/Transport,GB00B03HDJ73
+927,Strategic Minerals PLC,A1JET3,GB,24S,SML.L,Rohstoffe,GB00B4W8PD74
+928,"STRIDE GAMING LS -,01",A14TMM,GB,not_found,SDY.L,Dienstleistungen,GB0000163088
+929,STV Group PLC,A0Q9SF,GB,3YC,STVG.L,Medien,GB00B3CX3644
+930,Summit Therapeutics PLC,A115K3,GB,not_found,SDY.L,Dienstleistungen,GB0000163088
+931,Sunrise Resources PLC,A0D96G,GB,S4D,SRES.L,Rohstoffe,GB00B075Z681
+932,Superdry PLC,A1CT6Y,GB,49S,SDRY.L,Handel/E-Commerce,GB00B60BD277
+933,Sureserve Group PLC,A14QR5,GB,6QJ,GB00BSKS1M86.SG,Dienstleistungen,GB00BSKS1M86
+934,Surface Transforms PLC,157713,GB,XE4,SCE.L,Sonstige Technologie,GB0002892528
+935,Surgutneftegaz (ADRs),904596,GB,SGN,not_found,Öl/Gas,US8688612048
+936,Sutton Harbour Group PLC,912151,GB,XN5,GB0008659202.SG,Dienstleistungen,GB0008659202
+937,Sylvania Platinum Ltd.,A1H6XC,GB,31L,SLP.L,Rohstoffe,BMG864081044
+938,Symphony Plastic Techs PLC,633815,GB,XP7,SYM.L,Kunststoffe/Verpackungen,GB0009589168
+939,Synairgen PLC,A0DK7J,GB,OMY,SNG.L,Biotechnologie,GB00B0381Z20
+940,Synthomer PLC,851671,GB,7YC,SYNT.L,Chemie,GB0009887422
+941,System1 Group PLC,A0LF1L,GB,BBA,SYS1.L,Dienstleistungen,GB00B1GVQH21
+942,"Tanfield Group PLC Registered Shares LS -,01",A0X8UX,GB,XS3A,TAN.L,Sonstige Technologie,GB00B4QHFM95
+943,Tasty PLC,A0J34G,GB,T9V,TAST.L,Nahrungsmittel/Agrar,GB00B17MN067
+944,Tate & Lyle PLC,854798,GB,not_found,not_found,Dienstleistungen,GB0000163088
+945,Taylor Wimpey PLC,852015,GB,TWW,TW.L,Bau/Infrastruktur,GB0008782301
+946,TClarke PLC,-,GB,not_found,not_found,not_found,not_found
+947,"TECHFINANC.(DI) DL-,0005",A14QLZ,GB,Ticker-Symbol:,TECH.AQ,Software,VGG870911077
+948,Tectonic Gold PLC,A1KB1R,GB,LYC1,TTAU.AQ,Rohstoffe,GB00B9276C59
+949,Ted Baker PLC,936260,GB,LYC1,TTAU.AQ,Rohstoffe,GB00B9276C59
+950,Tekcapital plc,A111FF,GB,8T5,TEK.L,Dienstleistungen,GB00BKXGY798
+951,Telecom Plus PLC,762555,GB,T8T,TEP.L,Telekom,GB0008794710
+952,Telefonica S.A.,850775,GB,TNE5,TEF.MC,Telekom,ES0178430E18
+953,Tern PLC,A1W658,GB,QEG2,TERN.L,Software,GB00BFPMV798
+954,Tertiary Minerals PLC,794368,GB,TMU,TYM.L,Rohstoffe,GB0008854563
+955,Tesco PLC,852647,GB,not_found,SDY.L,Dienstleistungen,GB0000163088
+956,The British Land Co. PLC,852556,GB,BLD,BLND.L,Immobilien,GB0001367019
+957,The Hevitree Brewery PLC,912448,GB,HVQ,HVT.L,Freizeitprodukte,GB0004182506
+958,The Mission Group PLC,A0JL3L,GB,M7K,TMG.L,Dienstleistungen,GB00B11FD453
+959,The Rank Group PLC,A0LGPG,GB,RNKA,RNK.L,Unterhaltung,GB00B1L5QH97
+960,The Sage Group PLC,A1WYYZ,GB,SGK1,SGE.L,Dienstleistungen,GB00B8C3BL03
+961,The Weir Group PLC,857968,GB,42W,WEIR.L,Maschinenbau,GB0009465807
+962,"THOMAS COOK GROUP EO-,01",A0MR3W,GB,,not_found,Hotels/Tourismus,GB00B1VYCH82
+963,Tiger Resouces Finance PLC,603486,GB,YP6,TIR.L,Finanzdienstleistungen,GB0002308525
+964,Time Finance PLC,A1W16J,GB,B5D1,TIME.L,Finanzdienstleistungen,GB00BCDBXK43
+965,Tissue Regenix Group PLC,A1C0FE,GB,LSW1,TRX.L,Finanzdienstleistungen,GB00B5SGVL29
+966,Titon Holdings PLC,A0DPH4,GB,96E,GB0008941402.SG,Bau/Infrastruktur,GB0008941402
+967,TONGAAT-HULETT LTD   RC 1,A0MWMG,GB,LXU,TON.JO,Industrie/Mischkonzerne,ZAE000096541
+968,Topps Tiles PLC,-,GB,not_found,not_found,not_found,not_found
+969,Total Produce PLC,A0LEN8,GB,not_found,SDY.L,Dienstleistungen,GB0000163088
+970,TotalEnergies SE,850727,GB,TOTB,TTE.PA,Öl/Gas,FR0000120271
+971,Toyota Motor Corporation,853510,GB,TOM,7203.T,Fahrzeuge,JP3633400001
+972,TP Group PLC,912854,GB,CVQ,TPG.L,Maschinenbau,GB0030591514
+973,Trakm8 Holdings PLC,A0HG7Z,GB,T8H,GB00B0P1RP10.SG,Elektrotechnologie,GB00B0P1RP10
+974,Trap Oil Group PLC,A14XHW,GB,TPC1,JOG.L,Öl/Gas,GB00BYN5YK77
+975,Treatt PLC,A112AM,GB,5TT,TET.L,Chemie,GB00BKS7YK08
+976,TREMOR INTERNATIONAL LTD.,A115BE,GB,7P9,TRMR.L,Internet,IL0011320343
+977,Triad Group PLC,900444,GB,TD8,TRD.L,IT-Dienstleistungen,GB0009035741
+978,Tribal Group PLC,626538,GB,T3G,TRB.L,Dienstleistungen,GB0030181522
+979,Tristel PLC,A0JDM7,GB,R1V,TSTL.L,Gesundheitswesen,GB00B07RVT99
+980,TT Electronics PLC,881799,GB,7TT,TTG.L,Elektrotechnologie,GB0008711763
+981,TUI AG,TUAG00,GB,TUI1,TUI1.DE,Hotels/Tourismus,DE000TUAG000
+982,Tullow Oil PLC,591219,GB,TQW,TLW.L,Öl/Gas,GB0001500809
+983,Tungsten Corporation PLC,A1W438,GB,not_found,SDY.L,Dienstleistungen,GB0000163088
+984,Tyman PLC,A0M8EP,GB,LUO1,TYMN.L,Finanzdienstleistungen,GB00B29H4253
+985,UK Oil & Gas Investments PLC,A1W8QP,GB,0UK,UKOG.L,Finanzdienstleistungen,GB00B9MRZS43
+986,ULS Technology PLC,A119AS,GB,9XM,GB00BNG8T458.SG,IT-Dienstleistungen,GB00BNG8T458
+987,Ultra Electronics Holdings PLC,909716,GB,UEH,ULE.L,Elektrotechnologie,GB0009123323
+988,Unilever PLC,A0JNE2,GB,UNVB,ULVR.L,Konsumgüter,GB00B10RZP78
+989,Unisys Corp.,A0YCM4,GB,UNVB,ULVR.L,Konsumgüter,GB00B10RZP78
+990,Unite Group PLC,634811,GB,U1B,UTG.L,Immobilien,GB0006928617
+991,United Utilities Group PLC,A0Q4EC,GB,UUEC,UU.L,Versorger,GB00B39J2M42
+992,"VECTURA PLC LS -,000271",A0D8J4,GB,not_found,SDY.L,Dienstleistungen,GB0000163088
+993,Velocys PLC,A0JL33,GB,O7N,VLS.L,Sonstige Technologie,GB00B11SZ269
+994,Venn Life Sciences Holdings PLC,A1KAME,GB,CRO,ORPH.L,Gesundheitswesen,GB00B9275X97
+995,Venture Life Group PLC,A110ZQ,GB,17V,VLG.L,Gesundheitswesen,GB00BFPM8908
+996,Verizon Communications Inc.,868402,GB,BAC,VZ,Telekom,US92343V1044
+997,Versarien PLC,A1W0Q1,GB,9RV,VRS.L,Chemie,GB00B8YZTJ80
+998,Vertu Motors PLC,A0LGJ6,GB,V2N,VTU.L,Fahrzeuge,GB00B1GK4645
+999,Vesuvius PLC,A1J7UJ,GB,V4S,VSVS.L,Maschinenbau,GB00B82YXW83
+1000,Vianet Group PLC,A0LCUM,GB,AS2,VNET.L,Sonstige Technologie,GB00B13YVN56
+1001,Victrex PLC,898554,GB,1OY,VCT.L,Kunststoffe/Verpackungen,GB0009292243
+1002,"Vietnam Holdings, Ltd.",A0J2ZW,GB,not_found,SDY.L,Dienstleistungen,GB0000163088
+1003,Vodafone Group PLC,A1XA83,GB,VODI,VOD.L,Telekom,GB00BH4HKS39
+1004,Volex PLC,896733,GB,64K,VLX.L,Elektrotechnologie,GB0009390070
+1005,Volution Group PLC,A116RY,GB,VO1,FAN.L,Bau/Infrastruktur,GB00BN3ZZ526
+1006,Walker Greenbank PLC,876078,GB,5H7,SDG.L,Konsumgüter,GB0003061511
+1007,Wandisco PLC,A1JY9Y,GB,WD4,WAND.L,Software,JE00B6Y3DV84
+1008,Webis Holdings PLC,912731,GB,BJK,GB0004126271.SG,Internet,GB0004126271
+1009,Westminster Group PLC,A0MU3Z,GB,3W5,WSG.L,Sonstige Technologie,GB00B1XLC220
+1010,Westmount Energy PLC,A0H0J8,GB,W6M,WTE.L,Öl/Gas,GB00B0S5KR31
+1011,Wetherspoon (J D),-,GB,not_found,not_found,not_found,not_found
+1012,WH Smith PLC,A0NCXL,GB,21Q,SMWH.L,Handel/E-Commerce,GB00B2PDGW16
+1013,Whitbread PLC,A0LGB1,GB,WHF4,WTB.L,Hotels/Tourismus,GB00B1KJJ408
+1014,William Hill PLC,633847,GB,not_found,SDY.L,Dienstleistungen,GB0000163088
+1015,Wincanton PLC,658890,GB,5K2,WIN.L,Logistik/Transport,GB0030329360
+1016,Windar Photonics PLC,A14Q5A,GB,7WP,WPHO.L,Elektrotechnologie,GB00BTFR4F17
+1017,Wizz Air Holdings PLC,A14NPS,GB,WI2,WIZZ.L,Luftfahrt/Rüstung,JE00BN574F90
+1018,Wm Morrison Supermarkets PLC,880225,GB,,not_found,Handel/E-Commerce,GB0006043169
+1019,Workspace Group PLC,A1JHAB,GB,WRX1,WKP.L,Immobilien,GB00B67G5X01
+1020,WPP PLC,A1J2BZ,GB,0WP,WPP.L,Dienstleistungen,JE00B8KF9B49
+1021,Wynnstay Group PLC,A0B6T0,GB,80Y,WYN.L,Nahrungsmittel/Agrar,GB0034212331
+1022,Xaar PLC,911961,GB,XAR,XAR.L,Sonstige Technologie,GB0001570810
+1023,XLMedia PLC,A110R3,GB,7X3,XLM.L,Dienstleistungen,JE00BH6XDL31
+1024,XP Power Ltd.,A0MQ1C,GB,4XP,XPP.L,Elektrotechnologie,SG9999003735
+1025,YouGov PLC,A0MM98,GB,Y1G,YOU.L,Dienstleistungen,GB00B1VQ6H25
+1026,Young and Co.s Brewery PLC,A0NBNJ,GB,YBY,YNGA.L,Nahrungsmittel/Agrar,GB00B2NDK765
+1027,Zanaga Iron Ore Company Ltd.,A0NF7G,GB,6ZA,ZIOC.L,Rohstoffe,VGG9888M1023
+1028,Zegona Communications PLC,A14QNY,GB,1ZG,ZEG.L,Finanzdienstleistungen,GB00BVGBY890
+1029,Zhejiang Expressway Co. Ltd.,A0M4ZJ,GB,ZHJ,0576.HK,Bau/Infrastruktur,CNE1000004S4
+1030,Zoltav Resources Inc.,A1W0ML,GB,CXC1,not_found,Finanzdienstleistungen,KYG9895N1198
+1031,Zoo Digital Group PLC,A0LC9G,GB,2ZD,ZOO.L,Software,GB00B1FQDL10
+1032,Zotefoams PLC,902407,GB,23Z,ZTF.L,Chemie,GB0009896605
+1033,Zytronic PLC,602469,GB,8HD,ZYT.L,Elektrotechnologie,GB0006971013
+1034,ABG Sundal Collier Holding ASA,882240,NOR,DAB,ABG.OL,Finanzdienstleistungen,NO0003021909
+1035,Aega ASA,A1JSJG,NOR,82T,AEGA.OL,Erneuerbare Energien,NO0010626559
+1036,AF Gruppen ASA,569904,NOR,AF8,AFG.OL,Bau/Infrastruktur,NO0003078107
+1037,Akastor ASA,A0B97B,NOR,KY7,AKAST.OL,Industrie/Mischkonzerne,NO0010215684
+1038,Aker ASA,A0B8L8,NOR,FKM,AKER.OL,Industrie/Mischkonzerne,NO0010234552
+1039,Aker BP ASA,A0LHC1,NOR,ARC,AKRBP.OL,Öl/Gas,NO0010345853
+1040,Aker Solutions ASA,A12A18,NOR,1AKA,AKSO.OL,Öl/Gas,NO0010716582
+1041,AKVA Group ASA,-,NOR,not_found,not_found,not_found,not_found
+1042,American Shipping Co. ASA,A0ETG1,NOR,X5A,AMSC.OL,Logistik/Transport,NO0010272065
+1043,Aqua Bio Technology ASA,A0NBAT,NOR,3FZ,ABT.OL,Pharma,NO0010307135
+1044,AqualisBraemar LOC ASA,A119TZ,NOR,26Q,ABL.OL,Öl/Gas,NO0010715394
+1045,Arendals Fossekompani ASA,569905,NOR,5VZ,AFK.OL,Finanzdienstleistungen,NO0003572802
+1046,Arribatec ASA,983757,NOR,B7Z,ARR.OL,Finanzdienstleistungen,NO0003108102
+1047,Asetek A/S,A1T85G,NOR,A31,ASTK.OL,Hardware,DK0060477263
+1048,Atea ASA,884578,NOR,MKL,ATEA.OL,IT-Dienstleistungen,NO0004822503
+1049,Atlantic Petroleum P/F Group,A0DN9X,NOR,B3W,ATLA-DKK.CO,Öl/Gas,FO000A0DN9X4
+1050,Austevoll Seafood ASA,A0J2P8,NOR,Z85,AUSS.OL,Nahrungsmittel/Agrar,NO0010073489
+1051,Avance Gas Holding Ltd.,-,NOR,not_found,not_found,not_found,not_found
+1052,Awilco Drilling PLC,A1JEML,NOR,0AI,AWDR.OL,Öl/Gas,GB00B5LJSC86
+1053,Awilco LNG ASA,A1JEMJ,NOR,AWQ,ALNG.OL,Öl/Gas,NO0010607971
+1054,Badger Explorer ASA,A0JJXJ,NOR,4BD,HUNT.OL,Sonstige Technologie,NO0010283211
+1055,Bakkafrost P/F PLC,A1CVJD,NOR,6BF,BAKKA.OL,Nahrungsmittel/Agrar,FO0000000179
+1056,Belships ASA,887150,NOR,NS6,BELCO.OL,Logistik/Transport,NO0003094104
+1057,Biotec Pharmacon ASA,A0HGR5,NOR,B4V,AZT.OL,Pharma,NO0010014632
+1058,Bonheur ASA,870485,NOR,V7P,BONHR.OL,Industrie/Mischkonzerne,NO0003110603
+1059,Borregaard ASA,A1J5TM,NOR,BO4,BRG.OL,Chemie,NO0010657505
+1060,Bouvet ASA,A0MSSM,NOR,BV4,BOUV.OL,IT-Dienstleistungen,NO0010360266
+1061,BW LPG Ltd.,A1W81N,NOR,BW9,BWLPG.OL,Öl/Gas,BMG173841013
+1062,Byggma ASA,569908,NOR,DR5,BMA.OL,Bau/Infrastruktur,NO0003087603
+1063,Carasent ASA,570408,NOR,C34,CARA.OL,Software,NO0010123060
+1064,DNB ASA,939940,NOR,not_found,not_found,not_found,not_found
+1065,DNO International ASA,865623,NOR,NK1A,DNO.OL,Öl/Gas,NO0003921009
+1066,DOF ASA,765432,NOR,4D6,DOF.OL,Logistik/Transport,NO0010070063
+1067,DOLPHIN DRILLING NK 20,909635,NOR,,not_found,Öl/Gas,NO0003089005
+1068,EAM Solar ASA,A1T85E,NOR,EA2,EAM.OL,Erneuerbare Energien,NO0010607781
+1069,Eidesvik Offshore ASA,A0ETP8,NOR,E1V,EIOF.OL,Öl/Gas,NO0010263023
+1070,Electromagnetic Geoservices ASA,A0MM87,NOR,E2M,EMGS.OL,Sonstige Technologie,NO0010358484
+1071,Element ASA,A0LGXV,NOR,XEN,DLTX.OL,Rohstoffe,NO0003055808
+1072,Endur ASA NK,A0Q8J7,NOR,not_found,not_found,not_found,not_found
+1073,Entra ASA,A12DBZ,NOR,2EN,ENTRA.OL,Immobilien,NO0010716418
+1074,Equinor ASA,675213,NOR,DNQ,EQNR.OL,Öl/Gas,NO0010096985
+1075,Europris ASA,-,NOR,not_found,not_found,not_found,not_found
+1076,Gjensidige Forsikring ASA,A1C47M,NOR,XGJ,GJF.OL,Finanzdienstleistungen,NO0010582521
+1077,Goodtech ASA,905868,NOR,6FO,GOD.OL,Maschinenbau,NO0004913609
+1078,Grieg Seafood ASA,A0MUHR,NOR,GR8,GSF.OL,Nahrungsmittel/Agrar,NO0010365521
+1079,Havila Shipping ASA,A0ERQX,NOR,H4S,HAVI.OL,Logistik/Transport,NO0010257728
+1080,Havyard Group ASA,A112K1,NOR,1H2,HYARD.OL,Logistik/Transport,NO0010708605
+1081,Hexagon Composites ASA,904953,NOR,2HX,HEX.OL,Chemie,NO0003067902
+1082,Hofseth BioCare ASA,A1JWL4,NOR,HBQ,HBC.OL,Nahrungsmittel/Agrar,NO0010598683
+1083,IDEX Biometrics ASA,A1C1PB,NOR,I8X,IDEX.OL,IT-Dienstleistungen,NO0003070609
+1084,Interoil Exploration and Production ASA,A0JDJN,NOR,1ZD,IOX.OL,Öl/Gas,NO0010284318
+1085,Jinhui Shipping and Transp.Ltd,910854,NOR,J4O,JIN.OL,Logistik/Transport,BMG5137R1088
+1086,Kitron ASA,911463,NOR,KP5,KIT.OL,Elektrotechnologie,NO0003079709
+1087,KMC Properties ASA,A0Q7TT,NOR,6V4,KMCP.OL,Immobilien,NO0010360175
+1088,Kongsberg Automotive ASA,895919,NOR,K3A,KOA.OL,Fahrzeuge,NO0003033102
+1089,Kongsberg Gruppen AS,888818,NOR,KOZ,KOG.OL,Industrie/Mischkonzerne,NO0003043309
+1090,Kvaerner ASA,A1JA47,NOR,not_found,not_found,not_found,not_found
+1091,Leroy Seafood Group AS,570796,NOR,Z1L,LSG.OL,Nahrungsmittel/Agrar,NO0003096208
+1092,Magseis Fairfield ASA,A1W6C6,NOR,5M6,MSEIS.OL,Dienstleistungen,NO0010663669
+1093,MediStim ASA,-,NOR,not_found,not_found,not_found,not_found
+1094,Mowi ASA,924848,NOR,PND,MOWI.OL,Nahrungsmittel/Agrar,NO0003054108
+1095,Multiconsult ASA,A14TPZ,NOR,3MC,MULTI.OL,Dienstleistungen,NO0010734338
+1096,Napatech A/S,A1W980,NOR,NAT,NAPA.OL,Netzwerktechnik,DK0060520450
+1097,Navamedic ASA,A0JKUU,NOR,N1A,NAVA.OL,Pharma,NO0010205966
+1098,Nekkar ASA,899464,NOR,0TT,NKR.OL,Maschinenbau,NO0003049405
+1099,Nel ASA,A0B733,NOR,D7G,NEL.OL,Erneuerbare Energien,NO0010081235
+1100,Next Biometrics Group ASA,A113MU,NOR,NT7,NEXT.OL,Elektrotechnologie,NO0010629108
+1101,Nordic Mining ASA,A0JMZC,NOR,7NM,NOM.OL,Rohstoffe,NO0010317340
+1102,Nordic Nanovector ASA,A1H64K,NOR,8NN,NANOV.OL,Biotechnologie,NO0010597883
+1103,Nordic Semiconductor ASA,932405,NOR,N0S,NOD.OL,Halbleiter,NO0003055501
+1104,Norsk Hydro ASA,851908,NOR,NOH1,NHY.OL,Versorger,NO0005052605
+1105,North Energy ASA,A0N9X7,NOR,RN2,NORTH.OL,Öl/Gas,NO0010550056
+1106,Norway Royal Salmon AS,A1H81F,NOR,9NR,NRS.OL,Nahrungsmittel/Agrar,NO0010331838
+1107,Norwegian Air Shuttle ASA,A0BLAH,NOR,NWC,NAS.OL,Luftfahrt/Rüstung,NO0010196140
+1108,Norwegian Energy Co. ASA,A0MYHV,NOR,CJ1,NOR.OL,Öl/Gas,NO0010379266
+1109,NRC Group ASA,896938,NOR,8NR,NRC.OL,Dienstleistungen,NO0003679102
+1110,NTS ASA,621904,NOR,NA8,NTS.OL,Industrie/Mischkonzerne,NO0004895103
+1111,Ocean Yield ASA,-,NOR,not_found,not_found,not_found,not_found
+1112,Oceanteam ASA,A0LG0V,NOR,H2J,OTS.OL,Dienstleistungen,NO0010317316
+1113,Odfjell Drilling Ltd.,A1W5D5,NOR,OD3,ODL.OL,Öl/Gas,BMG671801022
+1114,Odfjell SE,873204,NOR,O7F,ODF.OL,Logistik/Transport,NO0003399909
+1115,Odfjell SE,877045,NOR,O7F1,ODFB.OL,Logistik/Transport,NO0003399917
+1116,Olav Thon Eiendomsselskap ASA,874342,NOR,8IL,OLT.OL,Immobilien,NO0005638858
+1117,Orkla ASA,864042,NOR,OKL,ORK.OL,Industrie/Mischkonzerne,NO0003733800
+1118,Otello Corporation ASA,A0BMED,NOR,OS3,OTEC.OL,Software,NO0010040611
+1119,Panoro Energy ASA,-,NOR,not_found,not_found,not_found,not_found
+1120,PCI Biotech Holding ASA,A0Q2FS,NOR,4QG,PCIB.OL,Biotechnologie,NO0010405640
+1121,Petroleum Geo-Services AS,913231,NOR,PGS1,PGS.OL,Öl/Gas,NO0010199151
+1122,Petrolia SE,A1J7KY,NOR,0PE,PSE.OL,Öl/Gas,CY0102630916
+1123,PhotoCure ASA,931150,NOR,PHS,PHO.OL,Pharma,NO0010000045
+1124,Polaris Media ASA,A0RK0Z,NOR,93J,POL.OL,Medien,NO0010466022
+1125,Protector Forsikring ASA,A0MSGT,NOR,PR4,PROT.OL,Finanzdienstleistungen,NO0010209331
+1126,Q-Free ASA,542186,NOR,8UG,QFR.OL,Elektrotechnologie,NO0003103103
+1127,Questerre Energy Corp.,A0F54V,NOR,QE1,QEC.TO,Öl/Gas,CA74836K1003
+1128,RAK PETROLEUM PLC A LS 1,A12GG9,NOR,R8P,RAKP.OL,Öl/Gas,GB00BRGBL804
+1129,REACH SUBSEA NK 1,902989,NOR,4RS,REACH.OL,Öl/Gas,NO0003117202
+1130,REC Silicon ASA,A0BKK5,NOR,R3Q,RECSI.OL,Halbleiter,NO0010112675
+1131,Royal Caribbean Group,886286,NOR,RC8,RCL,Hotels/Tourismus,LR0008862868
+1132,Saga Pure ASA,A1C3YB,NOR,SAT,SAGA.OL,Logistik/Transport,NO0010572589
+1133,Salmar ASA,A0MR2G,NOR,JEP,SALM.OL,Nahrungsmittel/Agrar,NO0010310956
+1134,SAS AB,A1C0DX,NOR,SSV2,SAS.ST,Luftfahrt/Rüstung,SE0003366871
+1135,Scana ASA,901582,NOR,1MP,SCANA.OL,Öl/Gas,NO0003053308
+1136,Scatec Solar ASA,A12C5D,NOR,66T,SCATC.OL,Erneuerbare Energien,NO0010715139
+1137,Schibsted ASA,A14T4C,NOR,XPGB,SCHB.OL,Medien,NO0010736879
+1138,Schibsted-Gruppen,884432,NOR,XPG,SCHA.OL,Medien,NO0003028904
+1139,SD Standard Drilling PLC,A1JB7E,NOR,S1P,SDSD.OL,Öl/Gas,CY0101550917
+1140,Seabird Exploration PLC,A0YHL9,NOR,E36,GEG.OL,Öl/Gas,CY0101162119
+1141,Selvaag Bolig A.S.,-,NOR,not_found,not_found,not_found,not_found
+1142,Sevan Marine ASA,A0D9BZ,NOR,4SM,MGN.OL,Öl/Gas,NO0010187032
+1143,Solstad Farstad ASA,909875,NOR,SZL,SOFF.OL,Logistik/Transport,NO0003080608
+1144,Sparebank 1 SR Bank ASA,A1JR25,NOR,B4M1,SRBNK.OL,Finanzdienstleistungen,NO0010631567
+1145,Stolt Nielsen Ltd.,A1C609,NOR,SN6,SNI.OL,Logistik/Transport,BMG850801025
+1146,Storebrand ASA,867218,NOR,SKT,STB.OL,Finanzdienstleistungen,NO0003053605
+1147,StrongPoint ASA,570011,NOR,PGT,STRO.OL,Sonstige Technologie,NO0010098247
+1148,Subsea 7 S.A.,889539,NOR,SOC,SUBC.OL,Öl/Gas,LU0075646355
+1149,Techstep ASA,676687,NOR,B1T,TECH.OL,Telekom,NO0003095309
+1150,Telenor ASA,591260,NOR,TEQ,TEL.OL,Telekom,NO0010063308
+1151,TGS Nopec Geophysical Co. ASA,919493,NOR,TGC,TGS.OL,Öl/Gas,NO0003078800
+1152,Tomra Systems ASA,872535,NOR,not_found,TOM.OL,Industrie,not_found
+1153,Veidekke AS Navne-Aksjer NK,874286,NOR,VK4,VEI.OL,Bau/Infrastruktur,NO0005806802
+1154,Vistin Pharma ASA,-,NOR,not_found,not_found,not_found,not_found
+1155,Vow ASA,A111AY,NOR,213,VOW.OL,Dienstleistungen,NO0010708068
+1156,Wallenius Wilhelmsen ASA,A1C0ZS,NOR,WNL,WAWI.OL,Logistik/Transport,NO0010571680
+1157,Wallenius Wilhelmsen ASA,A1C04Y,NOR,WML2,WWIB.OL,Logistik/Transport,NO0010576010
+1158,Wilh. Wilhelmsen Holding ASA,A1C04X,NOR,WML1,WWI.OL,Logistik/Transport,NO0010571698
+1159,Yara International ASA,A0BL7F,NOR,IU2,YAR.OL,Chemie,NO0010208051
+1160,Zalaris ASA,A116WU,NOR,81Y,ZAL.OL,Software,NO0010708910
+1161,AB Electrolux,853138,SWE,not_found,not_found,not_found,not_found
+1162,AB Industrivärden,877360,SWE,IDV1,INDU-C.ST,Finanzdienstleistungen,SE0000107203
+1163,AB Industrivärden,886939,SWE,IDVA,INDU-A.ST,Finanzdienstleistungen,SE0000190126
+1164,AB Sagax,A1JY3V,SWE,EFEA,SAGA-A.ST,Immobilien,SE0004635878
+1165,AB SAGAX B,A1T7SE,SWE,EFE,EFE.F,Immobilien,SE0005127818
+1166,AB Volvo publ,871229,SWE,VOL3,VOLV-A.ST,Fahrzeuge,SE0000115420
+1167,ABB Ltd.,919730,SWE,ABJ,ABBN.SW,Elektrotechnologie,CH0012221716
+1168,"ACANDO AB B SK 1,25",896937,SWE,not_found,not_found,not_found,not_found
+1169,Active Biotech AB,A0BLFX,SWE,BTPC,ACTI.ST,Biotechnologie,SE0001137985
+1170,Addnode Group AB,925488,SWE,not_found,not_found,not_found,not_found
+1171,AF AB,A115QU,SWE,B3Y1,AFRY.ST,Dienstleistungen,SE0005999836
+1172,Africa Oil Corp,A0MZJC,SWE,AFZ,AOI.TO,Öl/Gas,CA00829Q1019
+1173,Alfa-Laval AB,577335,SWE,AA9,ALFA.ST,Industrie/Mischkonzerne,SE0000695876
+1174,Arctic Paper S.A.,A0YCRT,SWE,A0P,ATC.WA,Holz/Papier,PLARTPR00012
+1175,Arise Windpower AB,A1CVKF,SWE,A4W,ARISE.ST,Erneuerbare Energien,SE0002095604
+1176,AstraZeneca PLC,886455,SWE,ZEG,AZN.L,Pharma,GB0009895292
+1177,Atlas Copco AB,877481,SWE,not_found,not_found,not_found,not_found
+1178,Atlas Copco AB,858209,SWE,not_found,not_found,not_found,not_found
+1179,"ATRIUM LJUNGBERG  SK 2,50",533995,SWE,A1A,ATRLJ-B.ST,Immobilien,SE0000191827
+1180,"AUTOLIV SDR/1 DL-,01",906926,SWE,LIVS,ALIV-SDB.ST,Fahrzeuge,SE0000382335
+1181,Bactiguard Holding AB,A115EQ,SWE,5JE,BACTI-B.ST,Gesundheitswesen,SE0005878741
+1182,BillerudKorsnäs AB,807435,SWE,BNF,BILL.ST,Holz/Papier,SE0000862997
+1183,BioGaia AB,914755,SWE,not_found,not_found,not_found,not_found
+1184,Biotage AB,A0MNB5,SWE,PQX1,BIOT.ST,Sonstige Technologie,SE0000454746
+1185,Bong AB,928203,SWE,20L,BONG.ST,Kunststoffe/Verpackungen,SE0000396061
+1186,BTS Group AB,675796,SWE,BX1B,BTS-B.ST,Dienstleistungen,SE0000805426
+1187,Bufab AB,A1XEP7,SWE,29B,BUFAB.ST,Dienstleistungen,SE0005677135
+1188,Bure Equity AB,887375,SWE,BLZ,BURE.ST,Finanzdienstleistungen,SE0000195810
+1189,BYGGMAX GROUP,A1CZER,SWE,BYY,BMAX.ST,Bau/Infrastruktur,SE0003303627
+1190,Castellum AB,906997,SWE,TEX,CAST.ST,Immobilien,SE0000379190
+1191,CellaVision AB,A0NEVD,SWE,C26,CEVI.ST,Biotechnologie,SE0000683484
+1192,Clas Ohlson AB,929335,SWE,OHCB,CLAS-B.ST,Handel/E-Commerce,SE0000584948
+1193,Cloetta AB,A0RDJD,SWE,0CL,CLA-B.ST,Nahrungsmittel/Agrar,SE0002626861
+1194,Concentric AB,A1JBXB,SWE,2DN,COIC.ST,Maschinenbau,SE0003950864
+1195,CONSILIUM AB B SK 5,891059,SWE,3W1,CNCJO-B.ST,Sonstige Technologie,SE0000236382
+1196,DIOS FASTIGHETER AB,A0LC2V,SWE,D1F,DIOS.ST,Immobilien,SE0001634262
+1197,Doro AB,A0JM5W,SWE,DR8A,DORO.ST,Konsumgüter,SE0000215493
+1198,Duni AB,A0M7F9,SWE,2DU,DUNI.ST,Holz/Papier,SE0000616716
+1199,DUROC AB B           SK 1,905455,SWE,DRC,DURC-B.ST,Maschinenbau,SE0000331266
+1200,EASTNINE AB,A0M7FF,SWE,O06,EAST.ST,Immobilien,SE0002158568
+1201,Elanders AB,912028,SWE,EA5B,ELAN-B.ST,Medien,SE0000119299
+1202,Elekta AB,896279,SWE,EJXB,EKTA-B.ST,Gesundheitswesen,SE0000163628
+1203,Elos Medtech AB,893840,SWE,EI9,ELOS-B.ST,Gesundheitswesen,SE0000120776
+1204,Enquest PLC,A1CTAH,SWE,3EQ,ENQ.L,Öl/Gas,GB00B635TG28
+1205,Episurf Medical AB,-,SWE,not_found,not_found,not_found,not_found
+1206,Ericsson,850001,SWE,ERCB,ERIC-B.ST,Telekom,SE0000108656
+1207,Ericsson,857463,SWE,ERCG,ERIC-A.ST,Telekom,SE0000108649
+1208,Fastighets AB Balder,932100,SWE,not_found,not_found,not_found,not_found
+1209,FinnvedenBulten AB,A1JGQU,SWE,3FB,BULTEN.ST,Fahrzeuge,SE0003849223
+1210,Formpipe Software AB,A0J2PP,SWE,F3J,FPIP.ST,Software,SE0001338039
+1211,G5 Entertainment AK,A0X93F,SWE,U3I,G5EN.ST,Unterhaltung,SE0001824004
+1212,Getinge AB,889714,SWE,GTN,GETI-B.ST,Gesundheitswesen,SE0000202624
+1213,H & M Hennes & Mauritz AB,872318,SWE,HMSB,HM-B.ST,Handel/E-Commerce,SE0000106270
+1214,Haldex AB,891112,SWE,HLV,HLDX.ST,Fahrzeuge,SE0000105199
+1215,Hexagon,873339,SWE,not_found,not_found,not_found,not_found
+1216,Hufvudstaden AB,884336,SWE,HFVA,HUFV-A.ST,Immobilien,SE0000170375
+1217,Husqvarna AB,A0J2R3,SWE,HRZ,HUSQ-B.ST,Maschinenbau,SE0001662230
+1218,HUSQVARNA AB,A0J2R2,SWE,HRZA,HUSQ-A.ST,Maschinenbau,SE0001662222
+1219,IAR Systems Group AB,A113G4,SWE,NC91,IAR-B.ST,Software,SE0005851706
+1220,Indutrade AB,A0HFVY,SWE,I1M,INDT.ST,Industrie/Mischkonzerne,SE0001515552
+1221,Intrum AB,633824,SWE,IJU,INTRUM.ST,Dienstleistungen,SE0000936478
+1222,Investor AB,869202,SWE,not_found,not_found,not_found,not_found
+1223,JM AB,890459,SWE,JMM,JM.ST,Bau/Infrastruktur,SE0000806994
+1224,Karolinska Development AB,A0M84G,SWE,2I9,KDEV.ST,Pharma,SE0002190926
+1225,Knowit AB,931236,SWE,KOW,KNOW.ST,IT-Dienstleistungen,SE0000421273
+1226,Lindab International AB,A0LFEB,SWE,L5E,LIAB.ST,Bau/Infrastruktur,SE0001852419
+1227,Lucara Diamond Corp.,A0MYR8,SWE,LKT,LUC.TO,Rohstoffe,CA54928Q1081
+1228,Lundbergföretagen AB,884780,SWE,LU3B,LUND-B.ST,Finanzdienstleistungen,SE0000108847
+1229,Lundin Petroleum AB,729364,SWE,LYV,LUNE.ST,Öl/Gas,SE0000825820
+1230,MEDIVIR AB,903662,SWE,MVR,MVIR-B.ST,Biotechnologie,SE0000273294
+1231,MEKONOMEN AB O.N.,A0MYGM,SWE,1OM,MEKO.ST,Handel/E-Commerce,SE0002110064
+1232,MIDSONA AB B 2 SK 5,923064,SWE,9KF,9KF.F,Nahrungsmittel/Agrar,SE0000565228
+1233,Millicom International Cellular S.A. (SDRs),A0B987,SWE,M4M,TIGO-SDB.ST,Telekom,SE0001174970
+1234,Modern Times Group MTG AB,909225,SWE,not_found,not_found,not_found,not_found
+1235,MULTIQ INTERNATIONAL AB,570292,SWE,not_found,not_found,not_found,not_found
+1236,Mycronic AB,935409,SWE,MLT,MYCR.ST,Sonstige Technologie,SE0000375115
+1237,NCC AB,880767,SWE,NCGB,0OFP.IL,Bau/Infrastruktur,SE0000117970
+1238,Net Insight AB,920253,SWE,NSGB,NETI-B.ST,Netzwerktechnik,SE0000366098
+1239,Neurovive Pharmaceutical AB,A0X93Z,SWE,NTP,ABLI.ST,Pharma,SE0002575340
+1240,New Wave Group AB,919695,SWE,NWG,NEWA-B.ST,Bekleidung/Textil,SE0000426546
+1241,"NOBIA AB         SK 0,333",662739,SWE,NI8,NOBI.ST,Bau/Infrastruktur,SE0000949331
+1242,"NOTE AB SK-,50",A0B6G4,SWE,NQA,NOTE.ST,Dienstleistungen,SE0001161654
+1243,"OREXO AB SK-,40",A0HG6G,SWE,C5G,ORX.ST,Pharma,SE0000736415
+1244,Peab AB,887234,SWE,PEKB,PEAB-B.ST,Bau/Infrastruktur,SE0000106205
+1245,Poolia AB,922728,SWE,PXO,POOL-B.ST,Dienstleistungen,SE0000567539
+1246,Pricer AB,899450,SWE,PRRB,PRIC-B.ST,Sonstige Technologie,SE0000233934
+1247,ProAct IT Group AB,931239,SWE,not_found,not_found,not_found,not_found
+1248,Ratos AB,882286,SWE,RAZB,RATO-B.ST,Finanzdienstleistungen,SE0000111940
+1249,RaySearch Laboratories AB,905265,SWE,27R,RAY-B.ST,Software,SE0000135485
+1250,Rejlers AB,A0BMNG,SWE,3RE,REJL-B.ST,IT-Dienstleistungen,SE0000123671
+1251,Rottneros AB,886734,SWE,RBG,RROS.ST,Holz/Papier,SE0000112252
+1252,Saab AB,914879,SWE,SDV,SAAB-B.ST,Luftfahrt/Rüstung,SE0000112385
+1253,SANDVIK AB,865956,SWE,SVKB,SAND.ST,Maschinenbau,SE0000667891
+1254,SAS AB,A1C0DX,SWE,SSV2,SAS.ST,Luftfahrt/Rüstung,SE0003366871
+1255,Scandi Standard AB,A116X2,SWE,0SL,SCST.ST,Nahrungsmittel/Agrar,SE0005999760
+1256,Securitas AB,883870,SWE,S7MB,SECU-B.ST,Dienstleistungen,SE0000163594
+1257,Semcon AB,906990,SWE,SZV,SEMC.ST,IT-Dienstleistungen,SE0000379497
+1258,Sensys Gatso Group AB,615214,SWE,S5E,SENS.ST,Elektrotechnologie,SE0000567729
+1259,Skandinaviska Enskilda Banken AB,880202,SWE,SEBC,SEBC.F,Finanzdienstleistungen,SE0000120784
+1260,Skandinaviska Enskilda Banken AB,859768,SWE,SEBA,SEB-A.ST,Finanzdienstleistungen,SE0000148884
+1261,SKANSKA AB,863784,SWE,SKNB,SKA-B.ST,Bau/Infrastruktur,SE0000113250
+1262,SKF AB,852608,SWE,SKFB,SKF-B.ST,Maschinenbau,SE0000108227
+1263,SKF AB,884316,SWE,SKFA,SKF-A.ST,Maschinenbau,SE0000108201
+1264,Softronic AB,925898,SWE,SF7,SOF-B.ST,IT-Dienstleistungen,SE0000323305
+1265,SSAB AB,887029,SWE,SKWA,SSAB-A.ST,Eisen/Stahl,SE0000171100
+1266,SSAB AB -B- FRIA,881832,SWE,SKWC,SSAB-B.ST,Eisen/Stahl,SE0000120669
+1267,STORA ENSO OYJ R (RE-REG),919961,SWE,ENUN,STE-R.ST,Holz/Papier,FI0009007611
+1268,STUDSVIK AB SK 1,659213,SWE,SUD,SVIK.ST,Dienstleistungen,SE0000653230
+1269,"SVEDBERGS DALS. B SK 1,25",909952,SWE,Q49,SVED-B.ST,Bau/Infrastruktur,SE0000407991
+1270,Svenska Cellulosa AB,856193,SWE,SCA,SCA-B.ST,Holz/Papier,SE0000112724
+1271,Svenska Cellulosa AB,895273,SWE,SCA1,SCA-A.ST,Holz/Papier,SE0000171886
+1272,Swedbank AB,895705,SWE,FRYA,SWED-A.ST,Finanzdienstleistungen,SE0000242455
+1273,Swedish Match AB,900439,SWE,not_found,not_found,not_found,not_found
+1274,Swedish Orphan Biovitrum AB,A0LA5K,SWE,B6E,SOBI.ST,Biotechnologie,SE0000872095
+1275,Systemair AB,A0M28W,SWE,not_found,not_found,not_found,not_found
+1276,TELE2 AB,A1WYU5,SWE,NCYD,TEL2-B.ST,Telekom,SE0005190238
+1277,Telia Company AB,938475,SWE,TLS,TELIA.ST,Telekom,SE0000667925
+1278,Tieto Oyj,870798,SWE,TTEB,TIETO.HE,IT-Dienstleistungen,FI0009000277
+1279,TradeDoubler AB,A0HHJU,SWE,T1D,SE0001552357.SG,Internet,SE0001552357
+1280,Trelleborg AB,873098,SWE,TLLB,TREL-B.ST,Industrie/Mischkonzerne,SE0000114837
+1281,Volvo,855689,SWE,VOL1,VOLVB.PR,Fahrzeuge,SE0000115446
