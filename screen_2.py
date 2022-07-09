@@ -21,7 +21,7 @@ proc_ls = [
     "proc_eu.csv.pkl",
     "proc_all.csv.pkl",
 ]
-test = False
+test = True
 if test:
     for datalist in data_ls:
 
@@ -80,5 +80,5 @@ for proc_data in proc_ls:
 print(f"{datetime.now()}: European stocks successfully screened")
 time.sleep(1)
 
-os.system('sudo supervisorctl restart flaskapp')
-time.sleep(5)
+# os.system('sudo supervisorctl restart flaskapp')
+# time.sleep(5)

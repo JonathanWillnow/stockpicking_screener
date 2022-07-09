@@ -16,18 +16,18 @@ data_ls = [
 ]
 
 proc_ls = [
-    "proc_nikkei225.csv.pkl",
-    "proc_de.csv.pkl",
-    "proc_eu.csv.pkl",
+    #"proc_nikkei225.csv.pkl",
+   # "proc_de.csv.pkl",
+    #"proc_eu.csv.pkl",
     "proc_american.csv.pkl",
-    "proc_all.csv.pkl",
+    #"proc_all.csv.pkl",
 ]
-test = False
+test = True
 if test:
     for datalist in data_ls:
 
         stockinfo_pkl = pd.read_csv(f"screener/original_data/csv_files/{str(datalist)}")
-        fun_process_stocks_new(stockinfo_pkl[1579:1600], datalist)
+        fun_process_stocks_new(stockinfo_pkl[1575:1600], datalist)
         time.sleep(1)
 else:
       for datalist in data_ls:
@@ -78,5 +78,5 @@ for proc_data in proc_ls:
 print(f"{datetime.now()}: American stocks successfully screened")
 time.sleep(1)
 
-os.system('sudo supervisorctl restart flaskapp')
-time.sleep(5)
+# os.system('sudo supervisorctl restart flaskapp')
+# time.sleep(5)

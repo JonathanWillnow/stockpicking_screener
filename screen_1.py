@@ -20,7 +20,7 @@ proc_ls = [
     "proc_nikkei225.csv.pkl",
     "proc_all.csv.pkl",
 ]
-test = False
+test = True
 if test:
     for datalist in data_ls:
 

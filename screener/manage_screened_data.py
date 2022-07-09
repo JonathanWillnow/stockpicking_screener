@@ -133,6 +133,7 @@ def reorder_naming(frame):
             "Industry",
             "Country",
             "priceToBook",
+            "trailingPE",
             "FF_Assets_Growth_mean",
             "FF_Quality_actual",
             "FF_Quality_Growth",
@@ -151,7 +152,6 @@ def reorder_naming(frame):
             "EToRev_precentile",
             "EToEbitda_percentile",
             "forwardPE",
-            "trailingPE",
             "profitMargins",
             "trailingEps",
             "forwardEps",
@@ -163,7 +163,6 @@ def reorder_naming(frame):
             "quickRatio",
             "currentRatio",
             "debtToEquity",
-            # "revenueGrowth",
             "grossMargins",
             "ebitdaMargins",
             "operatingMargins",
@@ -172,10 +171,8 @@ def reorder_naming(frame):
             "OpIncomeGrowth",
             "enterpriseValue",
             "marketCap",
-            "floatShares",
-            "sharesOutstanding",
+            "SharesOutstandingPercentage",
             "heldPercentInsiders",
-         #   "Ticker",
         ]
     ].dropna(
         subset=[
@@ -193,7 +190,6 @@ def reorder_naming(frame):
 
     frame_d.rename(
         columns={
-           # "RV Score": "Score",
             "priceToBook": "P/B",
             "FF_Assets_Growth_mean": "FFA",
             "FF_Quality_actual": "FFQ",
@@ -232,8 +228,7 @@ def reorder_naming(frame):
             "OpIncomeGrowth": "\u0394OpInc",
             "enterpriseValue": "EV",
             "marketCap": "MC",
-            "floatShares": "Float",
-            "sharesOutstanding": "SharesOut",
+            "SharesOutstandingPercentage":"Shares Out \u0025",
             "heldPercentInsiders": "Insider \u0025",
             "currentPrice":"Price",
         },

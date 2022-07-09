@@ -104,14 +104,16 @@ def get_data(stockticker,pkldata):
         #print(f"{stockticker} failed with Exception: {str(e)}")
 
     try: 
-        with urllib.request.urlopen(links[0]) as url:
-            parsed_1 = json.loads(url.read().decode())
-    except Exception as e:
-        try: 
+        status, attempts = 0,0 
+        while (status != 200) and (attempts <= 3):
+            attempts +=1
             with urllib.request.urlopen(links[0]) as url:
                 parsed_1 = json.loads(url.read().decode())
-        except Exception as e:
-            pass
+                status = url.getcode()
+            if status != 200:
+                time.sleep(1)
+    except Exception as e:
+        pass
 
     for metric in metrics_list:
         try:
@@ -122,15 +124,17 @@ def get_data(stockticker,pkldata):
             data_dict[metric] = np.nan
             #print(f"metric_list - {stockticker} failed with Exception: {str(e)}")
 
-    try:
-        with urllib.request.urlopen(links[1]) as url:
-            parsed_2 = json.loads(url.read().decode())
-    except Exception as e:
-        try:
+    try: 
+        status, attempts = 0,0 
+        while (status != 200) and (attempts <= 3):
+            attempts +=1
             with urllib.request.urlopen(links[1]) as url:
                 parsed_2 = json.loads(url.read().decode())
-        except Exception as e:
-            pass
+                status = url.getcode()
+            if status != 200:
+                time.sleep(1)
+    except Exception as e:
+        pass
 
     for metric in financial_list:
         try:
@@ -141,15 +145,17 @@ def get_data(stockticker,pkldata):
             data_dict[metric] = np.nan
             #print(f"financial_list - {stockticker} failed with Exception: {str(e)}")
 
-    try:
-        with urllib.request.urlopen(links[2]) as url:
-            parsed_3 = json.loads(url.read().decode())
-    except Exception as e:
-        try:
+    try: 
+        status, attempts = 0,0 
+        while (status != 200) and (attempts <= 3):
+            attempts +=1
             with urllib.request.urlopen(links[2]) as url:
                 parsed_3 = json.loads(url.read().decode())
-        except Exception as e:
-            pass
+                status = url.getcode()
+            if status != 200:
+                time.sleep(1)
+    except Exception as e:
+        pass
 
 
     for metric in check_list:
@@ -219,6 +225,10 @@ def get_data(stockticker,pkldata):
         data_dict["FF_Assets_Growth_mean"] = np.nan
         data_dict["FF_Assets_Growth_actual"] = np.nan
    
+    try:
+        data_dict["SharesOutstandingPercentage"] = (data_dict["floatShares"] / data_dict["sharesOutstanding"])*100
+    except:
+        data_dict["SharesOutstandingPercentage"] = np.nan
     return pd.DataFrame.from_dict({stockticker: data_dict}, orient="index")
 
 def calculate_FF_Quality(stock):
@@ -264,6 +274,7 @@ def calculate_FF_Quality(stock):
         with urllib.request.urlopen(query_url_5) as url:
             parsed_5 = json.loads(url.read().decode())
     except Exception as e:
+        time.sleep(1)
         try:
             query_url_4 = (
                 "https://query2.finance.yahoo.com/v10/finance/quoteSummary/"
@@ -378,7 +389,8 @@ def clean_stock_selection(uncleaned_stocks):
         - pd.DataFrame cleaned s.t. every stock has an industry.
 
     """
-    return uncleaned_stocks[uncleaned_stocks.industry != "not_found"]
+    stocks_1 = uncleaned_stocks[uncleaned_stocks.industry != "not_found"]
+    return stocks_1[stocks_1.ticker != "not_found"]
 
 def calc_precentiles(final_frame):
     """
@@ -478,7 +490,7 @@ def calc_precentiles_all(final_frame):
     for row, metric in itertools.product(final_frame.index, metrics_to_correct):
         final_frame.loc[row, metrics_to_correct[metric]] = np.nan
     
-    metrics_to_nan = ["enterpriseValue", "enterpriseToRevenue", "enterpriseToEbitda", "marketCap"]
+    metrics_to_nan = ["enterpriseValue", "enterpriseToRevenue", "enterpriseToEbitda", "marketCap", "forwardEps"]
 
     for row, metric in itertools.product(final_frame.index, metrics_to_nan):
         final_frame.loc[row, metric] = np.nan
@@ -522,7 +534,7 @@ def fun_process_stocks_new(pklinput, datalist):
         - None, but saves a file.
 
     """
-    stockinfo_pkl = pd.read_csv(f"screener/original_data/csv_files/{str(datalist)}")
+    last_screened_data = pd.read_pickle(f"screener/screened_data/proc_{str(datalist)}.pkl")
     stocklist = clean_stock_selection(pklinput)
     try:
         pklinput.drop("Unnamed: 0", axis=1, inplace=True)
@@ -555,14 +567,25 @@ def fun_process_stocks_new(pklinput, datalist):
                 count += 1
         else:
             frame = pd.concat([frame ,pd.DataFrame(output[i])])
-    
+
+
+    # I detected that sometimes for some tickers the url request on yf is not working
+    # In this case, we will just use the older data to fill this gaps
+    # TODO: Maybe indicate this by a color in the dashboard using the value of the date column
+    for i, row in frame.iterrows():
+        stock = row["Ticker"]
+        if (np.isnan(row["marketCap"])) and (np.isnan(row["enterpriseValue"])):
+            print(f"Use old data for {stock}")
+            try:
+                frame.loc[frame.Ticker == stock,:] = last_screened_data[last_screened_data.Ticker == stock]
+            except:
+                pass
+   
+        
     # Rescale some units to percentages
     multiply_metrics_list = [
-        "floatShares",
-        "sharesOutstanding",
         "heldPercentInsiders",
         "dividendYield",
-        "fiveYearAvgDividendYield",
         "payoutRatio",
         "returnOnAssets",
         "returnOnEquity",
@@ -583,5 +606,6 @@ def fun_process_stocks_new(pklinput, datalist):
         except:
             pass
 
+            
     frame.to_pickle(f"screener/screened_data/proc_{datalist}.pkl")
     return

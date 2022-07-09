@@ -61,968 +61,957 @@
 59,Banco de Sabadell S.A.,A0MRD4,ES,BDSB,SAB.MC,Finanzdienstleistungen,ES0113860A34
 60,Banco Santander S.A.,858872,ES,BSD2,SAN.MC,Finanzdienstleistungen,ES0113900J37
 61,Bankinter S.A.,A0MW33,ES,BAKA,BKT.MC,Finanzdienstleistungen,ES0113679I37
-62,Bayer AG,BAY001,ES,BAYN,BAYN.DE,Pharma,DE000BAY0017
-63,Biosearch S.A.,694480,ES,not_found,not_found,not_found,not_found
-64,Bradespar S.A.,553173,ES,FXMA,BRAP3.SA,Finanzdienstleistungen,BRBRAPACNOR5
-65,Braskem S.A.,164640,ES,BRDA,BRKM5.SA,Chemie,BRBRKMACNPA4
-66,Caixabank S.A.,A0MZR4,ES,48CA,CABK.MC,Finanzdienstleistungen,ES0140609019
-67,Centrais Eletricas Brasileiras S.A.,899037,ES,L3XA,ELET6.SA,Versorger,BRELETACNPB7
-68,Cie Automotive S.A.,A0J2ML,ES,CAD,CIE.MC,Fahrzeuge,ES0105630315
-69,Clinica Baviera S.A.,A0MNAP,ES,D9Z,CBAV.MC,Gesundheitswesen,ES0119037010
-70,Companhia Energetica de Minas Gerais- CEMIG,899018,ES,CIDA,CMIG4.SA,Versorger,BRCMIGACNPR3
-71,Companhia Paranaense Energia Copel,905601,ES,ELPA,CPLE6.SA,Versorger,BRCPLEACNPB9
-72,Compania De Distribucion Integral Logista Holdings S.A.U.,A117Q0,ES,5CI,LOG.MC,Logistik/Transport,ES0105027009
-73,Corporacion Financiera Alba S.A.,860823,ES,CSV,ALB.MC,Finanzdienstleistungen,ES0117160111
-74,Deoleo S.A.,A0ET9G,ES,SC5A,OLE.MC,Nahrungsmittel/Agrar,ES0110047919
-75,Distribuidora Internacional de Alimentacion S.A.,A1JBEM,ES,DI6,DIA.MC,Handel/E-Commerce,ES0126775032
-76,Ebro Foods S.A.,914506,ES,AZU,EBRO.MC,Nahrungsmittel/Agrar,ES0112501012
-77,Elecnor S.A.,A0Q6GA,ES,EK5,ENO.MC,Bau/Infrastruktur,ES0129743318
-78,Enagas S.A.,662211,ES,EG4,ENG.MC,Öl/Gas,ES0130960018
-79,Ence Energia y Celulosa S.A.,A0MQWE,ES,ENCA,ENC.MC,Holz/Papier,ES0130625512
-80,Endesa S.A.,871028,ES,ENA,ELE.MC,Versorger,ES0130670112
-81,Ercros S.A.,A0YBXV,ES,CRS1,ECR.MC,Chemie,ES0125140A14
-82,Faes Farma S.A.,A0MKAC,ES,FFEA,FAE.MC,Pharma,ES0134950F36
-83,Ferrovial S.A.,A0DKZZ,ES,UFG,FER.MC,Bau/Infrastruktur,ES0118900010
-84,Fluidra S.A.,A0MZNB,ES,4F1,FDR.MC,Freizeitprodukte,ES0137650018
-85,Fomento de Construcciones y Contratas S.A.,883790,ES,FCC,FCC.MC,Bau/Infrastruktur,ES0122060314
-86,Gerdau S.A.,909187,ES,GDUB,GGBR4.SA,Eisen/Stahl,BRGGBRACNPR8
-87,Grifols S.A.,A2ABUQ,ES,OZTA,GRF.MC,Pharma,ES0171996087
-88,Grupo Catalana Occidente S.A.,A0J36C,ES,OCZA,GCO.MC,Finanzdienstleistungen,ES0116920333
-89,Grupo Elektra S.A.B. de C.V.,724594,ES,GE7C,ELEKTRA.MX,Industrie/Mischkonzerne,MX01EL000003
-90,Grupo Empresarial San Jose SA,A0X9FH,ES,80E,GSJ.MC,Bau/Infrastruktur,ES0180918015
-91,Grupo Ezentis S.A.,A1W97D,ES,RDT1,EZE.MC,Industrie/Mischkonzerne,ES0172708234
-92,Grupo Financiero Banorte S.A.B. de C.V.,907669,ES,4FN,GFNORTEO.MX,Finanzdienstleistungen,MXP370711014
-93,Iberdrola S.A.,A0M46B,ES,IBE1,GFNORTEO.MX,Versorger,ES0144580Y14
-94,Iberpapel Gestion S.A.,910980,ES,IBG,IBG.MC,Holz/Papier,ES0147561015
-95,Inditex,A11873,ES,IXD1,ITX.MC,Bekleidung/Textil,ES0148396007
-96,Indra Sistemas S.A.,873570,ES,IDA,IDR.MC,Software,ES0118594417
-97,International Consolidated Airlines Group S.A.,A1H6AJ,ES,INR,IAG.L,Luftfahrt/Rüstung,ES0177542018
-98,INYPSA Inform.y Proyectos S.A.,A0LBGE,ES,IRG,AI.MC,Bau/Infrastruktur,ES0152768612
-99,Laboratorios Farmaceuticos Rovi SA,A0M0GQ,ES,41L,ROVI.MC,Pharma,ES0157261019
-100,LAR Espana Real Estate SA,A1XFFA,ES,L8E,LRE.MC,Immobilien,ES0105015012
-101,Mapfre S.A.,A0LCRN,ES,CMAB,LRE.MC,Finanzdienstleistungen,ES0124244E34
-102,Mediaset Espana Comunicacion S.A.,A0B53D,ES,RWW,TL5.MC,Medien,ES0152503035
-103,Melia Hotels International S.A.,901347,ES,MEL,MEL.MC,Hotels/Tourismus,ES0176252718
-104,Merlin Properties Socimi S.A.,A116WC,ES,MEQA,MRL.MC,Immobilien,ES0105025003
-105,Miquel y Costas y Miquel S.A.,903133,ES,MQ4,MCM.MC,Holz/Papier,ES0164180012
-106,Naturgy Energy Group S.A.,853598,ES,GAN,MCM.MC,Versorger,ES0116870314
-107,NH Hotel Group S.A.,853615,ES,NH5,NHH.MC,Hotels/Tourismus,ES0161560018
-108,OBRASCON HUARTE LAIN S.A.,882667,ES,HUA,OHLA.MC,Bau/Infrastruktur,ES0142090317
-109,Pescanova S.A.,876639,ES,PNV,OHLA.MC,Nahrungsmittel/Agrar,ES0169350016
-110,Petroleo Brasileiro S.A.,932443,ES,PJXC,PETR3.SA,Öl/Gas,BRPETRACNOR9
-111,Prim S.A.,A0JEEH,ES,5P1,PRM.MC,Gesundheitswesen,ES0170884417
-112,Prosegur - Compania de Seguridad S.A.,A1J0XW,ES,PRHA,0Q8P.IL,Dienstleistungen,ES0175438003
-113,Realia Business S.A.,A0MUDW,ES,RBS,RLIA.MC,Immobilien,ES0173908015
-114,Renta 4 Banco S.A.,A0Q5CB,ES,4RE,R4.MC,Finanzdienstleistungen,ES0173358039
-115,Repsol S.A.,876845,ES,REP,REP.MC,Öl/Gas,ES0173516115
-116,Sacyr S.A.,853624,ES,VHM,SCYR.MC,Bau/Infrastruktur,ES0182870214
-117,Siemens Gamesa Renewable Energy S.A.,A0B5Z8,ES,GTQ1,SGRE.MC,Erneuerbare Energien,ES0143416115
-118,Solaria Energia Y Medio Ambiente S.A.,A0MU98,ES,AOR,SLR.MC,Erneuerbare Energien,ES0165386014
-119,Tecnicas Reunidas S.A.,A0J3MX,ES,T5R,TRE.MC,Bau/Infrastruktur,ES0178165017
-120,Telefonica S.A.,850775,ES,TNE5,TEF.MC,Telekom,ES0178430E18
-121,Tubacex S.A.,861378,ES,TCX,TUB.MC,Eisen/Stahl,ES0132945017
-122,Tubos Reunidos S.A.,A0M2MR,ES,TU1,TRG.MC,Eisen/Stahl,ES0180850416
-123,TV Azteca S.A.B. de C.V.,A1H8JP,ES,G4Z,AZTECACPO.MX,Medien,MX01AZ060013
-124,Urbas Grupo Financiero S.A.,866504,ES,UZY,AZTECACPO.MX,Immobilien,ES0182280018
-125,Usinas Siderurgicas de Minas Gerais S.A.,924256,ES,U1S1,USIM5.SA,Eisen/Stahl,BRUSIMACNPA6
-126,Vidrala S.A.,873772,ES,VIR,VID.MC,Kunststoffe/Verpackungen,ES0183746314
-127,Viscofan S.A.,872335,ES,VIS,VIS.MC,Nahrungsmittel/Agrar,ES0184262212
-128,VOCENTO S.A.,A0H1NM,ES,VON,VOC.MC,Medien,ES0114820113
-129,Volcan Compania Minera S.A.A.,625947,ES,H3Z,VOC.MC,Rohstoffe,PEP648014202
-130,Afarak Group Oyj,918629,FIN,V5W,AFAGR.HE,Rohstoffe,FI0009800098
-131,Aktia Bank OYJ,A1W1T4,FIN,2A41,AKTIA.HE,Finanzdienstleistungen,FI4000058870
-132,Alma Media Corp,A0HHHL,FIN,A4M,ALMA.HE,Medien,FI0009013114
-133,Altia Oyj,A2JG1R,FIN,28Q,ANORA.HE,Getränke/Tabak,FI4000292438
-134,Asiakastieto Group Oyj,A14QWU,FIN,AKA,ENENTO.HE,Finanzdienstleistungen,FI4000123195
-135,Aspo Oyj,929400,FIN,ZYD,ASPO.HE,Logistik/Transport,FI0009008072
-136,Aspocomp Group PLC,929401,FIN,ACN,ACG1V.HE,Elektrotechnologie,FI0009008080
-137,Basware Oy,935319,FIN,BWV,BAS1V.HE,Software,FI0009008403
-138,Bittium Oyj,916295,FIN,JOT,BITTI.HE,Dienstleistungen,FI0009007264
-139,CapMan Oyj,657298,FIN,AP6,CAPMAN.HE,Finanzdienstleistungen,FI0009009377
-140,Cargotec Corp.,A0ERKS,FIN,C1C,CGCBV.HE,Logistik/Transport,FI0009013429
-141,Caverion Oyj,A1W0D0,FIN,C7O,CAV1V.HE,Bau/Infrastruktur,FI4000062781
-142,COMPONENTA CORP.,795329,FIN,not_found,not_found,not_found,not_found
-143,Digia OYJ,928278,FIN,S2Y,DIGIA.HE,IT-Dienstleistungen,FI0009007983
-144,Digitalist Group Oyj,928185,FIN,TI6,DIGIGR.HE,Software,FI0009008007
-145,Dovre Group Oyj,929183,FIN,0BE,DOV1V.HE,Dienstleistungen,FI0009008098
-146,Elisa Oyj,615402,FIN,EIA,ELISA.HE,Telekom,FI0009007884
-147,Endomines AB,A2AHZA,FIN,ED01,ENDO.ST,Rohstoffe,SE0008294334
-148,Etteplan Oyj,938050,FIN,EPL,ETTE.HE,Sonstige Technologie,FI0009008650
-149,F-Secure Oyj,928744,FIN,DTV,FSC1V.HE,Software,FI0009801310
-150,Finnair Oyj,891823,FIN,FAI,FIA1S.HE,Luftfahrt/Rüstung,FI0009003230
-151,Fiskars Oy AB,871059,FIN,A8X,FSKRS.HE,Konsumgüter,FI0009000400
-152,Fortum Oyj,916660,FIN,FOT,FORTUM.HE,Öl/Gas,FI0009007132
-153,HARVIA OYJ,A2JF1C,FIN,G1U,HARVIA.HE,Konsumgüter,FI4000306873
-154,HKScan Oyj,912673,FIN,HK4,HKSAV.HE,Nahrungsmittel/Agrar,FI0009006308
-155,Huhtamäki Oyj,870740,FIN,HUKI,HUH1V.HE,Kunststoffe/Verpackungen,FI0009000459
-156,INCAP OYJ,916668,FIN,I8J,ICP1V.HE,Elektrotechnologie,FI0009006407
-157,Innofactor Oyj,920512,FIN,TJG,IFA1V.HE,IT-Dienstleistungen,FI0009007637
-158,Kamux Oyj,A2AJ82,FIN,4K8,KAMUX.HE,Fahrzeuge,FI4000206750
-159,Kemira Oy,893079,FIN,KEM,KEMIRA.HE,Chemie,FI0009004824
-160,Kesko Oyj,884884,FIN,KEK,not_found,Handel/E-Commerce,FI0009000202
-161,Kesla OYJ,918638,FIN,KSLA,KELAS.HE,Maschinenbau,FI0009900237
-162,KONE Corp. (New),A0ET4X,FIN,KC4,KNEBV.HE,Maschinenbau,FI0009013403
-163,Konecranes Oyj,899827,FIN,K34,KCR.HE,Maschinenbau,FI0009005870
-164,Lassila & Tikanoja OYJ,898607,FIN,LT5,LAT1V.HE,Dienstleistungen,FI0009010854
-165,Lehto Group Oyj,A2AHZH,FIN,L7G,LEHTO.HE,Bau/Infrastruktur,FI4000081138
-166,Metso Outotec Corp.,A0LBTW,FIN,M6Q,MOCORP.HE,Maschinenbau,FI0009014575
-167,Metsä Board Oyj,876917,FIN,MSRB,0O7A.IL,Holz/Papier,FI0009000665
-168,Neste Corp.,A0D9U6,FIN,NEF,NESTE.HE,Öl/Gas,FI0009013296
-169,Nokia Oyj,870737,FIN,NOA3,NOKIA.HE,Telekom,FI0009000681
-170,Nokian Renkaat OYJ,895780,FIN,NRE,TYRES.HE,Fahrzeuge,FI0009005318
-171,"NURMINEN LOG.OYJ A EO1,70",918635,FIN,8I4,NLG1V.HE,Logistik/Transport,FI0009900187
-172,Olvi,898037,FIN,OVI,OLVAS.HE,Getränke/Tabak,FI0009900401
-173,Oriola Oyj,A0J3P9,FIN,O5O,OKDBV.HE,Gesundheitswesen,FI0009014351
-174,Orion Corp.,A0J3QM,FIN,OFK,ORNBV.HE,Pharma,FI0009014377
-175,Outokumpu Oyj,885421,FIN,OUTA,OUT1V.HE,Rohstoffe,FI0009002422
-176,Photo-Me International PLC,602290,FIN,XXH,SSH1V.HE,Software,FI0009008270
-177,Pihlajalinna Oy,A14UF2,FIN,38P,PIHLIS.HE,Gesundheitswesen,FI4000092556
-178,Ponsse Oy,902564,FIN,PNS,PON1V.HE,Maschinenbau,FI0009005078
-179,"QT GROUP PLC EO-,10",A2AH7G,FIN,2QT,QTCOM.HE,Software,FI4000198031
-180,Raisio Oyj,899738,FIN,RATV,RAIVV.HE,Industrie/Mischkonzerne,FI0009002943
-181,Rapala Network Corp.,917602,FIN,RAP,RAP1V.HE,Freizeitprodukte,FI0009007355
-182,Revenio Group Corp.,-,FIN,not_found,not_found,not_found,not_found
-183,Robit Oyj,A14TP3,FIN,RO3,ROBIT.HE,Maschinenbau,FI4000150016
-184,Rovio Entertainment OYJ,A2DXQD,FIN,R0F,ROVIO.HE,Unterhaltung,FI4000266804
-185,Sampo OYJ,881463,FIN,SMPA,SAMPO.HE,Finanzdienstleistungen,FI0009003305
-186,Sanoma Oyj,922218,FIN,SNQB,SANOMA.HE,Medien,FI0009007694
-187,Sievi Capital Oyj,938508,FIN,WE3,SIEVI.HE,Finanzdienstleistungen,FI0009008924
-188,SIILI SOLUTIONS OYJ,A1XFJ0,FIN,N88,SIILI.HE,IT-Dienstleistungen,FI4000043435
-189,Solteq Oyj,928282,FIN,B3M,SOLTEQ.HE,IT-Dienstleistungen,FI0009007991
-190,Sotkamo Silver AB,A0MMF4,FIN,VSO,not_found,Rohstoffe,SE0001057910
-191,SRV Yhtioet Oyj,A0MSY7,FIN,B7J,SRV1V.HE,Bau/Infrastruktur,FI0009015309
-192,SSAB AB,887029,FIN,SKWA,SSAB-A.ST,Eisen/Stahl,SE0000171100
-193,SSAB AB -B- FRIA,881832,FIN,SKWC,SSAB-B.ST,Eisen/Stahl,SE0000120669
-194,Stockmann Oyj Abp,870557,FIN,SOMB,STOCKA.HE,Handel/E-Commerce,FI0009000251
-195,"STORA ENSO OYJ A EO 1,70",870734,FIN,ENUA,ENUA.F,Holz/Papier,FI0009005953
-196,Stora Enso Oyj.,871004,FIN,ENUR,STERV.HE,Holz/Papier,FI0009005961
-197,Suominen Corp.,806454,FIN,1S0,SUY1V.HE,Konsumgüter,FI0009010862
-198,TAALERI OYJ,A1W7P1,FIN,295,TAALA.HE,Finanzdienstleistungen,FI4000062195
-199,Tecnotree OYJ,658932,FIN,3TT,TEM1V.HE,Telekom,FI0009010227
-200,Teleste Corp.,919696,FIN,TS6,TLT1V.HE,Dienstleistungen,FI0009007728
-201,Telia Company AB,938475,FIN,TLS,TELIA.ST,Telekom,SE0000667925
-202,Terveystalo Oy,A2H5F4,FIN,4TS,TTALO.HE,Gesundheitswesen,FI4000252127
-203,Tieto Oyj,870798,FIN,TTEB,TIETO.HE,IT-Dienstleistungen,FI0009000277
-204,Tokmanni Group Corp.,A2AH6M,FIN,TK9,TOKMAN.HE,Handel/E-Commerce,FI4000197934
-205,Tulikivi Oyj,887689,FIN,TUZA,TULAV.HE,Bau/Infrastruktur,FI0009900583
-206,UPM Kymmene Corp.,881026,FIN,RPL,UPM.HE,Holz/Papier,FI0009005987
-207,Uponor Oyj,897947,FIN,UPN,UPONOR.HE,Sonstige Technologie,FI0009002158
-208,Vaisala Oyj,897122,FIN,VAYA,VAIAS.HE,Sonstige Technologie,FI0009900682
-209,Valmet Oyj,A1XA9J,FIN,2VO,VALMT.HE,Maschinenbau,FI4000074984
-210,Valoe Oyj,914085,FIN,7RT,VALOE.HE,Erneuerbare Energien,FI0009006951
-211,Wärtsilä Corp.,881050,FIN,MTA,WRT1V.HE,Maschinenbau,FI0009003727
-212,YIT Oyj,906227,FIN,YIT,YIT.HE,Industrie/Mischkonzerne,FI0009800643
-213,Yleiselektroniikka Oyj,918658,FIN,YKK,BOREO.HE,Handel/E-Commerce,FI0009900724
-214,1000mercis S.A.,A0LEPS,FR,2PL,ALMIL.PA,Chemie,FR0010285965
-215,A.S.T. Groupe S.A.,805849,FR,9NA,ALAST.PA,Bau/Infrastruktur,FR0000076887
-216,AB Science S.A.,A1CXBG,FR,A8D,AB.PA,Pharma,FR0010557264
-217,Abbvie Inc.,A1J84E,FR,4AB,ABBV,Pharma,US00287Y1091
-218,ABC Arbitrage S.A.,924061,FR,9BA,ABCA.PA,Finanzdienstleistungen,FR0004040608
-219,Abivax S.A.,A14UQC,FR,2X1,ABVX.PA,Biotechnologie,FR0012333284
-220,Acanthe Developpement Sa,592453,FR,ADX,ACAN.PA,Immobilien,FR0000064602
-221,Accor S.A.,860206,FR,ACR,AC.PA,Hotels/Tourismus,FR0000120404
-222,Acteos S.A.,502344,FR,A3C,EOS.PA,IT-Dienstleistungen,FR0000076861
-223,Actia Group S.A.,564723,FR,AG9,ATI.PA,Elektrotechnologie,FR0000076655
-224,ADLPARTNER S.A.,914207,FR,DLU,DKUPL.PA,Dienstleistungen,FR0000062978
-225,Adocia SAS,A1JTC2,FR,A89,ADOC.PA,Biotechnologie,FR0011184241
-226,Adthink SA,A0NF06,FR,91R,FR0010457531.SG,Dienstleistungen,FR0010457531
-227,AdUX S.A.,A14V4C,FR,HJMA,ADUX.PA,Dienstleistungen,FR0012821890
-228,Advenis S.A.,662536,FR,,ALADV.PA,Freizeitprodukte,FR0004152874
-229,AgroGeneration SA,A1CTQQ,FR,,ALAGR.PA,Chemie,FR0004152874
-230,Air France-KLM S.A.,855111,FR,AFR,AF.PA,Luftfahrt/Rüstung,FR0000031122
-231,Air Liquide SA,850133,FR,AIL,AI.PA,Chemie,FR0000120073
-232,Airbus SE,938914,FR,AIR,AIR.PA,Luftfahrt/Rüstung,NL0000235190
-233,Akka Technologies,A0D94W,FR,not_found,not_found,not_found,not_found
-234,Akwel S.A.,893730,FR,MW4,AKW.PA,Fahrzeuge,FR0000053027
-235,Albioma,659082,FR,33S,ABIO.PA,Versorger,FR0000060402
-236,ALLIANCE DEV. CAP.,A1W17J,FR,not_found,not_found,not_found,not_found
-237,Alstom S.A.,A0F7BK,FR,AOMD,ALO.PA,Elektrotechnologie,FR0010220475
-238,Altamir S.A.,917251,FR,AJY,LTA.PA,Finanzdienstleistungen,FR0000053837
-239,Altarea S.C.A.,881381,FR,XAL,ALTA.PA,Immobilien,FR0000033219
-240,"ALTAREIT S.A. INH. EO1,50",862747,FR,Ticker-Symbol:,AREIT.PA,Immobilien,FR0000039216
-241,Alten S.A.,918312,FR,AN3,ATE.PA,IT-Dienstleistungen,FR0000071946
-242,"ALTUR INVESTISSEM.EO 2,50",A0LFDK,FR,TI8,ALTUR.PA,Finanzdienstleistungen,FR0010395681
-243,"AMATHEON AGRI HLDG EO-,10",A1J4XD,FR,Ticker-Symbol:,MLAAH.PA,Nahrungsmittel/Agrar,NL0010273694
-244,Amlitude Surgical,A14UZ2,FR,1AU,AMPLI.PA,Gesundheitswesen,FR0012789667
-245,Amoeba SAS,A14WL9,FR,A1H,ALMIB.PA,Chemie,FR0011051598
-246,"ANTEVENIO S.A.INH.EO-,055",A0LG7Y,FR,Ticker-Symbol:,ALISP.PA,Dienstleistungen,ES0109429037
-247,Aperam S.A.,A1H5UL,FR,7AA,APAM.AS,Eisen/Stahl,LU0569974404
-248,Argan,A0MVRB,FR,871,ARG.PA,Immobilien,FR0010481960
-249,Arkema S.A.,A0JLZ0,FR,V1S,AKE.PA,Chemie,FR0010313833
-250,ARTEA S.A. INH.      EO 6,A12FJM,FR,not_found,not_found,not_found,not_found
-251,Artefact S.A.,A0LD7W,FR,,not_found,Dienstleistungen,FR0000079683
-252,ARTOIS NOM.         EO 20,855625,FR,not_found,not_found,not_found,not_found
-253,Artprice.com S.A.,932046,FR,AJP,PRC.PA,Internet,FR0000074783
-254,Assistance Technique et Etudes de Materiels Electroniques S.A.,A12AAH,FR,AYD,ATEME.PA,Software,FR0011992700
-255,Assystem S.A.,928721,FR,BZ1,ASY.PA,IT-Dienstleistungen,FR0000074148
-256,Atari S.A.,A0NEZJ,FR,IFGA,ATA.PA,Software,FR0010478248
-257,Atos SE,877757,FR,AXI,ATO.PA,IT-Dienstleistungen,FR0000051732
-258,Aubay S.A.,915268,FR,BAQ,AUB.PA,Telekom,FR0000063737
-259,Aurea S.A.,853927,FR,94P,AURE.PA,Dienstleistungen,FR0000039232
-260,AXA S.A.,855705,FR,AXA,CS.PA,Finanzdienstleistungen,FR0000120628
-261,Axway Software Actions Port.,A1JBGJ,FR,1XV,AXW.PA,Software,FR0011040500
-262,Aéroports de Paris,A0J2WM,FR,W7L,ADP.PA,Logistik/Transport,FR0010340141
-263,Bassac SA,A0LE61,FR,78Y,BASS.PA,Immobilien,FR0004023208
-264,"Bastide, Le Confort Med. S.A.",907048,FR,1DJ,BLC.PA,Gesundheitswesen,FR0000035370
-265,"BATLA MINERALS    EO 0,01",A0RL6Z,FR,not_found,not_found,not_found,not_found
-266,BD MULTI MEDIA NOM   EO 2,932700,FR,6VD,ALBDM.PA,Finanzdienstleistungen,FR0000035305
-267,Beneteau S.A.,882042,FR,3GD,BEN.PA,Bau/Infrastruktur,FR0000035164
-268,"BERNARD LOIS. INH. EO1,25",918026,FR,not_found,not_found,not_found,not_found
-269,Bic S.A.,860804,FR,BIF,BB.PA,Konsumgüter,FR0000120966
-270,BigBen Interactive S.A.,931084,FR,BX9,BIG.PA,Software,FR0000074072
-271,Bilendi SA,A0LD76,FR,830,ALBLD.PA,Dienstleistungen,FR0004174233
-272,BioAlliance Pharma,A0HMXA,FR,C4X,ALONX.PA,Biotechnologie,FR0010095596
-273,Biocorp Production,A14V4G,FR,8BP,FR0012788065.SG,Gesundheitswesen,FR0012788065
-274,Biophytis Co.,A14V4J,FR,6XB,ALBPS.PA,Biotechnologie,FR0012816825
-275,Biosynex S.A.,A1H8G1,FR,0DL,ALBIO.PA,Gesundheitswesen,FR0011005933
-276,"BLEECKER S.A.   EO 18,45",798311,FR,not_found,not_found,not_found,not_found
-277,Blockchain Group S.A.,A1JG36,FR,BC7,ALTBG.PA,Dienstleistungen,FR0011053636
-278,"BLUELINEA SA       EO-,20",A12CGG,FR,not_found,not_found,not_found,not_found
-279,BNP Paribas S.A.,887771,FR,BNP,BNP.PA,Finanzdienstleistungen,FR0000131104
-280,BOIRON S.A.,873532,FR,BON,BOI.PA,Pharma,FR0000061129
-281,Bollore S.A.,875558,FR,BOP,BOL.PA,Industrie/Mischkonzerne,FR0000039299
-282,Bonduelle S.A.,915165,FR,BDU,BON.PA,Nahrungsmittel/Agrar,FR0000063935
-283,Bone Therapeutics S.A.,A14NHV,FR,BT1,BOTHE.BR,Biotechnologie,BE0974280126
-284,Bourse Direct S.A.,929082,FR,BD6,BSD.PA,Internet,FR0000074254
-285,Bouygues S.A.,858821,FR,BYG,EN.PA,Bau/Infrastruktur,FR0000120503
-286,Budget Telecom Actions Nominatives S.A.,A0LD72,FR,9BU,ALBUD.PA,Telekom,FR0004172450
-287,Bureau Veritas SA,A0M45W,FR,4BV,BVI.PA,Dienstleistungen,FR0006174348
-288,Burelle SA,873741,FR,7SP,BUR.PA,Fahrzeuge,FR0000061137
-289,Cafom S.A.,A0DPXB,FR,CAA,CAFO.PA,Handel/E-Commerce,FR0010151589
-290,Capgemini SE,869858,FR,CGM,CAP.PA,IT-Dienstleistungen,FR0000125338
-291,Carbios S.A.,A1XA4J,FR,3C1,ALCRB.PA,Chemie,FR0011648716
-292,Carmat S.A.,A1C017,FR,CXT,ALCAR.PA,Gesundheitswesen,FR0010907956
-293,Carmila S.A.S.,A0YFKD,FR,CUX1,CARM.PA,Immobilien,FR0010828137
-294,Carrefour S.A.,852362,FR,CAR,CA.PA,Handel/E-Commerce,FR0000120172
-295,"Casino, Guichard-Perrachon S.A.",853152,FR,CAJ,CO.PA,Handel/E-Commerce,FR0000125585
-296,CAST S.A.,922674,FR,YAS,CAS.PA,Software,FR0000072894
-297,Catana Group S.A.,A0ERJT,FR,2HU,CATG.PA,Freizeitprodukte,FR0010193052
-298,CATER. INTL SVCS-CISINH.,918957,FR,8WG,CTRG.PA,Dienstleistungen,FR0000064446
-299,"CBO TERRITORIA    EO 1,32",A0E9TF,FR,not_found,not_found,not_found,not_found
-300,Cegedim S.A.,895036,FR,C7E,CGM.PA,IT-Dienstleistungen,FR0000053506
-301,Cegereal SA,A0JJ3N,FR,D2L,VTR.PA,Immobilien,FR0010309096
-302,Cellectis S.A.,A0MKPR,FR,ZVA,ALCLS.PA,Biotechnologie,FR0010425595
-303,CELLNOVO GROUP INH. EO 1,A14WF4,FR,,not_found,Gesundheitswesen,FR0012633360
-304,Cerenis Therapeutics Holdings S.A.,A14QR9,FR,609,ABNX.PA,Biotechnologie,FR0012616852
-305,CHARGEURS S.A.,901535,FR,GET,CRI.PA,Bekleidung/Textil,FR0000130692
-306,Christian Dior SE,883123,FR,DIO,CDI.PA,Bekleidung/Textil,FR0000130403
-307,Cibox Inter(a)ctive S.A.,903571,FR,1YH,CIB.PA,Hardware,FR0000054322
-308,Clasquin S.A.,A0JC66,FR,7J4,ALCLA.PA,Logistik/Transport,FR0004152882
-309,Clean Logistics SE,A1YDAZ,FR,SD1,SD1.DE,Dienstleistungen,DE000A1YDAZ7
-310,Cnim Groupe SA,873530,FR,9IY,not_found,Bau/Infrastruktur,FR0000053399
-311,Cnova N.V.,A12FH2,FR,5CN,CNV.PA,Handel/E-Commerce,NL0010949392
-312,CNP Assurances S.A.,916594,FR,not_found,not_found,not_found,not_found
-313,Coface S.A.,A1XDS6,FR,65C,COFA.PA,Finanzdienstleistungen,FR0010667147
-314,Coheris S.A.,931114,FR,OHE,COH.PA,Software,FR0004031763
-315,COIL S.A.,910288,FR,not_found,not_found,not_found,not_found
-316,Colas S.A.,853381,FR,OL3,RE.PA,Bau/Infrastruktur,FR0000121634
-317,Compagnie de Saint-Gobain S.A.,872087,FR,GOB,SGO.PA,Bau/Infrastruktur,FR0000125007
-318,Compagnie des Alpes S.A.,905176,FR,JCA,CDA.PA,Hotels/Tourismus,FR0000053324
-319,Compagnie Generale des Etablissements Michelin SCA,850739,FR,not_found,not_found,not_found,not_found
-320,Compagnie Plastic Omnium S.A.,871780,FR,EZM,POM.PA,Chemie,FR0000124570
-321,COURTOIS NOM.       EO 23,900897,FR,not_found,not_found,not_found,not_found
-322,COVIVIO HOTELS INH.  EO 4,798307,FR,9FM,COVH.PA,Immobilien,FR0000060303
-323,Covivio S.A.,659094,FR,F5D,COV.PA,Immobilien,FR0000064578
-324,Credit Agricole S.A.,982285,FR,XCA,ACA.PA,Finanzdienstleistungen,FR0000045072
-325,CROSSJECT S.A.,A1XEH4,FR,74C,ALCJ.PA,Gesundheitswesen,FR0011716265
-326,CROSSWOOD S.A. NOM.  EO 1,792660,FR,not_found,not_found,not_found,not_found
-327,CS GROUP SA NOM.     EO 1,602343,FR,L8O,SX.PA,IT-Dienstleistungen,FR0007317813
-328,Damartex SA,691196,FR,6C3,ALDAR.PA,Handel/E-Commerce,FR0000185423
-329,Danone S.A.,851194,FR,BSN,BN.PA,Nahrungsmittel/Agrar,FR0000120644
-330,Dassault Aviation S.A.,852361,FR,not_found,not_found,not_found,not_found
-331,Dassault Systemes S.A.,901295,FR,not_found,not_found,not_found,not_found
-332,DBV technologies S.A.,A1JWB7,FR,DBV,DBV.PA,Biotechnologie,FR0010417345
-333,DEINOVE S.A.,A1CXES,FR,5D8,ALDEI.PA,Chemie,FR0010879056
-334,Delfingen Industry S.A.,899672,FR,HBS,ALDEL.PA,Fahrzeuge,FR0000054132
-335,Delta Drone S.A.,A1W7E5,FR,not_found,not_found,not_found,not_found
-336,Derichebourg S.A.,893619,FR,PNU,DBG.PA,Dienstleistungen,FR0000053381
-337,Diageo PLC,851247,FR,GUI,DGE.L,Getränke/Tabak,GB0002374006
-338,"DLSI, Forbach",A0LF6P,FR,not_found,not_found,not_found,not_found
-339,DNXCORP SE,A0MMT4,FR,DWP,ALDNX.PA,Internet,FR0010436584
-340,DRDGOLD Ltd.,A0DNR0,FR,DUB1,DRD.JO,Rohstoffe,ZAE000058723
-341,EAUX DE ROYAN NOM.  EO 10,806273,FR,not_found,not_found,not_found,not_found
-342,Ecoslops S.A.,A14NWZ,FR,7T0,ALESA.PA,Öl/Gas,FR0011490648
-343,Edenred S.A.,A1C0JG,FR,QSV,EDEN.PA,Dienstleistungen,FR0010908533
-344,EGIDE S.A.,925631,FR,EGID,GID.PA,Sonstige Technologie,FR0000072373
-345,Eiffage S.A.,853452,FR,EF3,FGR.PA,Bau/Infrastruktur,FR0000130452
-346,Ekinops S.A.S.,A1W7NS,FR,E0J,EKI.PA,Elektrotechnologie,FR0011466069
-347,EL. STRASBG NOM. EO 10,850956,FR,7Z2,ELEC.PA,Versorger,FR0000031023
-348,Electricite de France S.A. (E.D.F.),A0HG6A,FR,E2F,EDF.PA,Versorger,FR0010242511
-349,Electro Power Systems S.A.,A14R53,FR,8XE,NHOA.PA,Elektrotechnologie,FR0012650166
-350,Eli Lilly & Co.,858560,FR,LLY,LLY,Pharma,US5324571083
-351,Elior Group SCA,A115FW,FR,21E,ELIOR.PA,Dienstleistungen,FR0011950732
-352,Elis S.A.,A14M93,FR,7EL,ELIS.PA,Dienstleistungen,FR0012435121
-353,"ENCRES DUBUIT INH. EO-,40",936083,FR,not_found,not_found,not_found,not_found
-354,Engie S.A.,A0ER6Q,FR,GZF,ENGI.PA,Versorger,FR0010208488
-355,Entreparticuliers.com,A0MKPQ,FR,99Q,ALENT.PA,Internet,FR0010424697
-356,EO2 S.A,A0MSNT,FR,EO4,ALEO2.PA,Erneuerbare Energien,FR0010465534
-357,EOS Imaging S.A.,A1JT0S,FR,not_found,not_found,not_found,not_found
-358,Eramet S.A.,892800,FR,ER7,ERA.PA,Rohstoffe,FR0000131757
-359,Erytech Pharma S.A.,A1T94R,FR,2E4,ERYP.PA,Pharma,FR0011471135
-360,Esi Group S.A.,502204,FR,EGJ,ESI.PA,Software,FR0004110310
-361,Esker S.A.,907928,FR,EKE,ALESK.PA,Software,FR0000035818
-362,Esperite N.V.,A0YB5B,FR,5C1A,ESP.AS,Gesundheitswesen,NL0009272137
-363,EssilorLuxottica S.A.,863195,FR,ESL,EL.PA,Gesundheitswesen,FR0000121667
-364,Esso S.A.F.,851011,FR,EH8,ES.PA,Öl/Gas,FR0000120669
-365,Etablissements Maurel et Prom S.A.,853155,FR,ETX,MAU.PA,Öl/Gas,FR0000051070
-366,"EURASI.FONC.INV.EO 0,01",890865,FR,not_found,not_found,not_found,not_found
-367,Eurazeo SE,860642,FR,EUQ,RF.PA,Finanzdienstleistungen,FR0000121121
-368,Euro Ressources S.A.,894825,FR,GY5,EUR.PA,Rohstoffe,FR0000054678
-369,Eurofins Scientific S.E.,910251,FR,not_found,not_found,not_found,not_found
-370,"EUROLAND CORP.    EO 0,21",A0KFSS,FR,not_found,not_found,not_found,not_found
-371,Euronext N.V.,A115MJ,FR,ENXB,ENX.PA,Finanzdienstleistungen,NL0006294274
-372,EuropaCorp S.A.,A0MWCT,FR,AZ6,ALECP.PA,Medien,FR0010490920
-373,Europcar Groupe S.A.,A14U65,FR,E7CD,EUCAR.PA,Logistik/Transport,FR0012789949
-374,Eutelsat Communications S.A.,A0HGPT,FR,E3B,ETL.PA,Telekom,FR0010221234
-375,"EVOLIS S.A. INH.   EO-,08",A0JKDX,FR,not_found,not_found,not_found,not_found
-376,"EXEL INDS S.A. A   EO 2,5",907602,FR,8YK,EXE.PA,Maschinenbau,FR0004527638
-377,Faurecia SE,867025,FR,FAU,EO.PA,Fahrzeuge,FR0000121147
-378,FERM.CASINO M.C. INH.EO12,861610,FR,not_found,not_found,not_found,not_found
-379,Fermentalg SA,A1103M,FR,1F6,FALG.PA,Biotechnologie,FR0011271600
-380,FIDUCIAL OFFICE SOLUTIONS,792666,FR,not_found,not_found,not_found,not_found
-381,FIDUCIAL REAL ESTATE,876663,FR,not_found,not_found,not_found,not_found
-382,Figeac Aero S.A.,A1XBG1,FR,1F1,FGA.PA,Luftfahrt/Rüstung,FR0011665280
-383,FINANC.D.L'ODET INH.EO 16,662247,FR,49F,ODET.PA,Finanzdienstleistungen,FR0000062234
-384,"FINANCIE.E.IMM.INH.EO1,52",798308,FR,not_found,not_found,not_found,not_found
-385,FIPP SA INH.      O.N.,851069,FR,FIPP,FIPP.PA,Finanzdienstleistungen,FR0000038184
-386,Fleury Michon S.A.,933769,FR,4XZ,FR0000074759.SG,Nahrungsmittel/Agrar,FR0000074759
-387,Fnac Darty,A1T95K,FR,1FN,FNAC.PA,Handel/E-Commerce,FR0011476928
-388,Focus Home Interactive S.A.,A14NXK,FR,0HF,ALFOC.PA,Unterhaltung,FR0012419307
-389,Ford Motor Co.,502391,FR,FMC1,F,Fahrzeuge,US3453708600
-390,Fountaine Pajot SA,A0X8WD,FR,65T,ALFPC.PA,Freizeitprodukte,FR0010485268
-391,"FRANCE TOURISM.IMM.EO-,25",A12CFX,FR,not_found,not_found,not_found,not_found
-392,Freelance.com,A0HL4T,FR,9B4,ALFRE.PA,Dienstleistungen,FR0004187367
-393,FREY,A0QYPA,FR,943,FREY.PA,Immobilien,FR0010588079
-394,Gascogne S.A.,869297,FR,G5O,ALBI.PA,Holz/Papier,FR0000124414
-395,Gaumont SA,852507,FR,69N,GAM.PA,Medien,FR0000034894
-396,Gaztransport Technigaz SAS,A1XEHR,FR,9TG,GTT.PA,Logistik/Transport,FR0011726835
-397,Geci International S.A.,632749,FR,G8C,ALGEC.PA,Dienstleistungen,FR0000079634
-398,Gecina S.A.,A0BLMY,FR,GI6A,GFC.PA,Finanzdienstleistungen,FR0010040865
-399,Generix Group SA,A0MYAC,FR,106,GENX.PA,Software,FR0010501692
-400,Genfit S.A.,A0LGJ2,FR,XUP,GNFT.PA,Biotechnologie,FR0004163111
-401,Genomic Vision S.A.,A110TM,FR,G09,GV.PA,Biotechnologie,FR0011799907
-402,Genoway S.A.,A0MRJ4,FR,JEH,ALGEN.PA,Biotechnologie,FR0004053510
-403,Gerard Perrier Industrie SA,908817,FR,80T,PERR.PA,Elektrotechnologie,FR0000061459
-404,Getlink SE,A0M6L1,FR,TNU3,GET.PA,Logistik/Transport,FR0010533075
-405,GEVELOT S.A. INH.   EO 35,542159,FR,8XD,ALGEV.PA,Maschinenbau,FR0000033888
-406,GL Events S.A.,632297,FR,0X5,GLO.PA,Dienstleistungen,FR0000066672
-407,Global Bioenergies S.A.,A1JBVH,FR,1DK,ALGBE.PA,Erneuerbare Energien,FR0011052257
-408,GRAINES VOLTZ INH. EO 1,792655,FR,not_found,not_found,not_found,not_found
-409,"GRENOBL.D'EL.-INH.EO2,059",912895,FR,not_found,not_found,not_found,not_found
-410,Groupe Actiplay SA,A1JFY3,FR,4YA,ALKLA.PA,Dienstleistungen,FR0011038348
-411,"GROUPE CIOA   EO -,30",A2N510,FR,not_found,not_found,not_found,not_found
-412,Groupe CRIT S.A.,930172,FR,CT2,CEN.PA,Dienstleistungen,FR0000036675
-413,Groupe Euromedis S.A.,806302,FR,61R,ALEMG.PA,Gesundheitswesen,FR0000075343
-414,Groupe Gorge S.A.,912613,FR,2G3,GOE.PA,Maschinenbau,FR0000062671
-415,Groupe Guillin S.A.,A14VXU,FR,ZUY,ALGIL.PA,Kunststoffe/Verpackungen,FR0012819381
-416,GROUPE JAJ NOM.      EO 1,879441,FR,not_found,not_found,not_found,not_found
-417,Groupe LDLC S.A.,810855,FR,6CE,ALLDL.PA,Handel/E-Commerce,FR0000075442
-418,Groupe Open S.A.,932704,FR,,not_found,IT-Dienstleistungen,FR0004050300
-419,Groupe Partouche S.A.,A14QF9,FR,PZ21,PARP.PA,Unterhaltung,FR0012612646
-420,Groupe SFPI S.A.,927106,FR,EKN,SFPI.PA,Industrie/Mischkonzerne,FR0004155000
-421,Guerbet S.A.,870481,FR,4G8,GBT.PA,Pharma,FR0000032526
-422,Guillemot Corp.,917556,FR,GUL,GUI.PA,Hardware,FR0000066722
-423,H2O Innovation Inc.,-,FR,not_found,not_found,not_found,not_found
-424,Haulotte Group S.A.,923269,FR,PHT,PIG.PA,Industrie/Mischkonzerne,FR0000066755
-425,"HERIGE S.A.    IN.EO 1,50",792674,FR,8YW,ALHRG.PA,Bau/Infrastruktur,FR0000066540
-426,Hermes International S.A.,886670,FR,HMI,RMS.PA,Konsumgüter,FR0000052292
-427,Hexcel Corp.,894306,FR,HXL,HXL,Industrie/Mischkonzerne,US4282911084
-428,HF Company,909944,FR,HFC,ALHF.PA,Sonstige Technologie,FR0000038531
-429,High Co.,900218,FR,HIH,HCO.PA,Dienstleistungen,FR0000054231
-430,HIOLLE INDUSTR.NOM.,578076,FR,not_found,not_found,not_found,not_found
-431,Hipay Group S.A.,A14V8U,FR,9LH,ALHYP.PA,Finanzdienstleistungen,FR0012821916
-432,"HITECHPROS S.A.   EO -,40",A0LFJ9,FR,not_found,not_found,not_found,not_found
-433,Holcim Ltd.,869898,FR,HLBN,HOLN.SW,Bau/Infrastruktur,CH0012214059
-434,HSBC Holdings PLC,923893,FR,HBC1,HSBA.L,Finanzdienstleistungen,GB0005405286
-435,Hybrigenics S.A.,A0M9ZU,FR,3HB,ALHYG.PA,Biotechnologie,FR0004153930
-436,HYDRO-EXPLOITA.NOM. EO 16,806345,FR,not_found,not_found,not_found,not_found
-437,I2S SA,A0M5ZR,FR,not_found,not_found,not_found,not_found
-438,Icade S.A.,850999,FR,3IC,ICAD.PA,Immobilien,FR0000035081
-439,ID Logistics Group,A1JWG9,FR,1ID,IDL.PA,Logistik/Transport,FR0010929125
-440,IDI S.C.A.,882160,FR,8KC,IDIP.PA,Finanzdienstleistungen,FR0000051393
-441,IGE +  XAO S.A.,905801,FR,not_found,not_found,not_found,not_found
-442,Imerys S.A.,851898,FR,IY4,NK.PA,Bau/Infrastruktur,FR0000120859
-443,Immobiliere Dassault SA,854127,FR,6KP,IMDA.PA,Immobilien,FR0000033243
-444,"IMPRIMERIE CHIR.NOM.EO0,8",810752,FR,not_found,not_found,not_found,not_found
-445,Infosys Ltd. (ADRs),919668,FR,IOY,INFY,IT-Dienstleistungen,US4567881085
-446,"INFOTEL S.A. INH. EO 0,40",918337,FR,3NH,INF.PA,IT-Dienstleistungen,FR0000071797
-447,Ingenico Group S.A.,870752,FR,not_found,not_found,not_found,not_found
-448,Innate Pharma S.A.,A0LCUJ,FR,IDD,IPH.PA,Biotechnologie,FR0010331421
-449,Innelec Multimedia IMM S.A.,915169,FR,1W2,ALINN.PA,Software,FR0000064297
-450,Inside Secure S.A.,A1JTXZ,FR,I3Q,VMX.PA,Software,FR0010291245
-451,IntegraGen,A1J1JV,FR,7N8,ALINT.PA,Biotechnologie,FR0010908723
-452,International Flavors & Fragrances Inc.,853881,FR,IFF,IFF,Chemie,US4595061015
-453,Interparfums S.A.,907907,FR,I8P,ITP.PA,Konsumgüter,FR0004024222
-454,Intrasense S.A.S.,A1W6V5,FR,I8S,ALINS.PA,Software,FR0011179886
-455,Ipsen S.A.,A0ESMG,FR,I7G,IPN.PA,Pharma,FR0010259150
-456,Ipsos S.A.,923860,FR,IPZ,IPS.PA,Dienstleistungen,FR0000073298
-457,IT Link S.A.,922593,FR,IL8,ALITL.PA,IT-Dienstleistungen,FR0000072597
-458,"ITESOFT S.A. INH.  EO-,06",626056,FR,IE5,ITE.PA,Software,FR0004026151
-459,Jacques Bogart SA,A14XDG,FR,6XW,JBOG.PA,Kosmetik,FR0012872141
-460,Jacquet Metal Service,875606,FR,I43,JCQ.PA,Eisen/Stahl,FR0000033904
-461,JCDecaux S.A.,578972,FR,DCS,DEC.PA,Dienstleistungen,FR0000077919
-462,"JSA TECHNOLOGY    EO -,10",A0RDEX,FR,Ticker-Symbol:,MLJSA.PA,Erneuerbare Energien,FR0010680033
-463,Kaufman & Broad S.A.,934515,FR,3GH,KOF.PA,Bau/Infrastruktur,FR0004007813
-464,Kering S.A.,851223,FR,PPX,KER.PA,Handel/E-Commerce,FR0000121485
-465,Keyrus S.A.,940112,FR,5UP,ALKEY.PA,IT-Dienstleistungen,FR0004029411
-466,Klepierre S.A.,863272,FR,KPR,LI.PA,Immobilien,FR0000121964
-467,Korian S.A.,A0LE05,FR,KO2,KORI.PA,Gesundheitswesen,FR0010386334
-468,Lacroix Group S.A.,792665,FR,51M,LACR.PA,Elektrotechnologie,FR0000066607
-469,Lagardere S.A.,866786,FR,LAG,MMB.PA,Medien,FR0000130213
-470,Latecore S.A.,870166,FR,12J,LAT.PA,Luftfahrt/Rüstung,FR0000032278
-471,Laurent-Perrier S.A.,923069,FR,LPE,LPE.PA,Getränke/Tabak,FR0006864484
-472,Le Bourget-du-Lac,-,FR,not_found,not_found,not_found,not_found
-473,Lectra S.A.,874052,FR,LET,LSS.PA,Sonstige Technologie,FR0000065484
-474,Lexibook Linguistic Electronic System SA,906327,FR,LXB,ALLEX.PA,Konsumgüter,FR0000033599
-475,Linedata Services S.A.,938367,FR,LN4,LIN.PA,IT-Dienstleistungen,FR0004156297
-476,LISI S.A.,877300,FR,LI3,FII.PA,Fahrzeuge,FR0000050353
-477,LNA Santé S.A.,A0LD70,FR,2N3,LNA.PA,Gesundheitswesen,FR0004170017
-478,Lucibel SA,A117T7,FR,6SA,ALUCI.PA,Elektrotechnologie,FR0011884378
-479,LVMH Moet Hennessy Louis Vuitton SE,853292,FR,MOH,MC.PA,Konsumgüter,FR0000121014
-480,M6 Metropole Television S.A.,892790,FR,MMT,MMT.PA,Medien,FR0000053225
-481,"MADE S.A.INH.      EO-,20",A0LEPJ,FR,not_found,not_found,not_found,not_found
-482,Madvertise,A1J4UX,FR,MAV,FR0010812230.SG,Dienstleistungen,FR0010812230
-483,Maisons France Confort S.A.,550812,FR,88M,HEXA.PA,Bau/Infrastruktur,FR0004159473
-484,"MAKHEIA GR.SA INH.EO -,10",936020,FR,1VM,ALMAK.PA,Dienstleistungen,FR0000072993
-485,Malteries Franco Belges S.A.,872529,FR,91U,MALT.PA,Getränke/Tabak,FR0000030074
-486,Manitou B.F. S.A.,868918,FR,3MU,MTU.PA,Fahrzeuge,FR0000038606
-487,MANUTAN INTL SA INH. EO 2,870176,FR,8IU,MAN.PA,Dienstleistungen,FR0000032302
-488,Marie Brizard Wine & Spirits S.A.,904974,FR,BED,MBWS.PA,Getränke/Tabak,FR0000060873
-489,Maroc Telecom,A0J3AH,FR,MSPA,MSPA.F,Telekom,MA0000011488
-490,"MASTRAD            EO-,14",A0LD7Y,FR,7ZV,ALMAS.PA,Konsumgüter,FR0004155687
-491,Mauna Kea Technologies,A1JCLA,FR,1MK,FR0010609263.SG,Gesundheitswesen,FR0010609263
-492,McPhy Energy S.A.,A1XFA8,FR,M6P,MCPHY.PA,Erneuerbare Energien,FR0011742329
-493,MECELEC COMPOSI. INH.EO 1,876074,FR,Ticker-Symbol:,ALORA.PA,Industrie/Mischkonzerne,FR0000061244
-494,Median Technologies,A1JCLB,FR,4ZG,ALMDT.PA,Software,FR0011049824
-495,Memscap S.A.,A0JJWS,FR,MSBA,MEMS.PA,Elektrotechnologie,FR0010298620
-496,Mercialys,A0HFXW,FR,M8Y,MERY.PA,Immobilien,FR0010241638
-497,Merck & Co. Inc.,A0YD8Q,FR,6MK,MRK,Pharma,US58933Y1055
-498,Mersen S.A.,852488,FR,CBE,MRN.PA,Elektrotechnologie,FR0000039620
-499,Metabolic Explorer S.A.,A0MN12,FR,7ME,METEX.PA,Biotechnologie,FR0004177046
-500,"MG INTERNAT.SA INH.EO-,10",A0F5JW,FR,not_found,not_found,not_found,not_found
-501,MGI Digital Graphic Technology,A0LHLN,FR,2EI,ALMDG.PA,Sonstige Technologie,FR0010353888
-502,"MICROPOLE S.A.INH. EO-,05",578090,FR,MP4,MUN.PA,IT-Dienstleistungen,FR0000077570
-503,MONCEY (FIN.) NOM.  EO 23,863096,FR,not_found,not_found,not_found,not_found
-504,Montea SICAFI S.C.A.,A0LCLA,FR,M8E,MONT.BR,Immobilien,BE0003853703
-505,Moulinvest,A12CGC,FR,7W5,ALMOU.PA,Holz/Papier,FR0011033083
-506,Nanobiotix S.A.,A1J7EB,FR,5NR,NANO.PA,Biotechnologie,FR0011341205
-507,Neolife SAS,A2DUMT,FR,8JB,FR0011636083.SG,Bau/Infrastruktur,FR0011636083
-508,Netgem S.A.,927122,FR,NGP,ALNTG.PA,Hardware,FR0004154060
-509,Neurones S.A.,938282,FR,NE9,NRO.PA,IT-Dienstleistungen,FR0004050250
-510,Nexans S.A.,676168,FR,NXS,NEX.PA,Telekom,FR0000044448
-511,Nexity,A0DK2J,FR,NQ9,NXI.PA,Immobilien,FR0010112524
-512,Nextedia S.A.,A0JKUJ,FR,9KA,ALNXT.PA,Dienstleistungen,FR0004171346
-513,Novacyt S.A.,A12CFH,FR,NYZ,ALNOV.PA,Gesundheitswesen,FR0010397232
-514,NRJ Group S.A.,938989,FR,NR8,NRG.PA,Medien,FR0000121691
-515,NSE S.A.,A0LCVP,FR,7YM,ALNSE.PA,Elektrotechnologie,FR0004065639
-516,Oeneo S.A.,889452,FR,O64,SBT.PA,Holz/Papier,FR0000052680
-517,Olympique Lyonnais Groupe S.A.,A0MJ2F,FR,XXT,OLG.PA,Freizeitprodukte,FR0010428771
-518,Oncodesign S.A.,A1107T,FR,16O,ALONC.PA,Biotechnologie,FR0011766229
-519,Orange S.A.,906849,FR,FTE,ORA.PA,Telekom,FR0000133308
-520,ORAPI S.A.,811008,FR,O4P,FR0000075392.SG,Chemie,FR0000075392
-521,"OREAL (L') INH. EO 0,2",853888,FR,LOR,OR.PA,Konsumgüter,FR0000120321
-522,Orege SA,A0QZKU,FR,4ZF,OREGE.PA,Dienstleistungen,FR0010609206
-523,Orpea,575626,FR,OPA,ORP.PA,Gesundheitswesen,FR0000184798
-524,OSE - Pharma S.A.,A14QXP,FR,6OP,OSE.PA,Biotechnologie,FR0012127173
-525,PAREF,A0HNDR,FR,G5I,PAR.PA,Immobilien,FR0010263202
-526,Parrot S.A.,A0J3D7,FR,P2W,PARRO.PA,Sonstige Technologie,FR0004038263
-527,"PASSAT S.A. INH.  EO 0,50",910177,FR,6JF,PSAT.PA,Handel/E-Commerce,FR0000038465
-528,PCAS S.A.       INH. EO 1,936292,FR,4M0,PCA.PA,Chemie,FR0000053514
-529,Pernod-Ricard S.A.,853373,FR,PER,RI.PA,Getränke/Tabak,FR0000120693
-530,Peugeot Invest S.A.,890719,FR,FFP,PEUG.PA,Finanzdienstleistungen,FR0000064784
-531,Pharmagest Interactive S.A.,A14XZH,FR,PHF,EQS.PA,Software,FR0012882389
-532,Philip Morris International Inc.,A0NDBJ,FR,4I1,PM,Getränke/Tabak,US7181721090
-533,Photonike Capital S.A.,A2JB6Y,FR,,MLPHO.PA,Finanzdienstleistungen,BE0948608451
-534,Pierre & Vacances S.A.,923268,FR,PV6,VAC.PA,Hotels/Tourismus,FR0000073041
-535,Piscines Desjoyaux,882352,FR,DJX,ALPDX.PA,Bau/Infrastruktur,FR0000061608
-536,Pixium Vision S.A.,A116CC,FR,PXH,ALPIX.PA,Software,FR0011950641
-537,Planet Media S.A.,A0LEP0,FR,2PF,ALPLA.PA,Internet,FR0010211037
-538,Poujoulat S.A.,798528,FR,72Y,ALPJT.PA,Bau/Infrastruktur,FR0000066441
-539,Poxel S.A.,A14M04,FR,7PO,POXEL.PA,Biotechnologie,FR0012432516
-540,Prismaflex International S.A.,935256,FR,RFX,ALPRI.PA,Dienstleistungen,FR0004044600
-541,Prodware SA,A0JLYL,FR,9S6,ALPRO.PA,IT-Dienstleistungen,FR0010313486
-542,Publicis Groupe S.A.,859386,FR,PU4,PUB.PA,Dienstleistungen,FR0000130577
-543,Quadient S.A.,919272,FR,NEQ,QDT.PA,Dienstleistungen,FR0000120560
-544,Quantel S.A.,910292,FR,QTL,LBIRD.PA,Sonstige Technologie,FR0000038242
-545,Quantum Genomics SAS,A1XAEB,FR,2QG,ALQGC.PA,Biotechnologie,FR0011648971
-546,Qwamplify,A12CF1,FR,6WR,ALQWA.PA,Dienstleistungen,FR0010889386
-547,Rallye S.A.,878000,FR,RAY,RAL.PA,Handel/E-Commerce,FR0000060618
-548,Ramsay Générale de Santé S.A.,676646,FR,GD6,GDS.PA,Gesundheitswesen,FR0000044471
-549,Realites,A1131S,FR,2ZQ,ALREA.PA,Immobilien,FR0011858190
-550,Remy Cointreau S.A.,883206,FR,RMC,RCO.PA,Getränke/Tabak,FR0000130395
-551,Renault S.A.,893113,FR,RNL,RNO.PA,Fahrzeuge,FR0000131906
-552,ReWorld Media S.A.,A12CFW,FR,6H1,ALREW.PA,Medien,FR0010820274
-553,Rexel S.A.,A0MM7Q,FR,E7V,RXL.PA,Handel/E-Commerce,FR0010451203
-554,Riber S.A.,938526,FR,RI7,ALRIB.PA,Nanotechnologie,FR0000075954
-555,Robeco Global Total Return Bond Fund,A1WZHE,FR,M9SV,M9S4.F,Finanzdienstleistungen,LU0934195610
-556,Robeco Sustainable Global Stars Equities Fund N.V.,970259,FR,ROB,ROBA.AS,Finanzdienstleistungen,NL0000289783
-557,Robertet S.A.,876736,FR,0R7,RBT.PA,Chemie,FR0000039091
-558,Rolinco N.V.,970254,FR,ROC,ROLA.AS,Finanzdienstleistungen,NL0000289817
-559,Rothschild & Co.,859054,FR,13F,ROTH.PA,Finanzdienstleistungen,FR0000031684
-560,S.T. DUPONT S.A.,904028,FR,7EK,DPT.PA,Konsumgüter,FR0000054199
-561,Safran S.A.,924781,FR,SEJ1,SAF.PA,Luftfahrt/Rüstung,FR0000073272
-562,Samse SA,885903,FR,78S,SAMS.PA,Bau/Infrastruktur,FR0000060071
-563,Sanofi S.A.,920657,FR,SNW,SAN.PA,Pharma,FR0000120578
-564,Savencia S.A.,865541,FR,BGJ,SAVE.PA,Nahrungsmittel/Agrar,FR0000120107
-565,Schlumberger N.V.,853390,FR,SCL,SLB,Öl/Gas,AN8068571086
-566,Schneider Electric SE,860180,FR,SND,SU.PA,Elektrotechnologie,FR0000121972
-567,Scor SE,A0LGQX,FR,SDRC,SCR.PA,Finanzdienstleistungen,FR0010411983
-568,Sct. Informatique Indust. SA,928902,FR,XII,SII.PA,IT-Dienstleistungen,FR0000074122
-569,SEB S.A.,862948,FR,GRB,SK.PA,Konsumgüter,FR0000121709
-570,Seche Environnement S.A.,910933,FR,SCB,SCHP.PA,Dienstleistungen,FR0000039109
-571,Sensorion S.A.,A14SVV,FR,RFM,ALSEN.PA,Biotechnologie,FR0012596468
-572,SEQUA PETROLEUM N.V.,A1XAX0,FR,Ticker-Symbol:,MLSEQ.PA,Öl/Gas,NL0010623518
-573,SergeFerrari Group S.A.,A116CB,FR,SFK,SEFER.PA,Bau/Infrastruktur,FR0011950682
-574,SES S.A.,914993,FR,SES,0M6P.IL,Telekom,LU0088087324
-575,Sidetrade S.A.,A0LE7Q,FR,7QG,ALBFR.PA,Software,FR0010202606
-576,SIGNAUX GIROD S.A.,869997,FR,668,ALGIR.PA,Dienstleistungen,FR0000060790
-577,"SOC.FRANC.CASINOS EO 2,31",A0ETF5,FR,Ticker-Symbol:,SFCA.PA,Unterhaltung,FR0010209809
-578,Societe Anonyme des Ciments Vicat - Vicat,852366,FR,4HM,VCT.PA,Bau/Infrastruktur,FR0000031775
-579,Societe de la Tour Eiffel S.A.,854219,FR,UVA,EIFF.PA,Immobilien,FR0000036816
-580,Societe des Bains de Mer et du Cercle des Etrangers a Monaco S.A.,852401,FR,RJ8,BAIN.PA,Hotels/Tourismus,MC0000031187
-581,Societe Generale S.A.,873403,FR,SGE,GLE.PA,Finanzdienstleistungen,FR0000130809
-582,Societe Marseillaise Du Tunnel Prado-Carenage,A0D8Z4,FR,9P4,FR0004016699.SG,Logistik/Transport,FR0004016699
-583,Societe Paris Apports Capital,A1J0RG,FR,6GD,MHM.PA,Software,FR0011277391
-584,Sodexo S.A.,870935,FR,SJ7,SW.PA,Dienstleistungen,FR0000121220
-585,"SODITECH S.A.     EO -,05",592210,FR,Ticker-Symbol:,SEC.PA,Sonstige Technologie,FR0000078321
-586,Sogeclair S.A.,813308,FR,2U0,SOG.PA,Sonstige Technologie,FR0000065864
-587,Solvay S.A.,856200,FR,SOL,SOLB.BR,Chemie,BE0003470755
-588,Sopra Steria Group S.A.,880013,FR,OR8,SOP.PA,IT-Dienstleistungen,FR0000050809
-589,Spie S.A.,A14UTB,FR,4SP,SPIE.PA,Dienstleistungen,FR0012757854
-590,SpineGuard S.A.,A1T9RS,FR,6W5,ALSGD.PA,Gesundheitswesen,FR0011464452
-591,Spineway,A1KCX1,FR,37S,ALSPW.PA,Gesundheitswesen,FR0011398874
-592,SQLI S.A.,A1J1MD,FR,SSXN,SQI.PA,IT-Dienstleistungen,FR0011289040
-593,STEF S.A.,915284,FR,STP,STF.PA,Logistik/Transport,FR0000064271
-594,STMicroelectronics N.V.,893438,FR,SGM,STM.PA,Halbleiter,NL0000226223
-595,Store Electronic Systems SA,A0JC1Z,FR,S4M,SESL.PA,Sonstige Technologie,FR0010282822
-596,Streamwide SA,A0Q665,FR,07R,ALSTW.PA,Software,FR0010528059
-597,Sword Group SE,A0B585,FR,9RS,SWP.PA,IT-Dienstleistungen,FR0004180578
-598,Synergie S.A.,903714,FR,YSY,SDG.PA,Dienstleistungen,FR0000032658
-599,Tarkett S.A.,A1W7CM,FR,1T9,TKTT.PA,Bau/Infrastruktur,FR0004188670
-600,Television Francaise 1 S.A. (TF1),873608,FR,FSE,TFI.PA,Medien,FR0000054900
-601,Thales S.A.,850842,FR,CSF,HO.PA,Elektrotechnologie,FR0000121329
-602,The Procter & Gamble Co.,852062,FR,PRG,PG,Konsumgüter,US7427181091
-603,Theradiag S.A.,A1J9WY,FR,4W6,ALTER.PA,Biotechnologie,FR0004197747
-604,Tivoly S.A.,870965,FR,,ALTIV.PA,Maschinenbau,FR0000060949
-605,Total Gabon S.A.,852437,FR,RZW,EC.PA,Öl/Gas,GA0000121459
-606,TotalEnergies SE,850727,FR,TOTB,TTE.PA,Öl/Gas,FR0000120271
-607,Touax SCA,873839,FR,TOX,TOUP.PA,Finanzdienstleistungen,FR0000033003
-608,Transgene S.A.,913048,FR,TGNA,TNG.PA,Biotechnologie,FR0005175080
-609,Transition Evergreen S.A.,907473,FR,36J,EGR.PA,Finanzdienstleistungen,FR0000035784
-610,Trigano S.A.,913141,FR,TGO,TRI.PA,Konsumgüter,FR0005691656
-611,Téléperformance SE,889287,FR,RCF,TEP.PA,Dienstleistungen,FR0000051807
-612,Ubisoft Entertainment S.A.,901581,FR,UEN,UBI.PA,Software,FR0000054470
-613,Umalis Group,A2AJ6D,FR,UQ9,FR0011776889.SG,Dienstleistungen,FR0011776889
-614,UNION FIN.FRANCE BQE O.N.,874154,FR,UFN,UFF.PA,Finanzdienstleistungen,FR0000034548
-615,Union Technologies Informatique Group S.A.,936375,FR,UI9,FPG.PA,IT-Dienstleistungen,FR0000074197
-616,Vale S.A. (spons. ADRs),A0RN7M,FR,CVLB,VALE,Eisen/Stahl,US91912E1055
-617,Valneva SE,A0MVJZ,FR,AYJ,VLA.PA,Biotechnologie,FR0004056851
-618,Veolia Environnement S.A.,501451,FR,VVD,VIE.PA,Versorger,FR0000124141
-619,Vergnet S.A.,A0MUHQ,FR,VRQ,ALVER.PA,Erneuerbare Energien,FR0004155240
-620,Vetoquinol S.A.,A0LEWB,FR,8JM,VETO.PA,Pharma,FR0004186856
-621,Viel & Cie S.A. Actions Port.,876161,FR,VIC,VIL.PA,Finanzdienstleistungen,FR0000050049
-622,Vilmorin & Compagnie S.A.,888517,FR,4HL,RIN.PA,Nahrungsmittel/Agrar,FR0000052516
-623,Vinci S.A.,867475,FR,SQU,DG.PA,Bau/Infrastruktur,FR0000125486
-624,Virbac S.A.,874929,FR,V16,VIRP.PA,Pharma,FR0000031577
-625,Visiativ S.A.,A114HP,FR,16V,ALVIV.PA,Software,FR0004029478
-626,Vivendi S.A.,591068,FR,VVU,VIV.PA,Unterhaltung,FR0000127771
-627,Voltalia S.A.,A1161Y,FR,VLA,VLTSA.PA,Versorger,FR0011995588
-628,Voyageurs du Monde S.A.,A0LD7X,FR,8Z4,ALVDM.PA,Hotels/Tourismus,FR0004045847
-629,Vranken Pommery Monopole SA,913302,FR,9VP,VRAP.PA,Getränke/Tabak,FR0000062796
-630,Wallix Group S.A.,A14U3H,FR,3WG,ALLIX.PA,Software,FR0010131409
-631,Watsco Inc.,885676,FR,WC3,WSO,Dienstleistungen,US9426222009
-632,Wendel S.A.,850709,FR,WIS,MF.PA,Finanzdienstleistungen,FR0000121204
-633,Worldline SA,A116LR,FR,WO6,WLN.PA,IT-Dienstleistungen,FR0011981968
-634,Xilam Animation S.A.,533963,FR,XIH,XIL.PA,Medien,FR0004034072
-635,Aegean Airlines S.A.,A0MWBR,GRC,32A,AEGN.AT,Luftfahrt/Rüstung,GRS495003006
-636,"ALUMIL ALU.IND.SA EO 0,37",911464,GRC,A3A,ALMY.AT,Bau/Infrastruktur,GRS289103004
-637,Athens Medical Center S.A.,-,GRC,not_found,not_found,not_found,not_found
-638,Attica Holdings S.A.,A0NHJ3,GRC,AAE1,ATTICA.AT,Hotels/Tourismus,GRS144003001
-639,Autohellas S.A.,A1W67M,GRC,0AH1,OTOEL.AT,Fahrzeuge,GRS337003008
-640,Bank of Greece,910622,GRC,BGC,TELL.AT,Finanzdienstleistungen,GRS004013009
-641,Coca-Cola HBC AG,A1T7B9,GRC,C0Q,CCH.L,Getränke/Tabak,CH0198251305
-642,Ellaktor S.A.,906021,GRC,HLL,ELLAKTOR.AT,Bau/Infrastruktur,GRS191213008
-643,EYDAP S.A.,931894,GRC,EYP,EYDAP.AT,Versorger,GRS359353000
-644,Fourlis Holding S.A.,766652,GRC,2FH,FOYRK.AT,Handel/E-Commerce,GRS096003009
-645,"GEK TERNA Holding, Real Estate, Construction S.A.",A0B6AU,GRC,1GT,GEKTERNA.AT,Bau/Infrastruktur,GRS145003000
-646,GR. SARANTIS S.A.,675696,GRC,SSA1,SAR.AT,Handel/E-Commerce,GRS204003008
-647,Greek Organisation of Football Prognostics S.A.,765974,GRC,GF8,OPAP.AT,Freizeitprodukte,GRS419003009
-648,Hellenic Exchanges - Athens Stock Exchange S.A. Holding,941206,GRC,HEE,EXAE.AT,Finanzdienstleistungen,GRS395363005
-649,Hellenic Petroleum S.A.,914999,GRC,HLPN,ELPE.AT,Öl/Gas,GRS298343005
-650,Hellenic Telecommunications Organization S.A.,903465,GRC,OTE,HTO.AT,Telekom,GRS260333000
-651,Inform P. Lykos S.A.,910623,GRC,IPL,LYK.AT,IT-Dienstleistungen,GRS208303008
-652,Intralot S.A. Integrated Lottery Systems and Services,928980,GRC,9IL,INLOT.AT,Sonstige Technologie,GRS343313003
-653,J&P-Avax S.A.,924112,GRC,IJ6,AVAX.AT,Bau/Infrastruktur,GRS213213002
-654,Jumbo S.A.,925529,GRC,5JB,BELA.AT,Konsumgüter,GRS282183003
-655,Lamda Development S.A.,691513,GRC,LDQ,LAMDA.AT,Immobilien,GRS245213004
-656,Marfin Investment Group Holdings S.A.,A0B8KZ,GRC,M3K,MIG.AT,Finanzdienstleistungen,GRS314003005
-657,Motor Oil Hellas Corinth Refineries S.A.,794038,GRC,MHZ,MOH.AT,Öl/Gas,GRS426003000
-658,Mytilineos Holdings S.A.,934398,GRC,MYH,MYTIL.AT,Industrie/Mischkonzerne,GRS393503008
-659,Piraeus Port Authority,121488,GRC,PZE,PPA.AT,Logistik/Transport,GRS470003013
-660,Plaisio Computers S.A.,919767,GRC,P8C,PLAIS.AT,Handel/E-Commerce,GRS320313000
-661,Public Power Corporation S.A.,982549,GRC,PU8,PPC.AT,Versorger,GRS434003000
-662,Quest Holdings S.A.,A1XA84,GRC,9IVA,QUEST.AT,IT-Dienstleistungen,GRS310003009
-663,Technical Olympic S.A.,A1C4BZ,GRC,TQZA,OLYMP.AT,Industrie/Mischkonzerne,GRS403003007
-664,Terna Energy SA,A0M62T,GRC,44T,TENERGY.AT,Erneuerbare Energien,GRS496003005
-665,Thessaloniki Port Authority S.A.,691532,GRC,03P,OLTH.AT,Logistik/Transport,GRS427003009
-666,Thessaloniki Water Supply & Sewerage Co. S.A.,691519,GRC,T9W,EYAPS.AT,Versorger,GRS428003008
-667,Thrace Plastics Holding and Commercial S.A.,A0JC3P,GRC,TP3,PLAT.AT,Kunststoffe/Verpackungen,GRS239003007
-668,Viohalco S.A.,A1W8RU,GRC,VHC,VIO.BR,Rohstoffe,BE0974271034
-669,AMINEX PLC,872577,IRE,DOP,AEX.L,Öl/Gas,IE0003073255
-670,Aryzta AG,A0Q4FN,IRE,YZA,ARYN.SW,Nahrungsmittel/Agrar,CH0043238366
-671,C&C Group PLC,A0CA07,IRE,GCC,CCR.L,Getränke/Tabak,IE00B010DT83
-672,CRH PLC,864684,IRE,CRG,CRH.L,Bau/Infrastruktur,IE0001827041
-673,Dalata Hotel Group PLC,A1XE3D,IRE,DHG,DHG.IR,Hotels/Tourismus,IE00BJMZDW83
-674,Datalex Plc,579905,IRE,,DLE.IR,IT-Dienstleistungen,IE0000527006
-675,Diageo PLC,851247,IRE,GUI,DGE.L,Getränke/Tabak,GB0002374006
-676,Falcon Oil & Gas Ltd.,A0EALA,IRE,FAC,FO.V,Öl/Gas,CA3060711015
-677,FBD Holdings PLC,932239,IRE,EG7,EG7.IR,Finanzdienstleistungen,IE0003290289
-678,First Derivatives PLC,911641,IRE,GYQ,FDP.L,Dienstleistungen,GB0031477770
-679,Flutter Entertainment PLC,A14RX5,IRE,PPB,FLTR.L,Unterhaltung,IE00BWT6H894
-680,Glanbia PLC,883867,IRE,GL9,GL9.IR,Nahrungsmittel/Agrar,IE0000669501
-681,Great Western Mining Corp.,A0RM2C,IRE,8GW,GWMO.L,Rohstoffe,IE00B1FR8863
-682,Hibernia REIT PLC,A1W860,IRE,not_found,not_found,not_found,not_found
-683,Irish Continental Group PLC,A112M8,IRE,IR5B,ICGC.L,Logistik/Transport,IE00BLP58571
-684,IRISH RES.PPTYS REIT,A1XEQV,IRE,IRES,IRES.IR,Immobilien,IE00BJ34P519
-685,Kerry Group PLC,886291,IRE,KRZ,KYGA.L,Nahrungsmittel/Agrar,IE0004906560
-686,Kingspan Group PLC,905605,IRE,KRX,KRX.IR,Bau/Infrastruktur,IE0004927939
-687,Mincon Group PLC,A1W5BS,IRE,MIO,MCON.L,Maschinenbau,IE00BD64C665
-688,Ovoca Gold PLC,A0YG05,IRE,OVXA,OVXA.IR,Biotechnologie,IE00B4XVDC01
-689,Permanent TSB Group Holdings PLC,A14P7U,IRE,IL0A,OVXA.IR,Finanzdienstleistungen,IE00BWB8X525
-690,Petroneft Resources PLC,A0LA4N,IRE,P8ET,OVXA.IR,Öl/Gas,IE00B0Q82B24
-691,Providence Resources PLC,A1CWXB,IRE,PZQA,OVXA.IR,Öl/Gas,IE00B66B5T26
-692,Smurfit Kappa Group PLC,A0MLCS,IRE,SK3,OVXA.IR,Holz/Papier,IE00B1RR8406
-693,Tesco PLC,852647,IRE,not_found,not_found,not_found,not_found
-694,Total Produce PLC,A0LEN8,IRE,not_found,not_found,not_found,not_found
-695,Tullow Oil PLC,591219,IRE,TQW,OVXA.IR,Öl/Gas,GB0001500809
-696,A.S. Roma S.p.A.,938439,IT,RO9,ASR.MI,Freizeitprodukte,IT0001008876
-697,A2A S.p.A.,915445,IT,EAM,ASR.MI,Versorger,IT0001233417
-698,Acea S.p.A.,924293,IT,DCA,A2A.MI,Versorger,IT0001207098
-699,Aeffe S.p.A.,A0MW4X,IT,3A1,AEF.MI,Bekleidung/Textil,IT0001384590
-700,Aegon N.V.,A0JL2Y,IT,AEND,AGN.AS,Finanzdienstleistungen,NL0000303709
-701,Aeroporto Guglielmo Marconi di Bologna S.p.A.,A14WKT,IT,169,AGN.AS,Logistik/Transport,IT0001006128
-702,Ageas SA/NV,A1J1DR,IT,FO4N,ADB.MI,Finanzdienstleistungen,BE0974264930
-703,Alerion Cleanpower S.p.A.,A1JAJM,IT,FCW3,AGS.BR,Versorger,IT0004720733
-704,Allianz SE,840400,IT,ALV,ALV.DE,Finanzdienstleistungen,DE0008404005
-705,Ambienthesis S.p.A.,910867,IT,SJW,ALV.DE,Bau/Infrastruktur,IT0001042297
-706,Amplifon S.p.A.,A0JMJX,IT,AXNA,ATH.MI,Sonstige Technologie,IT0004056880
-707,Anima Holding S.p.A.,A110YL,IT,124,ANIM.MI,Finanzdienstleistungen,IT0004998065
-708,Arnoldo Mondadori Editore S.p.A.,874533,IT,MDD,MN.MI,Medien,IT0001469383
-709,Ascopiave s.p.a.,A0LF39,IT,AVA,ASC.MI,Versorger,IT0004093263
-710,Assicurazioni Generali S.p.A.,850312,IT,ASG,G.MI,Finanzdienstleistungen,IT0000062072
-711,Atlantia S.p.A.,913220,IT,AU9,ATL.MI,Bau/Infrastruktur,IT0003506190
-712,Autogrill S.p.A.,908497,IT,AUL,AGL.MI,Nahrungsmittel/Agrar,IT0001137345
-713,Avio S.p.A.,A14XKE,IT,2ZP,AVIO.MI,Luftfahrt/Rüstung,IT0005119810
-714,Azimut Holding S.p.A.,A0B6Q3,IT,HDB,AZM.MI,Finanzdienstleistungen,IT0003261697
-715,B&C Speakers SPA,A0MXCK,IT,37B,BEC.MI,Sonstige Technologie,IT0001268561
-716,Banca Finnat Euramerica S.p.A.,861627,IT,TQ9,BFE.MI,Finanzdienstleistungen,IT0000088853
-717,Banca Generali S.p.A.,A0LCVJ,IT,B7A,BGN.MI,Finanzdienstleistungen,IT0001031084
-718,Banca Ifis S.p.A.,764940,IT,0I6,IF.MI,Finanzdienstleistungen,IT0003188064
-719,Banca Popolare di Sondrio S.C.a.R.L.,918561,IT,593,BPSO.MI,Finanzdienstleistungen,IT0000784196
-720,Banca Sistema S.p.A.,A14V3M,IT,B2S,BST.MI,Finanzdienstleistungen,IT0003173629
-721,Banco di Desio e della Brianza S.p.A.,918471,IT,BJ7,BDB.MI,Finanzdienstleistungen,IT0001041000
-722,Banco Santander S.A.,858872,IT,BSD2,SAN.MC,Finanzdienstleistungen,ES0113900J37
-723,BasicNet S.p.A.,929285,IT,BCJ,BAN.MI,Handel/E-Commerce,IT0001033700
-724,Bastogi S.p.A.,A0RA4Y,IT,BAOA,B.MI,Immobilien,IT0004412497
-725,Bayerische Motoren Werke AG,519000,IT,BMW,BMW.DE,Fahrzeuge,DE0005190003
-726,BB Biotech AG,A0NFN3,IT,BBZA,BION.SW,Biotechnologie,CH0038389992
-727,"Be Think, Solve, Execute S.p.A.",580873,IT,DAF,BEST.MI,IT-Dienstleistungen,IT0001479523
-728,Bialetti Industrie S.p.A.,A0MXBQ,IT,32B,BIA.MI,Konsumgüter,IT0004222102
-729,Biesse S.p.A.,675689,IT,BI2,BSS.MI,Maschinenbau,IT0003097257
-730,"BORGOSESIA  EO 1,20",918562,IT,Ticker-Symbol:,BO.MI,Finanzdienstleistungen,IT0003217335
-731,BPER BANCA EO 3,897832,IT,4BE,BPE.MI,Finanzdienstleistungen,IT0000066123
-732,Brunello Cucinelli S. P. A.,A1JWYK,IT,8BU,BC.MI,Bekleidung/Textil,IT0004764699
-733,Buzzi Unicem S.p.A.,925963,IT,UCM,BZU.MI,Bau/Infrastruktur,IT0001347308
-734,Cairo Communication S.p.A.,A0NEXV,IT,CI1A,CAI.MI,Medien,IT0004329733
-735,Caltagirone Editore S. p. A,502374,IT,EDJ,CED.MI,Medien,IT0001472171
-736,Caltagirone S.p.A.,879496,IT,QCG,CALT.MI,Industrie/Mischkonzerne,IT0003127930
-737,Carrefour S.A.,852362,IT,CAR,CA.PA,Handel/E-Commerce,FR0000120172
-738,"CIR SPA EO 0,50",870291,IT,BN7,CIR.MI,Industrie/Mischkonzerne,IT0000070786
-739,CNH Industrial N.V.,A1W599,IT,37C,CNHI,Industrie/Mischkonzerne,NL0010545661
-740,Credit Agricole S.A.,982285,IT,XCA,ACA.PA,Finanzdienstleistungen,FR0000045072
-741,Credito Emiliano S.P.A.,866464,IT,EAO,CE.MI,Finanzdienstleistungen,IT0003121677
-742,CTI BioPharma Corp.,A115FF,IT,not_found,not_found,not_found,not_found
-743,D AMICO INTL SHIP.SA,A0MQCH,IT,B7C,DIS.MI,Logistik/Transport,LU0290697514
-744,Danieli & C. - Officine Meccaniche S.p.A.,868988,IT,DAS,DAN.MI,Eisen/Stahl,IT0000076502
-745,Danone S.A.,851194,IT,BSN,BN.PA,Nahrungsmittel/Agrar,FR0000120644
-746,Datalogic S.p.A.,A0JMQC,IT,DT8A,DAL.MI,Elektrotechnologie,IT0004053440
-747,"DE' LONGHI S.P.A. EO 1,5",694642,IT,DLN,DLG.MI,Konsumgüter,IT0003115950
-748,DeA Capital S.p.A.,936385,IT,CWH,DEA.MI,Finanzdienstleistungen,IT0001431805
-749,Deutsche Bank AG,514000,IT,DBK,DBK.DE,Finanzdienstleistungen,DE0005140008
-750,Deutsche Telekom AG,555750,IT,DTE,DTE.DE,Telekom,DE0005557508
-751,DiaSorin S.p.A.,A0MTB2,IT,34D,DIA.MI,Gesundheitswesen,IT0003492391
-752,Digital Bros S.P.A.,588267,IT,DB7,DIB.MI,Unterhaltung,IT0001469995
-753,E.ON SE,ENAG99,IT,EOAN,EOAN.DE,Versorger,DE000ENAG999
-754,EDISON SPA   RISP.NC EO 1,164219,IT,not_found,not_found,not_found,not_found
-755,EEMS Italia S.p.A.,A0JK0E,IT,E2Y,EEMS.MI,Halbleiter,IT0001498234
-756,Elica SpA,A0LEFE,IT,7L4,ELC.MI,Konsumgüter,IT0003404214
-757,Emak,918616,IT,EK4,EM.MI,Maschinenbau,IT0001237053
-758,Engie S.A.,A0ER6Q,IT,GZF,ENGI.PA,Versorger,FR0010208488
-759,ENI S.p.A.,897791,IT,ENI,ENI.MI,Versorger,IT0003132476
-760,EPRICE S.P.A.,A14NQF,IT,BZA,EPR.MI,Internet,IT0005084717
-761,ERG S.p.A.,909581,IT,ER9,ERG.MI,Öl/Gas,IT0001157020
-762,Esprinet S.p.A.,A0EQ3J,IT,EP4A,PRT.MI,Handel/E-Commerce,IT0003850929
-763,Eurotech S.p.A.,A0HL7K,IT,E5T,ETH.MI,Elektrotechnologie,IT0003895668
-764,Exprivia S.p.A.,929391,IT,IW7,XPR.MI,Software,IT0001477402
-765,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,A1W96K,IT,3S0,FILA.MI,Konsumgüter,IT0004967292
-766,Falck Renewables S.p.A.,541859,IT,,FKR.MI,Erneuerbare Energien,IT0003198790
-767,Fidia S.p.A.,589983,IT,FIC,FDA.MI,Sonstige Technologie,IT0001498481
-768,Fincantieri S.p.A.,A1161U,IT,1F8,FCT.MI,Maschinenbau,IT0001415246
-769,FinecoBank S.p.A.,A116MH,IT,ZS3,FBK.MI,Finanzdienstleistungen,IT0000072170
-770,FNM SpA,918564,IT,8FN,FNM.MI,Logistik/Transport,IT0000060886
-771,FULLSIX,940046,IT,IA6,FUL.MI,Dienstleistungen,IT0001487047
-772,Gas Plus S.p.A.,A0LFL3,IT,T9O,GSP.MI,Öl/Gas,IT0004098510
-773,Gefran S.p.A.,918615,IT,GF7,GE.MI,Sonstige Technologie,IT0003203947
-774,Geox S.p.A.,A0DNCF,IT,GHH,GEO.MI,Bekleidung/Textil,IT0003697080
-775,GEQUITY S.P.A.,A1W2ZE,IT,Ticker-Symbol:,GEQ.MI,Finanzdienstleistungen,IT0004942915
-776,Gruppo MutuiOnline S.p.A.,A0MUDJ,IT,MNL,MOL.MI,Internet,IT0004195308
-777,Hera S.p.A.,471473,IT,HE9,HER.MI,Versorger,IT0001250932
-778,I GRANDI VIAGGI,A14T3X,IT,95H,IGV.MI,Hotels/Tourismus,IT0005108219
-779,Immsi S.p.A.,934585,IT,IMY,IMS.MI,Immobilien,IT0001413837
-780,Infrastrutture Wireless Italiane S.p.A.,A14UAV,IT,WI8,INW.MI,Telekom,IT0005090300
-781,Intek Group S.p.A.,A1CSQF,IT,MTJ3,IKG.MI,Rohstoffe,IT0004552359
-782,Interpump Group S.P.A.,904257,IT,8IG,IP.MI,Maschinenbau,IT0001078911
-783,Intesa Sanpaolo S.p.A.,850605,IT,IES,ISP.MI,Finanzdienstleistungen,IT0000072618
-784,IRCE S.p.A.,904351,IT,IRQ,IRC.MI,Elektrotechnologie,IT0001077780
-785,Iren S.p.A.,591767,IT,TZ8,IRE.MI,Versorger,IT0003027817
-786,IT Way SpA,677459,IT,IW3,ITW.MI,IT-Dienstleistungen,IT0003057624
-787,Juventus Football Club S.p.A.,794314,IT,JUVE,JUVE.MI,Freizeitprodukte,IT0000336518
-788,Kering S.A.,851223,IT,PPX,KER.PA,Handel/E-Commerce,FR0000121485
-789,Koninklijke Philips N.V.,940602,IT,PHI1,PHIA.AS,Elektrotechnologie,NL0000009538
-790,La Doria S.p.A.,898038,IT,,LD.MI,Nahrungsmittel/Agrar,IT0001055521
-791,Landi Renzo S.p.A.,A0MUQC,IT,ARQ,LR.MI,Fahrzeuge,IT0004210289
-792,Leonardo S.p.A.,A0ETQX,IT,FMNB,LDO.MI,Industrie/Mischkonzerne,IT0003856405
-793,LVENTURE GROUP S.P.A.,A1131T,IT,Ticker-Symbol:,LVEN.MI,Finanzdienstleistungen,IT0005013013
-794,LVMH Moet Hennessy Louis Vuitton SE,853292,IT,MOH,MC.PA,Konsumgüter,FR0000121014
-795,Maire Tecnimont S.p.A.,A1W0E6,IT,3OY1,MT.MI,Bau/Infrastruktur,IT0004931058
-796,Marr S.p.A.,A0ERXE,IT,M6Z,MARR.MI,Nahrungsmittel/Agrar,IT0003428445
-797,Mediaset S.p.A.,901402,IT,not_found,not_found,not_found,not_found
-798,Mediobanca - Banca di Credito Finanziario S.p.A.,851715,IT,ME9,MB.MI,Finanzdienstleistungen,IT0000062957
-799,Mercedes-Benz Group AG,710000,IT,MBG,MBG.DE,Fahrzeuge,DE0007100000
-800,Moncler S.p.A.,A1W66W,IT,MOV,MONC.MI,Bekleidung/Textil,IT0004965148
-801,Mondo TV S.p.A,615213,IT,MJE,MTV.MI,Medien,IT0001447785
-802,Monrif SpA,874684,IT,MO9,MON.MI,Medien,IT0000066016
-803,Münchener Rückversicherungs-Gesellschaft AG in München,843002,IT,MUV2,MUV2.DE,Finanzdienstleistungen,DE0008430026
-804,Netweek SpA,A1J1CH,IT,DMMN,NTW.MI,Medien,IT0004819030
-805,Orange S.A.,906849,IT,FTE,ORA.PA,Telekom,FR0000133308
-806,"OREAL (L') INH. EO 0,2",853888,IT,LOR,OR.PA,Konsumgüter,FR0000120321
-807,OVS S.p.A.,A14PJ1,IT,0OV1,OVS.MI,Handel/E-Commerce,IT0005043507
-808,Piaggio & C. S.p.A.,A0H0Y6,IT,P1I,PIA.MI,Fahrzeuge,IT0003073266
-809,Pininfarina S.p.A.,871485,IT,PNF,PINF.MI,Fahrzeuge,IT0003056386
-810,Piquadro SpA,A0M55D,IT,4LZ,PQ.MI,Bekleidung/Textil,IT0004240443
-811,PRIMA INDUSTRIE S.P.A.,928888,IT,PA6,PRI.MI,Maschinenbau,IT0003124663
-812,Prysmian S.p.A.,A0MP84,IT,AEU,PRY.MI,Sonstige Technologie,IT0004176001
-813,RAI Way SpA,A12FBT,IT,4RW,RWAY.MI,Telekom,IT0005054967
-814,RCS MediaGroup S.p.A.,A1WZXW,IT,HPI2,RCS.MI,Medien,IT0004931496
-815,Recordati - Industria Chimica e Farmaceutica S.p.A.,A0EABR,IT,RER1,REC.MI,Biotechnologie,IT0003828271
-816,Renault S.A.,893113,IT,RNL,RNO.PA,Fahrzeuge,FR0000131906
-817,Risanamento SpA,590339,IT,RN5,RN.MI,Immobilien,IT0001402269
-818,RWE AG,703712,IT,RWE,RWE.DE,Versorger,DE0007037129
-819,Sabaf S.p.A.,918614,IT,SM5,SAB.MI,Sonstige Technologie,IT0001042610
-820,Salvatore Ferragamo Italia S.p.A.,A1JB7F,IT,S9L,SFER.MI,Konsumgüter,IT0004712375
-821,Sanofi S.A.,920657,IT,SNW,SAN.PA,Pharma,FR0000120578
-822,SAP SE,716460,IT,SAP,SAP.DE,Software,DE0007164600
-823,Saras S.p.A. Raffinerie Sarde,A0JL4P,IT,S7A,SRS.MI,Öl/Gas,IT0000433307
-824,Sesa S.p.A.,A1JCG0,IT,1S3,SES.MI,IT-Dienstleistungen,IT0004729759
-825,Siemens AG,723610,IT,SIE,SIE.DE,Elektrotechnologie,DE0007236101
-826,Societa Cattolica di Assicurazioni S.p.A.,615355,IT,XCW,CASS.MI,Finanzdienstleistungen,IT0000784154
-827,Societa Sportiva Lazio S.p.A.,A0BMUB,IT,LZO1,SSL.MI,Freizeitprodukte,IT0003621783
-828,Societe Generale S.A.,873403,IT,SGE,GLE.PA,Finanzdienstleistungen,FR0000130809
-829,Sogefi S.p.A.,875920,IT,GEF,SO.MI,Fahrzeuge,IT0000076536
-830,Sol S.p.A.,915322,IT,QOL,SOL.MI,Chemie,IT0001206769
-831,STMicroelectronics N.V.,893438,IT,SGM,STM.PA,Halbleiter,NL0000226223
-832,Tamburi Investment Partners S.p.A.,A0HG7H,IT,T1I,TIP.MI,Finanzdienstleistungen,IT0003153621
-833,Telecom Italia S.p.A.,120471,IT,TQIR,TITR.MI,Telekom,IT0003497176
-834,Telecom Italia S.p.A.,120470,IT,TQI,TIT.MI,Telekom,IT0003497168
-835,Telefonica S.A.,850775,IT,TNE5,TEF.MC,Telekom,ES0178430E18
-836,Tenaris S.A.,164557,IT,TW11,TEN.MI,Eisen/Stahl,LU0156801721
-837,Terna S.P.A.,A0B5N8,IT,UEI,TRN.MI,Erneuerbare Energien,IT0003242622
-838,TERNIENERGIA S.P.A.,A0Q68R,IT,TI5,ALW.MI,Erneuerbare Energien,IT0004359037
-839,TESMEC S.P.A.,A1C1G1,IT,2GV,TES.MI,Maschinenbau,IT0004585243
-840,TOD'S SPA EO 2,588738,IT,TOB,TOD.MI,Bekleidung/Textil,IT0003007728
-841,TotalEnergies SE,850727,IT,TOTB,TTE.PA,Öl/Gas,FR0000120271
-842,UnipolSai Assicurazioni S.p.A.,A1J0SG,IT,SOAN,US.MI,Finanzdienstleistungen,IT0004827447
-843,Vivendi S.A.,591068,IT,VVU,VIV.PA,Unterhaltung,FR0000127771
-844,Zignago Vetro SPA,A0MSP6,IT,ZVB,ZV.MI,Kunststoffe/Verpackungen,IT0004171440
-845,Aalberts Industries N.V.,A0MQ1F,NL,AACA,AALB.AS,Industrie/Mischkonzerne,NL0000852564
-846,Accell Group N.V.,A1JADL,NL,AO1B,ACCEL.AS,Konsumgüter,NL0009767532
-847,Accsys Technologies PLC,A12A7G,NL,1D8,AXS.L,Holz/Papier,GB00BQQFX454
-848,Advanced Metallurgical Group NV,A0MWED,NL,ADG,AMG.AS,Eisen/Stahl,NL0000888691
-849,Aegon N.V.,A0JL2Y,NL,AEND,AGN.AS,Finanzdienstleistungen,NL0000303709
-850,AFC Ajax N.V.,A0H0RS,NL,AJXA,AJAX.AS,Freizeitprodukte,NL0000018034
-851,Air France-KLM S.A.,855111,NL,AFR,AF.PA,Luftfahrt/Rüstung,FR0000031122
-852,Amsterdam Commodities N.V.,852176,NL,8AC,ACOMO.AS,Nahrungsmittel/Agrar,NL0000313286
-853,AND International Publishers N.V.,915080,NL,B1Z,GOJXN.AS,IT-Dienstleistungen,NL0000430106
-854,Arcadis N.V.,A0Q163,NL,HIJ2,ARCAD.AS,Bau/Infrastruktur,NL0006237562
-855,ASM International N.V.,868730,NL,AVS,ASM.AS,Halbleiter,NL0000334118
-856,ASML Holding N.V.,A1J4U4,NL,ASME,ASML.AS,Halbleiter,NL0010273215
-857,Assicurazioni Generali S.p.A.,850312,NL,ASG,G.MI,Finanzdienstleistungen,IT0000062072
-858,Atrium European Real Estate Ltd.,A0X963,NL,ODDB,not_found,Immobilien,JE00B3DCF752
-859,Banco Santander S.A.,858872,NL,BSD2,SAN.MC,Finanzdienstleistungen,ES0113900J37
-860,Beter Bed Holding N.V.,A0JMCY,NL,BBQ,BBED.AS,Konsumgüter,NL0000339703
-861,Boeing Co.,850471,NL,BCO,BA,Luftfahrt/Rüstung,US0970231058
-862,Brookfield Asset Management Inc.,A0HNRY,NL,BKAA,BAM-A.TO,Finanzdienstleistungen,CA1125851040
-863,Brunel International N.V.,A115DT,NL,3BY3,BRNL.AS,Dienstleistungen,NL0010776944
-864,Chevron Corp.,852552,NL,CHV,CVX,Öl/Gas,US1667641005
-865,Cisco Systems Inc.,878841,NL,CIS,CSCO,Netzwerktechnik,US17275R1023
-866,Corbion N.V.,A1W60Y,NL,CSUA,CRBN.AS,Nahrungsmittel/Agrar,NL0010583399
-867,Core Laboratories N.V.,897269,NL,CEI,CLB,Öl/Gas,NL0000200384
-868,CTAC N.V.,912784,NL,TAC,CTAC.AS,IT-Dienstleistungen,NL0000345577
-869,Deutsche Telekom AG,555750,NL,DTE,DTE.DE,Telekom,DE0005557508
-870,Docdata N.V.,A0B8R8,NL,DOC2,EAS2P.AS,Medien,NL0000345627
-871,E.ON SE,ENAG99,NL,EOAN,EOAN.DE,Versorger,DE000ENAG999
-872,ENI S.p.A.,897791,NL,ENI,ENI.MI,Versorger,IT0003132476
-873,Esperite N.V.,A0YB5B,NL,5C1A,ESP.AS,Gesundheitswesen,NL0009272137
-874,Eurocastle Investment Ltd.,A1T985,NL,1V9,ECT.AS,Finanzdienstleistungen,GB00B94QM994
-875,EUROCOMMERCIAL PROPERTIES N.V.,974885,NL,not_found,not_found,not_found,not_found
-876,Euronext N.V.,A115MJ,NL,ENXB,ENX.PA,Finanzdienstleistungen,NL0006294274
-877,Fargon N.V.,A0M103,NL,4A5,FAGR.BR,Gesundheitswesen,BE0003874915
-878,Flow Traders N.V.,A14V70,NL,8FT,FLOW.AS,Finanzdienstleistungen,NL0011279492
-879,Foot Locker Inc.,877539,NL,WOO,FL,Handel/E-Commerce,US3448491049
-880,Fugro N.V.,A0ET3V,NL,not_found,not_found,not_found,not_found
-881,Galapagos N.V.,A0EAT9,NL,GXE,GLPG.AS,Biotechnologie,BE0003818359
-882,Grandvision B.V.,A14M4D,NL,not_found,not_found,not_found,not_found
-883,Hal Trust,864247,NL,HA4,HAL.AS,Finanzdienstleistungen,BMG455841020
-884,Harbourvest Global Private Equity Ltd.,A12C4N,NL,9JF,HVPE.L,Finanzdienstleistungen,GG00BR30MJ80
-885,Heijmans N.V.,A0YBCH,NL,HJN1,HEIJM.AS,Bau/Infrastruktur,NL0009269109
-886,Heineken Holding N.V.,A0ETXG,NL,4H5,HEIO.AS,Getränke/Tabak,NL0000008977
-887,Heineken N.V.,A0CA0G,NL,HNK1,HEIA.AS,Getränke/Tabak,NL0000009165
-888,Holland Colours N.V.,A0ETVC,NL,HCY,HOLCO.AS,Chemie,NL0000440311
-889,Hunter Douglas N.V.,855243,NL,HUD,HDG.AS,Bau/Infrastruktur,ANN4327C1220
-890,IMCD N.V.,A116P8,NL,INX,IMCD.AS,Chemie,NL0010801007
-891,Intel Corp.,855681,NL,INL,INTC,Halbleiter,US4581401001
-892,International Business Machines Corp.,851399,NL,IBM,IBM,Hardware,US4592001014
-893,Kendrion N.V.,A0MN1X,NL,K3E,KENDR.AS,Maschinenbau,NL0000852531
-894,Klepierre S.A.,863272,NL,KPR,LI.PA,Immobilien,FR0000121964
-895,Koninklijke BAM Groep N.V.,A0JMJ1,NL,BGPA,BAMNB.AS,Bau/Infrastruktur,NL0000337319
-896,Koninklijke Boskalis Westminster N.V.,A0MR3M,NL,KBWA,BOKA.AS,Bau/Infrastruktur,NL0000852580
-897,Koninklijke DSM N.V.,A0JLZ7,NL,DSM2,DSM.AS,Chemie,NL0000009827
-898,Koninklijke KPN N.V.,890963,NL,KPN,KPN.AS,Telekom,NL0000009082
-899,Koninklijke Philips N.V.,940602,NL,PHI1,PHIA.AS,Elektrotechnologie,NL0000009538
-900,Koninklijke Vopak N.V.,A1CYGK,NL,VPK5,VPK.AS,Logistik/Transport,NL0009432491
-901,Lucas Bols N.V.,A14MCV,NL,LUA,BOLS.AS,Getränke/Tabak,NL0010998878
-902,Marathon Oil Corp.,852789,NL,USS,MRO,Öl/Gas,US5658491064
-903,Microsoft Corp.,870747,NL,MSF,MSFT,Software,US5949181045
-904,Münchener Rückversicherungs-Gesellschaft AG in München,843002,NL,MUV2,MUV2.DE,Finanzdienstleistungen,DE0008430026
-905,NB Private Equity Partners Ltd.,A0MXLB,NL,31X,NBPE.L,Finanzdienstleistungen,GG00B1ZBD492
-906,Nedsense Enterprises NV,A0YJZ4,NL,BFE,NEDSE.AS,Software,NL0009312842
-907,Neways Electronics Intl. N.V.,872290,NL,6NB,NEWAY.AS,Halbleiter,NL0000440618
-908,NN Group N.V.,A115DY,NL,2NN,NN.AS,Finanzdienstleistungen,NL0010773842
-909,NV Nederlandsche Apparatenfabriek Nedap,851851,NL,NE3,NEDAP.AS,Sonstige Technologie,NL0000371243
-910,Occidental Petroleum Corp.,851921,NL,OPC,OXY,Öl/Gas,US6745991058
-911,OCI N.V.,A1W4QF,NL,OIC,OCI.AS,Bau/Infrastruktur,NL0010558797
-912,Ordina N.V.,878074,NL,ORA,ORDI.AS,IT-Dienstleistungen,NL0000440584
-913,"PepsiCo, Inc.",851995,NL,PEP,PEP,Getränke/Tabak,US7134481081
-914,Pershing Square Holdings Ltd.,A12C4S,NL,7P2,PSH.AS,Finanzdienstleistungen,GG00BPFJTF46
-915,Pharming Group N.V.,A1H65A,NL,PHGN,PHARM.AS,Biotechnologie,NL0010391025
-916,PostNL N.V.,A1JJQC,NL,TNTC,PNL.AS,Logistik/Transport,NL0009739416
-917,Randstad N.V.,879309,NL,RSH,RAND.AS,Dienstleistungen,NL0000379121
-918,Roodmicrotec NV,872037,NL,ROO,ROOD.AS,Halbleiter,NL0000440477
-919,Royal Dutch Shell PLC,A0ER6S,NL,not_found,not_found,not_found,not_found
-920,SBM Offshore N.V.,A0JLZV,NL,IHCB,SBMO.AS,Öl/Gas,NL0000360618
-921,Shell PLC,A0D94M,NL,not_found,not_found,not_found,not_found
-922,Siemens AG,723610,NL,SIE,SIE.DE,Elektrotechnologie,DE0007236101
-923,Sligro Food Group N.V.,A0MP74,NL,8SF,SLIGR.AS,Nahrungsmittel/Agrar,NL0000817179
-924,SnowWorld N.V.,A1XAF6,NL,FN71,SNOW.AS,Hotels/Tourismus,NL0010627865
-925,Telecom Italia S.p.A.,120470,NL,TQI,TIT.MI,Telekom,IT0003497168
-926,Telefonica S.A.,850775,NL,TNE5,TEF.MC,Telekom,ES0178430E18
-927,Thunderbird Resorts Inc,A0M775,NL,4TR,THRSF,Hotels/Tourismus,VGG885761061
-928,Tie Kinetix N.V.,A1KCMJ,NL,TJH7,TIE.AS,IT-Dienstleistungen,NL0010389508
-929,TKH Group N.V.,A0MQWT,NL,TWSA,TWEKA.AS,Sonstige Technologie,NL0000852523
-930,Unilever N.V.,A0JMQ9,NL,not_found,not_found,not_found,not_found
-931,UNION PACIFIC CORP.,858144,NL,UNP,UNP,Logistik/Transport,US9078181081
-932,Van Lanschot Kempen N.V.,923948,NL,VA3,VLK.AS,Finanzdienstleistungen,NL0000302636
-933,Vastned Retail N.V.,971488,NL,VB2,VASTN.AS,Immobilien,NL0000288918
-934,Verizon Communications Inc.,868402,NL,BAC,VZ,Telekom,US92343V1044
-935,Volkswagen AG,766400,NL,VOW,VOW.DE,Fahrzeuge,DE0007664005
-936,Volta Finance Ltd.,A0LGE6,NL,3V7,VTA.AS,Finanzdienstleistungen,GG00B1GHHH78
-937,Wereldhave N.V.,853289,NL,WER,WHA.AS,Immobilien,NL0000289213
-938,Wolters Kluwer N.V.,A0J2R1,NL,WOSB,WKL.AS,Medien,NL0000395903
-939,Cofina SGPS S.A.,912517,PT,112,CFN.LS,Medien,PTCFN0AE0003
-940,Corticeira Amorim - Sociedade Gestora Participacoes Sociais S.A.,875180,PT,AS4,COR.LS,Bau/Infrastruktur,PTCOR0AE0006
-941,CTT - Correios de Portugal S.A.,A1W9RB,PT,C7T,CTT.LS,Logistik/Transport,PTCTT0AM0001
-942,EDP - Energias de Portugal S.A.,906980,PT,EDP,EDP.LS,Versorger,PTEDP0AM0009
-943,Galp Energia SGPS S.A.,A0LB24,PT,GZ5,GALP.LS,Versorger,PTGAL0AM0009
-944,Glintt - Global Intelligent Technologies S.A.,A0MX4J,PT,PAJA,GLINT.LS,IT-Dienstleistungen,PTPAD0AM0007
-945,Grupo Media Capital SGPS S.A.,A0B9WT,PT,GQV,MCP.LS,Internet,PTGMC0AM0003
-946,"Inapa-Investimentos, Participacoes e Gestao S.A.",872598,PT,IPB,INA.LS,Holz/Papier,PTINA0AP0008
-947,"Jeronimo Martins, SGPS, S.A.",878605,PT,JEM,JMT.LS,Handel/E-Commerce,PTJMT0AE0001
-948,Martifer SGPS S.A.,A0MVD4,PT,FRW,MAR.LS,Bau/Infrastruktur,PTMFR0AM0003
-949,MOTA-ENGIL SGPS S.A.,896770,PT,M09,EGL.LS,Bau/Infrastruktur,PTMEN0AE0005
-950,Navigator Company S.A.,895885,PT,PO9,NVG.LS,Holz/Papier,PTPTI0AM0006
-951,"NOS, SGPS, S.A.",A0NEHN,PT,PMV,NOS.LS,Medien,PTZON0AM0006
-952,NOVABASE SGPS S.A.,501816,PT,NVQ,NVQ.F,IT-Dienstleistungen,PTNBA0AM0006
-953,"REN - Redes Energeticas Nacionais, SGPS, S.A.",A0MVJA,PT,RN4,RENE.LS,Versorger,PTREL0AM0008
-954,"Semapa - Sociedade de Investimento e Gestao S.G.P.S., S.A.",485513,PT,SQQ1,SEM.LS,Bau/Infrastruktur,PTSEM0AM0004
-955,Sonae SGPS S.A.,A0QZ4X,PT,YSON,SON.LS,Industrie/Mischkonzerne,PTSON0AM0001
-956,Sonaecom SGPS SA,A0Q0AF,PT,XOA1,SNC.LS,Telekom,PTSNC0AM0006
-957,Sporting Lissabon,918665,PT,SCG,SCP.LS,Freizeitprodukte,PTSCP0AM0001
-958,Teixeira Duarte S.A.,A1C3ME,PT,TXC2,TDSA.LS,Bau/Infrastruktur,PTTD10AM0000
-959,ABO-Group Environment S.A.,A119RF,BEL,3T61,ABO.BR,Dienstleistungen,BE0974278104
-960,Ackermans & van Haaren N.V.,869057,BEL,B3K,ACKB.BR,Industrie/Mischkonzerne,BE0003764785
-961,Aedifica SICAFI S.A.,A0LCUN,BEL,AOO,AED.BR,Immobilien,BE0003851681
-962,Ageas SA/NV,A1J1DR,BEL,FO4N,AGS.BR,Finanzdienstleistungen,BE0974264930
-963,Agfa-Gevaert N.V.,920872,BEL,AGE,AGFB.BR,Elektrotechnologie,BE0003755692
-964,Argenx SE,A11602,BEL,1AE,ARGX.BR,Biotechnologie,NL0010832176
-965,Ascencio S.C.A. SICAFI,A0MK4T,BEL,ZYY,ASC.BR,Immobilien,BE0003856730
-966,Banque Nationale Belgique S.A.,850398,BEL,BKB,BNB.BR,Finanzdienstleistungen,BE0003008019
-967,Befimmo S.A.,922314,BEL,VJ6,BEFB.BR,Immobilien,BE0003678894
-968,Biocartis Group NV,A14R82,BEL,8XB,BCART.BR,Gesundheitswesen,BE0974281132
-969,Bone Therapeutics S.A.,A14NHV,BEL,BT1,BOTHE.BR,Biotechnologie,BE0974280126
-970,bpost S.A.,A1W0FA,BEL,13B,BPOST.BR,Logistik/Transport,BE0974268972
-971,Care Property Invest S.A.,A110SW,BEL,8OM,CPINV.BR,Immobilien,BE0974273055
-972,Celyad S.A.,A1W7Q9,BEL,1C0,CYAD.BR,Biotechnologie,BE0974260896
-973,Cie d´ Enterprises CFE- CFE SA,A0NDYN,BEL,C70,CFEB.BR,Bau/Infrastruktur,BE0003883031
-974,Cofinimmo S.A.,914421,BEL,COF,COFB.BR,Immobilien,BE0003593044
-975,D'IETEREN P.S.,A1H5AN,BEL,DJDA,DIE.BR,Fahrzeuge,BE0974259880
-976,Deceuninck N.V.,872417,BEL,1Z4,DECB.BR,Bau/Infrastruktur,BE0003789063
-977,Elia Group,A0ERSV,BEL,E4S,ELI.BR,Versorger,BE0003822393
-978,Engie S.A.,A0ER6Q,BEL,GZF,ENGI.PA,Versorger,FR0010208488
-979,Etablissements Franz Colruyt S.A.,A1C7HA,BEL,EFC1,COLR.BR,Handel/E-Commerce,BE0974256852
-980,Euronav S.A.,A0DNRS,BEL,OCW,EURN.BR,Logistik/Transport,BE0003816338
-981,Euronext N.V.,A115MJ,BEL,ENXB,ENX.PA,Finanzdienstleistungen,NL0006294274
-982,EVS Broadcast Equipment S.A.,A0ET8E,BEL,5E1,EVS.BR,Sonstige Technologie,BE0003820371
-983,Exmar S.A.,812880,BEL,1EX,EXM.BR,Logistik/Transport,BE0003808251
-984,Fargon N.V.,A0M103,BEL,4A5,FAGR.BR,Gesundheitswesen,BE0003874915
-985,Financiere de Tubize S.A.,A0ETZ2,BEL,FTD,TUB.BR,Pharma,BE0003823409
-986,Fluxys Belgium S.A.,A1JX9C,BEL,59FE,FLUX.BR,Logistik/Transport,BE0974265945
-987,Galapagos N.V.,A0EAT9,BEL,GXE,GLPG.AS,Biotechnologie,BE0003818359
-988,Gimv N.V.,907547,BEL,GI3,GIMB.BR,Finanzdienstleistungen,BE0003699130
-989,Greenyard N.V.,924003,BEL,2P1,GREEN.BR,Nahrungsmittel/Agrar,BE0003765790
-990,Groupe Bruxelles Lambert S.A,873222,BEL,EAI,GBLB.BR,Finanzdienstleistungen,BE0003797140
-991,Home Invest Belgium SICAFI S.A.,805814,BEL,not_found,not_found,not_found,not_found
-992,Intervest Offices,764858,BEL,IJY,INTO.BR,Immobilien,BE0003746600
-993,Ion Beam Applications S.A. IBA,914998,BEL,IOB,IBAB.BR,Sonstige Technologie,BE0003766806
-994,KBC Ancora Comm.VA,A0MU0L,BEL,KB9,KBCA.BR,Finanzdienstleistungen,BE0003867844
-995,KBC Group N.V.,854943,BEL,KDB,KBC.BR,Finanzdienstleistungen,BE0003565737
-996,KEYWARE TECHNOLOGIES S.A. ACTIONS NOM. O.N.,A0M9QW,BEL,KY3A,KEYW.BR,Sonstige Technologie,BE0003880979
-997,Kinepolis Group S.A.,A114V1,BEL,KPSN,KIN.BR,Medien,BE0974274061
-998,LEASINVEST REAL ESTATE SCA ACTIONS NOM. O.N.,936957,BEL,L3R,NEXTA.BR,Immobilien,BE0003770840
-999,Lotus Bakeries SA,877480,BEL,7LB,LOTB.BR,Nahrungsmittel/Agrar,BE0003604155
-1000,MDxHealth S.A.,A0J3N3,BEL,O6C,MDXH.BR,Biotechnologie,BE0003844611
-1001,Melexis N.V.,909765,BEL,MEX,MELE.BR,Fahrzeuge,BE0165385973
-1002,Mithra Pharmaceuticals S.A.,A14V4E,BEL,1TM,MITRA.BR,Pharma,BE0974283153
-1003,Montea SICAFI S.C.A.,A0LCLA,BEL,M8E,MONT.BR,Immobilien,BE0003853703
-1004,N.V. Bekaert S.A.,A1C8J5,BEL,BK8N,BEKB.BR,Eisen/Stahl,BE0974258874
-1005,Ontex Group N.V.,A116FD,BEL,OT7,ONTEX.BR,Konsumgüter,BE0974276082
-1006,Option N.V.,A0JKZW,BEL,OINA,OPTI.BR,Sonstige Technologie,BE0003836534
-1007,Orange Belgium S.A.,916424,BEL,MOS,OBEL.BR,Telekom,BE0003735496
-1008,Proximus S.A.,A0B9FU,BEL,BX7,PROX.BR,Telekom,BE0003810273
-1009,Qrf CommVA,A1XAXT,BEL,2QR,QRF.BR,Immobilien,BE0974272040
-1010,Recticel S.A.,853358,BEL,RCZ,REC.BR,Chemie,BE0003656676
-1011,Retail Estates SA,936956,BEL,R6N,RET.BR,Immobilien,BE0003720340
-1012,RTL Group S.A.,861149,BEL,RRTL,RRTL.DE,Medien,LU0061462528
-1013,Sofina S.A.,852448,BEL,8FS,SOF.BR,Finanzdienstleistungen,BE0003717312
-1014,Solvay S.A.,856200,BEL,SOL,SOLB.BR,Chemie,BE0003470755
-1015,Suez S.A.,A0Q418,BEL,not_found,not_found,not_found,not_found
-1016,Telenet Group Holding N.V.,A0HFV9,BEL,T4I,TNET.BR,Telekom,BE0003826436
-1017,Tessenderlo Group S.A.,852064,BEL,TEZ,TESB.BR,Chemie,BE0003555639
-1018,Thrombogenics N.V.,A0J30B,BEL,TG4,OXUR.BR,Pharma,BE0003846632
-1019,TINC Comm. VA,A14S3R,BEL,5TI,TINC.BR,Finanzdienstleistungen,BE0974282148
-1020,TotalEnergies SE,850727,BEL,TOTB,TTE.PA,Öl/Gas,FR0000120271
-1021,UCB S.A.,852738,BEL,UNC,UCB.BR,Pharma,BE0003739530
-1022,Vastned Retail Belgium NV,806919,BEL,IJX,VASTB.BR,Immobilien,BE0003754687
-1023,VGP N.V.,A0M8Y5,BEL,4V1,VGP.BR,Immobilien,BE0003878957
-1024,Viohalco S.A.,A1W8RU,BEL,VHC,VIO.BR,Rohstoffe,BE0974271034
-1025,Vranken Pommery Monopole SA,913302,BEL,9VP,VRAP.PA,Getränke/Tabak,FR0000062796
-1026,Wereldhave Belgium C.V.A. Actions Nom. o.N.,632334,BEL,WPU,WEHB.BR,Immobilien,BE0003724383
+62,Biosearch S.A.,694480,ES,not_found,not_found,not_found,not_found
+63,Bradespar S.A.,553173,ES,FXMA,BRAP3.SA,Finanzdienstleistungen,BRBRAPACNOR5
+64,Braskem S.A.,164640,ES,BRDA,BRKM5.SA,Chemie,BRBRKMACNPA4
+65,Caixabank S.A.,A0MZR4,ES,48CA,CABK.MC,Finanzdienstleistungen,ES0140609019
+66,Centrais Eletricas Brasileiras S.A.,899037,ES,L3XA,ELET6.SA,Versorger,BRELETACNPB7
+67,Cie Automotive S.A.,A0J2ML,ES,CAD,CIE.MC,Fahrzeuge,ES0105630315
+68,Clinica Baviera S.A.,A0MNAP,ES,D9Z,CBAV.MC,Gesundheitswesen,ES0119037010
+69,Companhia Energetica de Minas Gerais- CEMIG,899018,ES,CIDA,CMIG4.SA,Versorger,BRCMIGACNPR3
+70,Companhia Paranaense Energia Copel,905601,ES,ELPA,CPLE6.SA,Versorger,BRCPLEACNPB9
+71,Compania De Distribucion Integral Logista Holdings S.A.U.,A117Q0,ES,5CI,LOG.MC,Logistik/Transport,ES0105027009
+72,Corporacion Financiera Alba S.A.,860823,ES,CSV,ALB.MC,Finanzdienstleistungen,ES0117160111
+73,Deoleo S.A.,A0ET9G,ES,SC5A,OLE.MC,Nahrungsmittel/Agrar,ES0110047919
+74,Distribuidora Internacional de Alimentacion S.A.,A1JBEM,ES,DI6,DIA.MC,Handel/E-Commerce,ES0126775032
+75,Ebro Foods S.A.,914506,ES,AZU,EBRO.MC,Nahrungsmittel/Agrar,ES0112501012
+76,Elecnor S.A.,A0Q6GA,ES,EK5,ENO.MC,Bau/Infrastruktur,ES0129743318
+77,Enagas S.A.,662211,ES,EG4,ENG.MC,Öl/Gas,ES0130960018
+78,Ence Energia y Celulosa S.A.,A0MQWE,ES,ENCA,ENC.MC,Holz/Papier,ES0130625512
+79,Endesa S.A.,871028,ES,ENA,ELE.MC,Versorger,ES0130670112
+80,Ercros S.A.,A0YBXV,ES,CRS1,ECR.MC,Chemie,ES0125140A14
+81,Faes Farma S.A.,A0MKAC,ES,FFEA,FAE.MC,Pharma,ES0134950F36
+82,Ferrovial S.A.,A0DKZZ,ES,UFG,FER.MC,Bau/Infrastruktur,ES0118900010
+83,Fluidra S.A.,A0MZNB,ES,4F1,FDR.MC,Freizeitprodukte,ES0137650018
+84,Fomento de Construcciones y Contratas S.A.,883790,ES,FCC,FCC.MC,Bau/Infrastruktur,ES0122060314
+85,Gerdau S.A.,909187,ES,GDUB,GGBR4.SA,Eisen/Stahl,BRGGBRACNPR8
+86,Grifols S.A.,A2ABUQ,ES,OZTA,GRF.MC,Pharma,ES0171996087
+87,Grupo Catalana Occidente S.A.,A0J36C,ES,OCZA,GCO.MC,Finanzdienstleistungen,ES0116920333
+88,Grupo Elektra S.A.B. de C.V.,724594,ES,GE7C,ELEKTRA.MX,Industrie/Mischkonzerne,MX01EL000003
+89,Grupo Empresarial San Jose SA,A0X9FH,ES,80E,GSJ.MC,Bau/Infrastruktur,ES0180918015
+90,Grupo Ezentis S.A.,A1W97D,ES,RDT1,EZE.MC,Industrie/Mischkonzerne,ES0172708234
+91,Grupo Financiero Banorte S.A.B. de C.V.,907669,ES,4FN,GFNORTEO.MX,Finanzdienstleistungen,MXP370711014
+92,Iberdrola S.A.,A0M46B,ES,IBE1,GFNORTEO.MX,Versorger,ES0144580Y14
+93,Iberpapel Gestion S.A.,910980,ES,IBG,IBG.MC,Holz/Papier,ES0147561015
+94,Inditex,A11873,ES,IXD1,ITX.MC,Bekleidung/Textil,ES0148396007
+95,Indra Sistemas S.A.,873570,ES,IDA,IDR.MC,Software,ES0118594417
+96,International Consolidated Airlines Group S.A.,A1H6AJ,ES,INR,IAG.L,Luftfahrt/Rüstung,ES0177542018
+97,INYPSA Inform.y Proyectos S.A.,A0LBGE,ES,IRG,AI.MC,Bau/Infrastruktur,ES0152768612
+98,Laboratorios Farmaceuticos Rovi SA,A0M0GQ,ES,41L,ROVI.MC,Pharma,ES0157261019
+99,LAR Espana Real Estate SA,A1XFFA,ES,L8E,LRE.MC,Immobilien,ES0105015012
+100,Mapfre S.A.,A0LCRN,ES,CMAB,MAP.MC,Finanzdienstleistungen,ES0124244E34
+101,Mediaset Espana Comunicacion S.A.,A0B53D,ES,RWW,TL5.MC,Medien,ES0152503035
+102,Melia Hotels International S.A.,901347,ES,MEL,MEL.MC,Hotels/Tourismus,ES0176252718
+103,Merlin Properties Socimi S.A.,A116WC,ES,MEQA,MRL.MC,Immobilien,ES0105025003
+104,Miquel y Costas y Miquel S.A.,903133,ES,MQ4,MCM.MC,Holz/Papier,ES0164180012
+105,Naturgy Energy Group S.A.,853598,ES,GAN,NTGY.MC,Versorger,ES0116870314
+106,NH Hotel Group S.A.,853615,ES,NH5,NHH.MC,Hotels/Tourismus,ES0161560018
+107,OBRASCON HUARTE LAIN S.A.,882667,ES,HUA,OHLA.MC,Bau/Infrastruktur,ES0142090317
+108,Pescanova S.A.,876639,ES,PNV,OHLA.MC,Nahrungsmittel/Agrar,ES0169350016
+109,Petroleo Brasileiro S.A.,932443,ES,PJXC,PETR3.SA,Öl/Gas,BRPETRACNOR9
+110,Prim S.A.,A0JEEH,ES,5P1,PRM.MC,Gesundheitswesen,ES0170884417
+111,Prosegur - Compania de Seguridad S.A.,A1J0XW,ES,PRHA,0Q8P.IL,Dienstleistungen,ES0175438003
+112,Realia Business S.A.,A0MUDW,ES,RBS,RLIA.MC,Immobilien,ES0173908015
+113,Renta 4 Banco S.A.,A0Q5CB,ES,4RE,R4.MC,Finanzdienstleistungen,ES0173358039
+114,Repsol S.A.,876845,ES,REP,REP.MC,Öl/Gas,ES0173516115
+115,Sacyr S.A.,853624,ES,VHM,SCYR.MC,Bau/Infrastruktur,ES0182870214
+116,Siemens Gamesa Renewable Energy S.A.,A0B5Z8,ES,GTQ1,SGRE.MC,Erneuerbare Energien,ES0143416115
+117,Solaria Energia Y Medio Ambiente S.A.,A0MU98,ES,AOR,SLR.MC,Erneuerbare Energien,ES0165386014
+118,Tecnicas Reunidas S.A.,A0J3MX,ES,T5R,TRE.MC,Bau/Infrastruktur,ES0178165017
+119,Telefonica S.A.,850775,ES,TNE5,TEF.MC,Telekom,ES0178430E18
+120,Tubacex S.A.,861378,ES,TCX,TUB.MC,Eisen/Stahl,ES0132945017
+121,Tubos Reunidos S.A.,A0M2MR,ES,TU1,TRG.MC,Eisen/Stahl,ES0180850416
+122,TV Azteca S.A.B. de C.V.,A1H8JP,ES,G4Z,AZTECACPO.MX,Medien,MX01AZ060013
+123,Urbas Grupo Financiero S.A.,866504,ES,UZY,AZTECACPO.MX,Immobilien,ES0182280018
+124,Usinas Siderurgicas de Minas Gerais S.A.,924256,ES,U1S1,USIM5.SA,Eisen/Stahl,BRUSIMACNPA6
+125,Vidrala S.A.,873772,ES,VIR,VID.MC,Kunststoffe/Verpackungen,ES0183746314
+126,Viscofan S.A.,872335,ES,VIS,VIS.MC,Nahrungsmittel/Agrar,ES0184262212
+127,VOCENTO S.A.,A0H1NM,ES,VON,VOC.MC,Medien,ES0114820113
+128,Volcan Compania Minera S.A.A.,625947,ES,H3Z,VOC.MC,Rohstoffe,PEP648014202
+129,Afarak Group Oyj,918629,FIN,V5W,AFAGR.HE,Rohstoffe,FI0009800098
+130,Aktia Bank OYJ,A1W1T4,FIN,2A41,AKTIA.HE,Finanzdienstleistungen,FI4000058870
+131,Alma Media Corp,A0HHHL,FIN,A4M,ALMA.HE,Medien,FI0009013114
+132,Altia Oyj,A2JG1R,FIN,28Q,ANORA.HE,Getränke/Tabak,FI4000292438
+133,Asiakastieto Group Oyj,A14QWU,FIN,AKA,ENENTO.HE,Finanzdienstleistungen,FI4000123195
+134,Aspo Oyj,929400,FIN,ZYD,ASPO.HE,Logistik/Transport,FI0009008072
+135,Aspocomp Group PLC,929401,FIN,ACN,ACG1V.HE,Elektrotechnologie,FI0009008080
+136,Basware Oy,935319,FIN,BWV,BAS1V.HE,Software,FI0009008403
+137,Bittium Oyj,916295,FIN,JOT,BITTI.HE,Dienstleistungen,FI0009007264
+138,CapMan Oyj,657298,FIN,AP6,CAPMAN.HE,Finanzdienstleistungen,FI0009009377
+139,Cargotec Corp.,A0ERKS,FIN,C1C,CGCBV.HE,Logistik/Transport,FI0009013429
+140,Caverion Oyj,A1W0D0,FIN,C7O,CAV1V.HE,Bau/Infrastruktur,FI4000062781
+141,COMPONENTA CORP.,795329,FIN,not_found,not_found,not_found,not_found
+142,Digia OYJ,928278,FIN,S2Y,DIGIA.HE,IT-Dienstleistungen,FI0009007983
+143,Digitalist Group Oyj,928185,FIN,TI6,DIGIGR.HE,Software,FI0009008007
+144,Dovre Group Oyj,929183,FIN,0BE,DOV1V.HE,Dienstleistungen,FI0009008098
+145,Elisa Oyj,615402,FIN,EIA,ELISA.HE,Telekom,FI0009007884
+146,Endomines AB,A2AHZA,FIN,ED01,ENDO.ST,Rohstoffe,SE0008294334
+147,Etteplan Oyj,938050,FIN,EPL,ETTE.HE,Sonstige Technologie,FI0009008650
+148,F-Secure Oyj,928744,FIN,DTV,FSC1V.HE,Software,FI0009801310
+149,Finnair Oyj,891823,FIN,FAI,FIA1S.HE,Luftfahrt/Rüstung,FI0009003230
+150,Fiskars Oy AB,871059,FIN,A8X,FSKRS.HE,Konsumgüter,FI0009000400
+151,Fortum Oyj,916660,FIN,FOT,FORTUM.HE,Öl/Gas,FI0009007132
+152,HARVIA OYJ,A2JF1C,FIN,G1U,HARVIA.HE,Konsumgüter,FI4000306873
+153,HKScan Oyj,912673,FIN,HK4,HKSAV.HE,Nahrungsmittel/Agrar,FI0009006308
+154,Huhtamäki Oyj,870740,FIN,HUKI,HUH1V.HE,Kunststoffe/Verpackungen,FI0009000459
+155,INCAP OYJ,916668,FIN,I8J,ICP1V.HE,Elektrotechnologie,FI0009006407
+156,Innofactor Oyj,920512,FIN,TJG,IFA1V.HE,IT-Dienstleistungen,FI0009007637
+157,Kamux Oyj,A2AJ82,FIN,4K8,KAMUX.HE,Fahrzeuge,FI4000206750
+158,Kemira Oy,893079,FIN,KEM,KEMIRA.HE,Chemie,FI0009004824
+159,Kesko Oyj,884884,FIN,KEK,not_found,Handel/E-Commerce,FI0009000202
+160,Kesla OYJ,918638,FIN,KSLA,KELAS.HE,Maschinenbau,FI0009900237
+161,KONE Corp. (New),A0ET4X,FIN,KC4,KNEBV.HE,Maschinenbau,FI0009013403
+162,Konecranes Oyj,899827,FIN,K34,KCR.HE,Maschinenbau,FI0009005870
+163,Lassila & Tikanoja OYJ,898607,FIN,LT5,LAT1V.HE,Dienstleistungen,FI0009010854
+164,Lehto Group Oyj,A2AHZH,FIN,L7G,LEHTO.HE,Bau/Infrastruktur,FI4000081138
+165,Metso Outotec Corp.,A0LBTW,FIN,M6Q,MOCORP.HE,Maschinenbau,FI0009014575
+166,Metsä Board Oyj,876917,FIN,MSRB,0O7A.IL,Holz/Papier,FI0009000665
+167,Neste Corp.,A0D9U6,FIN,NEF,NESTE.HE,Öl/Gas,FI0009013296
+168,Nokia Oyj,870737,FIN,NOA3,NOKIA.HE,Telekom,FI0009000681
+169,Nokian Renkaat OYJ,895780,FIN,NRE,TYRES.HE,Fahrzeuge,FI0009005318
+170,"NURMINEN LOG.OYJ A EO1,70",918635,FIN,8I4,NLG1V.HE,Logistik/Transport,FI0009900187
+171,Olvi,898037,FIN,OVI,OLVAS.HE,Getränke/Tabak,FI0009900401
+172,Oriola Oyj,A0J3P9,FIN,O5O,OKDBV.HE,Gesundheitswesen,FI0009014351
+173,Orion Corp.,A0J3QM,FIN,OFK,ORNBV.HE,Pharma,FI0009014377
+174,Outokumpu Oyj,885421,FIN,OUTA,OUT1V.HE,Rohstoffe,FI0009002422
+175,Photo-Me International PLC,602290,FIN,XXH,SSH1V.HE,Software,FI0009008270
+176,Pihlajalinna Oy,A14UF2,FIN,38P,PIHLIS.HE,Gesundheitswesen,FI4000092556
+177,Ponsse Oy,902564,FIN,PNS,PON1V.HE,Maschinenbau,FI0009005078
+178,"QT GROUP PLC EO-,10",A2AH7G,FIN,2QT,QTCOM.HE,Software,FI4000198031
+179,Raisio Oyj,899738,FIN,RATV,RAIVV.HE,Industrie/Mischkonzerne,FI0009002943
+180,Rapala Network Corp.,917602,FIN,RAP,RAP1V.HE,Freizeitprodukte,FI0009007355
+181,Revenio Group Corp.,-,FIN,not_found,not_found,not_found,not_found
+182,Robit Oyj,A14TP3,FIN,RO3,ROBIT.HE,Maschinenbau,FI4000150016
+183,Rovio Entertainment OYJ,A2DXQD,FIN,R0F,ROVIO.HE,Unterhaltung,FI4000266804
+184,Sampo OYJ,881463,FIN,SMPA,SAMPO.HE,Finanzdienstleistungen,FI0009003305
+185,Sanoma Oyj,922218,FIN,SNQB,SANOMA.HE,Medien,FI0009007694
+186,Sievi Capital Oyj,938508,FIN,WE3,SIEVI.HE,Finanzdienstleistungen,FI0009008924
+187,SIILI SOLUTIONS OYJ,A1XFJ0,FIN,N88,SIILI.HE,IT-Dienstleistungen,FI4000043435
+188,Solteq Oyj,928282,FIN,B3M,SOLTEQ.HE,IT-Dienstleistungen,FI0009007991
+189,Sotkamo Silver AB,A0MMF4,FIN,VSO,not_found,Rohstoffe,SE0001057910
+190,SRV Yhtioet Oyj,A0MSY7,FIN,B7J,SRV1V.HE,Bau/Infrastruktur,FI0009015309
+191,SSAB AB,887029,FIN,SKWA,SSAB-A.ST,Eisen/Stahl,SE0000171100
+192,SSAB AB -B- FRIA,881832,FIN,SKWC,SSAB-B.ST,Eisen/Stahl,SE0000120669
+193,Stockmann Oyj Abp,870557,FIN,SOMB,STOCKA.HE,Handel/E-Commerce,FI0009000251
+194,"STORA ENSO OYJ A EO 1,70",870734,FIN,ENUA,ENUA.F,Holz/Papier,FI0009005953
+195,Stora Enso Oyj.,871004,FIN,ENUR,STERV.HE,Holz/Papier,FI0009005961
+196,Suominen Corp.,806454,FIN,1S0,SUY1V.HE,Konsumgüter,FI0009010862
+197,TAALERI OYJ,A1W7P1,FIN,295,TAALA.HE,Finanzdienstleistungen,FI4000062195
+198,Tecnotree OYJ,658932,FIN,3TT,TEM1V.HE,Telekom,FI0009010227
+199,Teleste Corp.,919696,FIN,TS6,TLT1V.HE,Dienstleistungen,FI0009007728
+200,Telia Company AB,938475,FIN,TLS,TELIA.ST,Telekom,SE0000667925
+201,Terveystalo Oy,A2H5F4,FIN,4TS,TTALO.HE,Gesundheitswesen,FI4000252127
+202,Tieto Oyj,870798,FIN,TTEB,TIETO.HE,IT-Dienstleistungen,FI0009000277
+203,Tokmanni Group Corp.,A2AH6M,FIN,TK9,TOKMAN.HE,Handel/E-Commerce,FI4000197934
+204,Tulikivi Oyj,887689,FIN,TUZA,TULAV.HE,Bau/Infrastruktur,FI0009900583
+205,UPM Kymmene Corp.,881026,FIN,RPL,UPM.HE,Holz/Papier,FI0009005987
+206,Uponor Oyj,897947,FIN,UPN,UPONOR.HE,Sonstige Technologie,FI0009002158
+207,Vaisala Oyj,897122,FIN,VAYA,VAIAS.HE,Sonstige Technologie,FI0009900682
+208,Valmet Oyj,A1XA9J,FIN,2VO,VALMT.HE,Maschinenbau,FI4000074984
+209,Valoe Oyj,914085,FIN,7RT,VALOE.HE,Erneuerbare Energien,FI0009006951
+210,Wärtsilä Corp.,881050,FIN,MTA,WRT1V.HE,Maschinenbau,FI0009003727
+211,YIT Oyj,906227,FIN,YIT,YIT.HE,Industrie/Mischkonzerne,FI0009800643
+212,Yleiselektroniikka Oyj,918658,FIN,YKK,BOREO.HE,Handel/E-Commerce,FI0009900724
+213,1000mercis S.A.,A0LEPS,FR,2PL,ALMIL.PA,Chemie,FR0010285965
+214,A.S.T. Groupe S.A.,805849,FR,9NA,ALAST.PA,Bau/Infrastruktur,FR0000076887
+215,AB Science S.A.,A1CXBG,FR,A8D,AB.PA,Pharma,FR0010557264
+216,Abbvie Inc.,A1J84E,FR,4AB,ABBV,Pharma,US00287Y1091
+217,ABC Arbitrage S.A.,924061,FR,9BA,ABCA.PA,Finanzdienstleistungen,FR0004040608
+218,Abivax S.A.,A14UQC,FR,2X1,ABVX.PA,Biotechnologie,FR0012333284
+219,Acanthe Developpement Sa,592453,FR,ADX,ACAN.PA,Immobilien,FR0000064602
+220,Accor S.A.,860206,FR,ACR,AC.PA,Hotels/Tourismus,FR0000120404
+221,Acteos S.A.,502344,FR,A3C,EOS.PA,IT-Dienstleistungen,FR0000076861
+222,Actia Group S.A.,564723,FR,AG9,ATI.PA,Elektrotechnologie,FR0000076655
+223,ADLPARTNER S.A.,914207,FR,DLU,DKUPL.PA,Dienstleistungen,FR0000062978
+224,Adocia SAS,A1JTC2,FR,A89,ADOC.PA,Biotechnologie,FR0011184241
+225,Adthink SA,A0NF06,FR,91R,FR0010457531.SG,Dienstleistungen,FR0010457531
+226,AdUX S.A.,A14V4C,FR,HJMA,ADUX.PA,Dienstleistungen,FR0012821890
+227,Advenis S.A.,662536,FR,,ALADV.PA,Freizeitprodukte,FR0004152874
+228,AgroGeneration SA,A1CTQQ,FR,,ALAGR.PA,Chemie,FR0004152874
+229,Air France-KLM S.A.,855111,FR,AFR,AF.PA,Luftfahrt/Rüstung,FR0000031122
+230,Air Liquide SA,850133,FR,AIL,AI.PA,Chemie,FR0000120073
+231,Airbus SE,938914,FR,AIR,AIR.PA,Luftfahrt/Rüstung,NL0000235190
+232,Akka Technologies,A0D94W,FR,not_found,not_found,not_found,not_found
+233,Akwel S.A.,893730,FR,MW4,AKW.PA,Fahrzeuge,FR0000053027
+234,Albioma,659082,FR,33S,ABIO.PA,Versorger,FR0000060402
+235,ALLIANCE DEV. CAP.,A1W17J,FR,not_found,not_found,not_found,not_found
+236,Alstom S.A.,A0F7BK,FR,AOMD,ALO.PA,Elektrotechnologie,FR0010220475
+237,Altamir S.A.,917251,FR,AJY,LTA.PA,Finanzdienstleistungen,FR0000053837
+238,Altarea S.C.A.,881381,FR,XAL,ALTA.PA,Immobilien,FR0000033219
+239,"ALTAREIT S.A. INH. EO1,50",862747,FR,Ticker-Symbol:,AREIT.PA,Immobilien,FR0000039216
+240,Alten S.A.,918312,FR,AN3,ATE.PA,IT-Dienstleistungen,FR0000071946
+241,"ALTUR INVESTISSEM.EO 2,50",A0LFDK,FR,TI8,ALTUR.PA,Finanzdienstleistungen,FR0010395681
+242,"AMATHEON AGRI HLDG EO-,10",A1J4XD,FR,Ticker-Symbol:,MLAAH.PA,Nahrungsmittel/Agrar,NL0010273694
+243,Amlitude Surgical,A14UZ2,FR,1AU,AMPLI.PA,Gesundheitswesen,FR0012789667
+244,Amoeba SAS,A14WL9,FR,A1H,ALMIB.PA,Chemie,FR0011051598
+245,"ANTEVENIO S.A.INH.EO-,055",A0LG7Y,FR,Ticker-Symbol:,ALISP.PA,Dienstleistungen,ES0109429037
+246,Aperam S.A.,A1H5UL,FR,7AA,APAM.AS,Eisen/Stahl,LU0569974404
+247,Argan,A0MVRB,FR,871,ARG.PA,Immobilien,FR0010481960
+248,Arkema S.A.,A0JLZ0,FR,V1S,AKE.PA,Chemie,FR0010313833
+249,ARTEA S.A. INH.      EO 6,A12FJM,FR,not_found,not_found,not_found,not_found
+250,Artefact S.A.,A0LD7W,FR,,not_found,Dienstleistungen,FR0000079683
+251,ARTOIS NOM.         EO 20,855625,FR,not_found,not_found,not_found,not_found
+252,Artprice.com S.A.,932046,FR,AJP,PRC.PA,Internet,FR0000074783
+253,Assistance Technique et Etudes de Materiels Electroniques S.A.,A12AAH,FR,AYD,ATEME.PA,Software,FR0011992700
+254,Assystem S.A.,928721,FR,BZ1,ASY.PA,IT-Dienstleistungen,FR0000074148
+255,Atari S.A.,A0NEZJ,FR,IFGA,ATA.PA,Software,FR0010478248
+256,Atos SE,877757,FR,AXI,ATO.PA,IT-Dienstleistungen,FR0000051732
+257,Aubay S.A.,915268,FR,BAQ,AUB.PA,Telekom,FR0000063737
+258,Aurea S.A.,853927,FR,94P,AURE.PA,Dienstleistungen,FR0000039232
+259,AXA S.A.,855705,FR,AXA,CS.PA,Finanzdienstleistungen,FR0000120628
+260,Axway Software Actions Port.,A1JBGJ,FR,1XV,AXW.PA,Software,FR0011040500
+261,Aéroports de Paris,A0J2WM,FR,W7L,ADP.PA,Logistik/Transport,FR0010340141
+262,Bassac SA,A0LE61,FR,78Y,BASS.PA,Immobilien,FR0004023208
+263,"Bastide, Le Confort Med. S.A.",907048,FR,1DJ,BLC.PA,Gesundheitswesen,FR0000035370
+264,"BATLA MINERALS    EO 0,01",A0RL6Z,FR,not_found,not_found,not_found,not_found
+265,BD MULTI MEDIA NOM   EO 2,932700,FR,6VD,ALBDM.PA,Finanzdienstleistungen,FR0000035305
+266,Beneteau S.A.,882042,FR,3GD,BEN.PA,Bau/Infrastruktur,FR0000035164
+267,"BERNARD LOIS. INH. EO1,25",918026,FR,not_found,not_found,not_found,not_found
+268,Bic S.A.,860804,FR,BIF,BB.PA,Konsumgüter,FR0000120966
+269,BigBen Interactive S.A.,931084,FR,BX9,BIG.PA,Software,FR0000074072
+270,Bilendi SA,A0LD76,FR,830,ALBLD.PA,Dienstleistungen,FR0004174233
+271,BioAlliance Pharma,A0HMXA,FR,C4X,ALONX.PA,Biotechnologie,FR0010095596
+272,Biocorp Production,A14V4G,FR,8BP,FR0012788065.SG,Gesundheitswesen,FR0012788065
+273,Biophytis Co.,A14V4J,FR,6XB,ALBPS.PA,Biotechnologie,FR0012816825
+274,Biosynex S.A.,A1H8G1,FR,0DL,ALBIO.PA,Gesundheitswesen,FR0011005933
+275,"BLEECKER S.A.   EO 18,45",798311,FR,not_found,not_found,not_found,not_found
+276,Blockchain Group S.A.,A1JG36,FR,BC7,ALTBG.PA,Dienstleistungen,FR0011053636
+277,"BLUELINEA SA       EO-,20",A12CGG,FR,not_found,not_found,not_found,not_found
+278,BNP Paribas S.A.,887771,FR,BNP,BNP.PA,Finanzdienstleistungen,FR0000131104
+279,BOIRON S.A.,873532,FR,BON,BOI.PA,Pharma,FR0000061129
+280,Bollore S.A.,875558,FR,BOP,BOL.PA,Industrie/Mischkonzerne,FR0000039299
+281,Bonduelle S.A.,915165,FR,BDU,BON.PA,Nahrungsmittel/Agrar,FR0000063935
+282,Bone Therapeutics S.A.,A14NHV,FR,BT1,BOTHE.BR,Biotechnologie,BE0974280126
+283,Bourse Direct S.A.,929082,FR,BD6,BSD.PA,Internet,FR0000074254
+284,Bouygues S.A.,858821,FR,BYG,EN.PA,Bau/Infrastruktur,FR0000120503
+285,Budget Telecom Actions Nominatives S.A.,A0LD72,FR,9BU,ALBUD.PA,Telekom,FR0004172450
+286,Bureau Veritas SA,A0M45W,FR,4BV,BVI.PA,Dienstleistungen,FR0006174348
+287,Burelle SA,873741,FR,7SP,BUR.PA,Fahrzeuge,FR0000061137
+288,Cafom S.A.,A0DPXB,FR,CAA,CAFO.PA,Handel/E-Commerce,FR0010151589
+289,Capgemini SE,869858,FR,CGM,CAP.PA,IT-Dienstleistungen,FR0000125338
+290,Carbios S.A.,A1XA4J,FR,3C1,ALCRB.PA,Chemie,FR0011648716
+291,Carmat S.A.,A1C017,FR,CXT,ALCAR.PA,Gesundheitswesen,FR0010907956
+292,Carmila S.A.S.,A0YFKD,FR,CUX1,CARM.PA,Immobilien,FR0010828137
+293,Carrefour S.A.,852362,FR,CAR,CA.PA,Handel/E-Commerce,FR0000120172
+294,"Casino, Guichard-Perrachon S.A.",853152,FR,CAJ,CO.PA,Handel/E-Commerce,FR0000125585
+295,CAST S.A.,922674,FR,YAS,CAS.PA,Software,FR0000072894
+296,Catana Group S.A.,A0ERJT,FR,2HU,CATG.PA,Freizeitprodukte,FR0010193052
+297,CATER. INTL SVCS-CISINH.,918957,FR,8WG,CTRG.PA,Dienstleistungen,FR0000064446
+298,"CBO TERRITORIA    EO 1,32",A0E9TF,FR,not_found,not_found,not_found,not_found
+299,Cegedim S.A.,895036,FR,C7E,CGM.PA,IT-Dienstleistungen,FR0000053506
+300,Cegereal SA,A0JJ3N,FR,D2L,VTR.PA,Immobilien,FR0010309096
+301,Cellectis S.A.,A0MKPR,FR,ZVA,ALCLS.PA,Biotechnologie,FR0010425595
+302,CELLNOVO GROUP INH. EO 1,A14WF4,FR,,not_found,Gesundheitswesen,FR0012633360
+303,Cerenis Therapeutics Holdings S.A.,A14QR9,FR,609,ABNX.PA,Biotechnologie,FR0012616852
+304,CHARGEURS S.A.,901535,FR,GET,CRI.PA,Bekleidung/Textil,FR0000130692
+305,Christian Dior SE,883123,FR,DIO,CDI.PA,Bekleidung/Textil,FR0000130403
+306,Cibox Inter(a)ctive S.A.,903571,FR,1YH,CIB.PA,Hardware,FR0000054322
+307,Clasquin S.A.,A0JC66,FR,7J4,ALCLA.PA,Logistik/Transport,FR0004152882
+308,Cnim Groupe SA,873530,FR,9IY,not_found,Bau/Infrastruktur,FR0000053399
+309,Cnova N.V.,A12FH2,FR,5CN,CNV.PA,Handel/E-Commerce,NL0010949392
+310,CNP Assurances S.A.,916594,FR,not_found,not_found,not_found,not_found
+311,Coface S.A.,A1XDS6,FR,65C,COFA.PA,Finanzdienstleistungen,FR0010667147
+312,Coheris S.A.,931114,FR,OHE,COH.PA,Software,FR0004031763
+313,COIL S.A.,910288,FR,not_found,not_found,not_found,not_found
+314,Colas S.A.,853381,FR,OL3,RE.PA,Bau/Infrastruktur,FR0000121634
+315,Compagnie de Saint-Gobain S.A.,872087,FR,GOB,SGO.PA,Bau/Infrastruktur,FR0000125007
+316,Compagnie des Alpes S.A.,905176,FR,JCA,CDA.PA,Hotels/Tourismus,FR0000053324
+317,Compagnie Generale des Etablissements Michelin SCA,850739,FR,not_found,not_found,not_found,not_found
+318,Compagnie Plastic Omnium S.A.,871780,FR,EZM,POM.PA,Chemie,FR0000124570
+319,COURTOIS NOM.       EO 23,900897,FR,not_found,not_found,not_found,not_found
+320,COVIVIO HOTELS INH.  EO 4,798307,FR,9FM,COVH.PA,Immobilien,FR0000060303
+321,Covivio S.A.,659094,FR,F5D,COV.PA,Immobilien,FR0000064578
+322,Credit Agricole S.A.,982285,FR,XCA,ACA.PA,Finanzdienstleistungen,FR0000045072
+323,CROSSJECT S.A.,A1XEH4,FR,74C,ALCJ.PA,Gesundheitswesen,FR0011716265
+324,CROSSWOOD S.A. NOM.  EO 1,792660,FR,not_found,not_found,not_found,not_found
+325,CS GROUP SA NOM.     EO 1,602343,FR,L8O,SX.PA,IT-Dienstleistungen,FR0007317813
+326,Damartex SA,691196,FR,6C3,ALDAR.PA,Handel/E-Commerce,FR0000185423
+327,Danone S.A.,851194,FR,BSN,BN.PA,Nahrungsmittel/Agrar,FR0000120644
+328,Dassault Aviation S.A.,852361,FR,not_found,not_found,not_found,not_found
+329,Dassault Systemes S.A.,901295,FR,not_found,not_found,not_found,not_found
+330,DBV technologies S.A.,A1JWB7,FR,DBV,DBV.PA,Biotechnologie,FR0010417345
+331,DEINOVE S.A.,A1CXES,FR,5D8,ALDEI.PA,Chemie,FR0010879056
+332,Delfingen Industry S.A.,899672,FR,HBS,ALDEL.PA,Fahrzeuge,FR0000054132
+333,Delta Drone S.A.,A1W7E5,FR,not_found,not_found,not_found,not_found
+334,Derichebourg S.A.,893619,FR,PNU,DBG.PA,Dienstleistungen,FR0000053381
+335,Diageo PLC,851247,FR,GUI,DGE.L,Getränke/Tabak,GB0002374006
+336,"DLSI, Forbach",A0LF6P,FR,not_found,not_found,not_found,not_found
+337,DNXCORP SE,A0MMT4,FR,DWP,ALDNX.PA,Internet,FR0010436584
+338,DRDGOLD Ltd.,A0DNR0,FR,DUB1,DRD.JO,Rohstoffe,ZAE000058723
+339,EAUX DE ROYAN NOM.  EO 10,806273,FR,not_found,not_found,not_found,not_found
+340,Ecoslops S.A.,A14NWZ,FR,7T0,ALESA.PA,Öl/Gas,FR0011490648
+341,Edenred S.A.,A1C0JG,FR,QSV,EDEN.PA,Dienstleistungen,FR0010908533
+342,EGIDE S.A.,925631,FR,EGID,GID.PA,Sonstige Technologie,FR0000072373
+343,Eiffage S.A.,853452,FR,EF3,FGR.PA,Bau/Infrastruktur,FR0000130452
+344,Ekinops S.A.S.,A1W7NS,FR,E0J,EKI.PA,Elektrotechnologie,FR0011466069
+345,EL. STRASBG NOM. EO 10,850956,FR,7Z2,ELEC.PA,Versorger,FR0000031023
+346,Electricite de France S.A. (E.D.F.),A0HG6A,FR,E2F,EDF.PA,Versorger,FR0010242511
+347,Electro Power Systems S.A.,A14R53,FR,8XE,NHOA.PA,Elektrotechnologie,FR0012650166
+348,Eli Lilly & Co.,858560,FR,LLY,LLY,Pharma,US5324571083
+349,Elior Group SCA,A115FW,FR,21E,ELIOR.PA,Dienstleistungen,FR0011950732
+350,Elis S.A.,A14M93,FR,7EL,ELIS.PA,Dienstleistungen,FR0012435121
+351,"ENCRES DUBUIT INH. EO-,40",936083,FR,not_found,not_found,not_found,not_found
+352,Engie S.A.,A0ER6Q,FR,GZF,ENGI.PA,Versorger,FR0010208488
+353,Entreparticuliers.com,A0MKPQ,FR,99Q,ALENT.PA,Internet,FR0010424697
+354,EO2 S.A,A0MSNT,FR,EO4,ALEO2.PA,Erneuerbare Energien,FR0010465534
+355,EOS Imaging S.A.,A1JT0S,FR,not_found,not_found,not_found,not_found
+356,Eramet S.A.,892800,FR,ER7,ERA.PA,Rohstoffe,FR0000131757
+357,Erytech Pharma S.A.,A1T94R,FR,2E4,ERYP.PA,Pharma,FR0011471135
+358,Esi Group S.A.,502204,FR,EGJ,ESI.PA,Software,FR0004110310
+359,Esker S.A.,907928,FR,EKE,ALESK.PA,Software,FR0000035818
+360,Esperite N.V.,A0YB5B,FR,5C1A,ESP.AS,Gesundheitswesen,NL0009272137
+361,EssilorLuxottica S.A.,863195,FR,ESL,EL.PA,Gesundheitswesen,FR0000121667
+362,Esso S.A.F.,851011,FR,EH8,ES.PA,Öl/Gas,FR0000120669
+363,Etablissements Maurel et Prom S.A.,853155,FR,ETX,MAU.PA,Öl/Gas,FR0000051070
+364,"EURASI.FONC.INV.EO 0,01",890865,FR,not_found,not_found,not_found,not_found
+365,Eurazeo SE,860642,FR,EUQ,RF.PA,Finanzdienstleistungen,FR0000121121
+366,Euro Ressources S.A.,894825,FR,GY5,EUR.PA,Rohstoffe,FR0000054678
+367,Eurofins Scientific S.E.,910251,FR,not_found,not_found,not_found,not_found
+368,"EUROLAND CORP.    EO 0,21",A0KFSS,FR,not_found,not_found,not_found,not_found
+369,Euronext N.V.,A115MJ,FR,ENXB,ENX.PA,Finanzdienstleistungen,NL0006294274
+370,EuropaCorp S.A.,A0MWCT,FR,AZ6,ALECP.PA,Medien,FR0010490920
+371,Europcar Groupe S.A.,A14U65,FR,E7CD,EUCAR.PA,Logistik/Transport,FR0012789949
+372,Eutelsat Communications S.A.,A0HGPT,FR,E3B,ETL.PA,Telekom,FR0010221234
+373,"EVOLIS S.A. INH.   EO-,08",A0JKDX,FR,not_found,not_found,not_found,not_found
+374,"EXEL INDS S.A. A   EO 2,5",907602,FR,8YK,EXE.PA,Maschinenbau,FR0004527638
+375,Faurecia SE,867025,FR,FAU,EO.PA,Fahrzeuge,FR0000121147
+376,FERM.CASINO M.C. INH.EO12,861610,FR,not_found,not_found,not_found,not_found
+377,Fermentalg SA,A1103M,FR,1F6,FALG.PA,Biotechnologie,FR0011271600
+378,FIDUCIAL OFFICE SOLUTIONS,792666,FR,not_found,not_found,not_found,not_found
+379,FIDUCIAL REAL ESTATE,876663,FR,not_found,not_found,not_found,not_found
+380,Figeac Aero S.A.,A1XBG1,FR,1F1,FGA.PA,Luftfahrt/Rüstung,FR0011665280
+381,FINANC.D.L'ODET INH.EO 16,662247,FR,49F,ODET.PA,Finanzdienstleistungen,FR0000062234
+382,"FINANCIE.E.IMM.INH.EO1,52",798308,FR,not_found,not_found,not_found,not_found
+383,FIPP SA INH.      O.N.,851069,FR,FIPP,FIPP.PA,Finanzdienstleistungen,FR0000038184
+384,Fleury Michon S.A.,933769,FR,4XZ,FR0000074759.SG,Nahrungsmittel/Agrar,FR0000074759
+385,Fnac Darty,A1T95K,FR,1FN,FNAC.PA,Handel/E-Commerce,FR0011476928
+386,Focus Home Interactive S.A.,A14NXK,FR,0HF,ALFOC.PA,Unterhaltung,FR0012419307
+387,Ford Motor Co.,502391,FR,FMC1,F,Fahrzeuge,US3453708600
+388,Fountaine Pajot SA,A0X8WD,FR,65T,ALFPC.PA,Freizeitprodukte,FR0010485268
+389,"FRANCE TOURISM.IMM.EO-,25",A12CFX,FR,not_found,not_found,not_found,not_found
+390,Freelance.com,A0HL4T,FR,9B4,ALFRE.PA,Dienstleistungen,FR0004187367
+391,FREY,A0QYPA,FR,943,FREY.PA,Immobilien,FR0010588079
+392,Gascogne S.A.,869297,FR,G5O,ALBI.PA,Holz/Papier,FR0000124414
+393,Gaumont SA,852507,FR,69N,GAM.PA,Medien,FR0000034894
+394,Gaztransport Technigaz SAS,A1XEHR,FR,9TG,GTT.PA,Logistik/Transport,FR0011726835
+395,Geci International S.A.,632749,FR,G8C,ALGEC.PA,Dienstleistungen,FR0000079634
+396,Gecina S.A.,A0BLMY,FR,GI6A,GFC.PA,Finanzdienstleistungen,FR0010040865
+397,Generix Group SA,A0MYAC,FR,106,GENX.PA,Software,FR0010501692
+398,Genfit S.A.,A0LGJ2,FR,XUP,GNFT.PA,Biotechnologie,FR0004163111
+399,Genomic Vision S.A.,A110TM,FR,G09,GV.PA,Biotechnologie,FR0011799907
+400,Genoway S.A.,A0MRJ4,FR,JEH,ALGEN.PA,Biotechnologie,FR0004053510
+401,Gerard Perrier Industrie SA,908817,FR,80T,PERR.PA,Elektrotechnologie,FR0000061459
+402,Getlink SE,A0M6L1,FR,TNU3,GET.PA,Logistik/Transport,FR0010533075
+403,GEVELOT S.A. INH.   EO 35,542159,FR,8XD,ALGEV.PA,Maschinenbau,FR0000033888
+404,GL Events S.A.,632297,FR,0X5,GLO.PA,Dienstleistungen,FR0000066672
+405,Global Bioenergies S.A.,A1JBVH,FR,1DK,ALGBE.PA,Erneuerbare Energien,FR0011052257
+406,GRAINES VOLTZ INH. EO 1,792655,FR,not_found,not_found,not_found,not_found
+407,"GRENOBL.D'EL.-INH.EO2,059",912895,FR,not_found,not_found,not_found,not_found
+408,Groupe Actiplay SA,A1JFY3,FR,4YA,ALKLA.PA,Dienstleistungen,FR0011038348
+409,"GROUPE CIOA   EO -,30",A2N510,FR,not_found,not_found,not_found,not_found
+410,Groupe CRIT S.A.,930172,FR,CT2,CEN.PA,Dienstleistungen,FR0000036675
+411,Groupe Euromedis S.A.,806302,FR,61R,ALEMG.PA,Gesundheitswesen,FR0000075343
+412,Groupe Gorge S.A.,912613,FR,2G3,GOE.PA,Maschinenbau,FR0000062671
+413,Groupe Guillin S.A.,A14VXU,FR,ZUY,ALGIL.PA,Kunststoffe/Verpackungen,FR0012819381
+414,GROUPE JAJ NOM.      EO 1,879441,FR,not_found,not_found,not_found,not_found
+415,Groupe LDLC S.A.,810855,FR,6CE,ALLDL.PA,Handel/E-Commerce,FR0000075442
+416,Groupe Open S.A.,932704,FR,,not_found,IT-Dienstleistungen,FR0004050300
+417,Groupe Partouche S.A.,A14QF9,FR,PZ21,PARP.PA,Unterhaltung,FR0012612646
+418,Groupe SFPI S.A.,927106,FR,EKN,SFPI.PA,Industrie/Mischkonzerne,FR0004155000
+419,Guerbet S.A.,870481,FR,4G8,GBT.PA,Pharma,FR0000032526
+420,Guillemot Corp.,917556,FR,GUL,GUI.PA,Hardware,FR0000066722
+421,H2O Innovation Inc.,-,FR,not_found,not_found,not_found,not_found
+422,Haulotte Group S.A.,923269,FR,PHT,PIG.PA,Industrie/Mischkonzerne,FR0000066755
+423,"HERIGE S.A.    IN.EO 1,50",792674,FR,8YW,ALHRG.PA,Bau/Infrastruktur,FR0000066540
+424,Hermes International S.A.,886670,FR,HMI,RMS.PA,Konsumgüter,FR0000052292
+425,Hexcel Corp.,894306,FR,HXL,HXL,Industrie/Mischkonzerne,US4282911084
+426,HF Company,909944,FR,HFC,ALHF.PA,Sonstige Technologie,FR0000038531
+427,High Co.,900218,FR,HIH,HCO.PA,Dienstleistungen,FR0000054231
+428,HIOLLE INDUSTR.NOM.,578076,FR,not_found,not_found,not_found,not_found
+429,Hipay Group S.A.,A14V8U,FR,9LH,ALHYP.PA,Finanzdienstleistungen,FR0012821916
+430,"HITECHPROS S.A.   EO -,40",A0LFJ9,FR,not_found,not_found,not_found,not_found
+431,Holcim Ltd.,869898,FR,HLBN,HOLN.SW,Bau/Infrastruktur,CH0012214059
+432,HSBC Holdings PLC,923893,FR,HBC1,HSBA.L,Finanzdienstleistungen,GB0005405286
+433,Hybrigenics S.A.,A0M9ZU,FR,3HB,ALHYG.PA,Biotechnologie,FR0004153930
+434,HYDRO-EXPLOITA.NOM. EO 16,806345,FR,not_found,not_found,not_found,not_found
+435,I2S SA,A0M5ZR,FR,not_found,not_found,not_found,not_found
+436,Icade S.A.,850999,FR,3IC,ICAD.PA,Immobilien,FR0000035081
+437,ID Logistics Group,A1JWG9,FR,1ID,IDL.PA,Logistik/Transport,FR0010929125
+438,IDI S.C.A.,882160,FR,8KC,IDIP.PA,Finanzdienstleistungen,FR0000051393
+439,IGE +  XAO S.A.,905801,FR,not_found,not_found,not_found,not_found
+440,Imerys S.A.,851898,FR,IY4,NK.PA,Bau/Infrastruktur,FR0000120859
+441,Immobiliere Dassault SA,854127,FR,6KP,IMDA.PA,Immobilien,FR0000033243
+442,"IMPRIMERIE CHIR.NOM.EO0,8",810752,FR,not_found,not_found,not_found,not_found
+443,Infosys Ltd. (ADRs),919668,FR,IOY,INFY,IT-Dienstleistungen,US4567881085
+444,"INFOTEL S.A. INH. EO 0,40",918337,FR,3NH,INF.PA,IT-Dienstleistungen,FR0000071797
+445,Ingenico Group S.A.,870752,FR,not_found,not_found,not_found,not_found
+446,Innate Pharma S.A.,A0LCUJ,FR,IDD,IPH.PA,Biotechnologie,FR0010331421
+447,Innelec Multimedia IMM S.A.,915169,FR,1W2,ALINN.PA,Software,FR0000064297
+448,Inside Secure S.A.,A1JTXZ,FR,I3Q,VMX.PA,Software,FR0010291245
+449,IntegraGen,A1J1JV,FR,7N8,ALINT.PA,Biotechnologie,FR0010908723
+450,International Flavors & Fragrances Inc.,853881,FR,IFF,IFF,Chemie,US4595061015
+451,Interparfums S.A.,907907,FR,I8P,ITP.PA,Konsumgüter,FR0004024222
+452,Intrasense S.A.S.,A1W6V5,FR,I8S,ALINS.PA,Software,FR0011179886
+453,Ipsen S.A.,A0ESMG,FR,I7G,IPN.PA,Pharma,FR0010259150
+454,Ipsos S.A.,923860,FR,IPZ,IPS.PA,Dienstleistungen,FR0000073298
+455,IT Link S.A.,922593,FR,IL8,ALITL.PA,IT-Dienstleistungen,FR0000072597
+456,"ITESOFT S.A. INH.  EO-,06",626056,FR,IE5,ITE.PA,Software,FR0004026151
+457,Jacques Bogart SA,A14XDG,FR,6XW,JBOG.PA,Kosmetik,FR0012872141
+458,Jacquet Metal Service,875606,FR,I43,JCQ.PA,Eisen/Stahl,FR0000033904
+459,JCDecaux S.A.,578972,FR,DCS,DEC.PA,Dienstleistungen,FR0000077919
+460,"JSA TECHNOLOGY    EO -,10",A0RDEX,FR,Ticker-Symbol:,MLJSA.PA,Erneuerbare Energien,FR0010680033
+461,Kaufman & Broad S.A.,934515,FR,3GH,KOF.PA,Bau/Infrastruktur,FR0004007813
+462,Kering S.A.,851223,FR,PPX,KER.PA,Handel/E-Commerce,FR0000121485
+463,Keyrus S.A.,940112,FR,5UP,ALKEY.PA,IT-Dienstleistungen,FR0004029411
+464,Klepierre S.A.,863272,FR,KPR,LI.PA,Immobilien,FR0000121964
+465,Korian S.A.,A0LE05,FR,KO2,KORI.PA,Gesundheitswesen,FR0010386334
+466,Lacroix Group S.A.,792665,FR,51M,LACR.PA,Elektrotechnologie,FR0000066607
+467,Lagardere S.A.,866786,FR,LAG,MMB.PA,Medien,FR0000130213
+468,Latecore S.A.,870166,FR,12J,LAT.PA,Luftfahrt/Rüstung,FR0000032278
+469,Laurent-Perrier S.A.,923069,FR,LPE,LPE.PA,Getränke/Tabak,FR0006864484
+470,Le Bourget-du-Lac,-,FR,not_found,not_found,not_found,not_found
+471,Lectra S.A.,874052,FR,LET,LSS.PA,Sonstige Technologie,FR0000065484
+472,Lexibook Linguistic Electronic System SA,906327,FR,LXB,ALLEX.PA,Konsumgüter,FR0000033599
+473,Linedata Services S.A.,938367,FR,LN4,LIN.PA,IT-Dienstleistungen,FR0004156297
+474,LISI S.A.,877300,FR,LI3,FII.PA,Fahrzeuge,FR0000050353
+475,LNA Santé S.A.,A0LD70,FR,2N3,LNA.PA,Gesundheitswesen,FR0004170017
+476,Lucibel SA,A117T7,FR,6SA,ALUCI.PA,Elektrotechnologie,FR0011884378
+477,LVMH Moet Hennessy Louis Vuitton SE,853292,FR,MOH,MC.PA,Konsumgüter,FR0000121014
+478,M6 Metropole Television S.A.,892790,FR,MMT,MMT.PA,Medien,FR0000053225
+479,"MADE S.A.INH.      EO-,20",A0LEPJ,FR,not_found,not_found,not_found,not_found
+480,Madvertise,A1J4UX,FR,MAV,FR0010812230.SG,Dienstleistungen,FR0010812230
+481,Maisons France Confort S.A.,550812,FR,88M,HEXA.PA,Bau/Infrastruktur,FR0004159473
+482,"MAKHEIA GR.SA INH.EO -,10",936020,FR,1VM,ALMAK.PA,Dienstleistungen,FR0000072993
+483,Malteries Franco Belges S.A.,872529,FR,91U,MALT.PA,Getränke/Tabak,FR0000030074
+484,Manitou B.F. S.A.,868918,FR,3MU,MTU.PA,Fahrzeuge,FR0000038606
+485,MANUTAN INTL SA INH. EO 2,870176,FR,8IU,MAN.PA,Dienstleistungen,FR0000032302
+486,Marie Brizard Wine & Spirits S.A.,904974,FR,BED,MBWS.PA,Getränke/Tabak,FR0000060873
+487,Maroc Telecom,A0J3AH,FR,MSPA,MSPA.F,Telekom,MA0000011488
+488,"MASTRAD            EO-,14",A0LD7Y,FR,7ZV,ALMAS.PA,Konsumgüter,FR0004155687
+489,Mauna Kea Technologies,A1JCLA,FR,1MK,FR0010609263.SG,Gesundheitswesen,FR0010609263
+490,McPhy Energy S.A.,A1XFA8,FR,M6P,MCPHY.PA,Erneuerbare Energien,FR0011742329
+491,MECELEC COMPOSI. INH.EO 1,876074,FR,Ticker-Symbol:,ALORA.PA,Industrie/Mischkonzerne,FR0000061244
+492,Median Technologies,A1JCLB,FR,4ZG,ALMDT.PA,Software,FR0011049824
+493,Memscap S.A.,A0JJWS,FR,MSBA,MEMS.PA,Elektrotechnologie,FR0010298620
+494,Mercialys,A0HFXW,FR,M8Y,MERY.PA,Immobilien,FR0010241638
+495,Merck & Co. Inc.,A0YD8Q,FR,6MK,MRK,Pharma,US58933Y1055
+496,Mersen S.A.,852488,FR,CBE,MRN.PA,Elektrotechnologie,FR0000039620
+497,Metabolic Explorer S.A.,A0MN12,FR,7ME,METEX.PA,Biotechnologie,FR0004177046
+498,"MG INTERNAT.SA INH.EO-,10",A0F5JW,FR,not_found,not_found,not_found,not_found
+499,MGI Digital Graphic Technology,A0LHLN,FR,2EI,ALMDG.PA,Sonstige Technologie,FR0010353888
+500,"MICROPOLE S.A.INH. EO-,05",578090,FR,MP4,MUN.PA,IT-Dienstleistungen,FR0000077570
+501,MONCEY (FIN.) NOM.  EO 23,863096,FR,not_found,not_found,not_found,not_found
+502,Montea SICAFI S.C.A.,A0LCLA,FR,M8E,MONT.BR,Immobilien,BE0003853703
+503,Moulinvest,A12CGC,FR,7W5,ALMOU.PA,Holz/Papier,FR0011033083
+504,Nanobiotix S.A.,A1J7EB,FR,5NR,NANO.PA,Biotechnologie,FR0011341205
+505,Neolife SAS,A2DUMT,FR,8JB,FR0011636083.SG,Bau/Infrastruktur,FR0011636083
+506,Netgem S.A.,927122,FR,NGP,ALNTG.PA,Hardware,FR0004154060
+507,Neurones S.A.,938282,FR,NE9,NRO.PA,IT-Dienstleistungen,FR0004050250
+508,Nexans S.A.,676168,FR,NXS,NEX.PA,Telekom,FR0000044448
+509,Nexity,A0DK2J,FR,NQ9,NXI.PA,Immobilien,FR0010112524
+510,Nextedia S.A.,A0JKUJ,FR,9KA,ALNXT.PA,Dienstleistungen,FR0004171346
+511,Novacyt S.A.,A12CFH,FR,NYZ,ALNOV.PA,Gesundheitswesen,FR0010397232
+512,NRJ Group S.A.,938989,FR,NR8,NRG.PA,Medien,FR0000121691
+513,NSE S.A.,A0LCVP,FR,7YM,ALNSE.PA,Elektrotechnologie,FR0004065639
+514,Oeneo S.A.,889452,FR,O64,SBT.PA,Holz/Papier,FR0000052680
+515,Olympique Lyonnais Groupe S.A.,A0MJ2F,FR,XXT,OLG.PA,Freizeitprodukte,FR0010428771
+516,Oncodesign S.A.,A1107T,FR,16O,ALONC.PA,Biotechnologie,FR0011766229
+517,Orange S.A.,906849,FR,FTE,ORA.PA,Telekom,FR0000133308
+518,ORAPI S.A.,811008,FR,O4P,FR0000075392.SG,Chemie,FR0000075392
+519,"OREAL (L') INH. EO 0,2",853888,FR,LOR,OR.PA,Konsumgüter,FR0000120321
+520,Orege SA,A0QZKU,FR,4ZF,OREGE.PA,Dienstleistungen,FR0010609206
+521,Orpea,575626,FR,OPA,ORP.PA,Gesundheitswesen,FR0000184798
+522,OSE - Pharma S.A.,A14QXP,FR,6OP,OSE.PA,Biotechnologie,FR0012127173
+523,PAREF,A0HNDR,FR,G5I,PAR.PA,Immobilien,FR0010263202
+524,Parrot S.A.,A0J3D7,FR,P2W,PARRO.PA,Sonstige Technologie,FR0004038263
+525,"PASSAT S.A. INH.  EO 0,50",910177,FR,6JF,PSAT.PA,Handel/E-Commerce,FR0000038465
+526,PCAS S.A.       INH. EO 1,936292,FR,4M0,PCA.PA,Chemie,FR0000053514
+527,Pernod-Ricard S.A.,853373,FR,PER,RI.PA,Getränke/Tabak,FR0000120693
+528,Peugeot Invest S.A.,890719,FR,FFP,PEUG.PA,Finanzdienstleistungen,FR0000064784
+529,Pharmagest Interactive S.A.,A14XZH,FR,PHF,EQS.PA,Software,FR0012882389
+530,Philip Morris International Inc.,A0NDBJ,FR,4I1,PM,Getränke/Tabak,US7181721090
+531,Photonike Capital S.A.,A2JB6Y,FR,,MLPHO.PA,Finanzdienstleistungen,BE0948608451
+532,Pierre & Vacances S.A.,923268,FR,PV6,VAC.PA,Hotels/Tourismus,FR0000073041
+533,Piscines Desjoyaux,882352,FR,DJX,ALPDX.PA,Bau/Infrastruktur,FR0000061608
+534,Pixium Vision S.A.,A116CC,FR,PXH,ALPIX.PA,Software,FR0011950641
+535,Planet Media S.A.,A0LEP0,FR,2PF,ALPLA.PA,Internet,FR0010211037
+536,Poujoulat S.A.,798528,FR,72Y,ALPJT.PA,Bau/Infrastruktur,FR0000066441
+537,Poxel S.A.,A14M04,FR,7PO,POXEL.PA,Biotechnologie,FR0012432516
+538,Prismaflex International S.A.,935256,FR,RFX,ALPRI.PA,Dienstleistungen,FR0004044600
+539,Prodware SA,A0JLYL,FR,9S6,ALPRO.PA,IT-Dienstleistungen,FR0010313486
+540,Publicis Groupe S.A.,859386,FR,PU4,PUB.PA,Dienstleistungen,FR0000130577
+541,Quadient S.A.,919272,FR,NEQ,QDT.PA,Dienstleistungen,FR0000120560
+542,Quantel S.A.,910292,FR,QTL,LBIRD.PA,Sonstige Technologie,FR0000038242
+543,Quantum Genomics SAS,A1XAEB,FR,2QG,ALQGC.PA,Biotechnologie,FR0011648971
+544,Qwamplify,A12CF1,FR,6WR,ALQWA.PA,Dienstleistungen,FR0010889386
+545,Rallye S.A.,878000,FR,RAY,RAL.PA,Handel/E-Commerce,FR0000060618
+546,Ramsay Générale de Santé S.A.,676646,FR,GD6,GDS.PA,Gesundheitswesen,FR0000044471
+547,Realites,A1131S,FR,2ZQ,ALREA.PA,Immobilien,FR0011858190
+548,Remy Cointreau S.A.,883206,FR,RMC,RCO.PA,Getränke/Tabak,FR0000130395
+549,Renault S.A.,893113,FR,RNL,RNO.PA,Fahrzeuge,FR0000131906
+550,ReWorld Media S.A.,A12CFW,FR,6H1,ALREW.PA,Medien,FR0010820274
+551,Rexel S.A.,A0MM7Q,FR,E7V,RXL.PA,Handel/E-Commerce,FR0010451203
+552,Riber S.A.,938526,FR,RI7,ALRIB.PA,Nanotechnologie,FR0000075954
+553,Robeco Global Total Return Bond Fund,A1WZHE,FR,M9SV,M9S4.F,Finanzdienstleistungen,LU0934195610
+554,Robeco Sustainable Global Stars Equities Fund N.V.,970259,FR,ROB,ROBA.AS,Finanzdienstleistungen,NL0000289783
+555,Robertet S.A.,876736,FR,0R7,RBT.PA,Chemie,FR0000039091
+556,Rolinco N.V.,970254,FR,ROC,ROLA.AS,Finanzdienstleistungen,NL0000289817
+557,Rothschild & Co.,859054,FR,13F,ROTH.PA,Finanzdienstleistungen,FR0000031684
+558,S.T. DUPONT S.A.,904028,FR,7EK,DPT.PA,Konsumgüter,FR0000054199
+559,Safran S.A.,924781,FR,SEJ1,SAF.PA,Luftfahrt/Rüstung,FR0000073272
+560,Samse SA,885903,FR,78S,SAMS.PA,Bau/Infrastruktur,FR0000060071
+561,Sanofi S.A.,920657,FR,SNW,SAN.PA,Pharma,FR0000120578
+562,Savencia S.A.,865541,FR,BGJ,SAVE.PA,Nahrungsmittel/Agrar,FR0000120107
+563,Schlumberger N.V.,853390,FR,SCL,SLB,Öl/Gas,AN8068571086
+564,Schneider Electric SE,860180,FR,SND,SU.PA,Elektrotechnologie,FR0000121972
+565,Scor SE,A0LGQX,FR,SDRC,SCR.PA,Finanzdienstleistungen,FR0010411983
+566,Sct. Informatique Indust. SA,928902,FR,XII,SII.PA,IT-Dienstleistungen,FR0000074122
+567,SEB S.A.,862948,FR,GRB,SK.PA,Konsumgüter,FR0000121709
+568,Seche Environnement S.A.,910933,FR,SCB,SCHP.PA,Dienstleistungen,FR0000039109
+569,Sensorion S.A.,A14SVV,FR,RFM,ALSEN.PA,Biotechnologie,FR0012596468
+570,SEQUA PETROLEUM N.V.,A1XAX0,FR,Ticker-Symbol:,MLSEQ.PA,Öl/Gas,NL0010623518
+571,SergeFerrari Group S.A.,A116CB,FR,SFK,SEFER.PA,Bau/Infrastruktur,FR0011950682
+572,SES S.A.,914993,FR,SES,0M6P.IL,Telekom,LU0088087324
+573,Sidetrade S.A.,A0LE7Q,FR,7QG,ALBFR.PA,Software,FR0010202606
+574,SIGNAUX GIROD S.A.,869997,FR,668,ALGIR.PA,Dienstleistungen,FR0000060790
+575,"SOC.FRANC.CASINOS EO 2,31",A0ETF5,FR,Ticker-Symbol:,SFCA.PA,Unterhaltung,FR0010209809
+576,Societe Anonyme des Ciments Vicat - Vicat,852366,FR,4HM,VCT.PA,Bau/Infrastruktur,FR0000031775
+577,Societe de la Tour Eiffel S.A.,854219,FR,UVA,EIFF.PA,Immobilien,FR0000036816
+578,Societe des Bains de Mer et du Cercle des Etrangers a Monaco S.A.,852401,FR,RJ8,BAIN.PA,Hotels/Tourismus,MC0000031187
+579,Societe Generale S.A.,873403,FR,SGE,GLE.PA,Finanzdienstleistungen,FR0000130809
+580,Societe Marseillaise Du Tunnel Prado-Carenage,A0D8Z4,FR,9P4,FR0004016699.SG,Logistik/Transport,FR0004016699
+581,Societe Paris Apports Capital,A1J0RG,FR,6GD,MHM.PA,Software,FR0011277391
+582,Sodexo S.A.,870935,FR,SJ7,SW.PA,Dienstleistungen,FR0000121220
+583,"SODITECH S.A.     EO -,05",592210,FR,Ticker-Symbol:,SEC.PA,Sonstige Technologie,FR0000078321
+584,Sogeclair S.A.,813308,FR,2U0,SOG.PA,Sonstige Technologie,FR0000065864
+585,Solvay S.A.,856200,FR,SOL,SOLB.BR,Chemie,BE0003470755
+586,Sopra Steria Group S.A.,880013,FR,OR8,SOP.PA,IT-Dienstleistungen,FR0000050809
+587,Spie S.A.,A14UTB,FR,4SP,SPIE.PA,Dienstleistungen,FR0012757854
+588,SpineGuard S.A.,A1T9RS,FR,6W5,ALSGD.PA,Gesundheitswesen,FR0011464452
+589,Spineway,A1KCX1,FR,37S,ALSPW.PA,Gesundheitswesen,FR0011398874
+590,SQLI S.A.,A1J1MD,FR,SSXN,SQI.PA,IT-Dienstleistungen,FR0011289040
+591,STEF S.A.,915284,FR,STP,STF.PA,Logistik/Transport,FR0000064271
+592,STMicroelectronics N.V.,893438,FR,SGM,STM.PA,Halbleiter,NL0000226223
+593,Store Electronic Systems SA,A0JC1Z,FR,S4M,SESL.PA,Sonstige Technologie,FR0010282822
+594,Streamwide SA,A0Q665,FR,07R,ALSTW.PA,Software,FR0010528059
+595,Sword Group SE,A0B585,FR,9RS,SWP.PA,IT-Dienstleistungen,FR0004180578
+596,Synergie S.A.,903714,FR,YSY,SDG.PA,Dienstleistungen,FR0000032658
+597,Tarkett S.A.,A1W7CM,FR,1T9,TKTT.PA,Bau/Infrastruktur,FR0004188670
+598,Television Francaise 1 S.A. (TF1),873608,FR,FSE,TFI.PA,Medien,FR0000054900
+599,Thales S.A.,850842,FR,CSF,HO.PA,Elektrotechnologie,FR0000121329
+600,The Procter & Gamble Co.,852062,FR,PRG,PG,Konsumgüter,US7427181091
+601,Theradiag S.A.,A1J9WY,FR,4W6,ALTER.PA,Biotechnologie,FR0004197747
+602,Tivoly S.A.,870965,FR,,ALTIV.PA,Maschinenbau,FR0000060949
+603,Total Gabon S.A.,852437,FR,RZW,EC.PA,Öl/Gas,GA0000121459
+604,TotalEnergies SE,850727,FR,TOTB,TTE.PA,Öl/Gas,FR0000120271
+605,Touax SCA,873839,FR,TOX,TOUP.PA,Finanzdienstleistungen,FR0000033003
+606,Transgene S.A.,913048,FR,TGNA,TNG.PA,Biotechnologie,FR0005175080
+607,Transition Evergreen S.A.,907473,FR,36J,EGR.PA,Finanzdienstleistungen,FR0000035784
+608,Trigano S.A.,913141,FR,TGO,TRI.PA,Konsumgüter,FR0005691656
+609,Téléperformance SE,889287,FR,RCF,TEP.PA,Dienstleistungen,FR0000051807
+610,Ubisoft Entertainment S.A.,901581,FR,UEN,UBI.PA,Software,FR0000054470
+611,Umalis Group,A2AJ6D,FR,UQ9,FR0011776889.SG,Dienstleistungen,FR0011776889
+612,UNION FIN.FRANCE BQE O.N.,874154,FR,UFN,UFF.PA,Finanzdienstleistungen,FR0000034548
+613,Union Technologies Informatique Group S.A.,936375,FR,UI9,FPG.PA,IT-Dienstleistungen,FR0000074197
+614,Vale S.A. (spons. ADRs),A0RN7M,FR,CVLB,VALE,Eisen/Stahl,US91912E1055
+615,Valneva SE,A0MVJZ,FR,AYJ,VLA.PA,Biotechnologie,FR0004056851
+616,Veolia Environnement S.A.,501451,FR,VVD,VIE.PA,Versorger,FR0000124141
+617,Vergnet S.A.,A0MUHQ,FR,VRQ,ALVER.PA,Erneuerbare Energien,FR0004155240
+618,Vetoquinol S.A.,A0LEWB,FR,8JM,VETO.PA,Pharma,FR0004186856
+619,Viel & Cie S.A. Actions Port.,876161,FR,VIC,VIL.PA,Finanzdienstleistungen,FR0000050049
+620,Vilmorin & Compagnie S.A.,888517,FR,4HL,RIN.PA,Nahrungsmittel/Agrar,FR0000052516
+621,Vinci S.A.,867475,FR,SQU,DG.PA,Bau/Infrastruktur,FR0000125486
+622,Virbac S.A.,874929,FR,V16,VIRP.PA,Pharma,FR0000031577
+623,Visiativ S.A.,A114HP,FR,16V,ALVIV.PA,Software,FR0004029478
+624,Vivendi S.A.,591068,FR,VVU,VIV.PA,Unterhaltung,FR0000127771
+625,Voltalia S.A.,A1161Y,FR,VLA,VLTSA.PA,Versorger,FR0011995588
+626,Voyageurs du Monde S.A.,A0LD7X,FR,8Z4,ALVDM.PA,Hotels/Tourismus,FR0004045847
+627,Vranken Pommery Monopole SA,913302,FR,9VP,VRAP.PA,Getränke/Tabak,FR0000062796
+628,Wallix Group S.A.,A14U3H,FR,3WG,ALLIX.PA,Software,FR0010131409
+629,Watsco Inc.,885676,FR,WC3,WSO,Dienstleistungen,US9426222009
+630,Wendel S.A.,850709,FR,WIS,MF.PA,Finanzdienstleistungen,FR0000121204
+631,Worldline SA,A116LR,FR,WO6,WLN.PA,IT-Dienstleistungen,FR0011981968
+632,Xilam Animation S.A.,533963,FR,XIH,XIL.PA,Medien,FR0004034072
+633,Aegean Airlines S.A.,A0MWBR,GRC,32A,AEGN.AT,Luftfahrt/Rüstung,GRS495003006
+634,"ALUMIL ALU.IND.SA EO 0,37",911464,GRC,A3A,ALMY.AT,Bau/Infrastruktur,GRS289103004
+635,Athens Medical Center S.A.,-,GRC,not_found,not_found,not_found,not_found
+636,Attica Holdings S.A.,A0NHJ3,GRC,AAE1,ATTICA.AT,Hotels/Tourismus,GRS144003001
+637,Autohellas S.A.,A1W67M,GRC,0AH1,OTOEL.AT,Fahrzeuge,GRS337003008
+638,Bank of Greece,910622,GRC,BGC,TELL.AT,Finanzdienstleistungen,GRS004013009
+639,Coca-Cola HBC AG,A1T7B9,GRC,C0Q,CCH.L,Getränke/Tabak,CH0198251305
+640,Ellaktor S.A.,906021,GRC,HLL,ELLAKTOR.AT,Bau/Infrastruktur,GRS191213008
+641,EYDAP S.A.,931894,GRC,EYP,EYDAP.AT,Versorger,GRS359353000
+642,Fourlis Holding S.A.,766652,GRC,2FH,FOYRK.AT,Handel/E-Commerce,GRS096003009
+643,"GEK TERNA Holding, Real Estate, Construction S.A.",A0B6AU,GRC,1GT,GEKTERNA.AT,Bau/Infrastruktur,GRS145003000
+644,GR. SARANTIS S.A.,675696,GRC,SSA1,SAR.AT,Handel/E-Commerce,GRS204003008
+645,Greek Organisation of Football Prognostics S.A.,765974,GRC,GF8,OPAP.AT,Freizeitprodukte,GRS419003009
+646,Hellenic Exchanges - Athens Stock Exchange S.A. Holding,941206,GRC,HEE,EXAE.AT,Finanzdienstleistungen,GRS395363005
+647,Hellenic Petroleum S.A.,914999,GRC,HLPN,ELPE.AT,Öl/Gas,GRS298343005
+648,Hellenic Telecommunications Organization S.A.,903465,GRC,OTE,HTO.AT,Telekom,GRS260333000
+649,Inform P. Lykos S.A.,910623,GRC,IPL,LYK.AT,IT-Dienstleistungen,GRS208303008
+650,Intralot S.A. Integrated Lottery Systems and Services,928980,GRC,9IL,INLOT.AT,Sonstige Technologie,GRS343313003
+651,J&P-Avax S.A.,924112,GRC,IJ6,AVAX.AT,Bau/Infrastruktur,GRS213213002
+652,Jumbo S.A.,925529,GRC,5JB,BELA.AT,Konsumgüter,GRS282183003
+653,Lamda Development S.A.,691513,GRC,LDQ,LAMDA.AT,Immobilien,GRS245213004
+654,Marfin Investment Group Holdings S.A.,A0B8KZ,GRC,M3K,MIG.AT,Finanzdienstleistungen,GRS314003005
+655,Motor Oil Hellas Corinth Refineries S.A.,794038,GRC,MHZ,MOH.AT,Öl/Gas,GRS426003000
+656,Mytilineos Holdings S.A.,934398,GRC,MYH,MYTIL.AT,Industrie/Mischkonzerne,GRS393503008
+657,Piraeus Port Authority,121488,GRC,PZE,PPA.AT,Logistik/Transport,GRS470003013
+658,Plaisio Computers S.A.,919767,GRC,P8C,PLAIS.AT,Handel/E-Commerce,GRS320313000
+659,Public Power Corporation S.A.,982549,GRC,PU8,PPC.AT,Versorger,GRS434003000
+660,Quest Holdings S.A.,A1XA84,GRC,9IVA,QUEST.AT,IT-Dienstleistungen,GRS310003009
+661,Technical Olympic S.A.,A1C4BZ,GRC,TQZA,OLYMP.AT,Industrie/Mischkonzerne,GRS403003007
+662,Terna Energy SA,A0M62T,GRC,44T,TENERGY.AT,Erneuerbare Energien,GRS496003005
+663,Thessaloniki Port Authority S.A.,691532,GRC,03P,OLTH.AT,Logistik/Transport,GRS427003009
+664,Thessaloniki Water Supply & Sewerage Co. S.A.,691519,GRC,T9W,EYAPS.AT,Versorger,GRS428003008
+665,Thrace Plastics Holding and Commercial S.A.,A0JC3P,GRC,TP3,PLAT.AT,Kunststoffe/Verpackungen,GRS239003007
+666,Viohalco S.A.,A1W8RU,GRC,VHC,VIO.BR,Rohstoffe,BE0974271034
+667,AMINEX PLC,872577,IRE,DOP,AEX.L,Öl/Gas,IE0003073255
+668,Aryzta AG,A0Q4FN,IRE,YZA,ARYN.SW,Nahrungsmittel/Agrar,CH0043238366
+669,C&C Group PLC,A0CA07,IRE,GCC,CCR.L,Getränke/Tabak,IE00B010DT83
+670,CRH PLC,864684,IRE,CRG,CRH.L,Bau/Infrastruktur,IE0001827041
+671,Dalata Hotel Group PLC,A1XE3D,IRE,DHG,DHG.IR,Hotels/Tourismus,IE00BJMZDW83
+672,Datalex Plc,579905,IRE,,DLE.IR,IT-Dienstleistungen,IE0000527006
+673,Diageo PLC,851247,IRE,GUI,DGE.L,Getränke/Tabak,GB0002374006
+674,Falcon Oil & Gas Ltd.,A0EALA,IRE,FAC,FO.V,Öl/Gas,CA3060711015
+675,FBD Holdings PLC,932239,IRE,EG7,EG7.IR,Finanzdienstleistungen,IE0003290289
+676,First Derivatives PLC,911641,IRE,GYQ,FDP.L,Dienstleistungen,GB0031477770
+677,Flutter Entertainment PLC,A14RX5,IRE,PPB,FLTR.L,Unterhaltung,IE00BWT6H894
+678,Glanbia PLC,883867,IRE,GL9,GL9.IR,Nahrungsmittel/Agrar,IE0000669501
+679,Great Western Mining Corp.,A0RM2C,IRE,8GW,GWMO.L,Rohstoffe,IE00B1FR8863
+680,Hibernia REIT PLC,A1W860,IRE,not_found,not_found,not_found,not_found
+681,Irish Continental Group PLC,A112M8,IRE,IR5B,ICGC.L,Logistik/Transport,IE00BLP58571
+682,IRISH RES.PPTYS REIT,A1XEQV,IRE,IRES,IRES.IR,Immobilien,IE00BJ34P519
+683,Kerry Group PLC,886291,IRE,KRZ,KYGA.L,Nahrungsmittel/Agrar,IE0004906560
+684,Kingspan Group PLC,905605,IRE,KRX,KRX.IR,Bau/Infrastruktur,IE0004927939
+685,Mincon Group PLC,A1W5BS,IRE,MIO,MCON.L,Maschinenbau,IE00BD64C665
+686,Ovoca Gold PLC,A0YG05,IRE,OVXA,OVXA.IR,Biotechnologie,IE00B4XVDC01
+687,Permanent TSB Group Holdings PLC,A14P7U,IRE,IL0A,OVXA.IR,Finanzdienstleistungen,IE00BWB8X525
+688,Petroneft Resources PLC,A0LA4N,IRE,P8ET,OVXA.IR,Öl/Gas,IE00B0Q82B24
+689,Providence Resources PLC,A1CWXB,IRE,PZQA,OVXA.IR,Öl/Gas,IE00B66B5T26
+690,Smurfit Kappa Group PLC,A0MLCS,IRE,SK3,OVXA.IR,Holz/Papier,IE00B1RR8406
+691,Tesco PLC,852647,IRE,not_found,not_found,not_found,not_found
+692,Total Produce PLC,A0LEN8,IRE,not_found,not_found,not_found,not_found
+693,Tullow Oil PLC,591219,IRE,TQW,OVXA.IR,Öl/Gas,GB0001500809
+694,A.S. Roma S.p.A.,938439,IT,RO9,ASR.MI,Freizeitprodukte,IT0001008876
+695,A2A S.p.A.,915445,IT,EAM,ASR.MI,Versorger,IT0001233417
+696,Acea S.p.A.,924293,IT,DCA,A2A.MI,Versorger,IT0001207098
+697,Aeffe S.p.A.,A0MW4X,IT,3A1,AEF.MI,Bekleidung/Textil,IT0001384590
+698,Aegon N.V.,A0JL2Y,IT,AEND,AGN.AS,Finanzdienstleistungen,NL0000303709
+699,Aeroporto Guglielmo Marconi di Bologna S.p.A.,A14WKT,IT,169,AGN.AS,Logistik/Transport,IT0001006128
+700,Ageas SA/NV,A1J1DR,IT,FO4N,ADB.MI,Finanzdienstleistungen,BE0974264930
+701,Alerion Cleanpower S.p.A.,A1JAJM,IT,FCW3,AGS.BR,Versorger,IT0004720733
+702,Ambienthesis S.p.A.,910867,IT,SJW,GTH.MI,Bau/Infrastruktur,IT0001042297
+703,Amplifon S.p.A.,A0JMJX,IT,AXNA,ATH.MI,Sonstige Technologie,IT0004056880
+704,Anima Holding S.p.A.,A110YL,IT,124,ANIM.MI,Finanzdienstleistungen,IT0004998065
+705,Arnoldo Mondadori Editore S.p.A.,874533,IT,MDD,MN.MI,Medien,IT0001469383
+706,Ascopiave s.p.a.,A0LF39,IT,AVA,ASC.MI,Versorger,IT0004093263
+707,Assicurazioni Generali S.p.A.,850312,IT,ASG,G.MI,Finanzdienstleistungen,IT0000062072
+708,Atlantia S.p.A.,913220,IT,AU9,ATL.MI,Bau/Infrastruktur,IT0003506190
+709,Autogrill S.p.A.,908497,IT,AUL,AGL.MI,Nahrungsmittel/Agrar,IT0001137345
+710,Avio S.p.A.,A14XKE,IT,2ZP,AVIO.MI,Luftfahrt/Rüstung,IT0005119810
+711,Azimut Holding S.p.A.,A0B6Q3,IT,HDB,AZM.MI,Finanzdienstleistungen,IT0003261697
+712,B&C Speakers SPA,A0MXCK,IT,37B,BEC.MI,Sonstige Technologie,IT0001268561
+713,Banca Finnat Euramerica S.p.A.,861627,IT,TQ9,BFE.MI,Finanzdienstleistungen,IT0000088853
+714,Banca Generali S.p.A.,A0LCVJ,IT,B7A,BGN.MI,Finanzdienstleistungen,IT0001031084
+715,Banca Ifis S.p.A.,764940,IT,0I6,IF.MI,Finanzdienstleistungen,IT0003188064
+716,Banca Popolare di Sondrio S.C.a.R.L.,918561,IT,593,BPSO.MI,Finanzdienstleistungen,IT0000784196
+717,Banca Sistema S.p.A.,A14V3M,IT,B2S,BST.MI,Finanzdienstleistungen,IT0003173629
+718,Banco di Desio e della Brianza S.p.A.,918471,IT,BJ7,BDB.MI,Finanzdienstleistungen,IT0001041000
+719,Banco Santander S.A.,858872,IT,BSD2,SAN.MC,Finanzdienstleistungen,ES0113900J37
+720,BasicNet S.p.A.,929285,IT,BCJ,BAN.MI,Handel/E-Commerce,IT0001033700
+721,Bastogi S.p.A.,A0RA4Y,IT,BAOA,B.MI,Immobilien,IT0004412497
+722,BB Biotech AG,A0NFN3,IT,BBZA,BION.SW,Biotechnologie,CH0038389992
+723,"Be Think, Solve, Execute S.p.A.",580873,IT,DAF,BEST.MI,IT-Dienstleistungen,IT0001479523
+724,Bialetti Industrie S.p.A.,A0MXBQ,IT,32B,BIA.MI,Konsumgüter,IT0004222102
+725,Biesse S.p.A.,675689,IT,BI2,BSS.MI,Maschinenbau,IT0003097257
+726,"BORGOSESIA  EO 1,20",918562,IT,Ticker-Symbol:,BO.MI,Finanzdienstleistungen,IT0003217335
+727,BPER BANCA EO 3,897832,IT,4BE,BPE.MI,Finanzdienstleistungen,IT0000066123
+728,Brunello Cucinelli S. P. A.,A1JWYK,IT,8BU,BC.MI,Bekleidung/Textil,IT0004764699
+729,Buzzi Unicem S.p.A.,925963,IT,UCM,BZU.MI,Bau/Infrastruktur,IT0001347308
+730,Cairo Communication S.p.A.,A0NEXV,IT,CI1A,CAI.MI,Medien,IT0004329733
+731,Caltagirone Editore S. p. A,502374,IT,EDJ,CED.MI,Medien,IT0001472171
+732,Caltagirone S.p.A.,879496,IT,QCG,CALT.MI,Industrie/Mischkonzerne,IT0003127930
+733,Carrefour S.A.,852362,IT,CAR,CA.PA,Handel/E-Commerce,FR0000120172
+734,CIR SPA EO,870291,IT,BN7,CIR.MI,Industrie/Mischkonzerne,IT0000070786
+735,CNH Industrial N.V.,A1W599,IT,37C,CNHI,Industrie/Mischkonzerne,NL0010545661
+736,Credit Agricole S.A.,982285,IT,XCA,ACA.PA,Finanzdienstleistungen,FR0000045072
+737,Credito Emiliano S.P.A.,866464,IT,EAO,CE.MI,Finanzdienstleistungen,IT0003121677
+738,CTI BioPharma Corp.,A115FF,IT,not_found,not_found,not_found,not_found
+739,D AMICO INTL SHIP.SA,A0MQCH,IT,B7C,DIS.MI,Logistik/Transport,LU0290697514
+740,Danieli & C. - Officine Meccaniche S.p.A.,868988,IT,DAS,DAN.MI,Eisen/Stahl,IT0000076502
+741,Danone S.A.,851194,IT,BSN,BN.PA,Nahrungsmittel/Agrar,FR0000120644
+742,Datalogic S.p.A.,A0JMQC,IT,DT8A,DAL.MI,Elektrotechnologie,IT0004053440
+743,DE' LONGHI S.P.A.,694642,IT,DLN,DLG.MI,Konsumgüter,IT0003115950
+744,DeA Capital S.p.A.,936385,IT,CWH,DEA.MI,Finanzdienstleistungen,IT0001431805
+745,DiaSorin S.p.A.,A0MTB2,IT,34D,DIA.MI,Gesundheitswesen,IT0003492391
+746,Digital Bros S.P.A.,588267,IT,DB7,DIB.MI,Unterhaltung,IT0001469995
+747,EDISON SPA   RISP.NC EO 1,164219,IT,not_found,not_found,not_found,not_found
+748,EEMS Italia S.p.A.,A0JK0E,IT,E2Y,EEMS.MI,Halbleiter,IT0001498234
+749,Elica SpA,A0LEFE,IT,7L4,ELC.MI,Konsumgüter,IT0003404214
+750,Emak,918616,IT,EK4,EM.MI,Maschinenbau,IT0001237053
+751,Engie S.A.,A0ER6Q,IT,GZF,ENGI.PA,Versorger,FR0010208488
+752,ENI S.p.A.,897791,IT,ENI,ENI.MI,Versorger,IT0003132476
+753,EPRICE S.P.A.,A14NQF,IT,BZA,EPR.MI,Internet,IT0005084717
+754,ERG S.p.A.,909581,IT,ER9,ERG.MI,Öl/Gas,IT0001157020
+755,Esprinet S.p.A.,A0EQ3J,IT,EP4A,PRT.MI,Handel/E-Commerce,IT0003850929
+756,Eurotech S.p.A.,A0HL7K,IT,E5T,ETH.MI,Elektrotechnologie,IT0003895668
+757,Exprivia S.p.A.,929391,IT,IW7,XPR.MI,Software,IT0001477402
+758,F.I.L.A. - Fabbrica Italiana Lapis ed Affini S.p.A.,A1W96K,IT,3S0,FILA.MI,Konsumgüter,IT0004967292
+759,Falck Renewables S.p.A.,541859,IT,,FKR.MI,Erneuerbare Energien,IT0003198790
+760,Fidia S.p.A.,589983,IT,FIC,FDA.MI,Sonstige Technologie,IT0001498481
+761,Fincantieri S.p.A.,A1161U,IT,1F8,FCT.MI,Maschinenbau,IT0001415246
+762,FinecoBank S.p.A.,A116MH,IT,ZS3,FBK.MI,Finanzdienstleistungen,IT0000072170
+763,FNM SpA,918564,IT,8FN,FNM.MI,Logistik/Transport,IT0000060886
+764,FULLSIX,940046,IT,IA6,FUL.MI,Dienstleistungen,IT0001487047
+765,Gas Plus S.p.A.,A0LFL3,IT,T9O,GSP.MI,Öl/Gas,IT0004098510
+766,Gefran S.p.A.,918615,IT,GF7,GE.MI,Sonstige Technologie,IT0003203947
+767,Geox S.p.A.,A0DNCF,IT,GHH,GEO.MI,Bekleidung/Textil,IT0003697080
+768,GEQUITY S.P.A.,A1W2ZE,IT,Ticker-Symbol:,GEQ.MI,Finanzdienstleistungen,IT0004942915
+769,Gruppo MutuiOnline S.p.A.,A0MUDJ,IT,MNL,MOL.MI,Internet,IT0004195308
+770,Hera S.p.A.,471473,IT,HE9,HER.MI,Versorger,IT0001250932
+771,I GRANDI VIAGGI,A14T3X,IT,95H,IGV.MI,Hotels/Tourismus,IT0005108219
+772,Immsi S.p.A.,934585,IT,IMY,IMS.MI,Immobilien,IT0001413837
+773,Infrastrutture Wireless Italiane S.p.A.,A14UAV,IT,WI8,INW.MI,Telekom,IT0005090300
+774,Intek Group S.p.A.,A1CSQF,IT,MTJ3,IKG.MI,Rohstoffe,IT0004552359
+775,Interpump Group S.P.A.,904257,IT,8IG,IP.MI,Maschinenbau,IT0001078911
+776,Intesa Sanpaolo S.p.A.,850605,IT,IES,ISP.MI,Finanzdienstleistungen,IT0000072618
+777,IRCE S.p.A.,904351,IT,IRQ,IRC.MI,Elektrotechnologie,IT0001077780
+778,Iren S.p.A.,591767,IT,TZ8,IRE.MI,Versorger,IT0003027817
+779,IT Way SpA,677459,IT,IW3,ITW.MI,IT-Dienstleistungen,IT0003057624
+780,Juventus Football Club S.p.A.,794314,IT,JUVE,JUVE.MI,Freizeitprodukte,IT0000336518
+781,Kering S.A.,851223,IT,PPX,KER.PA,Handel/E-Commerce,FR0000121485
+782,Koninklijke Philips N.V.,940602,IT,PHI1,PHIA.AS,Elektrotechnologie,NL0000009538
+783,La Doria S.p.A.,898038,IT,,LD.MI,Nahrungsmittel/Agrar,IT0001055521
+784,Landi Renzo S.p.A.,A0MUQC,IT,ARQ,LR.MI,Fahrzeuge,IT0004210289
+785,Leonardo S.p.A.,A0ETQX,IT,FMNB,LDO.MI,Industrie/Mischkonzerne,IT0003856405
+786,LVENTURE GROUP S.P.A.,A1131T,IT,Ticker-Symbol:,LVEN.MI,Finanzdienstleistungen,IT0005013013
+787,LVMH Moet Hennessy Louis Vuitton SE,853292,IT,MOH,MC.PA,Konsumgüter,FR0000121014
+788,Maire Tecnimont S.p.A.,A1W0E6,IT,3OY1,MT.MI,Bau/Infrastruktur,IT0004931058
+789,Marr S.p.A.,A0ERXE,IT,M6Z,MARR.MI,Nahrungsmittel/Agrar,IT0003428445
+790,Mediaset S.p.A.,901402,IT,not_found,not_found,not_found,not_found
+791,Mediobanca - Banca di Credito Finanziario S.p.A.,851715,IT,ME9,MB.MI,Finanzdienstleistungen,IT0000062957
+792,Moncler S.p.A.,A1W66W,IT,MOV,MONC.MI,Bekleidung/Textil,IT0004965148
+793,Mondo TV S.p.A,615213,IT,MJE,MTV.MI,Medien,IT0001447785
+794,Monrif SpA,874684,IT,MO9,MON.MI,Medien,IT0000066016
+795,Münchener Rückversicherungs-Gesellschaft AG in München,843002,IT,MUV2,MUV2.DE,Finanzdienstleistungen,DE0008430026
+796,Netweek SpA,A1J1CH,IT,DMMN,NTW.MI,Medien,IT0004819030
+797,Orange S.A.,906849,IT,FTE,ORA.PA,Telekom,FR0000133308
+798,"OREAL (L') INH. EO 0,2",853888,IT,LOR,OR.PA,Konsumgüter,FR0000120321
+799,OVS S.p.A.,A14PJ1,IT,0OV1,OVS.MI,Handel/E-Commerce,IT0005043507
+800,Piaggio & C. S.p.A.,A0H0Y6,IT,P1I,PIA.MI,Fahrzeuge,IT0003073266
+801,Pininfarina S.p.A.,871485,IT,PNF,PINF.MI,Fahrzeuge,IT0003056386
+802,Piquadro SpA,A0M55D,IT,4LZ,PQ.MI,Bekleidung/Textil,IT0004240443
+803,PRIMA INDUSTRIE S.P.A.,928888,IT,PA6,PRI.MI,Maschinenbau,IT0003124663
+804,Prysmian S.p.A.,A0MP84,IT,AEU,PRY.MI,Sonstige Technologie,IT0004176001
+805,RAI Way SpA,A12FBT,IT,4RW,RWAY.MI,Telekom,IT0005054967
+806,RCS MediaGroup S.p.A.,A1WZXW,IT,HPI2,RCS.MI,Medien,IT0004931496
+807,Recordati - Industria Chimica e Farmaceutica S.p.A.,A0EABR,IT,RER1,REC.MI,Biotechnologie,IT0003828271
+808,Renault S.A.,893113,IT,RNL,RNO.PA,Fahrzeuge,FR0000131906
+809,Risanamento SpA,590339,IT,RN5,RN.MI,Immobilien,IT0001402269
+810,RWE AG,703712,IT,RWE,RWE.DE,Versorger,DE0007037129
+811,Sabaf S.p.A.,918614,IT,SM5,SAB.MI,Sonstige Technologie,IT0001042610
+812,Salvatore Ferragamo Italia S.p.A.,A1JB7F,IT,S9L,SFER.MI,Konsumgüter,IT0004712375
+813,Sanofi S.A.,920657,IT,SNW,SAN.PA,Pharma,FR0000120578
+814,SAP SE,716460,IT,SAP,SAP.DE,Software,DE0007164600
+815,Saras S.p.A. Raffinerie Sarde,A0JL4P,IT,S7A,SRS.MI,Öl/Gas,IT0000433307
+816,Sesa S.p.A.,A1JCG0,IT,1S3,SES.MI,IT-Dienstleistungen,IT0004729759
+817,Siemens AG,723610,IT,SIE,SIE.DE,Elektrotechnologie,DE0007236101
+818,Societa Cattolica di Assicurazioni S.p.A.,615355,IT,XCW,CASS.MI,Finanzdienstleistungen,IT0000784154
+819,Societa Sportiva Lazio S.p.A.,A0BMUB,IT,LZO1,SSL.MI,Freizeitprodukte,IT0003621783
+820,Societe Generale S.A.,873403,IT,SGE,GLE.PA,Finanzdienstleistungen,FR0000130809
+821,Sogefi S.p.A.,875920,IT,GEF,SO.MI,Fahrzeuge,IT0000076536
+822,Sol S.p.A.,915322,IT,QOL,SOL.MI,Chemie,IT0001206769
+823,STMicroelectronics N.V.,893438,IT,SGM,STM.PA,Halbleiter,NL0000226223
+824,Tamburi Investment Partners S.p.A.,A0HG7H,IT,T1I,TIP.MI,Finanzdienstleistungen,IT0003153621
+825,Telecom Italia S.p.A.,120471,IT,TQIR,TITR.MI,Telekom,IT0003497176
+826,Telecom Italia S.p.A.,120470,IT,TQI,TIT.MI,Telekom,IT0003497168
+828,Tenaris S.A.,164557,IT,TW11,TEN.MI,Eisen/Stahl,LU0156801721
+829,Terna S.P.A.,A0B5N8,IT,UEI,TRN.MI,Erneuerbare Energien,IT0003242622
+830,TERNIENERGIA S.P.A.,A0Q68R,IT,TI5,ALW.MI,Erneuerbare Energien,IT0004359037
+831,TESMEC S.P.A.,A1C1G1,IT,2GV,TES.MI,Maschinenbau,IT0004585243
+832,TOD'S SPA EO 2,588738,IT,TOB,TOD.MI,Bekleidung/Textil,IT0003007728
+833,TotalEnergies SE,850727,IT,TOTB,TTE.PA,Öl/Gas,FR0000120271
+834,UnipolSai Assicurazioni S.p.A.,A1J0SG,IT,SOAN,US.MI,Finanzdienstleistungen,IT0004827447
+835,Vivendi S.A.,591068,IT,VVU,VIV.PA,Unterhaltung,FR0000127771
+836,Zignago Vetro SPA,A0MSP6,IT,ZVB,ZV.MI,Kunststoffe/Verpackungen,IT0004171440
+837,Aalberts Industries N.V.,A0MQ1F,NL,AACA,AALB.AS,Industrie/Mischkonzerne,NL0000852564
+838,Accell Group N.V.,A1JADL,NL,AO1B,ACCEL.AS,Konsumgüter,NL0009767532
+839,Accsys Technologies PLC,A12A7G,NL,1D8,AXS.L,Holz/Papier,GB00BQQFX454
+840,Advanced Metallurgical Group NV,A0MWED,NL,ADG,AMG.AS,Eisen/Stahl,NL0000888691
+841,Aegon N.V.,A0JL2Y,NL,AEND,AGN.AS,Finanzdienstleistungen,NL0000303709
+842,AFC Ajax N.V.,A0H0RS,NL,AJXA,AJAX.AS,Freizeitprodukte,NL0000018034
+843,Air France-KLM S.A.,855111,NL,AFR,AF.PA,Luftfahrt/Rüstung,FR0000031122
+844,Amsterdam Commodities N.V.,852176,NL,8AC,ACOMO.AS,Nahrungsmittel/Agrar,NL0000313286
+845,AND International Publishers N.V.,915080,NL,B1Z,GOJXN.AS,IT-Dienstleistungen,NL0000430106
+846,Arcadis N.V.,A0Q163,NL,HIJ2,ARCAD.AS,Bau/Infrastruktur,NL0006237562
+847,ASM International N.V.,868730,NL,AVS,ASM.AS,Halbleiter,NL0000334118
+848,ASML Holding N.V.,A1J4U4,NL,ASME,ASML.AS,Halbleiter,NL0010273215
+850,Atrium European Real Estate Ltd.,A0X963,NL,ODDB,not_found,Immobilien,JE00B3DCF752
+851,Banco Santander S.A.,858872,NL,BSD2,SAN.MC,Finanzdienstleistungen,ES0113900J37
+852,Beter Bed Holding N.V.,A0JMCY,NL,BBQ,BBED.AS,Konsumgüter,NL0000339703
+853,Boeing Co.,850471,NL,BCO,BA,Luftfahrt/Rüstung,US0970231058
+854,Brookfield Asset Management Inc.,A0HNRY,NL,BKAA,BAM-A.TO,Finanzdienstleistungen,CA1125851040
+855,Brunel International N.V.,A115DT,NL,3BY3,BRNL.AS,Dienstleistungen,NL0010776944
+856,Chevron Corp.,852552,NL,CHV,CVX,Öl/Gas,US1667641005
+857,Cisco Systems Inc.,878841,NL,CIS,CSCO,Netzwerktechnik,US17275R1023
+858,Corbion N.V.,A1W60Y,NL,CSUA,CRBN.AS,Nahrungsmittel/Agrar,NL0010583399
+859,Core Laboratories N.V.,897269,NL,CEI,CLB,Öl/Gas,NL0000200384
+860,CTAC N.V.,912784,NL,TAC,CTAC.AS,IT-Dienstleistungen,NL0000345577
+861,Deutsche Telekom AG,555750,NL,DTE,DTE.DE,Telekom,DE0005557508
+862,Docdata N.V.,A0B8R8,NL,DOC2,EAS2P.AS,Medien,NL0000345627
+863,E.ON SE,ENAG99,NL,EOAN,EOAN.DE,Versorger,DE000ENAG999
+864,ENI S.p.A.,897791,NL,ENI,ENI.MI,Versorger,IT0003132476
+865,Esperite N.V.,A0YB5B,NL,5C1A,ESP.AS,Gesundheitswesen,NL0009272137
+866,Eurocastle Investment Ltd.,A1T985,NL,1V9,ECT.AS,Finanzdienstleistungen,GB00B94QM994
+867,EUROCOMMERCIAL PROPERTIES N.V.,974885,NL,not_found,not_found,not_found,not_found
+868,Euronext N.V.,A115MJ,NL,ENXB,ENX.PA,Finanzdienstleistungen,NL0006294274
+869,Fargon N.V.,A0M103,NL,4A5,FAGR.BR,Gesundheitswesen,BE0003874915
+870,Flow Traders N.V.,A14V70,NL,8FT,FLOW.AS,Finanzdienstleistungen,NL0011279492
+871,Foot Locker Inc.,877539,NL,WOO,FL,Handel/E-Commerce,US3448491049
+872,Fugro N.V.,A0ET3V,NL,not_found,not_found,not_found,not_found
+873,Galapagos N.V.,A0EAT9,NL,GXE,GLPG.AS,Biotechnologie,BE0003818359
+874,Grandvision B.V.,A14M4D,NL,not_found,not_found,not_found,not_found
+875,Hal Trust,864247,NL,HA4,HAL.AS,Finanzdienstleistungen,BMG455841020
+876,Harbourvest Global Private Equity Ltd.,A12C4N,NL,9JF,HVPE.L,Finanzdienstleistungen,GG00BR30MJ80
+877,Heijmans N.V.,A0YBCH,NL,HJN1,HEIJM.AS,Bau/Infrastruktur,NL0009269109
+878,Heineken Holding N.V.,A0ETXG,NL,4H5,HEIO.AS,Getränke/Tabak,NL0000008977
+879,Heineken N.V.,A0CA0G,NL,HNK1,HEIA.AS,Getränke/Tabak,NL0000009165
+880,Holland Colours N.V.,A0ETVC,NL,HCY,HOLCO.AS,Chemie,NL0000440311
+881,Hunter Douglas N.V.,855243,NL,HUD,HDG.AS,Bau/Infrastruktur,ANN4327C1220
+882,IMCD N.V.,A116P8,NL,INX,IMCD.AS,Chemie,NL0010801007
+883,Intel Corp.,855681,NL,INL,INTC,Halbleiter,US4581401001
+884,International Business Machines Corp.,851399,NL,IBM,IBM,Hardware,US4592001014
+885,Kendrion N.V.,A0MN1X,NL,K3E,KENDR.AS,Maschinenbau,NL0000852531
+886,Klepierre S.A.,863272,NL,KPR,LI.PA,Immobilien,FR0000121964
+887,Koninklijke BAM Groep N.V.,A0JMJ1,NL,BGPA,BAMNB.AS,Bau/Infrastruktur,NL0000337319
+888,Koninklijke Boskalis Westminster N.V.,A0MR3M,NL,KBWA,BOKA.AS,Bau/Infrastruktur,NL0000852580
+889,Koninklijke DSM N.V.,A0JLZ7,NL,DSM2,DSM.AS,Chemie,NL0000009827
+890,Koninklijke KPN N.V.,890963,NL,KPN,KPN.AS,Telekom,NL0000009082
+891,Koninklijke Philips N.V.,940602,NL,PHI1,PHIA.AS,Elektrotechnologie,NL0000009538
+892,Koninklijke Vopak N.V.,A1CYGK,NL,VPK5,VPK.AS,Logistik/Transport,NL0009432491
+893,Lucas Bols N.V.,A14MCV,NL,LUA,BOLS.AS,Getränke/Tabak,NL0010998878
+894,Marathon Oil Corp.,852789,NL,USS,MRO,Öl/Gas,US5658491064
+895,Microsoft Corp.,870747,NL,MSF,MSFT,Software,US5949181045
+896,Münchener Rückversicherungs-Gesellschaft AG in München,843002,NL,MUV2,MUV2.DE,Finanzdienstleistungen,DE0008430026
+897,NB Private Equity Partners Ltd.,A0MXLB,NL,31X,NBPE.L,Finanzdienstleistungen,GG00B1ZBD492
+898,Nedsense Enterprises NV,A0YJZ4,NL,BFE,NEDSE.AS,Software,NL0009312842
+899,Neways Electronics Intl. N.V.,872290,NL,6NB,NEWAY.AS,Halbleiter,NL0000440618
+900,NN Group N.V.,A115DY,NL,2NN,NN.AS,Finanzdienstleistungen,NL0010773842
+901,NV Nederlandsche Apparatenfabriek Nedap,851851,NL,NE3,NEDAP.AS,Sonstige Technologie,NL0000371243
+902,Occidental Petroleum Corp.,851921,NL,OPC,OXY,Öl/Gas,US6745991058
+903,OCI N.V.,A1W4QF,NL,OIC,OCI.AS,Bau/Infrastruktur,NL0010558797
+904,Ordina N.V.,878074,NL,ORA,ORDI.AS,IT-Dienstleistungen,NL0000440584
+905,"PepsiCo, Inc.",851995,NL,PEP,PEP,Getränke/Tabak,US7134481081
+906,Pershing Square Holdings Ltd.,A12C4S,NL,7P2,PSH.AS,Finanzdienstleistungen,GG00BPFJTF46
+907,Pharming Group N.V.,A1H65A,NL,PHGN,PHARM.AS,Biotechnologie,NL0010391025
+908,PostNL N.V.,A1JJQC,NL,TNTC,PNL.AS,Logistik/Transport,NL0009739416
+909,Randstad N.V.,879309,NL,RSH,RAND.AS,Dienstleistungen,NL0000379121
+910,Roodmicrotec NV,872037,NL,ROO,ROOD.AS,Halbleiter,NL0000440477
+911,Royal Dutch Shell PLC,A0ER6S,NL,not_found,not_found,not_found,not_found
+912,SBM Offshore N.V.,A0JLZV,NL,IHCB,SBMO.AS,Öl/Gas,NL0000360618
+913,Shell PLC,A0D94M,NL,not_found,not_found,not_found,not_found
+914,Siemens AG,723610,NL,SIE,SIE.DE,Elektrotechnologie,DE0007236101
+915,Sligro Food Group N.V.,A0MP74,NL,8SF,SLIGR.AS,Nahrungsmittel/Agrar,NL0000817179
+916,SnowWorld N.V.,A1XAF6,NL,FN71,SNOW.AS,Hotels/Tourismus,NL0010627865
+917,Telecom Italia S.p.A.,120470,NL,TQI,TIT.MI,Telekom,IT0003497168
+919,Thunderbird Resorts Inc,A0M775,NL,4TR,THRSF,Hotels/Tourismus,VGG885761061
+920,Tie Kinetix N.V.,A1KCMJ,NL,TJH7,TIE.AS,IT-Dienstleistungen,NL0010389508
+921,TKH Group N.V.,A0MQWT,NL,TWSA,TWEKA.AS,Sonstige Technologie,NL0000852523
+922,Unilever N.V.,A0JMQ9,NL,not_found,not_found,not_found,not_found
+923,UNION PACIFIC CORP.,858144,NL,UNP,UNP,Logistik/Transport,US9078181081
+924,Van Lanschot Kempen N.V.,923948,NL,VA3,VLK.AS,Finanzdienstleistungen,NL0000302636
+925,Vastned Retail N.V.,971488,NL,VB2,VASTN.AS,Immobilien,NL0000288918
+926,Verizon Communications Inc.,868402,NL,BAC,VZ,Telekom,US92343V1044
+927,Volkswagen AG,766400,NL,VOW,VOW.DE,Fahrzeuge,DE0007664005
+928,Volta Finance Ltd.,A0LGE6,NL,3V7,VTA.AS,Finanzdienstleistungen,GG00B1GHHH78
+929,Wereldhave N.V.,853289,NL,WER,WHA.AS,Immobilien,NL0000289213
+930,Wolters Kluwer N.V.,A0J2R1,NL,WOSB,WKL.AS,Medien,NL0000395903
+931,Cofina SGPS S.A.,912517,PT,112,CFN.LS,Medien,PTCFN0AE0003
+932,Corticeira Amorim - Sociedade Gestora Participacoes Sociais S.A.,875180,PT,AS4,COR.LS,Bau/Infrastruktur,PTCOR0AE0006
+933,CTT - Correios de Portugal S.A.,A1W9RB,PT,C7T,CTT.LS,Logistik/Transport,PTCTT0AM0001
+934,EDP - Energias de Portugal S.A.,906980,PT,EDP,EDP.LS,Versorger,PTEDP0AM0009
+935,Galp Energia SGPS S.A.,A0LB24,PT,GZ5,GALP.LS,Versorger,PTGAL0AM0009
+936,Glintt - Global Intelligent Technologies S.A.,A0MX4J,PT,PAJA,GLINT.LS,IT-Dienstleistungen,PTPAD0AM0007
+937,Grupo Media Capital SGPS S.A.,A0B9WT,PT,GQV,MCP.LS,Internet,PTGMC0AM0003
+938,"Inapa-Investimentos, Participacoes e Gestao S.A.",872598,PT,IPB,INA.LS,Holz/Papier,PTINA0AP0008
+939,"Jeronimo Martins, SGPS, S.A.",878605,PT,JEM,JMT.LS,Handel/E-Commerce,PTJMT0AE0001
+940,Martifer SGPS S.A.,A0MVD4,PT,FRW,MAR.LS,Bau/Infrastruktur,PTMFR0AM0003
+941,MOTA-ENGIL SGPS S.A.,896770,PT,M09,EGL.LS,Bau/Infrastruktur,PTMEN0AE0005
+942,Navigator Company S.A.,895885,PT,PO9,NVG.LS,Holz/Papier,PTPTI0AM0006
+943,"NOS, SGPS, S.A.",A0NEHN,PT,PMV,NOS.LS,Medien,PTZON0AM0006
+944,NOVABASE SGPS S.A.,501816,PT,NVQ,NVQ.F,IT-Dienstleistungen,PTNBA0AM0006
+945,"REN - Redes Energeticas Nacionais, SGPS, S.A.",A0MVJA,PT,RN4,RENE.LS,Versorger,PTREL0AM0008
+946,"Semapa - Sociedade de Investimento e Gestao S.G.P.S., S.A.",485513,PT,SQQ1,SEM.LS,Bau/Infrastruktur,PTSEM0AM0004
+947,Sonae SGPS S.A.,A0QZ4X,PT,YSON,SON.LS,Industrie/Mischkonzerne,PTSON0AM0001
+948,Sonaecom SGPS SA,A0Q0AF,PT,XOA1,SNC.LS,Telekom,PTSNC0AM0006
+949,Sporting Lissabon,918665,PT,SCG,SCP.LS,Freizeitprodukte,PTSCP0AM0001
+950,Teixeira Duarte S.A.,A1C3ME,PT,TXC2,TDSA.LS,Bau/Infrastruktur,PTTD10AM0000
+951,ABO-Group Environment S.A.,A119RF,BEL,3T61,ABO.BR,Dienstleistungen,BE0974278104
+952,Ackermans & van Haaren N.V.,869057,BEL,B3K,ACKB.BR,Industrie/Mischkonzerne,BE0003764785
+953,Aedifica SICAFI S.A.,A0LCUN,BEL,AOO,AED.BR,Immobilien,BE0003851681
+954,Ageas SA/NV,A1J1DR,BEL,FO4N,AGS.BR,Finanzdienstleistungen,BE0974264930
+955,Agfa-Gevaert N.V.,920872,BEL,AGE,AGFB.BR,Elektrotechnologie,BE0003755692
+956,Argenx SE,A11602,BEL,1AE,ARGX.BR,Biotechnologie,NL0010832176
+957,Ascencio S.C.A. SICAFI,A0MK4T,BEL,ZYY,ASC.BR,Immobilien,BE0003856730
+958,Banque Nationale Belgique S.A.,850398,BEL,BKB,BNB.BR,Finanzdienstleistungen,BE0003008019
+959,Befimmo S.A.,922314,BEL,VJ6,BEFB.BR,Immobilien,BE0003678894
+960,Biocartis Group NV,A14R82,BEL,8XB,BCART.BR,Gesundheitswesen,BE0974281132
+961,Bone Therapeutics S.A.,A14NHV,BEL,BT1,BOTHE.BR,Biotechnologie,BE0974280126
+962,bpost S.A.,A1W0FA,BEL,13B,BPOST.BR,Logistik/Transport,BE0974268972
+963,Care Property Invest S.A.,A110SW,BEL,8OM,CPINV.BR,Immobilien,BE0974273055
+964,Celyad S.A.,A1W7Q9,BEL,1C0,CYAD.BR,Biotechnologie,BE0974260896
+965,Cie d´ Enterprises CFE- CFE SA,A0NDYN,BEL,C70,CFEB.BR,Bau/Infrastruktur,BE0003883031
+966,Cofinimmo S.A.,914421,BEL,COF,COFB.BR,Immobilien,BE0003593044
+967,D'IETEREN P.S.,A1H5AN,BEL,DJDA,DIE.BR,Fahrzeuge,BE0974259880
+968,Deceuninck N.V.,872417,BEL,1Z4,DECB.BR,Bau/Infrastruktur,BE0003789063
+969,Elia Group,A0ERSV,BEL,E4S,ELI.BR,Versorger,BE0003822393
+970,Engie S.A.,A0ER6Q,BEL,GZF,ENGI.PA,Versorger,FR0010208488
+971,Etablissements Franz Colruyt S.A.,A1C7HA,BEL,EFC1,COLR.BR,Handel/E-Commerce,BE0974256852
+972,Euronav S.A.,A0DNRS,BEL,OCW,EURN.BR,Logistik/Transport,BE0003816338
+973,Euronext N.V.,A115MJ,BEL,ENXB,ENX.PA,Finanzdienstleistungen,NL0006294274
+974,EVS Broadcast Equipment S.A.,A0ET8E,BEL,5E1,EVS.BR,Sonstige Technologie,BE0003820371
+975,Exmar S.A.,812880,BEL,1EX,EXM.BR,Logistik/Transport,BE0003808251
+976,Fargon N.V.,A0M103,BEL,4A5,FAGR.BR,Gesundheitswesen,BE0003874915
+977,Financiere de Tubize S.A.,A0ETZ2,BEL,FTD,TUB.BR,Pharma,BE0003823409
+978,Fluxys Belgium S.A.,A1JX9C,BEL,59FE,FLUX.BR,Logistik/Transport,BE0974265945
+979,Galapagos N.V.,A0EAT9,BEL,GXE,GLPG.AS,Biotechnologie,BE0003818359
+980,Gimv N.V.,907547,BEL,GI3,GIMB.BR,Finanzdienstleistungen,BE0003699130
+981,Greenyard N.V.,924003,BEL,2P1,GREEN.BR,Nahrungsmittel/Agrar,BE0003765790
+982,Groupe Bruxelles Lambert S.A,873222,BEL,EAI,GBLB.BR,Finanzdienstleistungen,BE0003797140
+983,Home Invest Belgium SICAFI S.A.,805814,BEL,not_found,not_found,not_found,not_found
+984,Intervest Offices,764858,BEL,IJY,INTO.BR,Immobilien,BE0003746600
+985,Ion Beam Applications S.A. IBA,914998,BEL,IOB,IBAB.BR,Sonstige Technologie,BE0003766806
+986,KBC Ancora Comm.VA,A0MU0L,BEL,KB9,KBCA.BR,Finanzdienstleistungen,BE0003867844
+987,KBC Group N.V.,854943,BEL,KDB,KBC.BR,Finanzdienstleistungen,BE0003565737
+988,KEYWARE TECHNOLOGIES S.A. ACTIONS NOM. O.N.,A0M9QW,BEL,KY3A,KEYW.BR,Sonstige Technologie,BE0003880979
+989,Kinepolis Group S.A.,A114V1,BEL,KPSN,KIN.BR,Medien,BE0974274061
+990,LEASINVEST REAL ESTATE SCA ACTIONS NOM. O.N.,936957,BEL,L3R,NEXTA.BR,Immobilien,BE0003770840
+991,Lotus Bakeries SA,877480,BEL,7LB,LOTB.BR,Nahrungsmittel/Agrar,BE0003604155
+992,MDxHealth S.A.,A0J3N3,BEL,O6C,MDXH.BR,Biotechnologie,BE0003844611
+993,Melexis N.V.,909765,BEL,MEX,MELE.BR,Fahrzeuge,BE0165385973
+994,Mithra Pharmaceuticals S.A.,A14V4E,BEL,1TM,MITRA.BR,Pharma,BE0974283153
+995,Montea SICAFI S.C.A.,A0LCLA,BEL,M8E,MONT.BR,Immobilien,BE0003853703
+996,N.V. Bekaert S.A.,A1C8J5,BEL,BK8N,BEKB.BR,Eisen/Stahl,BE0974258874
+997,Ontex Group N.V.,A116FD,BEL,OT7,ONTEX.BR,Konsumgüter,BE0974276082
+998,Option N.V.,A0JKZW,BEL,OINA,OPTI.BR,Sonstige Technologie,BE0003836534
+999,Orange Belgium S.A.,916424,BEL,MOS,OBEL.BR,Telekom,BE0003735496
+1000,Proximus S.A.,A0B9FU,BEL,BX7,PROX.BR,Telekom,BE0003810273
+1001,Qrf CommVA,A1XAXT,BEL,2QR,QRF.BR,Immobilien,BE0974272040
+1002,Recticel S.A.,853358,BEL,RCZ,REC.BR,Chemie,BE0003656676
+1003,Retail Estates SA,936956,BEL,R6N,RET.BR,Immobilien,BE0003720340
+1004,RTL Group S.A.,861149,BEL,RRTL,RRTL.DE,Medien,LU0061462528
+1005,Sofina S.A.,852448,BEL,8FS,SOF.BR,Finanzdienstleistungen,BE0003717312
+1006,Solvay S.A.,856200,BEL,SOL,SOLB.BR,Chemie,BE0003470755
+1007,Suez S.A.,A0Q418,BEL,not_found,not_found,not_found,not_found
+1008,Telenet Group Holding N.V.,A0HFV9,BEL,T4I,TNET.BR,Telekom,BE0003826436
+1009,Tessenderlo Group S.A.,852064,BEL,TEZ,TESB.BR,Chemie,BE0003555639
+1010,Thrombogenics N.V.,A0J30B,BEL,TG4,OXUR.BR,Pharma,BE0003846632
+1011,TINC Comm. VA,A14S3R,BEL,5TI,TINC.BR,Finanzdienstleistungen,BE0974282148
+1012,TotalEnergies SE,850727,BEL,TOTB,TTE.PA,Öl/Gas,FR0000120271
+1013,UCB S.A.,852738,BEL,UNC,UCB.BR,Pharma,BE0003739530
+1014,Vastned Retail Belgium NV,806919,BEL,IJX,VASTB.BR,Immobilien,BE0003754687
+1015,VGP N.V.,A0M8Y5,BEL,4V1,VGP.BR,Immobilien,BE0003878957
+1016,Viohalco S.A.,A1W8RU,BEL,VHC,VIO.BR,Rohstoffe,BE0974271034
+1017,Vranken Pommery Monopole SA,913302,BEL,9VP,VRAP.PA,Getränke/Tabak,FR0000062796
+1018,Wereldhave Belgium C.V.A. Actions Nom. o.N.,632334,BEL,WPU,WEHB.BR,Immobilien,BE0003724383
