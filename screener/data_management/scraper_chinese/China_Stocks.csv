@@ -1,0 +1,1917 @@
+,name,ticker,index,industry
+0,"Shanghai Pudong Development Bank Co., Ltd.",600000.SS,Shanghai,Financial Services
+1,"Guangzhou Baiyun International Airport Co., Ltd.",600004.SS,Shanghai,Industrials
+2,DongFeng Automobile Co. LTD,600006.SS,Shanghai,Consumer Cyclical
+3,"China World Trade Center Co., Ltd.",600007.SS,Shanghai,Real Estate
+4,"Beijing Capital Eco-environment Protection Group Co.,ltd.",600008.SS,Shanghai,Industrials
+5,"Shanghai International Airport Co., Ltd.",600009.SS,Shanghai,Industrials
+6,"Inner Mongolia Baotou Steel Union Co., Ltd.",600010.SS,Shanghai,Basic Materials
+7,"Huaneng Power International, Inc.",600011.SS,Shanghai,Utilities
+8,Anhui Expressway Company Limited,600012.SS,Shanghai,Industrials
+9,"Hua Xia Bank Co., Limited",600015.SS,Shanghai,Financial Services
+10,"China Minsheng Banking Corp., Ltd.",600016.SS,Shanghai,Financial Services
+11,"Rizhao Port Co., Ltd.",600017.SS,Shanghai,Industrials
+12,"Shanghai International Port (Group) Co., Ltd.",600018.SS,Shanghai,Industrials
+13,"Baoshan Iron & Steel Co., Ltd.",600019.SS,Shanghai,Basic Materials
+14,Henan Zhongyuan Expressway Company Limited,600020.SS,Shanghai,Industrials
+15,"Shanghai Electric Power Co., Ltd.",600021.SS,Shanghai,Utilities
+16,Shandong Iron and Steel Company Ltd.,600022.SS,Shanghai,Basic Materials
+17,"Zhejiang Zheneng Electric Power Co., Ltd.",600023.SS,Shanghai,Utilities
+18,Huaneng Lancang River Hydropower Inc.,600025.SS,Shanghai,Utilities
+19,"COSCO SHIPPING Energy Transportation Co., Ltd.",600026.SS,Shanghai,Industrials
+20,Huadian Power International Corporation Limited,600027.SS,Shanghai,Utilities
+21,China Petroleum & Chemical Corporation,600028.SS,Shanghai,
+22,China Southern Airlines Company Limited,600029.SS,Shanghai,
+23,CITIC Securities Company Limited,600030.SS,Shanghai,Financial Services
+24,"Sany Heavy Industry Co., Ltd",600031.SS,Shanghai,Industrials
+25,"Zhejiang Provincial New Energy Investment Group Co., Ltd.",600032.SS,Shanghai,Utilities
+26,"Fujian Expressway Development Co.,Ltd",600033.SS,Shanghai,Industrials
+27,"Hubei Chutian Smart Communication Co.,Ltd.",600035.SS,Shanghai,Industrials
+28,"China Merchants Bank Co., Ltd.",600036.SS,Shanghai,Financial Services
+29,"Beijing Gehua Catv Network Co.,Ltd.",600037.SS,Shanghai,Communication Services
+30,Avicopter Plc,600038.SS,Shanghai,Industrials
+31,"Sichuan Road & Bridge Co.,Ltd",600039.SS,Shanghai,Industrials
+32,"Poly Developments and Holdings Group Co., Ltd.",600048.SS,Shanghai,Real Estate
+33,China United Network Communications Limited,600050.SS,Shanghai,Communication Services
+34,"Ningbo United Group Co.,Ltd.",600051.SS,Shanghai,Industrials
+35,"Zhejiang Dongwang Times Technology Co., Ltd.",600052.SS,Shanghai,Real Estate
+36,"Kunwu Jiuding Investment Holdings Co., Ltd.",600053.SS,Shanghai,Financial Services
+37,"Huangshan Tourism Development Co.,Ltd.",600054.SS,Shanghai,Consumer Cyclical
+38,"Beijing Wandong Medical Technology Co., Ltd.",600055.SS,Shanghai,Healthcare
+39,"China Meheco Group Co., Ltd.",600056.SS,Shanghai,Healthcare
+40,"Xiamen Xiangyu Co., Ltd.",600057.SS,Shanghai,Industrials
+41,"Minmetals Development Co., Ltd.",600058.SS,Shanghai,Industrials
+42,"Zhejiang Guyuelongshan Shaoxing Wine Co.,Ltd",600059.SS,Shanghai,Consumer Defensive
+43,"Hisense Visual Technology Co., Ltd.",600060.SS,Shanghai,Technology
+44,"SDIC Capital Co.,Ltd",600061.SS,Shanghai,Financial Services
+45,"China Resources Double-Crane Pharmaceutical Co.,Ltd.",600062.SS,Shanghai,Healthcare
+46,"Anhui Wanwei Updated High-Tech Material Industry Co.,Ltd",600063.SS,Shanghai,Basic Materials
+47,Nanjing Gaoke Company Limited,600064.SS,Shanghai,Real Estate
+48,"Yutong Bus Co.,Ltd.",600066.SS,Shanghai,Consumer Cyclical
+49,"Citychamp Dartong Co.,Ltd.",600067.SS,Shanghai,Industrials
+50,"Zhejiang Furun Digital Technology Co., Ltd.",600070.SS,Shanghai,Consumer Cyclical
+51,Phenix Optical Company Limited,600071.SS,Shanghai,Consumer Cyclical
+52,"CSSC Science& Technology Co., Ltd",600072.SS,Shanghai,Basic Materials
+53,"Shanghai Maling Aquarius Co.,Ltd",600073.SS,Shanghai,Consumer Defensive
+54,"Xinjiang Tianye Co.,Ltd.",600075.SS,Shanghai,Basic Materials
+55,"Kangxin New Materials Co., Ltd",600076.SS,Shanghai,Basic Materials
+56,"Sundy Land Investment Co., Ltd.",600077.SS,Shanghai,Real Estate
+57,"Humanwell Healthcare (Group) Co.,Ltd.",600079.SS,Shanghai,Healthcare
+58,Ginwa Enterprise (Group) Inc.,600080.SS,Shanghai,Healthcare
+59,"Dongfeng Electronic Technology Co.,Ltd.",600081.SS,Shanghai,Consumer Cyclical
+60,"Tianjin Hi-Tech Development Co.,Ltd.",600082.SS,Shanghai,Industrials
+61,"Citic Guoan Wine CO.,LTD",600084.SS,Shanghai,Consumer Defensive
+62,"Beijing Tongrentang Co., Ltd",600085.SS,Shanghai,Healthcare
+63,"China Television Media, Ltd.",600088.SS,Shanghai,Communication Services
+64,"TBEA Co., Ltd.",600089.SS,Shanghai,Industrials
+65,Greattown Holdings Ltd.,600094.SS,Shanghai,Real Estate
+66,"Xiangcai Co.,Ltd",600095.SS,Shanghai,Consumer Defensive
+67,"Yunnan Yuntianhua Co., Ltd.",600096.SS,Shanghai,Basic Materials
+68,"Shanghai Kaichuang Marine International Co., Ltd.",600097.SS,Shanghai,Consumer Defensive
+69,Guangzhou Development Group Incorporated,600098.SS,Shanghai,Utilities
+70,"Linhai Co.,Ltd.",600099.SS,Shanghai,Consumer Cyclical
+71,"Tsinghua Tongfang Co.,Ltd.",600100.SS,Shanghai,Technology
+72,"Sichuan Mingxing Electric Power Co., Ltd.",600101.SS,Shanghai,Utilities
+73,"Fujian Qingshan Paper Industry Co.,Ltd.",600103.SS,Shanghai,Basic Materials
+74,SAIC Motor Corporation Limited,600104.SS,Shanghai,
+75,Jiangsu Etern Company Limited,600105.SS,Shanghai,Technology
+76,"Chongqing road & bridge co.,ltd",600106.SS,Shanghai,Industrials
+77,"Hubei Mailyard Share Co.,Ltd",600107.SS,Shanghai,Consumer Cyclical
+78,"Gansu Yasheng Industrial (Group) Co., Ltd.",600108.SS,Shanghai,Consumer Defensive
+79,"Sinolink Securities Co., Ltd.",600109.SS,Shanghai,Financial Services
+80,"Nuode Investment Co.,Ltd",600110.SS,Shanghai,Industrials
+81,"China Northern Rare Earth (Group) High-Tech Co.,Ltd",600111.SS,Shanghai,Basic Materials
+82,Zhejiang Dongri Limited Company,600113.SS,Shanghai,Industrials
+83,"NBTM New Materials Group Co., Ltd.",600114.SS,Shanghai,Consumer Cyclical
+84,China Eastern Airlines Corporation Limited,600115.SS,Shanghai,
+85,"Chongqing Three Gorges Water Conservancy and Electric Power Co., Ltd.",600116.SS,Shanghai,Utilities
+86,"XiNing Special Steel Co., Ltd.",600117.SS,Shanghai,Basic Materials
+87,"China Spacesat Co.,Ltd.",600118.SS,Shanghai,Industrials
+88,"Y.U.D.Yangtze River Investment Industry Co.,Ltd.",600119.SS,Shanghai,Industrials
+89,"Zhejiang Orient Financial Holdings Group Co., Ltd.",600120.SS,Shanghai,Financial Services
+90,"Zhengzhou Coal Industry & Electric Power Co., Ltd.",600121.SS,Shanghai,Energy
+91,"Shanxi Lanhua Sci-Tech Venture Co.,Ltd",600123.SS,Shanghai,Energy
+92,"China Railway Tielong Container Logistics Co., Ltd",600125.SS,Shanghai,Industrials
+93,"Hang Zhou Iron & Steel Co.,Ltd.",600126.SS,Shanghai,Basic Materials
+94,"Jinjian Cereals Industry Co.,Ltd.",600127.SS,Shanghai,Consumer Defensive
+95,Jiangsu Holly Corporation,600128.SS,Shanghai,Consumer Cyclical
+96,"Chongqing Taiji Industry(Group) Co.,Ltd",600129.SS,Shanghai,Healthcare
+97,"Ningbo Bird Co.,Ltd.",600130.SS,Shanghai,Technology
+98,"State Grid Information & Communication Co., Ltd.",600131.SS,Shanghai,Utilities
+99,"Chongqing Brewery Co., Ltd.",600132.SS,Shanghai,Consumer Defensive
+100,"Wuhan East Lake High Technology Group Co., Ltd.",600133.SS,Shanghai,Industrials
+101,"Lucky Film Company,Limited",600135.SS,Shanghai,Basic Materials
+102,Sichuan Langsha Holding Ltd.,600137.SS,Shanghai,Consumer Cyclical
+103,"China Cyts Tours Holding Co., Ltd.",600138.SS,Shanghai,Consumer Cyclical
+104,"Hubei Xingfa Chemicals Group Co., Ltd.",600141.SS,Shanghai,Basic Materials
+105,"Kingfa Sci. & Tech. Co., Ltd.",600143.SS,Shanghai,Basic Materials
+106,"Changchun Yidong Clutch CO.,LTD",600148.SS,Shanghai,Consumer Cyclical
+107,"Langfang Development Co., Ltd.",600149.SS,Shanghai,Technology
+108,China CSSC Holdings Limited,600150.SS,Shanghai,Industrials
+109,"Shanghai Aerospace Automobile Electromechanical Co., Ltd.",600151.SS,Shanghai,Consumer Cyclical
+110,"Veken Technology Co., Ltd.",600152.SS,Shanghai,Technology
+111,Xiamen C&D Inc.,600153.SS,Shanghai,Industrials
+112,"Polaris Bay Group Co.,Ltd.",600155.SS,Shanghai,Financial Services
+113,"Hunan Huasheng Co.,Ltd",600156.SS,Shanghai,Consumer Cyclical
+114,"Wintime Energy Co.,Ltd.",600157.SS,Shanghai,Energy
+115,"China Sports Industry Group Co., Ltd.",600158.SS,Shanghai,Real Estate
+116,"Beijing Dalong Weiye Real Estate Development Co.,Ltd",600159.SS,Shanghai,Real Estate
+117,"Zhejiang Juhua Co., Ltd.",600160.SS,Shanghai,Basic Materials
+118,"Beijing Tiantan Biological Products Co., Ltd.",600161.SS,Shanghai,Healthcare
+119,"Shenzhen HeungKong Holding Co.,Ltd",600162.SS,Shanghai,Real Estate
+120,"Zhongmin Energy Co., Ltd.",600163.SS,Shanghai,Utilities
+121,"Ningxia Zhongke Biotechnology Co., Ltd.",600165.SS,Shanghai,Basic Materials
+122,"Beiqi Foton Motor Co., Ltd.",600166.SS,Shanghai,Consumer Cyclical
+123,"Luenmei Quantum Co.,Ltd",600167.SS,Shanghai,Utilities
+124,"Wuhan Sanzhen Industry Holding Co.,Ltd",600168.SS,Shanghai,Utilities
+125,"Taiyuan Heavy Industry Co., Ltd.",600169.SS,Shanghai,Industrials
+126,"Shanghai Construction Group Co., Ltd.",600170.SS,Shanghai,Industrials
+127,"Shanghai Belling Co., Ltd.",600171.SS,Shanghai,Technology
+128,"Henan Huanghe Whirlwind Co., Ltd.",600172.SS,Shanghai,Basic Materials
+129,"Wolong Real Estate Group Co.,Ltd.",600173.SS,Shanghai,Real Estate
+130,"China Jushi Co., Ltd.",600176.SS,Shanghai,Basic Materials
+131,"Youngor Group Co.,Ltd",600177.SS,Shanghai,Consumer Cyclical
+132,"Harbin Dongan Auto Engine Co.,Ltd",600178.SS,Shanghai,Consumer Cyclical
+133,"Antong Holdings Co., Ltd.",600179.SS,Shanghai,Industrials
+134,"CCS Supply Chain Management Co., Ltd.",600180.SS,Shanghai,Industrials
+135,"Shengyi Technology Co.,Ltd.",600183.SS,Shanghai,Technology
+136,"North Electro-Optic Co.,Ltd.",600184.SS,Shanghai,Industrials
+137,"Gree Real Estate Co., Ltd",600185.SS,Shanghai,Real Estate
+138,Lotus Health Group Company,600186.SS,Shanghai,Consumer Defensive
+139,"Heilongjiang Interchina Water Treatment Co.,Ltd.",600187.SS,Shanghai,Utilities
+140,Yankuang Energy Group Company Limited,600188.SS,Shanghai,Energy
+141,"Jilin Forest Industry Co., Ltd.",600189.SS,Shanghai,Basic Materials
+142,"Jinzhou Port Co., Ltd.",600190.SS,Shanghai,Industrials
+143,"Lanzhou GreatWall Electrical Co., Ltd",600192.SS,Shanghai,Industrials
+144,"Shanghai Prosolar Resources Development Co., Ltd",600193.SS,Shanghai,Industrials
+145,"China Animal Husbandry Industry Co., Ltd.",600195.SS,Shanghai,Healthcare
+146,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd.",600196.SS,Shanghai,Healthcare
+147,"Xinjiang Yilite Industry Co.,Ltd",600197.SS,Shanghai,Consumer Defensive
+148,"Datang Telecom Technology Co., Ltd.",600198.SS,Shanghai,Technology
+149,"Anhui Golden Seed Winery Co., Ltd.",600199.SS,Shanghai,Consumer Defensive
+150,"JiangSu WuZhong Pharmaceutical Development Co., Ltd.",600200.SS,Shanghai,Healthcare
+151,"Jinyu Bio-technology Co., Ltd.",600201.SS,Shanghai,Healthcare
+152,"Harbin Air Conditioning Co.,Ltd.",600202.SS,Shanghai,Industrials
+153,"Fujian Furi Electronics Co.,Ltd",600203.SS,Shanghai,Technology
+154,"Grinm Advanced Materials Co., Ltd.",600206.SS,Shanghai,Technology
+155,"Henan Ancai Hi-Tech Co.,Ltd",600207.SS,Shanghai,Industrials
+156,"Xinhu Zhongbao Co.,Ltd.",600208.SS,Shanghai,Real Estate
+157,"Shanghai Zijiang Enterprise Group Co., Ltd.",600210.SS,Shanghai,Consumer Cyclical
+158,Tibet Rhodiola Pharmaceutical Holding Co.,600211.SS,Shanghai,Healthcare
+159,"Gresgying Digital Energy Technology Co.,Ltd",600212.SS,Shanghai,Industrials
+160,"Yangzhou Yaxing Motor Coach Co., Ltd.",600213.SS,Shanghai,Consumer Cyclical
+161,"Paslin Digital Technology Co., Ltd.",600215.SS,Shanghai,Real Estate
+162,"Zhejiang Medicine Co., Ltd.",600216.SS,Shanghai,Healthcare
+163,"China Resources and Environment Co.,Ltd.",600217.SS,Shanghai,Industrials
+164,"Anhui Quanchai Engine Co., Ltd.",600218.SS,Shanghai,Consumer Cyclical
+165,"Shandong Nanshan Aluminium Co.,Ltd.",600219.SS,Shanghai,Basic Materials
+166,"Jiangsu Sunshine Co., Ltd.",600220.SS,Shanghai,Consumer Cyclical
+167,"Henan Taloph Pharmaceutical Stock Co.,Ltd",600222.SS,Shanghai,Healthcare
+168,"Lushang Health Industry Development Co.,Ltd.",600223.SS,Shanghai,Real Estate
+169,"Tianjin Songjiang Co., Ltd.",600225.SS,Shanghai,Real Estate
+170,"Guizhou Salvage Pharmaceutical Co.,Ltd.",600227.SS,Shanghai,Basic Materials
+171,"Fanli Digital Technology Co.,Ltd",600228.SS,Shanghai,Basic Materials
+172,"Qingdao Citymedia Co,. Ltd.",600229.SS,Shanghai,Communication Services
+173,"Cangzhou Dahua Co., Ltd.",600230.SS,Shanghai,Basic Materials
+174,"Lingyuan Iron & Steel Co., Ltd.",600231.SS,Shanghai,Basic Materials
+175,"Zhejiang Golden Eagle Co.,Ltd.",600232.SS,Shanghai,Consumer Cyclical
+176,"YTO Express Group Co.,Ltd.",600233.SS,Shanghai,Industrials
+177,"Guanghe Landscape Culture Communication Co., Ltd.",600234.SS,Shanghai,Communication Services
+178,"Minfeng Special Paper Co., Ltd.",600235.SS,Shanghai,Basic Materials
+179,"Guangxi Guiguan Electric PowerCo.,Ltd.",600236.SS,Shanghai,Utilities
+180,Anhui Tongfeng Electronics Company Limited,600237.SS,Shanghai,Technology
+181,"HaiNan Yedao (Group) Co., Ltd.",600238.SS,Shanghai,Consumer Defensive
+182,"QingHai HuaDing Industrial CO.,LTD.",600243.SS,Shanghai,Industrials
+183,"Vantone Neo Development Group Co.,Ltd.",600246.SS,Shanghai,Real Estate
+184,Shaanxi Construction Engineering Group Corporation Limited,600248.SS,Shanghai,Industrials
+185,"Liuzhou Liangmianzhen Co., Ltd.",600249.SS,Shanghai,Consumer Defensive
+186,"Nanjing Textiles Import & Export Corp., Ltd.",600250.SS,Shanghai,Industrials
+187,"Xinjiang Guannong Fruit & Antler Co.,Ltd.",600251.SS,Shanghai,Consumer Defensive
+188,"Guangxi Wuzhou Zhongheng Group Co.,Ltd",600252.SS,Shanghai,Healthcare
+189,"Anhui Xinke New Materials Co.,Ltd",600255.SS,Shanghai,Basic Materials
+190,"Guanghui Energy Co., Ltd.",600256.SS,Shanghai,Energy
+191,"Dahu Aquaculture Co.,Ltd.",600257.SS,Shanghai,Consumer Defensive
+192,"BTG Hotels (Group) Co., Ltd.",600258.SS,Shanghai,Consumer Cyclical
+193,"Rising Nonferrous Metals Share Co.,Ltd.",600259.SS,Shanghai,Basic Materials
+194,"Zhejiang Yankon Group Co., Ltd.",600261.SS,Shanghai,Industrials
+195,"Inner Mongolia North Hauler Joint Stock Co., Ltd.",600262.SS,Shanghai,Industrials
+196,"Beijing Urban Construction Investment & Development Co., Ltd.",600266.SS,Shanghai,Real Estate
+197,"Zhejiang Hisun Pharmaceutical Co., Ltd.",600267.SS,Shanghai,Healthcare
+198,"Guodian Nanjing Automation Co., Ltd.",600268.SS,Shanghai,Technology
+199,"Jiangxi Ganyue Expressway CO.,LTD.",600269.SS,Shanghai,Industrials
+200,Aisino Corporation,600271.SS,Shanghai,Technology
+201,Shanghai Kai Kai Industry Company Limited,600272.SS,Shanghai,Consumer Cyclical
+202,"Zhejiang Jiahua Energy Chemical Industry Co.,Ltd.",600273.SS,Shanghai,Basic Materials
+203,"Jiangsu Hengrui Medicine Co., Ltd.",600276.SS,Shanghai,Healthcare
+204,Elion Energy Company Limited,600277.SS,Shanghai,Healthcare
+205,"Orient International Enterprise, Ltd.",600278.SS,Shanghai,Industrials
+206,"Chongqing Port Co.,Ltd.",600279.SS,Shanghai,Industrials
+207,"Nanjing Central Emporium (Group) Stocks Co., Ltd.",600280.SS,Shanghai,Consumer Cyclical
+208,"Shanxi Huayang New Material Co.,Ltd.",600281.SS,Shanghai,Basic Materials
+209,"Nanjing Iron & Steel Co., Ltd.",600282.SS,Shanghai,Basic Materials
+210,"Qian Jiang Water Resources Development Co.,Ltd",600283.SS,Shanghai,Utilities
+211,"Shanghai Pudong Construction Co.,Ltd.",600284.SS,Shanghai,Industrials
+212,"Henan Lingrui Pharmaceutical Co., Ltd.",600285.SS,Shanghai,Healthcare
+213,"Jiangsu Sainty Corp., Ltd.",600287.SS,Shanghai,Industrials
+214,Daheng New Epoch Technology Inc.,600288.SS,Shanghai,Industrials
+215,"Spic Yuanda Environmental-Protection Co., Ltd.",600292.SS,Shanghai,Utilities
+216,"Hubei Sanxia New Building Materials Co., Ltd.",600293.SS,Shanghai,Basic Materials
+217,"Inner Mongolia Erdos Resources Co.,ltd.",600295.SS,Shanghai,Consumer Cyclical
+218,"China Grand Automotive Services Group Co., Ltd.",600297.SS,Shanghai,Consumer Cyclical
+219,"Angel Yeast Co., Ltd",600298.SS,Shanghai,Consumer Defensive
+220,Bluestar Adisseo Company,600299.SS,Shanghai,Basic Materials
+221,"V V Food & Beverage Co.,Ltd",600300.SS,Shanghai,Consumer Defensive
+222,"Nanning Chemical Industry Co., Ltd.",600301.SS,Shanghai,Basic Materials
+223,"Xi'an Typical Industries Co.,Ltd",600302.SS,Shanghai,Industrials
+224,"Jiangsu Hengshun Vinegar-Industry Co.,Ltd",600305.SS,Shanghai,Consumer Defensive
+225,"Gansu Jiu Steel Group Hongxing Iron & Steel Co.,Ltd.",600307.SS,Shanghai,Basic Materials
+226,"Shandong Huatai Paper Industry Shareholding Co.,Ltd",600308.SS,Shanghai,Basic Materials
+227,"Wanhua Chemical Group Co., Ltd.",600309.SS,Shanghai,Basic Materials
+228,"Guangxi Guidong Electric Power Co., Ltd.",600310.SS,Shanghai,Utilities
+229,"Henan Pinggao Electric Co.,Ltd.",600312.SS,Shanghai,Industrials
+230,"Zhongnongfa Seed Industry Group Co., Ltd.",600313.SS,Shanghai,Consumer Defensive
+231,"Shanghai Jahwa United Co., Ltd.",600315.SS,Shanghai,Consumer Defensive
+232,"Jiangxi Hongdu Aviation Industry Co., Ltd.",600316.SS,Shanghai,Industrials
+233,"Anhui Xinli Finance Co., Ltd.",600318.SS,Shanghai,Financial Services
+234,"Weifang Yaxing Chemical Co., Ltd.",600319.SS,Shanghai,Basic Materials
+235,"Shanghai Zhenhua Heavy Industries Co., Ltd.",600320.SS,Shanghai,Industrials
+236,"Rightway Holdings Co.,ltd.",600321.SS,Shanghai,Industrials
+237,"Tianjin Realty Development (Group) Co., Ltd.",600322.SS,Shanghai,Real Estate
+238,"Grandblue Environment Co., Ltd.",600323.SS,Shanghai,Utilities
+239,"Zhuhai Huafa Properties Co.,Ltd",600325.SS,Shanghai,Real Estate
+240,"Tibet Tianlu Co., Ltd.",600326.SS,Shanghai,Industrials
+241,"Wuxi Commercial Mansion Grand Orient Co., Ltd.",600327.SS,Shanghai,Consumer Cyclical
+242,"CNSIG Inner Mongolia Chemical Industry Co., Ltd.",600328.SS,Shanghai,Basic Materials
+243,Tianjin Pharmaceutical Da Ren Tang Group Corporation Limited,600329.SS,Shanghai,Healthcare
+244,"TDG Holding Co., Ltd.",600330.SS,Shanghai,Technology
+245,"Sichuan Hongda Co.,Ltd",600331.SS,Shanghai,Basic Materials
+246,Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited,600332.SS,Shanghai,Healthcare
+247,"Changchun Gas Co,.Ltd",600333.SS,Shanghai,Utilities
+248,"Sinomach Automobile Co., Ltd.",600335.SS,Shanghai,Consumer Cyclical
+249,"AUCMA Co.,Ltd.",600336.SS,Shanghai,Technology
+250,"Markor International Home Furnishings Co., Ltd.",600337.SS,Shanghai,Consumer Cyclical
+251,"Tibet Summit Resources Co.,Ltd.",600338.SS,Shanghai,Basic Materials
+252,China Petroleum Engineering Corporation,600339.SS,Shanghai,Energy
+253,"China Fortune Land Development Co., Ltd.",600340.SS,Shanghai,Real Estate
+254,"Shaanxi Aerospace Power Hi-Tech Co., Ltd.",600343.SS,Shanghai,Industrials
+255,"WuHan Yangtze Communication Industry GroupCo.,Ltd",600345.SS,Shanghai,Technology
+256,"Hengli Petrochemical Co.,Ltd.",600346.SS,Shanghai,Consumer Cyclical
+257,"Shan Xi Huayang Group New Energy Co.,Ltd.",600348.SS,Shanghai,Energy
+258,Shandong Hi-speed Company Limited,600350.SS,Shanghai,Industrials
+259,"Yabao Pharmaceutical Group Co., Ltd",600351.SS,Shanghai,Healthcare
+260,"Zhejiang Longsheng Group Co.,Ltd",600352.SS,Shanghai,Basic Materials
+261,"Chengdu Xuguang Electronics Co., Ltd.",600353.SS,Shanghai,Industrials
+262,"Gansu Dunhuang Seed Group Co.,Ltd.",600354.SS,Shanghai,Consumer Defensive
+263,"Routon Electronic Co., Ltd.",600355.SS,Shanghai,Technology
+264,"Mudanjiang Hengfeng Paper Co.,Ltd",600356.SS,Shanghai,Basic Materials
+265,"China United Travel Co.,Ltd",600358.SS,Shanghai,Consumer Cyclical
+266,"Xinjiang Talimu Agriculture Development Co., Ltd.",600359.SS,Shanghai,Consumer Defensive
+267,"Jilin Sino-Microelectronics Co., Ltd.",600360.SS,Shanghai,Technology
+268,"Beijing Hualian Hypermarket Co., Ltd.",600361.SS,Shanghai,Consumer Defensive
+269,Jiangxi Copper Company Limited,600362.SS,Shanghai,Basic Materials
+270,"Jiangxi Lianchuang Opto-Electronic Science&Technology Co.,Ltd",600363.SS,Shanghai,Technology
+271,"Ningbo Yunsheng Co., Ltd.",600366.SS,Shanghai,Industrials
+272,"Guizhou RedStar Developing Co.,Ltd.",600367.SS,Shanghai,Basic Materials
+273,"Guangxi Wuzhou Communications Co., Ltd.",600368.SS,Shanghai,Industrials
+274,"Southwest Securities Co., Ltd.",600369.SS,Shanghai,Financial Services
+275,"Jiangsu Sanfame Polyester Material Co.,Ltd.",600370.SS,Shanghai,Consumer Cyclical
+276,"Wanxiang Doneed Co., ltd",600371.SS,Shanghai,Consumer Defensive
+277,"China Avionics Systems Co.,Ltd.",600372.SS,Shanghai,Industrials
+278,"Chinese Universe Publishing and Media Group Co., Ltd.",600373.SS,Shanghai,Communication Services
+279,"Hanma Technology Group Co.,Ltd.",600375.SS,Shanghai,Industrials
+280,"Beijing Capital Development Co., Ltd.",600376.SS,Shanghai,Real Estate
+281,Jiangsu Expressway Company Limited,600377.SS,Shanghai,Industrials
+282,"Haohua Chemical Science & Technology Corp., Ltd.",600378.SS,Shanghai,Basic Materials
+283,"Shaanxi Baoguang Vacuum Electric Device Co., Ltd.",600379.SS,Shanghai,Industrials
+284,"Joincare Pharmaceutical Group Industry Co.,Ltd.",600380.SS,Shanghai,Healthcare
+285,"Qinghai Spring Medicinal Resources Technology Co., Ltd.",600381.SS,Shanghai,Energy
+286,Gemdale Corporation,600383.SS,Shanghai,Real Estate
+287,"Beijing Bashi Media Co., Ltd.",600386.SS,Shanghai,Consumer Cyclical
+288,"Nantong Jiangshan Agrochemical & Chemicals Co.,Ltd.",600389.SS,Shanghai,Basic Materials
+289,Minmetals Capital Company Limited,600390.SS,Shanghai,Financial Services
+290,"Aecc Aero Science and Technology Co.,Ltd",600391.SS,Shanghai,Industrials
+291,"Shenghe Resources Holding Co., Ltd",600392.SS,Shanghai,Basic Materials
+292,"Guangzhou Yuetai Group Co., Ltd.",600393.SS,Shanghai,Real Estate
+293,"Guizhou Panjiang Refined Coal Co.,Ltd.",600395.SS,Shanghai,Energy
+294,"Shenyang Jinshan Energy Co., Ltd.",600396.SS,Shanghai,Utilities
+295,"Anyuan Coal Industry Group Co., Ltd.",600397.SS,Shanghai,Basic Materials
+296,"Hla Group Corp., Ltd.",600398.SS,Shanghai,Consumer Cyclical
+297,"Fushun Special Steel Co.,LTD.",600399.SS,Shanghai,Basic Materials
+298,"Jiangsu Hongdou Industrial Co., Ltd",600400.SS,Shanghai,Consumer Cyclical
+299,"Henan Dayou Energy Co., Ltd",600403.SS,Shanghai,Energy
+300,"Beijing Dynamic Power Co.,LTD",600405.SS,Shanghai,Industrials
+301,"NARI Technology Co., Ltd.",600406.SS,Shanghai,Industrials
+302,"Shanxi Antai Group Co.,Ltd",600408.SS,Shanghai,Basic Materials
+303,"Tangshan Sanyou Chemical Industries Co.,Ltd",600409.SS,Shanghai,Basic Materials
+304,"Beijing Teamsun Technology Co.,Ltd.",600410.SS,Shanghai,Technology
+305,"Zhejiang China Commodities City Group Co., Ltd.",600415.SS,Shanghai,Real Estate
+306,Xiangtan Electric Manufacturing Co. Ltd.,600416.SS,Shanghai,Industrials
+307,"Anhui Jianghuai Automobile Group Corp.,Ltd.",600418.SS,Shanghai,Consumer Cyclical
+308,"Xinjiang Tianrun Dairy Co., Ltd.",600419.SS,Shanghai,Basic Materials
+309,"Shanghai Shyndec Pharmaceutical Co., Ltd.",600420.SS,Shanghai,Healthcare
+310,"Hubei Huarong Holding Co.,Ltd.",600421.SS,Shanghai,Consumer Cyclical
+311,"KPC Pharmaceuticals, Inc.",600422.SS,Shanghai,Healthcare
+312,"Liuzhou Chemical Industry Co., Ltd.",600423.SS,Shanghai,Basic Materials
+313,"Xinjiang Qingsong Building Materials and Chemicals (Group) Co, Ltd.",600425.SS,Shanghai,Basic Materials
+314,"Shandong Hualu-Hengsheng Chemical Co., Ltd.",600426.SS,Shanghai,Basic Materials
+315,"COSCO SHIPPING Specialized Carriers Co.,Ltd.",600428.SS,Shanghai,Industrials
+316,"Beijing Sanyuan Foods Co., Ltd.",600429.SS,Shanghai,Consumer Defensive
+317,"Guangdong Guanhao High-Tech Co., Ltd.",600433.SS,Shanghai,Basic Materials
+318,"North Navigation Control Technology Co.,Ltd.",600435.SS,Shanghai,Industrials
+319,"Zhangzhou Pientzehuang Pharmaceutical., Ltd",600436.SS,Shanghai,Healthcare
+320,"Tongwei Co.,Ltd",600438.SS,Shanghai,Consumer Defensive
+321,"Henan Rebecca Hair Products Co., Ltd.",600439.SS,Shanghai,Consumer Defensive
+322,"Sinomach General Machinery Science & Technology Co., Ltd.",600444.SS,Shanghai,Industrials
+323,"Shenzhen Kingdom Sci-Tech Co., Ltd",600446.SS,Shanghai,Technology
+324,"Huafang Co.,Ltd",600448.SS,Shanghai,Consumer Cyclical
+325,"Ningxia Building Materials Group Co.,Ltd",600449.SS,Shanghai,Basic Materials
+326,"Chongqing Fuling Electric Power Industrial Co., Ltd.",600452.SS,Shanghai,Utilities
+327,"But'one Information Corporation,Xi'an",600455.SS,Shanghai,Technology
+328,"Baoji Titanium Industry Co., Ltd.",600456.SS,Shanghai,Basic Materials
+329,"Zhuzhou Times New Material Technology Co., Ltd.",600458.SS,Shanghai,Basic Materials
+330,"Sino-Platinum Metals Co.,Ltd",600459.SS,Shanghai,Basic Materials
+331,"Hangzhou Silan Microelectronics Co., Ltd",600460.SS,Shanghai,Technology
+332,"Jiangxi Hongcheng Environment Co.,Ltd.",600461.SS,Shanghai,Utilities
+333,"Beijing Airport High-Tech Park Co., Ltd.",600463.SS,Shanghai,Industrials
+334,"Sichuan Languang Development Co., Ltd.",600466.SS,Shanghai,Real Estate
+335,"Shandong Homey Aquatic Development Co.,Ltd.",600467.SS,Shanghai,Consumer Defensive
+336,"Tianjin Benefo Tejing Electric Co., Ltd.",600468.SS,Shanghai,Industrials
+337,"Aeolus Tyre Co., Ltd.",600469.SS,Shanghai,Consumer Cyclical
+338,"Anhui Liuguo Chemical Co., Ltd.",600470.SS,Shanghai,Basic Materials
+339,"Wuxi Huaguang Environment & Energy Group Co.,Ltd.",600475.SS,Shanghai,Industrials
+340,"Hunan Copote Science Technology Co.,Ltd.",600476.SS,Shanghai,Technology
+341,"Hang Xiao Steel Structure Co., Ltd.",600477.SS,Shanghai,Basic Materials
+342,"Hunan Corun New Energy Co., Ltd.",600478.SS,Shanghai,Industrials
+343,"ZhuZhou QianJin Pharmaceutical Co.,Ltd",600479.SS,Shanghai,Healthcare
+344,Ling Yun Industrial Corporation Limited,600480.SS,Shanghai,Consumer Cyclical
+345,"Shuangliang Eco-Energy Systems Co.,Ltd",600481.SS,Shanghai,Industrials
+346,"China Shipbuilding Industry Group Power Co., Ltd.",600482.SS,Shanghai,Industrials
+347,"Fujian Funeng Co., Ltd.",600483.SS,Shanghai,Utilities
+348,"Jiangsu Yangnong Chemical Co., Ltd.",600486.SS,Shanghai,Basic Materials
+349,"Hengtong Optic-Electric Co., Ltd.",600487.SS,Shanghai,Technology
+350,"Tianjin Tianyao Pharmaceuticals Co., Ltd.",600488.SS,Shanghai,Healthcare
+351,"Zhongjin Gold Corp.,Ltd",600489.SS,Shanghai,Basic Materials
+352,"Pengxin International Mining Co.,Ltd",600490.SS,Shanghai,Basic Materials
+353,"Long Yuan Construction Group Co., Ltd.",600491.SS,Shanghai,Industrials
+354,"Fujian Fynex Textile Science & Technology Co., Ltd.",600493.SS,Shanghai,Consumer Cyclical
+355,Jinxi Axle Company Limited,600495.SS,Shanghai,Industrials
+356,"Changjiang & Jinggong Steel Building (Group) Co., Ltd",600496.SS,Shanghai,Industrials
+357,"Yunnan Chihong Zinc & Germanium Co., Ltd.",600497.SS,Shanghai,Basic Materials
+358,"Fiberhome Telecommunication Technologies Co., Ltd.",600498.SS,Shanghai,Technology
+359,"Keda Industrial Group Co., Ltd.",600499.SS,Shanghai,Industrials
+360,Sinochem International Corporation,600500.SS,Shanghai,Industrials
+361,Aerosun Corporation,600501.SS,Shanghai,Consumer Cyclical
+362,"Anhui Construction Engineering Group Co., Ltd.",600502.SS,Shanghai,Industrials
+363,"Deluxe Family Co., Ltd.",600503.SS,Shanghai,Real Estate
+364,"Sichuan Xichang Electric Power Co.,Ltd.",600505.SS,Shanghai,Utilities
+365,"Xinjiang Korla Pear Co.,Ltd",600506.SS,Shanghai,Consumer Defensive
+366,"Fangda Special Steel Technology Co., Ltd.",600507.SS,Shanghai,Basic Materials
+367,"Shanghai Datun Energy Resources Co., Ltd.",600508.SS,Shanghai,Energy
+368,"Xinjiang Tianfu Energy Co., Ltd.",600509.SS,Shanghai,Utilities
+369,"Black Peony (Group) Co., Ltd.",600510.SS,Shanghai,Consumer Cyclical
+370,China National Medicines Corporation Ltd.,600511.SS,Shanghai,Healthcare
+371,"Tengda Construction Group Co., Ltd.",600512.SS,Shanghai,Industrials
+372,"Jiangsu Lianhuan Pharmaceutical Co., Ltd.",600513.SS,Shanghai,Healthcare
+373,"FangDa Carbon New Material Co.,Ltd",600516.SS,Shanghai,Technology
+374,"State Grid Yingda Co.,Ltd.",600517.SS,Shanghai,Industrials
+375,"Kweichow Moutai Co., Ltd.",600519.SS,Shanghai,Consumer Defensive
+376,"WenYi Trinity Technology Co., Ltd",600520.SS,Shanghai,Industrials
+377,"Zhejiang Huahai Pharmaceutical Co., Ltd.",600521.SS,Shanghai,Healthcare
+378,"Jiangsu Zhongtian Technology Co., Ltd.",600522.SS,Shanghai,Industrials
+379,"Guizhou Guihang Automotive Components Co.,Ltd",600523.SS,Shanghai,Consumer Cyclical
+380,Changyuan Technology Group Ltd.,600525.SS,Shanghai,Industrials
+381,"Zhejiang Feida Environmental Science & Technology Co., Ltd.",600526.SS,Shanghai,Industrials
+382,"Jiangsu Jiangnan High Polymer Fiber Co.,Ltd",600527.SS,Shanghai,Basic Materials
+383,China Railway Hi-tech Industry Corporation Limited,600528.SS,Shanghai,Industrials
+384,"Shandong Pharmaceutical Glass Co., Ltd",600529.SS,Shanghai,Consumer Cyclical
+385,"Shanghai Jiaoda Onlly Co.,Ltd",600530.SS,Shanghai,Healthcare
+386,"Henan Yuguang Gold&Lead Co.,Ltd.",600531.SS,Shanghai,Basic Materials
+387,"Shanghai Topcare Medical Services Co., Ltd.",600532.SS,Shanghai,Basic Materials
+388,"Nanjing Chixia Development Co., Ltd.",600533.SS,Shanghai,Real Estate
+389,"Tasly Pharmaceutical Group Co., Ltd",600535.SS,Shanghai,Healthcare
+390,China National Software & Service Company Limited,600536.SS,Shanghai,Technology
+391,"EGing Photovoltaic Technology Co.,Ltd.",600537.SS,Shanghai,Technology
+392,"Beihai Gofar Chuanshan Biological Co., Ltd.",600538.SS,Shanghai,Basic Materials
+393,"Lionhead Technology Development Co., Ltd.",600539.SS,Shanghai,Basic Materials
+394,"Xinjiang Sayram Modern Agriculture Co., Ltd",600540.SS,Shanghai,Consumer Defensive
+395,"Gansu Mogao Industrial Development Co.,Ltd",600543.SS,Shanghai,Consumer Defensive
+396,"Saurer Intelligent Technology Co.,Ltd.",600545.SS,Shanghai,Industrials
+397,"Shanxi Coal International Energy Group Co.,Ltd",600546.SS,Shanghai,Industrials
+398,"Shandong Gold Mining Co., Ltd.",600547.SS,Shanghai,Basic Materials
+399,Shenzhen Expressway Corporation Limited,600548.SS,Shanghai,Industrials
+400,"Xiamen Tungsten Co., Ltd.",600549.SS,Shanghai,Basic Materials
+401,"Baoding Tianwei Baobian Electric Co., Ltd.",600550.SS,Shanghai,Industrials
+402,"Time Publishing and Media Co., Ltd.",600551.SS,Shanghai,Communication Services
+403,"Triumph Science & Technology Co.,Ltd",600552.SS,Shanghai,Industrials
+404,"Inmyshow Digital Technology(Group)Co.,Ltd.",600556.SS,Shanghai,Communication Services
+405,"Jiangsu Kanion Pharmaceutical Co.,Ltd.",600557.SS,Shanghai,Healthcare
+406,"Atlantic China Welding Consumables, Inc.",600558.SS,Shanghai,Industrials
+407,"Hebei Hengshui Laobaigan Liquor Co., Ltd.",600559.SS,Shanghai,Consumer Defensive
+408,"Beijing AriTime Intelligent Control Co., Ltd.",600560.SS,Shanghai,Industrials
+409,"Jiangxi Changyun Co., Ltd.",600561.SS,Shanghai,Industrials
+410,"Glarun Technology Co.,Ltd",600562.SS,Shanghai,Technology
+411,"Xiamen Faratronic Co., Ltd.",600563.SS,Shanghai,Technology
+412,"DIMA HOLDINGS Co. ,Ltd.",600565.SS,Shanghai,Consumer Cyclical
+413,"Hubei Jumpcan Pharmaceutical Co., Ltd.",600566.SS,Shanghai,Healthcare
+414,"Shanying International Holdings Co.,Ltd",600567.SS,Shanghai,Basic Materials
+415,"Anyang Iron and Steel Co., Ltd.",600569.SS,Shanghai,Basic Materials
+416,Hundsun Technologies Inc.,600570.SS,Shanghai,Technology
+417,"Sunyard Technology Co.,Ltd",600571.SS,Shanghai,Technology
+418,"Zhejiang CONBA Pharmaceutical Co.,Ltd.",600572.SS,Shanghai,Healthcare
+419,"FuJian YanJing HuiQuan Brewery Co.,Ltd",600573.SS,Shanghai,Consumer Defensive
+420,"Huaihe Energy (Group) Co.,Ltd",600575.SS,Shanghai,Industrials
+421,"Zhejiang Sunriver Culture Co.,Ltd.",600576.SS,Shanghai,Communication Services
+422,"Tongling Jingda Special Magnet Wire Co., Ltd.",600577.SS,Shanghai,Industrials
+423,"Beijing Jingneng Power Co., Ltd.",600578.SS,Shanghai,Utilities
+424,KraussMaffei Company Limited,600579.SS,Shanghai,Industrials
+425,"Wolong Electric Group Co.,Ltd.",600580.SS,Shanghai,Industrials
+426,"XinJiang Ba Yi Iron & Steel Co.,Ltd.",600581.SS,Shanghai,Basic Materials
+427,Tiandi Science & Technology Co.Ltd,600582.SS,Shanghai,Industrials
+428,"Offshore Oil Engineering Co.,Ltd",600583.SS,Shanghai,Energy
+429,"JCET Group Co., Ltd.",600584.SS,Shanghai,Technology
+430,Anhui Conch Cement Company Limited,600585.SS,Shanghai,Basic Materials
+431,"Shandong Jinjing Science and Technology Stock Co., Ltd.",600586.SS,Shanghai,Basic Materials
+432,"Shinva Medical Instrument Co., Ltd.",600587.SS,Shanghai,Healthcare
+433,"Yonyou Network Technology Co.,Ltd.",600588.SS,Shanghai,Technology
+434,"Tellhow Sci-Tech Co., Ltd.",600590.SS,Shanghai,Technology
+435,"Fujian Longxi Bearing (Group) Co., Ltd",600592.SS,Shanghai,Industrials
+436,"Dalian Sunasia Tourism Holding CO.,LTD",600593.SS,Shanghai,Consumer Cyclical
+437,"Guizhou Yibai Pharmaceutical Co., Ltd.",600594.SS,Shanghai,Healthcare
+438,"Henan Zhongfu Industrial Co.,Ltd",600595.SS,Shanghai,Basic Materials
+439,"Zhejiang Xinan Chemical Industrial Group Co.,Ltd",600596.SS,Shanghai,Basic Materials
+440,"Bright Dairy & Food Co.,Ltd",600597.SS,Shanghai,Consumer Defensive
+441,Heilongjiang Agriculture Company Limited,600598.SS,Shanghai,Consumer Defensive
+442,Tsingtao Brewery Company Limited,600600.SS,Shanghai,Consumer Defensive
+443,INESA Intelligent Tech Inc.,600602.SS,Shanghai,Technology
+444,Guanghui Logistics Co.Ltd,600603.SS,Shanghai,Real Estate
+445,"Shanghai Shibei Hi-Tech Co.,Ltd.",600604.SS,Shanghai,Real Estate
+446,"Shanghai Huitong Energy Co.,Ltd",600605.SS,Shanghai,Industrials
+447,Greenland Holdings Corporation Limited,600606.SS,Shanghai,Real Estate
+448,Shenyang Jinbei Automotive Company Limited,600609.SS,Shanghai,Consumer Cyclical
+449,"Shanghai Zhongyida Co., Ltd.",600610.SS,Shanghai,Basic Materials
+450,"Dazhong Transportation (Group) Co., Ltd.",600611.SS,Shanghai,Industrials
+451,"Lao Feng Xiang Co., Ltd.",600612.SS,Shanghai,Consumer Cyclical
+452,"Shanghai Shenqi Pharmaceutical Investment Management Co., Ltd.",600613.SS,Shanghai,Healthcare
+453,Shanghai Jinfeng Wine Company Limited,600616.SS,Shanghai,Consumer Defensive
+454,Shanxi Guoxin Energy Corporation Limited,600617.SS,Shanghai,Energy
+455,"Shanghai Chlor-Alkali Chemical Co., Ltd.",600618.SS,Shanghai,Basic Materials
+456,"Shanghai Highly (Group) Co., Ltd.",600619.SS,Shanghai,Industrials
+457,"Shanghai Tianchen Co.,Ltd",600620.SS,Shanghai,Real Estate
+458,"Shanghai Chinafortune Co., Ltd.",600621.SS,Shanghai,Financial Services
+459,"Everbright Jiabao Co., Ltd.",600622.SS,Shanghai,Real Estate
+460,Shanghai Huayi Group Corporation Limited,600623.SS,Shanghai,Basic Materials
+461,"Shanghai Fudan Forward S&T Co., Ltd",600624.SS,Shanghai,Industrials
+462,"Shanghai Shenda Co., Ltd",600626.SS,Shanghai,Consumer Cyclical
+463,"Shanghai New World Co., Ltd",600628.SS,Shanghai,Consumer Cyclical
+464,Arcplus Group PLC,600629.SS,Shanghai,Industrials
+465,Shanghai Dragon Corporation,600630.SS,Shanghai,Consumer Cyclical
+466,"Zhejiang Daily Digital Culture Group Co.,Ltd.",600633.SS,Shanghai,Communication Services
+467,"Shanghai Dazhong Public Utilities(Group) Co.,Ltd.",600635.SS,Shanghai,Utilities
+468,"China Reform Culture Holdings Co., Ltd.",600636.SS,Shanghai,Basic Materials
+469,"Shanghai Oriental Pearl Group Co., Ltd.",600637.SS,Shanghai,Communication Services
+470,"Shanghai New Huang Pu Industrial Group Co., Ltd.",600638.SS,Shanghai,Real Estate
+471,"Shanghai Jinqiao Export Processing Zone Development Co.,Ltd",600639.SS,Shanghai,Real Estate
+472,"Besttone Holding Co.,Ltd",600640.SS,Shanghai,Communication Services
+473,"Shanghai Wanye Enterprises Co.,Ltd",600641.SS,Shanghai,Real Estate
+474,Shenergy Company Limited,600642.SS,Shanghai,Utilities
+475,"Shanghai Aj Group Co.,Ltd",600643.SS,Shanghai,Financial Services
+476,"Leshan Electric Power Co.,Ltd",600644.SS,Shanghai,Utilities
+477,"Vcanbio Cell & Gene Engineering Corp., Ltd",600645.SS,Shanghai,Healthcare
+478,"Shanghai Tongda Venture Capital Co., Ltd.",600647.SS,Shanghai,Real Estate
+479,"Shanghai Waigaoqiao Free Trade Zone Group Co., Ltd.",600648.SS,Shanghai,Industrials
+480,"Shanghai Chengtou Holding Co.,Ltd",600649.SS,Shanghai,Real Estate
+481,"Shanghai Jin Jiang Online Network Service Co., Ltd.",600650.SS,Shanghai,Industrials
+482,"Shanghai Feilo Acoustics Co.,Ltd",600651.SS,Shanghai,Consumer Cyclical
+483,"Liaoning Shenhua Holdings Co.,Ltd",600653.SS,Shanghai,Consumer Cyclical
+484,"Shanghai Yuyuan Tourist Mart (Group) Co., Ltd.",600655.SS,Shanghai,Consumer Cyclical
+485,"Cinda Real Estate Co., Ltd.",600657.SS,Shanghai,Real Estate
+486,"Beijing Electronic Zone Investment and Development Group Co., Ltd.",600658.SS,Shanghai,Technology
+487,"Fuyao Glass Industry Group Co., Ltd.",600660.SS,Shanghai,Consumer Cyclical
+488,"Shanghai Xinnanyang Only Education & Technology Co., Ltd.",600661.SS,Shanghai,Consumer Defensive
+489,"Shanghai Foreign Service Holding Group CO.,Ltd.",600662.SS,Shanghai,Industrials
+490,"Shanghai Lujiazui Finance & Trade Zone Development Co., Ltd.",600663.SS,Shanghai,Real Estate
+491,"Harbin Pharmaceutical Group Co., Ltd.",600664.SS,Shanghai,Healthcare
+492,"Tande Co., Ltd.",600665.SS,Shanghai,Real Estate
+493,Wuxi Taiji Industry Limited Corporation,600667.SS,Shanghai,Technology
+494,"Zhejiang Jianfeng Group Co., Ltd.",600668.SS,Shanghai,Basic Materials
+495,"Guangdong Hec Technologyholding Co., Ltd",600673.SS,Shanghai,Technology
+496,"Sichuan Chuantou Energy Co.,Ltd.",600674.SS,Shanghai,Utilities
+497,China Enterprise Company Limited,600675.SS,Shanghai,Real Estate
+498,"Shanghai Jiao Yun Group Co., Ltd.",600676.SS,Shanghai,Consumer Cyclical
+499,"Sichuan Golden Summit (group) Joint-Stock Co., Ltd.",600678.SS,Shanghai,Basic Materials
+500,"Shanghai Phoenix Enterprise (Group) Co., Ltd.",600679.SS,Shanghai,Consumer Cyclical
+501,"Bestsun Energy Co., Ltd.",600681.SS,Shanghai,Utilities
+502,"Nanjing Xinjiekou Department Store Co., Ltd.",600682.SS,Shanghai,Consumer Cyclical
+503,Metro Land Corporation Ltd.,600683.SS,Shanghai,Real Estate
+504,"Guangzhou Pearl River Development Group Co., Ltd.",600684.SS,Shanghai,Real Estate
+505,CSSC Offshore & Marine Engineering (Group) Company Limited,600685.SS,Shanghai,Industrials
+506,"Xiamen King Long Motor Group Co., Ltd.",600686.SS,Shanghai,Consumer Cyclical
+507,Sinopec Shanghai Petrochemical Company Limited,600688.SS,Shanghai,Energy
+508,"Shanghai Sanmao Enterprise (Group) Co., Ltd.",600689.SS,Shanghai,Consumer Cyclical
+509,"Haier Smart Home Co., Ltd.",600690.SS,Shanghai,Consumer Cyclical
+510,"Yangmei Chemical Co.,Ltd",600691.SS,Shanghai,Basic Materials
+511,"Shang Hai Ya Tong Co.,Ltd.",600692.SS,Shanghai,Industrials
+512,"Fujian Dongbai (Group) Co.,Ltd.",600693.SS,Shanghai,Consumer Cyclical
+513,"Dashang Co., Ltd.",600694.SS,Shanghai,Consumer Cyclical
+514,"Shanghai Guijiu Co.,Ltd.",600696.SS,Shanghai,Financial Services
+515,"Chang Chun Eurasia Group Co., Ltd.",600697.SS,Shanghai,Consumer Cyclical
+516,"Hunan Tyen Machinery Co.,Ltd",600698.SS,Shanghai,Industrials
+517,Ningbo Joyson Electronic Corp.,600699.SS,Shanghai,Consumer Cyclical
+518,"Shede Spirits Co., Ltd.",600702.SS,Shanghai,Consumer Defensive
+519,"Sanan Optoelectronics Co., Ltd.",600703.SS,Shanghai,Technology
+520,"Wuchan Zhongda Group Co.,Ltd.",600704.SS,Shanghai,Industrials
+521,"AVIC Industry-Finance Holdings Co., Ltd.",600705.SS,Shanghai,Financial Services
+522,"Xi'an Qujiang Cultural Tourism Co., Ltd.",600706.SS,Shanghai,Consumer Cyclical
+523,"Caihong Display Devices Co.,Ltd.",600707.SS,Shanghai,Technology
+524,"Bright Real Estate Group Co.,Limited",600708.SS,Shanghai,Real Estate
+525,Sumec Corporation Limited,600710.SS,Shanghai,Industrials
+526,"Chengtun Mining Group Co., Ltd.",600711.SS,Shanghai,Basic Materials
+527,"Nanning Department Store Co., Ltd.",600712.SS,Shanghai,Consumer Cyclical
+528,NanJing Pharmaceutical Company Limited,600713.SS,Shanghai,Healthcare
+529,"Qinghai Jinrui Mineral Development Co., Ltd",600714.SS,Shanghai,Basic Materials
+530,"Cultural Investment Holdings Co.,Ltd",600715.SS,Shanghai,Consumer Cyclical
+531,Jiangsu Phoenix Property Investment Company Limited,600716.SS,Shanghai,Real Estate
+532,"Tianjin Port Co., Ltd.",600717.SS,Shanghai,Industrials
+533,Neusoft Corporation,600718.SS,Shanghai,Technology
+534,"Gansu Qilianshan Cement Group Co., Ltd.",600720.SS,Shanghai,Basic Materials
+535,"Xinjiang Bai Hua Cun Pharma Tech Co.,Ltd",600721.SS,Shanghai,Consumer Cyclical
+536,"HeBei Jinniu Chemical Industry Co.,Ltd",600722.SS,Shanghai,Basic Materials
+537,Ningbo Fuda Company Limited,600724.SS,Shanghai,Real Estate
+538,Yunnan Yunwei Company Limited,600725.SS,Shanghai,Basic Materials
+539,"Shandong Lubei Chemical Co., Ltd.",600727.SS,Shanghai,Basic Materials
+540,"Pci Technology Group Co.,Ltd.",600728.SS,Shanghai,Technology
+541,"Chongqing Department Store Co.,Ltd.",600729.SS,Shanghai,Consumer Cyclical
+542,"China Hi-Tech Group Co., Ltd.",600730.SS,Shanghai,Consumer Defensive
+543,"Hunan Haili Chemical Industry Co., Ltd.",600731.SS,Shanghai,Basic Materials
+544,"Shanghai Aiko Solar Energy Co., Ltd.",600732.SS,Shanghai,Technology
+545,"BAIC BluePark New Energy Technology Co.,Ltd.",600733.SS,Shanghai,Consumer Cyclical
+546,"Shandong Hiking International Co.,Ltd",600735.SS,Shanghai,Industrials
+547,"Suzhou New District Hi-Tech Industrial Co.,Ltd",600736.SS,Shanghai,Real Estate
+548,"Cofco Sugar Holding CO.,LTD.",600737.SS,Shanghai,Consumer Defensive
+549,"Lanzhou Lishang Guochao Industrial Group Co.,Ltd",600738.SS,Shanghai,Consumer Cyclical
+550,"Liaoning Cheng Da Co., Ltd.",600739.SS,Shanghai,Healthcare
+551,"Shanxi Coking Co., Ltd.",600740.SS,Shanghai,Basic Materials
+552,HUAYU Automotive Systems Company Limited,600741.SS,Shanghai,Consumer Cyclical
+553,"Changchun FAWAY Automobile Components Co.,Ltd",600742.SS,Shanghai,Consumer Cyclical
+554,"Huayuan Property Co.,Ltd.",600743.SS,Shanghai,Real Estate
+555,"DaTang HuaYin Electric Power Co., LTD",600744.SS,Shanghai,Utilities
+556,"Wingtech Technology Co.,Ltd",600745.SS,Shanghai,Technology
+557,Jiangsu SOPO Chemical Co. Ltd.,600746.SS,Shanghai,Basic Materials
+558,"Shanghai Industrial Development Co.,Ltd",600748.SS,Shanghai,Real Estate
+559,"Tibet Tourism Co.,Ltd",600749.SS,Shanghai,Consumer Cyclical
+560,"Jiang Zhong Pharmaceutical Co.,Ltd",600750.SS,Shanghai,Healthcare
+561,"HNA Technology Co.,Ltd.",600751.SS,Shanghai,Technology
+562,"Fujian Oriental Silver Star Investment Co., Ltd.",600753.SS,Shanghai,Consumer Cyclical
+563,"Shanghai Jin Jiang International Hotels Co., Ltd.",600754.SS,Shanghai,Consumer Cyclical
+564,"Xiamen ITG Group Corp.,Ltd",600755.SS,Shanghai,Industrials
+565,"Inspur Software Co., Ltd.",600756.SS,Shanghai,Technology
+566,"Changjiang Publishing & Media Co.,Ltd",600757.SS,Shanghai,Communication Services
+567,"LIAONING ENERGY INDUSTRY Co.,LTD",600758.SS,Shanghai,Utilities
+568,AVIC Shenyang Aircraft Company Limited,600760.SS,Shanghai,Industrials
+569,"Anhui Heli Co.,Ltd.",600761.SS,Shanghai,Industrials
+570,Topchoice Medical Corporation,600763.SS,Shanghai,Healthcare
+571,China Marine Information Electronics Company Limited,600764.SS,Shanghai,Technology
+572,"AVIC Heavy Machinery Co., Ltd.",600765.SS,Shanghai,Industrials
+573,"Ningbo Fubang Jingye Group Co.,Ltd",600768.SS,Shanghai,Basic Materials
+574,Wuhan Xianglong Power Industry Co.Ltd,600769.SS,Shanghai,Industrials
+575,"Jiangsu Zongyi Co.,LTD",600770.SS,Shanghai,Technology
+576,"GuangYuYuan Chinese Herbal Medicine Co., Ltd.",600771.SS,Shanghai,Healthcare
+577,"Tibet Urban Development and Investment Co.,LTD",600773.SS,Shanghai,Real Estate
+578,"Hanshang Group Co., Ltd.",600774.SS,Shanghai,Consumer Cyclical
+579,Nanjing Panda Electronics Company Limited,600775.SS,Shanghai,Technology
+580,"Eastern Communications Co., Ltd.",600776.SS,Shanghai,Technology
+581,Shandong Xinchao Energy Corporation Limited,600777.SS,Shanghai,Energy
+582,"Xinjiang Youhao(Group)Co.,Ltd",600778.SS,Shanghai,Consumer Cyclical
+583,"Sichuan Swellfun Co.,Ltd",600779.SS,Shanghai,Consumer Defensive
+584,Top Energy Company Ltd.Shanxi,600780.SS,Shanghai,Utilities
+585,"Xinyu Iron & Steel Co., Ltd",600782.SS,Shanghai,Basic Materials
+586,"Luxin Venture Capital Group Co., Ltd.",600783.SS,Shanghai,Industrials
+587,"Luyin Investment Group Co.,Ltd.",600784.SS,Shanghai,Basic Materials
+588,"Yinchuan Xinhua Commercial (Group) Co., Ltd.",600785.SS,Shanghai,Consumer Cyclical
+589,"CMST Development Co.,Ltd.",600787.SS,Shanghai,Industrials
+590,"Shandong Lukang Pharmaceutical Co.,Ltd.",600789.SS,Shanghai,Healthcare
+591,"Zhejiang China Light&Textile Industrial City Group Co.,Ltd",600790.SS,Shanghai,Real Estate
+592,"BEH-Property Co.,Ltd",600791.SS,Shanghai,Real Estate
+593,"Yunnan Coal & Energy Co.,Ltd.",600792.SS,Shanghai,Basic Materials
+594,"Yibin Paper Industry Co., Ltd.",600793.SS,Shanghai,Basic Materials
+595,"Zhang Jia Gang Freetrade Science&Technology Group Co.,Ltd.",600794.SS,Shanghai,Industrials
+596,"GD Power Development Co.,Ltd",600795.SS,Shanghai,Utilities
+597,"Zhejiang Qianjiang Biochemical Co., Ltd",600796.SS,Shanghai,Basic Materials
+598,"Insigma Technology Co., Ltd.",600797.SS,Shanghai,Technology
+599,Ningbo Marine Company Limited,600798.SS,Shanghai,Industrials
+600,"Tian Jin Bohai Chemical Co.,Ltd.",600800.SS,Shanghai,Industrials
+601,"Huaxin Cement Co., Ltd.",600801.SS,Shanghai,Basic Materials
+602,Fujian Cement Inc.,600802.SS,Shanghai,Basic Materials
+603,"ENN Natural Gas Co., Ltd.",600803.SS,Shanghai,Industrials
+604,"Jiangsu Yueda Investment Co., Ltd.",600805.SS,Shanghai,Industrials
+605,"Jinan High-tech Development Co., Ltd.",600807.SS,Shanghai,Real Estate
+606,Maanshan Iron & Steel Company Limited,600808.SS,Shanghai,Basic Materials
+607,"Shanxi Xinghuacun Fen Wine Factory Co.,Ltd.",600809.SS,Shanghai,Consumer Defensive
+608,"Shenma Industrial Co., Ltd.",600810.SS,Shanghai,Basic Materials
+609,Orient Group Incorporation,600811.SS,Shanghai,Industrials
+610,North China Pharmaceutical Company Ltd.,600812.SS,Shanghai,Healthcare
+611,"Hangzhou Jiebai Group Co., Limited",600814.SS,Shanghai,Consumer Cyclical
+612,Xiamen XGMA Machinery Company Limited,600815.SS,Shanghai,Industrials
+613,"Zhengzhou Deheng Hongsheng Technology Co., Ltd.",600817.SS,Shanghai,Industrials
+614,"Zhonglu.Co.,Ltd",600818.SS,Shanghai,Consumer Cyclical
+615,"Shanghai Yaohua Pilkington Glass Group Co., Ltd.",600819.SS,Shanghai,Basic Materials
+616,"Shanghai Tunnel Engineering Co., Ltd.",600820.SS,Shanghai,Industrials
+617,"NYOCOR Co., Ltd.",600821.SS,Shanghai,Consumer Cyclical
+618,"Shanghai Material Trading Co., Ltd.",600822.SS,Shanghai,Industrials
+619,"Shanghai Shimao Co., Ltd.",600823.SS,Shanghai,Real Estate
+620,"Shanghai Yimin Commercial Group Co., Ltd.",600824.SS,Shanghai,Consumer Cyclical
+621,"Shanghai Xinhua Media Co., Ltd.",600825.SS,Shanghai,Communication Services
+622,Dlg Exhibitions & Events Corporation Limited,600826.SS,Shanghai,Communication Services
+623,"Shanghai Bailian (Group) Co., Ltd.",600827.SS,Shanghai,Consumer Cyclical
+624,"Maoye Commercial Co., Ltd.",600828.SS,Shanghai,Consumer Cyclical
+625,HPGC Renmintongtai Pharmaceutical Corporation,600829.SS,Shanghai,Healthcare
+626,"Sunny Loan Top Co.,Ltd.",600830.SS,Shanghai,Industrials
+627,"Shaanxi Broadcast & TV Network Intermediary(Group)Co.,Ltd.",600831.SS,Shanghai,Communication Services
+628,"Shanghai No.1 Pharmacy Co., Ltd.",600833.SS,Shanghai,Healthcare
+629,"Shanghai Shentong Metro Co.,Ltd.",600834.SS,Shanghai,Industrials
+630,"Shanghai Mechanical & Electrical Industry Co.,Ltd.",600835.SS,Shanghai,Industrials
+631,Shanghai Eliansy Industry Group Corporation Limited,600836.SS,Shanghai,Industrials
+632,"Haitong Securities Co., Ltd.",600837.SS,Shanghai,Financial Services
+633,"Shanghai Join Buy Co.,Ltd.",600838.SS,Shanghai,Consumer Cyclical
+634,"Sichuan Changhong Electric Co.,Ltd.",600839.SS,Shanghai,Consumer Cyclical
+635,Shanghai New Power Automotive Technology Company Limited,600841.SS,Shanghai,Industrials
+636,"Shang Gong Group Co., Ltd.",600843.SS,Shanghai,Industrials
+637,"Danhua Chemical Technology Co.,Ltd",600844.SS,Shanghai,Basic Materials
+638,"Shanghai Baosight Software Co.,Ltd.",600845.SS,Shanghai,Technology
+639,"Shanghai Tongji Science&Technology Industrial Co.,Ltd",600846.SS,Shanghai,Industrials
+640,"Chongqing Wanli New Energy Co., Ltd.",600847.SS,Shanghai,Industrials
+641,"Shanghai Lingang Holdings Co.,Ltd.",600848.SS,Shanghai,Real Estate
+642,"CETC Digital Technology Co.,Ltd.",600850.SS,Shanghai,Technology
+643,"Shanghai Haixin Group Co., Ltd.",600851.SS,Shanghai,Industrials
+644,"Longjian Road&Bridge Co.,Ltd",600853.SS,Shanghai,Industrials
+645,"Jiangsu chunlan refrigerating equipment stock co.,ltd.",600854.SS,Shanghai,Consumer Cyclical
+646,"Beijing Aerospace Changfeng Co.,Ltd",600855.SS,Shanghai,Industrials
+647,"Ningbo Zhongbai Co., Ltd.",600857.SS,Shanghai,Consumer Cyclical
+648,"Inzone Group Co.,Ltd",600858.SS,Shanghai,Consumer Cyclical
+649,"Wangfujing Group Co., Ltd.",600859.SS,Shanghai,Consumer Cyclical
+650,Beijing Jingcheng Machinery Electric Company Limited,600860.SS,Shanghai,Industrials
+651,"Beijing Urban-Rural Commercial (Group) Co.,Ltd.",600861.SS,Shanghai,Consumer Cyclical
+652,"AVIC Aviation High-Technology Co., Ltd.",600862.SS,Shanghai,Industrials
+653,Inner Mongolia MengDian HuaNeng Thermal Power Corporation Limited,600863.SS,Shanghai,Utilities
+654,"Harbin Hatou Investment Co.,Ltd",600864.SS,Shanghai,Utilities
+655,"Baida Group Co.,Ltd",600865.SS,Shanghai,Consumer Cyclical
+656,"Star Lake Bioscience Co., Inc.Zhaoqing Guangdong",600866.SS,Shanghai,Healthcare
+657,"Tonghua Dongbao Pharmaceutical Co., Ltd.",600867.SS,Shanghai,Healthcare
+658,"Guangdong Meiyan Jixiang Hydropower Co.,Ltd.",600868.SS,Shanghai,Utilities
+659,"Far East Smarter Energy Co., Ltd.",600869.SS,Shanghai,Industrials
+660,Sinopec Oilfield Service Corporation,600871.SS,Shanghai,Energy
+661,"Jonjee Hi-tech Industrial & Commercial Holding Co., Ltd.",600872.SS,Shanghai,Real Estate
+662,"MeiHua Holdings Group Co.,Ltd",600873.SS,Shanghai,Basic Materials
+663,Tianjin Capital Environmental Protection Group Company Limited,600874.SS,Shanghai,Industrials
+664,Dongfang Electric Corporation Limited,600875.SS,Shanghai,Industrials
+665,Luoyang Glass Company Limited,600876.SS,Shanghai,Industrials
+666,CETC Acoustic-Optic-Electronic Technology Inc.,600877.SS,Shanghai,Consumer Cyclical
+667,"China Aerospace Times Electronics CO.,LTD.",600879.SS,Shanghai,Industrials
+668,"Chengdu B-ray Media Co.,Ltd.",600880.SS,Shanghai,Communication Services
+669,"Jilin Yatai (Group) Co., Ltd.",600881.SS,Shanghai,Industrials
+670,"Shanghai Milkground Food Tech Co., Ltd",600882.SS,Shanghai,Consumer Defensive
+671,"Yunnan Bowin Technology Industry Co.,Ltd",600883.SS,Shanghai,Basic Materials
+672,"Ningbo Shanshan Co.,Ltd.",600884.SS,Shanghai,Basic Materials
+673,"Hongfa Technology Co., Ltd.",600885.SS,Shanghai,Industrials
+674,"SDIC Power Holdings Co., Ltd.",600886.SS,Shanghai,Utilities
+675,"Inner Mongolia Yili Industrial Group Co., Ltd.",600887.SS,Shanghai,Consumer Defensive
+676,"Xinjiang Joinworld Co.,Ltd.",600888.SS,Shanghai,Basic Materials
+677,"Nanjing Chemical Fibre Co.,Ltd",600889.SS,Shanghai,Basic Materials
+678,"Dasheng Times Cultural Investment Co., Ltd.",600892.SS,Shanghai,Communication Services
+679,"AECC Aviation Power Co.,Ltd",600893.SS,Shanghai,Industrials
+680,"Guangzhou Guangri Stock Co.,Ltd.",600894.SS,Shanghai,Industrials
+681,"Shanghai Zhangjiang Hi-Tech Park Development Co., Ltd.",600895.SS,Shanghai,Real Estate
+682,"Xiamen International Airport Co.,Ltd",600897.SS,Shanghai,Industrials
+683,"Gome Telecom Equipment Co.,Ltd.",600898.SS,Shanghai,Technology
+684,"China Yangtze Power Co., Ltd.",600900.SS,Shanghai,Utilities
+685,"Jiangsu Financial Leasing Co., Ltd.",600901.SS,Shanghai,Financial Services
+686,Guizhou Gas Group Corporation Ltd.,600903.SS,Shanghai,Utilities
+687,"China Three Gorges Renewables (Group) Co.,Ltd.",600905.SS,Shanghai,Utilities
+688,"Caida Securities Co., Ltd.",600906.SS,Shanghai,Financial Services
+689,"Wuxi Rural Commercial Bank Co.,Ltd",600908.SS,Shanghai,Financial Services
+690,"Huaan Securities Co., Ltd.",600909.SS,Shanghai,Financial Services
+691,"China National Gold Group Gold Jewellery Co.,Ltd.",600916.SS,Shanghai,Consumer Cyclical
+692,Chongqing Gas Group Corporation Ltd.,600917.SS,Shanghai,Utilities
+693,"Zhongtai Securities Co., Ltd.",600918.SS,Shanghai,Financial Services
+694,"Bank of Jiangsu Co., Ltd.",600919.SS,Shanghai,Financial Services
+695,"Bank of Hangzhou Co., Ltd.",600926.SS,Shanghai,Financial Services
+696,"Bank of Xi'an Co.,Ltd.",600928.SS,Shanghai,Financial Services
+697,"Snowsky Salt Industry Group Co., Ltd.",600929.SS,Shanghai,Basic Materials
+698,"IKD Co., Ltd.",600933.SS,Shanghai,Consumer Cyclical
+699,Guangxi Radio and Television Information Network Corporation Limited,600936.SS,Shanghai,Communication Services
+700,Chongqing Construction Engineering Group Corporation Limited,600939.SS,Shanghai,Industrials
+701,China Suntien Green Energy Corporation Limited,600956.SS,Shanghai,Utilities
+702,Orient Securities Company Limited,600958.SS,Shanghai,Financial Services
+703,Jiangsu Broadcasting Cable Information Network Corporation Limited,600959.SS,Shanghai,Communication Services
+704,"Bohai Automotive Systems CO., LTD.",600960.SS,Shanghai,Consumer Cyclical
+705,"Zhuzhou Smelter Group Co.,Ltd.",600961.SS,Shanghai,Basic Materials
+706,"SDIC Zhonglu Fruit Juice Co.,Ltd.",600962.SS,Shanghai,Consumer Defensive
+707,"Yueyang Forest & Paper Co., Ltd.",600963.SS,Shanghai,Basic Materials
+708,"Fortune Ng Fung Food (Hebei) Co.,Ltd",600965.SS,Shanghai,Consumer Defensive
+709,"Shandong Bohui Paper Industry Co., Ltd.",600966.SS,Shanghai,Basic Materials
+710,"Inner Mongolia First Machinery Group Co.,Ltd.",600967.SS,Shanghai,Industrials
+711,CNOOC Energy Technology & Services Limited,600968.SS,Shanghai,Energy
+712,"Hunan Chendian International Development co.,ltd",600969.SS,Shanghai,Utilities
+713,Sinoma International Engineering Co.Ltd,600970.SS,Shanghai,Industrials
+714,"Anhui Hengyuan Coal-Electricity Group Co., Ltd.",600971.SS,Shanghai,Energy
+715,"Baosheng Science and Technology Innovation Co.,Ltd.",600973.SS,Shanghai,Industrials
+716,"Hunan New Wellful Co.,Ltd.",600975.SS,Shanghai,Consumer Defensive
+717,"Jianmin Pharmaceutical Group Co.,Ltd.",600976.SS,Shanghai,Healthcare
+718,"China Film Co.,Ltd.",600977.SS,Shanghai,Communication Services
+719,"Sichuan Guangan Aaapublic Co.,Ltd",600979.SS,Shanghai,Utilities
+720,"BGRIMM Technology Co., Ltd.",600980.SS,Shanghai,Basic Materials
+721,Jiangsu High Hope International Group Corporation,600981.SS,Shanghai,Industrials
+722,"Ningbo Energy Group Co.,Ltd.",600982.SS,Shanghai,Utilities
+723,"Whirlpool China Co., Ltd.",600983.SS,Shanghai,Consumer Cyclical
+724,"Shaanxi Construction Machinery Co.,Ltd",600984.SS,Shanghai,Industrials
+725,"Huaibei Mining Holdings Co.,Ltd.",600985.SS,Shanghai,Basic Materials
+726,"Zhewen Interactive Group Co., Ltd.",600986.SS,Shanghai,Communication Services
+727,"Zhejiang Hangmin Co.,Ltd",600987.SS,Shanghai,Consumer Cyclical
+728,"Chifeng Jilong Gold Mining Co.,Ltd.",600988.SS,Shanghai,Basic Materials
+729,"Ningxia Baofeng Energy Group Co., Ltd.",600989.SS,Shanghai,Basic Materials
+730,"Sun Create Electronics Co., Ltd",600990.SS,Shanghai,Technology
+731,Guizhou Wire Rope Incorporated Company,600992.SS,Shanghai,Basic Materials
+732,"Mayinglong Pharmaceutical Group Co., LTD.",600993.SS,Shanghai,Healthcare
+733,"Yunnan Wenshan Electric Power Co.,Ltd.",600995.SS,Shanghai,Utilities
+734,"Guizhou BC&TV Information Network CO.,LTD",600996.SS,Shanghai,Communication Services
+735,"Kailuan Energy Chemical Co.,Ltd.",600997.SS,Shanghai,Basic Materials
+736,"Jointown Pharmaceutical Group Co., Ltd",600998.SS,Shanghai,Healthcare
+737,"China Merchants Securities Co., Ltd.",600999.SS,Shanghai,Financial Services
+738,"TangShan Port Group Co.,Ltd",601000.SS,Shanghai,Industrials
+739,"Jinneng Holding Shanxi Coal Industry Co.,ltd.",601001.SS,Shanghai,Energy
+740,"Gem-Year Industrial Co.,Ltd.",601002.SS,Shanghai,Industrials
+741,"Liuzhou Iron & Steel Co., Ltd.",601003.SS,Shanghai,Basic Materials
+742,Chongqing Iron & Steel Company Limited,601005.SS,Shanghai,Basic Materials
+743,"Daqin Railway Co., Ltd.",601006.SS,Shanghai,Industrials
+744,"Jinling Hotel Corporation, Ltd.",601007.SS,Shanghai,Consumer Cyclical
+745,"Jiangsu Lianyungang Port Co., Ltd.",601008.SS,Shanghai,Industrials
+746,"Bank of Nanjing Co., Ltd.",601009.SS,Shanghai,Financial Services
+747,Wenfeng Great World Chain Development Corporation,601010.SS,Shanghai,Consumer Cyclical
+748,"Baotailong New Materials Co., Ltd.",601011.SS,Shanghai,Basic Materials
+749,"LONGi Green Energy Technology Co., Ltd.",601012.SS,Shanghai,Technology
+750,"Shaanxi Heimao Coking Co., Ltd.",601015.SS,Shanghai,Basic Materials
+751,"CECEP Wind-power Corporation Co.,Ltd.",601016.SS,Shanghai,Utilities
+752,Ningbo Zhoushan Port Company Limited,601018.SS,Shanghai,Industrials
+753,"Shandong Publishing&Media Co.,Ltd",601019.SS,Shanghai,Communication Services
+754,"Tibet Huayu Mining Co., Ltd.",601020.SS,Shanghai,Basic Materials
+755,"Spring Airlines Co., Ltd.",601021.SS,Shanghai,Industrials
+756,"Shandong Yulong Gold Co., Ltd.",601028.SS,Shanghai,Basic Materials
+757,First Tractor Company Limited,601038.SS,Shanghai,Industrials
+758,"Sailun Group Co., Ltd.",601058.SS,Shanghai,Consumer Cyclical
+759,"CSC Financial Co., Ltd.",601066.SS,Shanghai,Financial Services
+760,China Aluminum International Engineering Corporation Limited,601068.SS,Shanghai,Industrials
+761,"Western Region Gold Co., Ltd.",601069.SS,Shanghai,Basic Materials
+762,"Chongqing Rural Commercial Bank Co., Ltd.",601077.SS,Shanghai,Financial Services
+763,"Gansu Guofang Industry & Trade (Group) Co., Ltd.",601086.SS,Shanghai,Consumer Cyclical
+764,China Shenhua Energy Company Limited,601088.SS,Shanghai,Energy
+765,"China South Publishing & Media Group Co., Ltd",601098.SS,Shanghai,Communication Services
+766,"The Pacific Securities Co., Ltd",601099.SS,Shanghai,Financial Services
+767,"Jiangsu Hengli Hydraulic Co.,Ltd",601100.SS,Shanghai,Industrials
+768,"Beijing Haohua Energy Resource Co., Ltd.",601101.SS,Shanghai,Energy
+769,China First Heavy Industries,601106.SS,Shanghai,Industrials
+770,Sichuan Expressway Company Limited,601107.SS,Shanghai,Industrials
+771,"Caitong Securities Co.,Ltd.",601108.SS,Shanghai,Financial Services
+772,Air China Limited,601111.SS,Shanghai,Industrials
+773,"Yiwu Huading Nylon Co.,Ltd.",601113.SS,Shanghai,Consumer Cyclical
+774,"Sanjiang Shopping Club Co.,Ltd",601116.SS,Shanghai,Consumer Defensive
+775,"China National Chemical Engineering Co., Ltd",601117.SS,Shanghai,Industrials
+776,"China Hainan Rubber Industry Group Co., Ltd.",601118.SS,Shanghai,Basic Materials
+777,"Beijing Sifang Automation Co.,Ltd",601126.SS,Shanghai,Industrials
+778,"Chongqing Sokon Industry Group Stock Co.,Ltd.",601127.SS,Shanghai,Consumer Cyclical
+779,"Jiangsu Changshu Rural Commercial Bank Co., Ltd.",601128.SS,Shanghai,Financial Services
+780,Ningbo Boway Alloy Material Company Limited,601137.SS,Shanghai,Basic Materials
+781,"Foxconn Industrial Internet Co., Ltd.",601138.SS,Shanghai,Technology
+782,Shenzhen Gas Corporation Ltd.,601139.SS,Shanghai,Utilities
+783,"Seazen Holdings Co., Ltd",601155.SS,Shanghai,Real Estate
+784,"Eastern Air Logistics Co., Ltd.",601156.SS,Shanghai,Industrials
+785,"Chongqing Water Group Co.,Ltd.",601158.SS,Shanghai,Utilities
+786,"Tianfeng Securities Co., Ltd.",601162.SS,Shanghai,Financial Services
+787,"Triangle Tyre Co., Ltd",601163.SS,Shanghai,Consumer Cyclical
+788,"Industrial Bank Co., Ltd.",601166.SS,Shanghai,Financial Services
+789,"Western Mining Co.,Ltd.",601168.SS,Shanghai,Basic Materials
+790,"Bank of Beijing Co., Ltd.",601169.SS,Shanghai,Financial Services
+791,"Hangzhou Advance Gearbox Group Co., Ltd.",601177.SS,Shanghai,Industrials
+792,"China XD Electric Co., Ltd",601179.SS,Shanghai,Industrials
+793,China Railway Construction Corporation Limited,601186.SS,Shanghai,Industrials
+794,"Xiamen Bank Co., Ltd.",601187.SS,Shanghai,Financial Services
+795,"Heilongjiang Transport Development Co., Ltd.",601188.SS,Shanghai,Industrials
+796,Dongxing Securities Corporation Limited,601198.SS,Shanghai,Financial Services
+797,"Jiangsu Jiangnan Water Co., Ltd.",601199.SS,Shanghai,Utilities
+798,"Shanghai Environment Group Co., Ltd",601200.SS,Shanghai,Industrials
+799,"Sichuan Em Technology Co., Ltd.",601208.SS,Shanghai,Basic Materials
+800,"Guotai Junan Securities Co., Ltd.",601211.SS,Shanghai,Financial Services
+801,"Baiyin Nonferrous Group Co., Ltd.",601212.SS,Shanghai,Basic Materials
+802,"Inner Mongolia Junzheng Energy & Chemical Group Co.,Ltd.",601216.SS,Shanghai,Basic Materials
+803,"Jiangsu JIXIN Wind Energy Technology Co., Ltd.",601218.SS,Shanghai,Industrials
+804,"Jiangsu Linyang Energy Co., Ltd.",601222.SS,Shanghai,Industrials
+805,Shaanxi Coal Industry Company Limited,601225.SS,Shanghai,Energy
+806,"Huadian Heavy Industries Co., Ltd.",601226.SS,Shanghai,Industrials
+807,Guangzhou Port Company Limited,601228.SS,Shanghai,Industrials
+808,"Bank of Shanghai Co., Ltd.",601229.SS,Shanghai,Financial Services
+809,"Universal Scientific Industrial (Shanghai) Co., Ltd.",601231.SS,Shanghai,Technology
+810,"Tongkun Group Co., Ltd.",601233.SS,Shanghai,Consumer Cyclical
+811,"Hongta Securities Co., Ltd.",601236.SS,Shanghai,Financial Services
+812,"Guangzhou Automobile Group Co., Ltd.",601238.SS,Shanghai,Consumer Cyclical
+813,"Pang Da Automobile Trade Co., Ltd",601258.SS,Shanghai,Consumer Cyclical
+814,"Changchun Engley Automobile Industry Co.,Ltd.",601279.SS,Shanghai,Consumer Cyclical
+815,Agricultural Bank of China Limited,601288.SS,Shanghai,Financial Services
+816,"Qingdao Port International Co., Ltd.",601298.SS,Shanghai,Industrials
+817,"Camel Group Co., Ltd.",601311.SS,Shanghai,Consumer Cyclical
+818,"Ping An Insurance (Group) Company of China, Ltd.",601318.SS,Shanghai,
+819,The People's Insurance Company (Group) of China Limited,601319.SS,Shanghai,Financial Services
+820,"Qinhuangdao Port Co., Ltd.",601326.SS,Shanghai,Industrials
+821,"Bank of Communications Co., Ltd.",601328.SS,Shanghai,Financial Services
+822,"Dynagreen Environmental Protection Group Co., Ltd.",601330.SS,Shanghai,Industrials
+823,Guangshen Railway Company Limited,601333.SS,Shanghai,Industrials
+824,New China Life Insurance Company Ltd.,601336.SS,Shanghai,Financial Services
+825,"Bros Eastern.,Ltd",601339.SS,Shanghai,Consumer Cyclical
+826,360 Security Technology Inc.,601360.SS,Shanghai,Technology
+827,"Liqun Commercial Group Co.,Ltd.",601366.SS,Shanghai,Consumer Cyclical
+828,"Guangxi Nanning Waterworks Co.,Ltd.",601368.SS,Shanghai,Utilities
+829,"Xi'an Shaangu Power Co., Ltd.",601369.SS,Shanghai,Industrials
+830,"Central China Securities Co., Ltd.",601375.SS,Shanghai,Financial Services
+831,"Industrial Securities Co.,Ltd.",601377.SS,Shanghai,Financial Services
+832,Yechiu Metal Recycling (China) Ltd.,601388.SS,Shanghai,Basic Materials
+833,China Railway Group Limited,601390.SS,Shanghai,Industrials
+834,Industrial & Commercial Bank of China Ltd.,601398.SS,Shanghai,Financial Services
+835,"SINOMACH HEAVY EQUIPMENT GROUP CO.,LTD",601399.SS,Shanghai,Industrials
+836,"Guolian Securities Co., Ltd.",601456.SS,Shanghai,Financial Services
+837,"Jiangsu General Science Technology Co., Ltd.",601500.SS,Shanghai,Consumer Cyclical
+838,"China-Singapore Suzhou Industrial Park Development Group Co., Ltd.",601512.SS,Shanghai,Industrials
+839,"Shantou Dongfeng Printing Co., Ltd.",601515.SS,Shanghai,Industrials
+840,"Jilin Expressway Co., Ltd.",601518.SS,Shanghai,Industrials
+841,Shanghai DZH Limited,601519.SS,Shanghai,Financial Services
+842,"Zhejiang Shaoxing RuiFeng Rural Commercial Bank Co.,Ltd",601528.SS,Shanghai,Financial Services
+843,"Soochow Securities Co., Ltd.",601555.SS,Shanghai,Financial Services
+844,"Joeone Co., Ltd.",601566.SS,Shanghai,Consumer Cyclical
+845,"Ningbo Sanxing Medical Electric Co.,Ltd.",601567.SS,Shanghai,Industrials
+846,"Shaanxi Beiyuan Chemical Industry Group Co., Ltd.",601568.SS,Shanghai,
+847,"Bank of Changsha Co., Ltd.",601577.SS,Shanghai,Financial Services
+848,"Kuaijishan Shaoxing Rice Wine Co., Ltd.",601579.SS,Shanghai,Consumer Defensive
+849,Beijing North Star Company Limited,601588.SS,Shanghai,Real Estate
+850,"Shanghai Film Co., Ltd.",601595.SS,Shanghai,Communication Services
+851,Sinotrans Limited,601598.SS,Shanghai,Industrials
+852,"Zhewen Pictures Group co.,ltd",601599.SS,Shanghai,Consumer Cyclical
+853,Aluminum Corporation of China Limited,601600.SS,Shanghai,
+854,"China Pacific Insurance (Group) Co., Ltd.",601601.SS,Shanghai,Financial Services
+855,"Anhui Great Wall Military Industry Co., Ltd.",601606.SS,Shanghai,Industrials
+856,"Shanghai Pharmaceuticals Holding Co., Ltd",601607.SS,Shanghai,Healthcare
+857,"CITIC Heavy Industries Co., Ltd.",601608.SS,Shanghai,Industrials
+858,"Ningbo Jintian Copper(Group) Co., Ltd.",601609.SS,Shanghai,Basic Materials
+859,China Nuclear Engineering Corporation Limited,601611.SS,Shanghai,Industrials
+860,Ming Yang Smart Energy Group Limited,601615.SS,Shanghai,Industrials
+861,"Shanghai Guangdian Electric Group Co., Ltd.",601616.SS,Shanghai,Technology
+862,Metallurgical Corporation of China Ltd.,601618.SS,Shanghai,Industrials
+863,Ningxia Jiaze Renewables Corporation Limited,601619.SS,Shanghai,Utilities
+864,China Life Insurance Company Limited,601628.SS,Shanghai,Financial Services
+865,Great Wall Motor Company Limited,601633.SS,Shanghai,
+866,"Zhuzhou Kibing Group Co.,Ltd",601636.SS,Shanghai,Industrials
+867,"Postal Savings Bank of China Co., Ltd.",601658.SS,Shanghai,Financial Services
+868,"QILU BANK CO., LTD.",601665.SS,Shanghai,Financial Services
+869,"Pingdingshan Tianan Coal. Mining Co., Ltd.",601666.SS,Shanghai,Energy
+870,China State Construction Engineering Corporation Limited,601668.SS,Shanghai,Industrials
+871,"Power Construction Corporation of China, Ltd",601669.SS,Shanghai,Industrials
+872,"Henan Mingtai Al.Industrial Co.,Ltd.",601677.SS,Shanghai,Basic Materials
+873,"Befar Group Co.,Ltd",601678.SS,Shanghai,Basic Materials
+874,"Tianjin You Fa Steel Pipe Group Stock Co., Ltd.",601686.SS,Shanghai,Basic Materials
+875,"Huatai Securities Co., Ltd.",601688.SS,Shanghai,Financial Services
+876,"Ningbo Tuopu Group Co.,Ltd.",601689.SS,Shanghai,Consumer Cyclical
+877,"BOC International (China) CO., LTD",601696.SS,Shanghai,Financial Services
+878,"China Satellite Communications Co., Ltd.",601698.SS,Shanghai,Communication Services
+879,"Shanxi Lu'an Environmental Energy Development Co., Ltd.",601699.SS,Shanghai,Energy
+880,"Changshu Fengfan Power Equipment Co., Ltd.",601700.SS,Shanghai,Industrials
+881,Shanghai Huafon Aluminium Corporation,601702.SS,Shanghai,Basic Materials
+882,Zhengzhou Coal Mining Machinery Group Company Limited,601717.SS,Shanghai,Consumer Cyclical
+883,Jihua Group Corporation Limited,601718.SS,Shanghai,Basic Materials
+884,Shanghai Electric Group Company Limited,601727.SS,Shanghai,
+885,CRRC Corporation Limited,601766.SS,Shanghai,Industrials
+886,"Lifan Technology (Group) Co., Ltd.",601777.SS,Shanghai,Consumer Cyclical
+887,"Jinko Power Technology Co.,Ltd.",601778.SS,Shanghai,Utilities
+888,Everbright Securities Company Limited,601788.SS,Shanghai,Financial Services
+889,"Ningbo Construction Co., Ltd.",601789.SS,Shanghai,Industrials
+890,Lanpec Technologies Limited,601798.SS,Shanghai,Energy
+891,"Changzhou Xingyu Automotive Lighting Systems Co.,Ltd.",601799.SS,Shanghai,Consumer Cyclical
+892,China Communications Construction Company Limited,601800.SS,Shanghai,Industrials
+893,"Anhui Xinhua Media Co., Ltd.",601801.SS,Shanghai,Consumer Cyclical
+894,China Oilfield Services Limited,601808.SS,Shanghai,Energy
+895,"Xinhua Winshare Publishing and Media Co., Ltd.",601811.SS,Shanghai,Communication Services
+896,"Beijing-Shanghai High-Speed Railway Co.,Ltd.",601816.SS,Shanghai,Industrials
+897,China Everbright Bank Company Limited,601818.SS,Shanghai,Financial Services
+898,"Chongqing Sanfeng Environment Group Corp., Ltd.",601827.SS,Shanghai,Industrials
+899,Red Star Macalline Group Corporation Ltd.,601828.SS,Shanghai,Real Estate
+900,"Bank of Chengdu Co., Ltd.",601838.SS,Shanghai,Financial Services
+901,PetroChina Company Limited,601857.SS,Shanghai,
+902,China Science Publishing & Media Ltd.,601858.SS,Shanghai,Communication Services
+903,"Jiangsu Zijin Rural Commercial Bank Co.,Ltd",601860.SS,Shanghai,Financial Services
+904,"Flat Glass Group Co., Ltd.",601865.SS,Shanghai,Industrials
+905,"COSCO SHIPPING Development Co., Ltd.",601866.SS,Shanghai,Industrials
+906,China Energy Engineering Corporation Limited,601868.SS,Shanghai,Industrials
+907,Yangtze Optical Fibre And Cable Joint Stock Limited Company,601869.SS,Shanghai,Technology
+908,"China Merchants Energy Shipping Co., Ltd.",601872.SS,Shanghai,Energy
+909,"Zhejiang Chint Electrics Co., Ltd.",601877.SS,Shanghai,Industrials
+910,"Zheshang Securities Co., Ltd.",601878.SS,Shanghai,Financial Services
+911,"Liaoning Port Co., Ltd.",601880.SS,Shanghai,Industrials
+912,"China Galaxy Securities Co., Ltd.",601881.SS,Shanghai,Financial Services
+913,"Ningbo Haitian Precision Machinery Co.,Ltd.",601882.SS,Shanghai,Industrials
+914,"Jangho Group Co., Ltd.",601886.SS,Shanghai,Industrials
+915,China Tourism Group Duty Free Corporation Limited,601888.SS,Shanghai,Consumer Cyclical
+916,"Asian Star Anchor Chain Co., Ltd. Jiangsu",601890.SS,Shanghai,Industrials
+917,China Coal Energy Company Limited,601898.SS,Shanghai,Energy
+918,Zijin Mining Group Company Limited,601899.SS,Shanghai,Basic Materials
+919,"Southern Publishing and Media Co.,Ltd.",601900.SS,Shanghai,Communication Services
+920,"Founder Securities Co., Ltd.",601901.SS,Shanghai,Financial Services
+921,"Beijing Jingyuntong Technology Co., Ltd.",601908.SS,Shanghai,Technology
+922,"China Zheshang Bank Co., Ltd",601916.SS,Shanghai,Financial Services
+923,"China Coal Xinji Energy Co.,Ltd",601918.SS,Shanghai,Energy
+924,"COSCO SHIPPING Holdings Co., Ltd.",601919.SS,Shanghai,Industrials
+925,"Zhejiang Publishing & Media Co., Ltd.",601921.SS,Shanghai,Communication Services
+926,Jiangsu Phoenix Publishing & Media Corporation Limited,601928.SS,Shanghai,Communication Services
+927,"JiShi Media Co., Ltd.",601929.SS,Shanghai,Communication Services
+928,"Yonghui Superstores Co., Ltd.",601933.SS,Shanghai,Consumer Cyclical
+929,China Construction Bank Corporation,601939.SS,Shanghai,Financial Services
+930,"China Publishing & Media Holdings Co., Ltd.",601949.SS,Shanghai,Communication Services
+931,"Jiangsu Provincial Agricultural Reclamation and Development Co.,Ltd.",601952.SS,Shanghai,Consumer Defensive
+932,"Hubei Donper Electromechanical Group Co., Ltd.",601956.SS,Shanghai,
+933,"Jinduicheng Molybdenum Co., Ltd.",601958.SS,Shanghai,Basic Materials
+934,"Bank of Chongqing Co., Ltd.",601963.SS,Shanghai,Financial Services
+935,"China Automotive Engineering Research Institute Co., Ltd.",601965.SS,Shanghai,Consumer Cyclical
+936,"Shandong Linglong Tyre Co.,Ltd.",601966.SS,Shanghai,Consumer Cyclical
+937,"Shanghai Baosteel Packaging Co., Ltd.",601968.SS,Shanghai,Consumer Cyclical
+938,"Hainan Mining Co., Ltd.",601969.SS,Shanghai,Basic Materials
+939,Nanjing Tanker Corporation,601975.SS,Shanghai,Energy
+940,"China National Nuclear Power Co., Ltd.",601985.SS,Shanghai,Utilities
+941,Bank of China Limited,601988.SS,Shanghai,
+942,China Shipbuilding Industry Company Limited,601989.SS,Shanghai,Industrials
+943,"Nanjing Securities Co., Ltd.",601990.SS,Shanghai,Financial Services
+944,"Datang International Power Generation Co., Ltd.",601991.SS,Shanghai,Utilities
+945,BBMG Corporation,601992.SS,Shanghai,Basic Materials
+946,China International Capital Corporation Limited,601995.SS,Shanghai,
+947,"Guangxi Fenglin Wood Industry Group Co.,Ltd",601996.SS,Shanghai,Basic Materials
+948,"Bank of Guiyang Co.,Ltd.",601997.SS,Shanghai,Financial Services
+949,China CITIC Bank Corporation Limited,601998.SS,Shanghai,Financial Services
+950,Northern United Publishing & Media (Group) Company Limited,601999.SS,Shanghai,Communication Services
+951,"People.cn CO., LTD",603000.SS,Shanghai,Communication Services
+952,"Zhejiang Aokang Shoes Co., Ltd.",603001.SS,Shanghai,Consumer Cyclical
+953,Epoxy Base Electronic Material Corporation Limited,603002.SS,Shanghai,Basic Materials
+954,"Shanghai Lonyer Fuels Co., Ltd.",603003.SS,Shanghai,Energy
+955,"China Wafer Level CSP Co., Ltd.",603005.SS,Shanghai,Technology
+956,"Shanghai Lianming Machinery Co., Ltd.",603006.SS,Shanghai,Consumer Cyclical
+957,"Xilinmen Furniture Co.,Ltd",603008.SS,Shanghai,Consumer Cyclical
+958,"Shanghai Beite Technology Co., Ltd.",603009.SS,Shanghai,Consumer Cyclical
+959,"Zhejiang Wansheng Co., Ltd.",603010.SS,Shanghai,Basic Materials
+960,"Hefei Metalforming Intelligent Manufacturing Co., Ltd.",603011.SS,Shanghai,Industrials
+961,"Shanghai Chuangli Group Co., Ltd.",603012.SS,Shanghai,Industrials
+962,"YAPP Automotive Systems Co., Ltd.",603013.SS,Shanghai,Consumer Cyclical
+963,"Ningbo Techmation Co.,Ltd.",603015.SS,Shanghai,Industrials
+964,"Wuxi New Hongtai Electrical Technology Co.,Ltd",603016.SS,Shanghai,Technology
+965,"ARTS Group Co., Ltd",603017.SS,Shanghai,Industrials
+966,"China Design Group Co., Ltd.",603018.SS,Shanghai,Industrials
+967,"Dawning Information Industry Co., Ltd.",603019.SS,Shanghai,Technology
+968,"Apple Flavor & Fragrance Group Co.,Ltd.",603020.SS,Shanghai,Basic Materials
+969,"Shandong Huapeng Glass Co.,Ltd.",603021.SS,Shanghai,Consumer Cyclical
+970,"Shanghai Xintonglian Packaging Co., Ltd.",603022.SS,Shanghai,Consumer Cyclical
+971,"Harbin VITI Electronics Co., Ltd.",603023.SS,Shanghai,Consumer Cyclical
+972,"Beijing Dahao Technology Corp.,Ltd",603025.SS,Shanghai,Industrials
+973,Shandong Shida Shenghua Chemical Group Company Limited,603026.SS,Shanghai,Basic Materials
+974,"Qianhe Condiment and Food Co., Ltd.",603027.SS,Shanghai,Consumer Defensive
+975,"Jiangsu Safety Wire Rope Co., Ltd.",603028.SS,Shanghai,Basic Materials
+976,"Shandong Swan CottonIndustrial Machinery Stock Co.,Ltd.",603029.SS,Shanghai,Industrials
+977,"Shanghai Trendzone Construction Decoration Group Co.,Ltd.",603030.SS,Shanghai,Industrials
+978,"Anhui Anfu Battery Technology Co., Ltd.",603031.SS,Shanghai,Industrials
+979,"Delixi Xinjiang Transportation Co.,Ltd.",603032.SS,Shanghai,Industrials
+980,"Zhejiang Sanwei Rubber Item Co., Ltd.",603033.SS,Shanghai,Industrials
+981,"Jiangsu Changshu Automotive Trim Group Co., Ltd.",603035.SS,Shanghai,Consumer Cyclical
+982,"Jiangsu Rutong Petro-Machinery Co., Ltd",603036.SS,Shanghai,Industrials
+983,"Shanghai Carthane Co.,Ltd.",603037.SS,Shanghai,Consumer Cyclical
+984,"Dongguan Huali Industries Co.,Ltd",603038.SS,Shanghai,Consumer Cyclical
+985,"Hangzhou XZB Tech Co.,Ltd",603040.SS,Shanghai,Consumer Cyclical
+986,"Jiangsu Maysta Chemical Co., Ltd.",603041.SS,Shanghai,Basic Materials
+987,"Nanjing Huamai Technology Co., Ltd.",603042.SS,Shanghai,Technology
+988,Guangzhou Restaurant Group Company Limited,603043.SS,Shanghai,Consumer Cyclical
+989,"Fuda Alloy Materials Co.,Ltd",603045.SS,Shanghai,Industrials
+990,"Shijiazhuang Kelin Electric Co., Ltd.",603050.SS,Shanghai,Technology
+991,Chengdu Gas Group Corporation Ltd.,603053.SS,Shanghai,Utilities
+992,"Zhe Jiang Taihua New Material Co., Ltd.",603055.SS,Shanghai,Consumer Cyclical
+993,"DEPPON LOGISTICS Co.,LTD.",603056.SS,Shanghai,Industrials
+994,"GuiZhou YongJi Printing CO.,LTD",603058.SS,Shanghai,Consumer Cyclical
+995,"Perfect Group Corp., Ltd",603059.SS,Shanghai,Consumer Defensive
+996,"China Building Material Test & Certification Group Co., Ltd.",603060.SS,Shanghai,Industrials
+997,"Shenzhen Hopewind Electric Co., Ltd.",603063.SS,Shanghai,Industrials
+998,"Nanjing Inform Storage Equipment (Group) Co., Ltd.",603066.SS,Shanghai,Industrials
+999,"Hubei Zhenhua Chemical Co.,Ltd.",603067.SS,Shanghai,Basic Materials
+1000,Beken Corporation,603068.SS,Shanghai,Technology
+1001,"Hainan Haiqi Transportation Group Co.,Ltd.",603069.SS,Shanghai,Industrials
+1002,"Ningbo Lehui International Engineering Equipment Co.,Ltd",603076.SS,Shanghai,Industrials
+1003,Sichuan Hebang Biotechnology Corporation Limited,603077.SS,Shanghai,Basic Materials
+1004,"Jiangyin Jianghua Microelectronics Materials Co., Ltd",603078.SS,Shanghai,Technology
+1005,"Zhejiang Shengda Bio-Pharm Co., Ltd.",603079.SS,Shanghai,Healthcare
+1006,"Xinjiang Torch Gas Co., Ltd",603080.SS,Shanghai,Utilities
+1007,"Zhejiang Dafeng Industry Co., Ltd",603081.SS,Shanghai,Industrials
+1008,"CIG ShangHai Co., Ltd.",603083.SS,Shanghai,Technology
+1009,"Zhejiang Tiancheng Controls Co., Ltd.",603085.SS,Shanghai,Consumer Cyclical
+1010,"ShanDong Cynda Chemical Co.,Ltd",603086.SS,Shanghai,Basic Materials
+1011,Gan & Lee Pharmaceuticals.,603087.SS,Shanghai,Healthcare
+1012,JDM JingDaMachine(Ningbo)Co.Ltd,603088.SS,Shanghai,Industrials
+1013,"ADD Industry (Zhejiang) CO., LTD",603089.SS,Shanghai,Consumer Cyclical
+1014,"Wuxi Hongsheng Heat Exchanger Manufacturing Co., Ltd.",603090.SS,Shanghai,Industrials
+1015,"Nanhua Futures Co., Ltd.",603093.SS,Shanghai,Financial Services
+1016,"Zhejiang Yuejian Intelligent Equipment Co.,Ltd.",603095.SS,Shanghai,Industrials
+1017,Thinkingdom Media Group Ltd.,603096.SS,Shanghai,Communication Services
+1018,"Center International Group Co.,Ltd.",603098.SS,Shanghai,Industrials
+1019,"Changbai Mountain Tourism Co., Ltd.",603099.SS,Shanghai,Consumer Cyclical
+1020,"Chongqing Chuanyi Automation Co., Ltd.",603100.SS,Shanghai,Industrials
+1021,"Xinjiang Winka Times Department Store Co.,Ltd.",603101.SS,Shanghai,Consumer Cyclical
+1022,"Hengdian Entertainment Co.,LTD",603103.SS,Shanghai,Communication Services
+1023,"Zhejiang Sunoren Solar Technology Co.,Ltd.",603105.SS,Shanghai,Technology
+1024,"Cashway Fintech Co.,Ltd.",603106.SS,Shanghai,Industrials
+1025,"Shanghai Runda Medical Technology Co., Ltd.",603108.SS,Shanghai,Healthcare
+1026,"Senci Electric Machinery Co.,Ltd.",603109.SS,Shanghai,
+1027,"New East New Materials Co., Ltd",603110.SS,Shanghai,Basic Materials
+1028,"Nanjing Kangni Mechanical & Electrical Co.,Ltd",603111.SS,Shanghai,Industrials
+1029,"Shanxi Huaxiang Group Co., Ltd.",603112.SS,Shanghai,Industrials
+1030,"Jinneng Science&Techology Co.,Ltd",603113.SS,Shanghai,Basic Materials
+1031,"Nantong Haixing Electronics Co., Ltd.",603115.SS,Shanghai,Industrials
+1032,"Zhejiang Red Dragonfly Footwear Co., Ltd.",603116.SS,Shanghai,Consumer Cyclical
+1033,"Shenzhen Gongjin Electronics Co., Ltd.",603118.SS,Shanghai,Technology
+1034,"Shanghai Sinotec (Group) Co., Ltd.",603121.SS,Shanghai,Consumer Cyclical
+1035,"Beijing Cuiwei Tower Co., Ltd.",603123.SS,Shanghai,Consumer Cyclical
+1036,Sinoma Energy Conservation Ltd.,603126.SS,Shanghai,Utilities
+1037,"Joinn Laboratories(China)Co.,Ltd.",603127.SS,Shanghai,Healthcare
+1038,CTS International Logistics Corporation Limited,603128.SS,Shanghai,Industrials
+1039,"Zhejiang Cfmoto Power Co.,Ltd",603129.SS,Shanghai,Consumer Cyclical
+1040,"Shanghai Hugong Electric Group Co.,Ltd.",603131.SS,Shanghai,Industrials
+1041,"Tanyuan Technology Co., Ltd.",603133.SS,Shanghai,Technology
+1042,"Jiangsu Tianmu Lake Tourism Co.,Ltd",603136.SS,Shanghai,Consumer Cyclical
+1043,"Beijing Vastdata Technology Co., Ltd.",603138.SS,Shanghai,Technology
+1044,"Shaanxi Kanghui Pharmaceutical Co., Ltd.",603139.SS,Shanghai,Healthcare
+1045,"Xinyaqiang Silicon Chemistry Co.,Ltd",603155.SS,Shanghai,Basic Materials
+1046,"Hebei Yangyuan ZhiHui Beverage Co., Ltd.",603156.SS,Shanghai,Consumer Defensive
+1047,"Changzhou Tenglong AutoPartsCo.,Ltd.",603158.SS,Shanghai,Consumer Cyclical
+1048,"Shanghai Yahong Moulding Co., Ltd.",603159.SS,Shanghai,Industrials
+1049,"Shenzhen Goodix Technology Co., Ltd.",603160.SS,Shanghai,Technology
+1050,"Kehua Holdings Co., Ltd.",603161.SS,Shanghai,Industrials
+1051,"Zhejiang Rongsheng Environmental Protection Paper Joint Stock Co., Ltd.",603165.SS,Shanghai,Consumer Cyclical
+1052,"GUILIN FUDA Co.,Ltd.",603166.SS,Shanghai,Consumer Cyclical
+1053,"Bohai Ferry Group Co., Ltd.",603167.SS,Shanghai,Industrials
+1054,"Zhejiang Shapuaisi Pharmaceutical Co.,Ltd.",603168.SS,Shanghai,Healthcare
+1055,"Lanzhou LS Heavy Equipment Co., Ltd",603169.SS,Shanghai,Industrials
+1056,"Servyou Software Group Co., Ltd.",603171.SS,Shanghai,Technology
+1057,"Zhejiang Tuna Environmental Science & TechnologyCo.,Ltd.",603177.SS,Shanghai,Industrials
+1058,"Ningbo Shenglong Automotive Powertrain System Co.,Ltd.",603178.SS,Shanghai,Consumer Cyclical
+1059,"Jiangsu Xinquan Automotive Trim Co.,Ltd.",603179.SS,Shanghai,Consumer Cyclical
+1060,"GoldenHome Living Co., Ltd.",603180.SS,Shanghai,Consumer Cyclical
+1061,"Zhejiang Huangma Technology Co.,Ltd",603181.SS,Shanghai,Basic Materials
+1062,"Suzhou Institute of Building Science Group Co.,Ltd",603183.SS,Shanghai,Industrials
+1063,"Wuxi Shangji Automation Co., Ltd.",603185.SS,Shanghai,Industrials
+1064,"Zhejiang Wazam New Materials Co.,LTD.",603186.SS,Shanghai,Technology
+1065,"Qingdao Hiron Commercial Cold Chain Co., Ltd.",603187.SS,Shanghai,Industrials
+1066,"Jiangsu Yabang Dyestuff Co., Ltd.",603188.SS,Shanghai,Basic Materials
+1067,"Shanghai Wondertek Software Co., Ltd",603189.SS,Shanghai,Technology
+1068,"Shanghai Huide Science & Technology Co.,Ltd",603192.SS,Shanghai,Basic Materials
+1069,"Gongniu Group Co., Ltd.",603195.SS,Shanghai,Industrials
+1070,"Ribo Fashion Group Co., Ltd.",603196.SS,Shanghai,Consumer Cyclical
+1071,Shanghai Baolong Automotive Corporation,603197.SS,Shanghai,Consumer Cyclical
+1072,"Anhui Yingjia Distillery Co., Ltd.",603198.SS,Shanghai,Consumer Defensive
+1073,"Anhui Jiuhuashan Tourism Development Co., Ltd.",603199.SS,Shanghai,Consumer Cyclical
+1074,"Shanghai Emperor of Cleaning Hi-Tech Co., Ltd",603200.SS,Shanghai,Industrials
+1075,"Quick Intelligent Equipment Co., Ltd.",603203.SS,Shanghai,Industrials
+1076,"Jiangshan Oupai Door Industry Co., Ltd",603208.SS,Shanghai,Consumer Cyclical
+1077,Cybrid Technologies Inc.,603212.SS,Shanghai,Basic Materials
+1078,"Shanghai Aiyingshi Co.,Ltd",603214.SS,Shanghai,Consumer Cyclical
+1079,"Yuanli Chemical Group Co.,Ltd.",603217.SS,Shanghai,Basic Materials
+1080,"Riyue Heavy Industry Co., Ltd.",603218.SS,Shanghai,Industrials
+1081,"China Bester Group Telecom Co., Ltd.",603220.SS,Shanghai,Communication Services
+1082,"Elegant Home-Tech Co., Ltd.",603221.SS,Shanghai,
+1083,"Chimin Health Management Co., Ltd.",603222.SS,Shanghai,Healthcare
+1084,"Hengtong Logistics Co., Ltd.",603223.SS,Shanghai,Industrials
+1085,"Xinfengming Group Co., Ltd.",603225.SS,Shanghai,Basic Materials
+1086,"Vohringer Home Technology Co.,Ltd.",603226.SS,Shanghai,Consumer Cyclical
+1087,"Xinjiang Xuefeng Sci-Tech(Group)Co.,Ltd",603227.SS,Shanghai,Basic Materials
+1088,"Shenzhen Kinwong Electronic Co., Ltd.",603228.SS,Shanghai,Technology
+1089,"Zhejiang Ausun Pharmaceutical Co., Ltd.",603229.SS,Shanghai,Healthcare
+1090,"Koal Software Co., Ltd.",603232.SS,Shanghai,Technology
+1091,"DaShenLin Pharmaceutical Group Co., Ltd.",603233.SS,Shanghai,Healthcare
+1092,"Quectel Wireless Solutions Co., Ltd.",603236.SS,Shanghai,Technology
+1093,"HangZhou Nbond Nonwovens Co., Ltd.",603238.SS,Shanghai,Consumer Cyclical
+1094,"Zhejiang Xiantong Rubber&Plastic Co.,Ltd",603239.SS,Shanghai,Consumer Cyclical
+1095,"Grace Fabric Technology Co.,Ltd.",603256.SS,Shanghai,Basic Materials
+1096,"Hangzhou Electronic Soul Network Technology Co., Ltd.",603258.SS,Shanghai,Communication Services
+1097,"WuXi AppTec Co., Ltd.",603259.SS,Shanghai,Healthcare
+1098,"Hoshine Silicon Industry Co., Ltd.",603260.SS,Shanghai,Basic Materials
+1099,"Ningbo Tianlong Electronics Co., Ltd.",603266.SS,Shanghai,Consumer Cyclical
+1100,"Beijing Yuanliu Hongyuan Electronic Technology Co., Ltd.",603267.SS,Shanghai,Technology
+1101,"Guangdong Songfa Ceramics Co.,Ltd.",603268.SS,Shanghai,
+1102,"Jiangsu Seagull Cooling Tower Co.,Ltd.",603269.SS,Shanghai,Industrials
+1103,"Yindu Kitchen Equipment Co., Ltd",603277.SS,Shanghai,Industrials
+1104,"Shandong Daye Co., Ltd.",603278.SS,Shanghai,Industrials
+1105,Jingjin Equipment Inc.,603279.SS,Shanghai,Industrials
+1106,"Suzhou Secote Precision Electronic Co.,LTD",603283.SS,Shanghai,Industrials
+1107,"Jiangsu Riying Electronics Co.,Ltd.",603286.SS,Shanghai,Consumer Cyclical
+1108,Foshan Haitian Flavouring and Food Company Ltd.,603288.SS,Shanghai,Consumer Defensive
+1109,"Zhejiang Tederic Machinery Co., Ltd.",603289.SS,Shanghai,Industrials
+1110,StarPower Semiconductor Ltd.,603290.SS,Shanghai,Technology
+1111,"Ningbo Yongxin Optics Co.,Ltd",603297.SS,Shanghai,Technology
+1112,"Hangcha Group Co., Ltd",603298.SS,Shanghai,Industrials
+1113,"Jiang Su Suyan Jingshen Co.,Ltd.",603299.SS,Shanghai,Basic Materials
+1114,"Zhejiang Huatie Emergency Equipment Science & Technology Co.,Ltd.",603300.SS,Shanghai,Industrials
+1115,"Zhende Medical Co., Ltd.",603301.SS,Shanghai,Healthcare
+1116,"Hengdian Group Tospo Lighting Co., Ltd.",603303.SS,Shanghai,Industrials
+1117,"Ningbo Xusheng Auto Technology Co., Ltd.",603305.SS,Shanghai,Consumer Cyclical
+1118,"HMT (Xiamen) New Technical Materials Co., Ltd",603306.SS,Shanghai,Consumer Cyclical
+1119,"Anhui Yingliu Electromechanical Co., Ltd.",603308.SS,Shanghai,Industrials
+1120,"Well Lead Medical Co., Ltd.",603309.SS,Shanghai,Healthcare
+1121,"Zhejiang Goldensea Hi-Tech Co., Ltd",603311.SS,Shanghai,Industrials
+1122,"Healthcare Co., Ltd.",603313.SS,Shanghai,Consumer Cyclical
+1123,"Liaoning Fu-An Heavy Industry Co.,Ltd",603315.SS,Shanghai,Basic Materials
+1124,"Chengbang Eco-Environment Co.,Ltd.",603316.SS,Shanghai,Industrials
+1125,"Sichuan Teway Food Group Co.,Ltd",603317.SS,Shanghai,Consumer Defensive
+1126,"Shuifa Energas Gas Co., Ltd.",603318.SS,Shanghai,Energy
+1127,"Hunan Oil Pump Co., Ltd.",603319.SS,Shanghai,Consumer Cyclical
+1128,"ZHEJIANG DIBAY ELECTRIC CO.,Ltd.",603320.SS,Shanghai,Industrials
+1129,"Zhejiang Meilun Elevator Co., Ltd.",603321.SS,Shanghai,Industrials
+1130,"Super Telecom Co.,Ltd",603322.SS,Shanghai,Technology
+1131,"Jiangsu Suzhou Rural Commercial Bank Co., Ltd",603323.SS,Shanghai,Financial Services
+1132,"Shanghai Sheng Jian Environment Technology Co., Ltd.",603324.SS,Shanghai,Industrials
+1133,"Nanjing OLO Home Furnishing Co.,Ltd",603326.SS,Shanghai,Consumer Cyclical
+1134,"Sichuan Furong Technology Co., Ltd.",603327.SS,Shanghai,Technology
+1135,"Guangdong Ellington Electronics Technology Co.,Ltd",603328.SS,Shanghai,Technology
+1136,"Shanghai Ace Investment & Development Co., Ltd.",603329.SS,Shanghai,Industrials
+1137,"Shanghai Tianyang Hot Melt Adhesives Co., Ltd.",603330.SS,Shanghai,Basic Materials
+1138,Zhejiang Baida Precision Manufacturing Corp.,603331.SS,Shanghai,Consumer Cyclical
+1139,"Suzhou Longjie Special Fiber Co., Ltd.",603332.SS,Shanghai,Consumer Cyclical
+1140,"Sunway Co., Ltd.",603333.SS,Shanghai,Industrials
+1141,Guangdong Dcenti Auto-Parts Stock Limited Company,603335.SS,Shanghai,Consumer Cyclical
+1142,"Great-Sun Foods Co., Ltd.",603336.SS,Shanghai,Consumer Defensive
+1143,"Jack Technology Co.,Ltd",603337.SS,Shanghai,Industrials
+1144,"Zhejiang Dingli Machinery Co.,Ltd",603338.SS,Shanghai,Industrials
+1145,"Square Technology Group Co.,Ltd",603339.SS,Shanghai,Industrials
+1146,"Anjoy Foods Group Co., Ltd.",603345.SS,Shanghai,Consumer Defensive
+1147,"Wencan Group Co.,Ltd.",603348.SS,Shanghai,Consumer Cyclical
+1148,"Nanjing Well Pharmaceutical Group Co.,Ltd.",603351.SS,Shanghai,Healthcare
+1149,"Hunan Heshun Petroleum Co.,Ltd.",603353.SS,Shanghai,Consumer Cyclical
+1150,"Kingclean Electric Co.,Ltd",603355.SS,Shanghai,Consumer Cyclical
+1151,"Xuancheng Valin Precision Technology Co., Ltd.",603356.SS,Shanghai,Industrials
+1152,"Anhui Transport Consulting & Design Institute Co.,Ltd.",603357.SS,Shanghai,Industrials
+1153,"Huada Automotive Technology Corp.,Ltd",603358.SS,Shanghai,Consumer Cyclical
+1154,"Dongzhu Ecological Environment Protection Co.,Ltd",603359.SS,Shanghai,Industrials
+1155,Dalian BIO-CHEM Company Limited,603360.SS,Shanghai,Basic Materials
+1156,Fujian Aonong Biological Technology Group Incorporation Limited,603363.SS,Shanghai,Consumer Defensive
+1157,"Shanghai Shuixing Home Textile Co., Ltd.",603365.SS,Shanghai,Consumer Cyclical
+1158,"Solareast Holdings Co., Ltd.",603366.SS,Shanghai,Technology
+1159,"Cisen Pharmaceutical Co., Ltd.",603367.SS,Shanghai,Healthcare
+1160,"Guangxi LiuYao Group Co., Ltd",603368.SS,Shanghai,Healthcare
+1161,"Jiangsu King's Luck Brewery Joint-Stock Co., Ltd.",603369.SS,Shanghai,Consumer Defensive
+1162,"Eastern Pioneer Driving School Co., Ltd",603377.SS,Shanghai,Consumer Cyclical
+1163,"Asia Cuanon Technology (Shanghai) Co.,Ltd.",603378.SS,Shanghai,Basic Materials
+1164,"Zhejiang Sanmei Chemical Industry Co., Ltd.",603379.SS,Shanghai,Basic Materials
+1165,"Suzhou Etron Technologies Co.,Ltd.",603380.SS,Shanghai,Technology
+1166,"Fujian Apex Software Co.,LTD",603383.SS,Shanghai,Technology
+1167,"Huida Sanitary Ware Co., Ltd.",603385.SS,Shanghai,Industrials
+1168,"Guangdong Champion Asia Electronics Co.,Ltd.",603386.SS,Shanghai,Technology
+1169,"Getein Biotech, Inc",603387.SS,Shanghai,Healthcare
+1170,"Yuancheng Environment Co., Ltd.",603388.SS,Shanghai,Industrials
+1171,"A-Zenith Home Furnishings Co., Ltd.",603389.SS,Shanghai,Consumer Cyclical
+1172,"Guangzhou Tongda Auto Electric Co., LTD",603390.SS,Shanghai,
+1173,"Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.",603392.SS,Shanghai,Healthcare
+1174,"Xinjiang Xintai Natural Gas Co., Ltd.",603393.SS,Shanghai,Utilities
+1175,"Yingkou Jinchen Machinery Co., Ltd.",603396.SS,Shanghai,Industrials
+1176,"BanBao Co., Ltd.",603398.SS,Shanghai,Consumer Cyclical
+1177,"Jinzhou Jixiang Molybdenum Co., Ltd.",603399.SS,Shanghai,Basic Materials
+1178,Runner (Xiamen) Corp.,603408.SS,Shanghai,Industrials
+1179,"WuXi Xinje Electric Co.,Ltd.",603416.SS,Shanghai,Technology
+1180,Qingdao Topscomm Communication INC.,603421.SS,Shanghai,Technology
+1181,"Anhui Genuine New Materials Co.,Ltd.",603429.SS,Shanghai,Consumer Cyclical
+1182,"GuiZhou SanLi Pharmaceutical Co.,Ltd",603439.SS,Shanghai,Healthcare
+1183,"G-bits Network Technology (Xiamen) Co., Ltd.",603444.SS,Shanghai,Communication Services
+1184,"Zhejiang Jiuzhou Pharmaceutical Co., Ltd",603456.SS,Shanghai,Healthcare
+1185,"Guizhou Transportation Planning Survey&Design Academe Co.,Ltd.",603458.SS,Shanghai,Industrials
+1186,"Shanghai Fengyuzhu Culture Technology Co., Ltd.",603466.SS,Shanghai,Communication Services
+1187,Leshan Giantstar Farming&Husbandry Corporation Limited,603477.SS,Shanghai,Consumer Cyclical
+1188,"Ecovacs Robotics Co., Ltd.",603486.SS,Shanghai,Consumer Cyclical
+1189,"Flying Technology Co., Ltd.",603488.SS,Shanghai,Industrials
+1190,"Bafang Electric (Suzhou) Co.,Ltd.",603489.SS,Shanghai,Consumer Cyclical
+1191,EmbedWay Technologies (Shanghai) Corporation,603496.SS,Shanghai,Technology
+1192,"Shanghai Sunglow Packaging Technology Co.,Ltd",603499.SS,Shanghai,Consumer Cyclical
+1193,"Zhejiang Tiantai Xianghe Industrial Co.,Ltd.",603500.SS,Shanghai,Industrials
+1194,"Will Semiconductor Co., Ltd.",603501.SS,Shanghai,Technology
+1195,"China Kings Resources Group Co.,Ltd.",603505.SS,Shanghai,Basic Materials
+1196,"Nacity Property Service Group Co., Ltd.",603506.SS,Shanghai,Real Estate
+1197,"JiangSu Zhenjiang New Energy Equipment Co., Ltd.",603507.SS,Shanghai,Industrials
+1198,"Henan Thinker Automatic Equipment Co., Ltd.",603508.SS,Shanghai,Technology
+1199,"Aimer Co., Ltd.",603511.SS,Shanghai,
+1200,"Opple Lighting Co.,LTD",603515.SS,Shanghai,Consumer Cyclical
+1201,"Beijing Tricolor Technology Co., Ltd",603516.SS,Shanghai,Technology
+1202,"Juewei Food Co., Ltd.",603517.SS,Shanghai,Consumer Defensive
+1203,"Jinhong Fashion Group Co.,Ltd.",603518.SS,Shanghai,Consumer Cyclical
+1204,"Jiangsu Liba Enterprise Joint-Stock Co., Ltd.",603519.SS,Shanghai,Technology
+1205,"Zhejiang Starry Pharmaceutical Co.,Ltd.",603520.SS,Shanghai,Healthcare
+1206,"Anhui Zhongyuan New Materials Co., Ltd.",603527.SS,Shanghai,Industrials
+1207,DuoLun Technology Corporation Ltd.,603528.SS,Shanghai,Technology
+1208,"AIMA Technology Group CO., LTD",603529.SS,Shanghai,Consumer Cyclical
+1209,"Jiangsu Shemar Electric Co.,Ltd",603530.SS,Shanghai,Industrials
+1210,"IReader Technology Co., Ltd.",603533.SS,Shanghai,Technology
+1211,"Guangzhou Jiacheng International Logistics Co.,Ltd.",603535.SS,Shanghai,Industrials
+1212,"Shandong Huifa Foodstuff Co.,Ltd.",603536.SS,Shanghai,Consumer Defensive
+1213,"Ningbo Menovo Pharmaceutical Co., Ltd.",603538.SS,Shanghai,Healthcare
+1214,AUPU Home Style Corporation Limited,603551.SS,Shanghai,Consumer Cyclical
+1215,"Guirenniao Co., Ltd.",603555.SS,Shanghai,Consumer Cyclical
+1216,"Hexing Electrical Co.,Ltd.",603556.SS,Shanghai,Industrials
+1217,"Zhejiang Jasan Holding Group Co., Ltd.",603558.SS,Shanghai,Consumer Cyclical
+1218,"Zhongtong Guomai Communication Co., Ltd.",603559.SS,Shanghai,Technology
+1219,"Shanghai Zhonggu Logistics Co., Ltd.",603565.SS,Shanghai,Industrials
+1220,"Pulike Biological Engineering, Inc.",603566.SS,Shanghai,Healthcare
+1221,"Heilongjiang ZBD Pharmaceutical Co., Ltd.",603567.SS,Shanghai,Healthcare
+1222,"Zhejiang Weiming Environment Protection Co., Ltd.",603568.SS,Shanghai,Industrials
+1223,"Beijing Changjiu Logistics Co.,Ltd",603569.SS,Shanghai,Industrials
+1224,"Qingdao Huijintong Power Equipment Co.,Ltd.",603577.SS,Shanghai,Industrials
+1225,"Zhejiang Three Stars New Materials Co., Ltd.",603578.SS,Shanghai,Industrials
+1226,Shanghai Rongtai Health Technology Corporation Limited,603579.SS,Shanghai,Consumer Cyclical
+1227,"AA Industrial Belting (Shanghai) Co.,Ltd",603580.SS,Shanghai,Industrials
+1228,"Zhejiang Jiecang Linear Motion Technology Co.,Ltd.",603583.SS,Shanghai,Industrials
+1229,"Suli Co., Ltd.",603585.SS,Shanghai,Basic Materials
+1230,"Shandong Gold Phoenix Co.,Ltd",603586.SS,Shanghai,Consumer Cyclical
+1231,"Dazzle Fashion Co., Ltd",603587.SS,Shanghai,Consumer Cyclical
+1232,"Beijing GeoEnviron Engineering & Technology, Inc.",603588.SS,Shanghai,Industrials
+1233,"Anhui Kouzi Distillery Co., Ltd.",603589.SS,Shanghai,Consumer Defensive
+1234,"Beijing Konruns Pharmaceutical Co.,Ltd.",603590.SS,Shanghai,Healthcare
+1235,"Zhejiang Tony Electronic Co., Ltd",603595.SS,Shanghai,Industrials
+1236,"Bethel Automotive Safety Systems Co., Ltd",603596.SS,Shanghai,Consumer Cyclical
+1237,"Inly Media Co., Ltd.",603598.SS,Shanghai,Communication Services
+1238,"Anhui Guangxin Agrochemical Co., Ltd.",603599.SS,Shanghai,Basic Materials
+1239,"UE Furniture Co., Ltd.",603600.SS,Shanghai,Consumer Cyclical
+1240,"Chongqing Zaisheng Technology Co., Ltd.",603601.SS,Shanghai,Basic Materials
+1241,"Hangzhou Freely Communication Co., Ltd.",603602.SS,Shanghai,Communication Services
+1242,"Proya Cosmetics Co.,Ltd.",603605.SS,Shanghai,Consumer Defensive
+1243,"Ningbo Orient Wires & Cables Co.,Ltd.",603606.SS,Shanghai,Industrials
+1244,"Zhejiang Jinghua Laser Technology Co.,Ltd",603607.SS,Shanghai,Consumer Cyclical
+1245,"Topscore Fashion Co., Ltd.",603608.SS,Shanghai,Consumer Cyclical
+1246,"Wellhope Foods Co., Ltd.",603609.SS,Shanghai,Consumer Defensive
+1247,Keeson Technology Corporation Limited,603610.SS,Shanghai,Consumer Cyclical
+1248,"Noblelift Intelligent Equipment Co.,Ltd.",603611.SS,Shanghai,Industrials
+1249,"Sunstone Development Co., Ltd.",603612.SS,Shanghai,Basic Materials
+1250,"Beijing United Information Technology Co.,Ltd.",603613.SS,Shanghai,Technology
+1251,"Chahua Modern Housewares Co., Ltd.",603615.SS,Shanghai,Consumer Cyclical
+1252,"Beijing Hanjian Heshan Pipeline Co.,Ltd",603616.SS,Shanghai,Basic Materials
+1253,"Junhe Pumps Holding Co., Ltd",603617.SS,Shanghai,Industrials
+1254,"Hangzhou Cable Co., Ltd.",603618.SS,Shanghai,Industrials
+1255,"Zhongman Petroleum and Natural Gas Group Corp., Ltd.",603619.SS,Shanghai,Energy
+1256,"Kunshan Kersen Science & Technology Co.,Ltd.",603626.SS,Shanghai,Industrials
+1257,"Clenergy (Xiamen) Technology Co., Ltd.",603628.SS,Shanghai,Technology
+1258,"Jiangsu Lettall Electronic Co.,Ltd",603629.SS,Shanghai,Technology
+1259,"Lafang China Co.,Ltd",603630.SS,Shanghai,Consumer Defensive
+1260,"Shanghai Laimu Electronics Co.,Ltd.",603633.SS,Shanghai,Technology
+1261,"Linewell Software Co., Ltd.",603636.SS,Shanghai,Technology
+1262,"Zhenhai Petrochemical Engineering CO., LTD",603637.SS,Shanghai,Industrials
+1263,"Yantai Eddie Precision Machinery Co., Ltd.",603638.SS,Shanghai,Industrials
+1264,"Hailir Pesticides and Chemicals Group Co.,Ltd.",603639.SS,Shanghai,Basic Materials
+1265,"Shanghai Shine-Link International Logistics Co., Ltd.",603648.SS,Shanghai,Industrials
+1266,"Red Avenue New Materials Group Co., Ltd.",603650.SS,Shanghai,Basic Materials
+1267,"Changzhou Langbo Sealing Technologies Co.,Ltd.",603655.SS,Shanghai,Consumer Cyclical
+1268,"Hefei Taihe Optoelectronic Technology Co., Ltd.",603656.SS,Shanghai,Industrials
+1269,"Jinhua Chunguang Technology Co.,Ltd",603657.SS,Shanghai,Technology
+1270,"Autobio Diagnostics Co., Ltd.",603658.SS,Shanghai,Healthcare
+1271,"Shanghai Putailai New Energy Technology Co.,Ltd.",603659.SS,Shanghai,Basic Materials
+1272,"Suzhou Keda Technology Co.,Ltd",603660.SS,Shanghai,Technology
+1273,"Henglin Home Furnishings Co.,Ltd",603661.SS,Shanghai,Consumer Cyclical
+1274,"Keli Sensing Technology (Ningbo) Co.,Ltd.",603662.SS,Shanghai,Industrials
+1275,"Sanxiang Advanced Materials Co., Ltd.",603663.SS,Shanghai,Basic Materials
+1276,"ZheJiang KangLongDa Special Protection Technology Co., Ltd",603665.SS,Shanghai,Consumer Cyclical
+1277,"Yijiahe Technology Co., Ltd.",603666.SS,Shanghai,Industrials
+1278,"Zhejiang XCC Group Co.,Ltd",603667.SS,Shanghai,Industrials
+1279,"Fujian Tianma Science and Technology Group Co., Ltd",603668.SS,Shanghai,Consumer Defensive
+1280,"Lionco Pharmaceutical Group Co.,Ltd.",603669.SS,Shanghai,Healthcare
+1281,"Tibet Weixinkang Medicine Co., Ltd.",603676.SS,Shanghai,Healthcare
+1282,"Qijing Machinery Co., Ltd.",603677.SS,Shanghai,Consumer Cyclical
+1283,"Fujian Torch Electron Technology Co., Ltd.",603678.SS,Shanghai,Technology
+1284,"Sichuan Huati Lighting Technology Co.,Ltd.",603679.SS,Shanghai,Industrials
+1285,"KTK Group Co., Ltd.",603680.SS,Shanghai,Industrials
+1286,"Shanghai Yongguan Adhesive Products Corp., Ltd.",603681.SS,Shanghai,Basic Materials
+1287,"Shanghai Golden Union Business Management Co., Ltd.",603682.SS,Shanghai,Real Estate
+1288,"Shanghai Smith Adhesive New Material Co., Ltd",603683.SS,Shanghai,Basic Materials
+1289,"Zhejiang Chenfeng Technology Co., Ltd.",603685.SS,Shanghai,Industrials
+1290,"FULONGMA GROUP Co.,Ltd.",603686.SS,Shanghai,Industrials
+1291,"Zhejiang Great Shengda Packaging Co.,Ltd.",603687.SS,Shanghai,Basic Materials
+1292,"Jiangsu Pacific Quartz Co., Ltd",603688.SS,Shanghai,Basic Materials
+1293,"Anhui Province Natural Gas DevelopmentCo.,Ltd.",603689.SS,Shanghai,Energy
+1294,"PNC Process Systems Co., Ltd.",603690.SS,Shanghai,Industrials
+1295,"Jiangsu New Energy Development Co., Ltd.",603693.SS,Shanghai,Utilities
+1296,"Anji Foodstuff Co., Ltd",603696.SS,Shanghai,Consumer Defensive
+1297,"YouYou Foods Co., Ltd.",603697.SS,Shanghai,Consumer Defensive
+1298,"Changzheng Engineering Co.,LTD",603698.SS,Shanghai,Industrials
+1299,"Neway Valve (Suzhou) Co., Ltd.",603699.SS,Shanghai,Industrials
+1300,"Ningbo Water Meter (Group) Co., LTD.",603700.SS,Shanghai,Industrials
+1301,"Zhejiang Dehong Automotive Electronic & Electrical Co., Ltd.",603701.SS,Shanghai,Consumer Cyclical
+1302,"Zhejiang Shengyang Science and Technology Co., Ltd.",603703.SS,Shanghai,Technology
+1303,Xinjiang East Universe Gas Co.Ltd.,603706.SS,Shanghai,Utilities
+1304,"Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd",603707.SS,Shanghai,Healthcare
+1305,"Jiajiayue Group Co., Ltd.",603708.SS,Shanghai,Consumer Cyclical
+1306,"ZOY Home Furnishing Co.,Ltd",603709.SS,Shanghai,Consumer Cyclical
+1307,"XIANGPIAOPIAO Food Co.,Ltd",603711.SS,Shanghai,Consumer Defensive
+1308,"TianJin 712 Communication & Broadcasting Co., Ltd.",603712.SS,Shanghai,Technology
+1309,"Milkyway Chemical Supply Chain Service Co., Ltd.",603713.SS,Shanghai,Industrials
+1310,Thalys Medical Technology Group Inc.,603716.SS,Shanghai,Healthcare
+1311,"TianYu Eco-Environment Co., Ltd.",603717.SS,Shanghai,Industrials
+1312,"Shanghai Hile Bio-Technology Co., Ltd.",603718.SS,Shanghai,Healthcare
+1313,"Bestore Co.,Ltd",603719.SS,Shanghai,Consumer Defensive
+1314,"TVZone Media Co., Ltd.",603721.SS,Shanghai,Communication Services
+1315,"Wuxi Acryl Technology Co., Ltd.",603722.SS,Shanghai,Basic Materials
+1316,"Guangdong Tianan New Material Co., Ltd.",603725.SS,Shanghai,Basic Materials
+1317,"Zhejiang Langdi Group Co., Ltd.",603726.SS,Shanghai,Industrials
+1318,BOMESC Offshore Engineering Company Limited,603727.SS,Shanghai,Energy
+1319,"Shanghai MOONS' Electric Co.,Ltd.",603728.SS,Shanghai,Industrials
+1320,"Shanghai LongYun Media Group Co., Ltd.",603729.SS,Shanghai,Communication Services
+1321,"Shanghai Daimay Automotive Interior Co., Ltd",603730.SS,Shanghai,Consumer Cyclical
+1322,"Xianhe Co.,Ltd.",603733.SS,Shanghai,Basic Materials
+1323,"SKSHU Paint Co.,Ltd.",603737.SS,Shanghai,Basic Materials
+1324,"TKD Science and Technology Co.,Ltd.",603738.SS,Shanghai,Technology
+1325,Qingdao Vland Biotech INC.,603739.SS,Shanghai,Healthcare
+1326,"Qingdao Richen Foods Co., Ltd.",603755.SS,Shanghai,Consumer Defensive
+1327,"Zhejiang Dayuan Pumps Industry Co., Ltd",603757.SS,Shanghai,Industrials
+1328,Chongqing Qin'an M&E PLC.,603758.SS,Shanghai,Consumer Cyclical
+1329,"Haitian Water Group Co.,Ltd",603759.SS,Shanghai,
+1330,"Loncin Motor Co., Ltd.",603766.SS,Shanghai,Consumer Cyclical
+1331,"Zhejiang Zomax Transmission Co., Ltd.",603767.SS,Shanghai,Consumer Cyclical
+1332,Changqing Machinery Company Limited,603768.SS,Shanghai,Consumer Cyclical
+1333,"WG TECH (Jiang Xi) Co., Ltd.",603773.SS,Shanghai,Technology
+1334,"Youon Technology Co.,Ltd",603776.SS,Shanghai,Technology
+1335,"Shanghai Laiyifen Co.,Ltd",603777.SS,Shanghai,Consumer Defensive
+1336,"Beijing Qianjing Landscape Co.,Ltd",603778.SS,Shanghai,Industrials
+1337,"Wei Long Grape Wine Co., Ltd.",603779.SS,Shanghai,Consumer Defensive
+1338,"KEBODA TECHNOLOGY Co., Ltd.",603786.SS,Shanghai,Consumer Cyclical
+1339,"Jiangsu Xinri E-Vehicle Co., Ltd.",603787.SS,Shanghai,Consumer Cyclical
+1340,"Ningbo Gaofa Automotive Control System Co., Ltd.",603788.SS,Shanghai,Consumer Cyclical
+1341,"Thinker Agricultural Machinery Co., Ltd.",603789.SS,Shanghai,Industrials
+1342,"Argus (Shanghai) Textile Chemicals Co.,Ltd.",603790.SS,Shanghai,Basic Materials
+1343,"Guangdong Liantai Environmental Protection Co.,Ltd.",603797.SS,Shanghai,Industrials
+1344,Qingdao Copton Technology Company Limited,603798.SS,Shanghai,Basic Materials
+1345,"Zhejiang Huayou Cobalt Co., Ltd",603799.SS,Shanghai,Basic Materials
+1346,"Suzhou Douson Drilling & Production Equipment Co.,Ltd.",603800.SS,Shanghai,Energy
+1347,"Zbom Home Collection Co.,Ltd",603801.SS,Shanghai,Consumer Cyclical
+1348,"RAISECOM TECHNOLOGY CO.,Ltd.",603803.SS,Shanghai,Technology
+1349,"Hangzhou First Applied Material Co., Ltd.",603806.SS,Shanghai,Technology
+1350,"Shenzhen Ellassay Fashion Co.,Ltd.",603808.SS,Shanghai,Consumer Cyclical
+1351,"Chengdu Haoneng Technology Co., Ltd.",603809.SS,Shanghai,Consumer Cyclical
+1352,"Jiangsu Fengshan Group Co.,Ltd",603810.SS,Shanghai,Basic Materials
+1353,"Zhejiang Cheng Yi Pharmaceutical Co., Ltd.",603811.SS,Shanghai,Healthcare
+1354,"GuangDong GenSho Logistics Co.,LTD",603813.SS,Shanghai,Industrials
+1355,"Anhui Gourgen Traffic Construction Co.,Ltd.",603815.SS,Shanghai,Industrials
+1356,"Jason Furniture (Hangzhou) Co.,Ltd.",603816.SS,Shanghai,Consumer Cyclical
+1357,"Fujian Haixia Environmental Protection Group Co.,Ltd.",603817.SS,Shanghai,Utilities
+1358,"Qu Mei Home Furnishings Group Co.,Ltd",603818.SS,Shanghai,Consumer Cyclical
+1359,Changzhou Shenli Electrical Machine Incorporated Company,603819.SS,Shanghai,Industrials
+1360,"Zhejiang Jiaao Enprotech Stock Co., Ltd",603822.SS,Shanghai,Basic Materials
+1361,"Lily Group Co., Ltd.",603823.SS,Shanghai,Basic Materials
+1362,"Hylink Digital Solution Co., Ltd.",603825.SS,Shanghai,Communication Services
+1363,"Fujian Kuncai Material Technology Co., Ltd.",603826.SS,Shanghai,Basic Materials
+1364,"Suzhou Kelida Building& Decoration Co.,Ltd.",603828.SS,Shanghai,Industrials
+1365,"Jiangsu Luokai Mechanical &Electrical Co., Ltd .",603829.SS,Shanghai,Industrials
+1366,Oppein Home Group Inc.,603833.SS,Shanghai,Consumer Cyclical
+1367,"Bondex Supply Chain Management Co., Ltd.",603836.SS,Shanghai,Industrials
+1368,"Guang Dong Sitong Group Co.,Ltd",603838.SS,Shanghai,Consumer Cyclical
+1369,"Anzheng Fashion Group Co., Ltd.",603839.SS,Shanghai,Consumer Cyclical
+1370,"Zhengping Road & Bridge Construction Co.,Ltd.",603843.SS,Shanghai,Industrials
+1371,"Guangdong Hotata Technology Group Co.,Ltd.",603848.SS,Shanghai,Consumer Cyclical
+1372,Warom Technology Incorporated Company,603855.SS,Shanghai,Industrials
+1373,"Shandong Donghong Pipe Industry Co., Ltd.",603856.SS,Shanghai,Industrials
+1374,"Shandong Buchang Pharmaceuticals Co., Ltd.",603858.SS,Shanghai,Healthcare
+1375,"Nancal Technology Co.,Ltd",603859.SS,Shanghai,Industrials
+1376,"RoadMainT Co.,Ltd.",603860.SS,Shanghai,Industrials
+1377,"Guangzhou Baiyun Electric Equipment Co., Ltd.",603861.SS,Shanghai,Industrials
+1378,"GuangDong SongYang Recycle Resources CO.,LTD",603863.SS,Shanghai,Basic Materials
+1379,"Toly Bread Co.,Ltd.",603866.SS,Shanghai,Consumer Defensive
+1380,"Zhejiang Xinhua Chemical Co.,Ltd",603867.SS,Shanghai,Basic Materials
+1381,"Shanghai Flyco Electrical Appliance Co., Ltd.",603868.SS,Shanghai,Consumer Defensive
+1382,"ENC Digital Technology Co., Ltd",603869.SS,Shanghai,Technology
+1383,"Jiayou International Logistics Co.,Ltd",603871.SS,Shanghai,Industrials
+1384,"Jiangsu Dingsheng New Material Joint-Stock Co.,Ltd",603876.SS,Shanghai,Basic Materials
+1385,"Ningbo Peacebird Fashion Co.,Ltd.",603877.SS,Shanghai,Consumer Cyclical
+1386,"Jiangsu Wujin Stainless Steel Pipe Group CO.,LTD.",603878.SS,Shanghai,Basic Materials
+1387,"Yongyue Science&Technology Co.,Ltd",603879.SS,Shanghai,Basic Materials
+1388,"Jiangsu Nanfang Medical Co., Ltd.",603880.SS,Shanghai,Healthcare
+1389,"Shanghai AtHub Co.,Ltd.",603881.SS,Shanghai,Technology
+1390,"Guangzhou Kingmed Diagnostics Group Co., Ltd.",603882.SS,Shanghai,Healthcare
+1391,LBX Pharmacy Chain Joint Stock Company,603883.SS,Shanghai,Healthcare
+1392,"Juneyao Airlines Co., Ltd",603885.SS,Shanghai,Industrials
+1393,"Ganso Co., Ltd.",603886.SS,Shanghai,Consumer Defensive
+1394,"Shanghai CDXJ Digital Technology Co., Ltd.",603887.SS,Shanghai,Industrials
+1395,"Xinhuanet Co., Ltd.",603888.SS,Shanghai,Communication Services
+1396,Zhejiang Xinao Textiles Inc.,603889.SS,Shanghai,Consumer Cyclical
+1397,"Suzhou Chunqiu Electronic Technology Co., Ltd.",603890.SS,Shanghai,Industrials
+1398,"Rockchip Electronics Co., Ltd.",603893.SS,Shanghai,Technology
+1399,"Shanghai Tianyong Engineering Co., Ltd.",603895.SS,Shanghai,Industrials
+1400,"Zhejiang Shouxiangu Pharmaceutical Co., Ltd.",603896.SS,Shanghai,Healthcare
+1401,"Zhejiang grandwall electric science&technology co.,ltd.",603897.SS,Shanghai,Industrials
+1402,"Guangzhou Holike Creative Home Co.,Ltd.",603898.SS,Shanghai,Consumer Cyclical
+1403,Shanghai M&G Stationery Inc.,603899.SS,Shanghai,Industrials
+1404,Leysen Jewellery Inc.,603900.SS,Shanghai,Consumer Cyclical
+1405,"Hangzhou Youngsun Intelligent Equipment Co., Ltd.",603901.SS,Shanghai,Industrials
+1406,"CSD Water Service Co., Ltd.",603903.SS,Shanghai,Industrials
+1407,"Jiangsu Lopal Tech. Co., Ltd.",603906.SS,Shanghai,Energy
+1408,"Comefly Outdoor Co., Ltd.",603908.SS,Shanghai,Consumer Cyclical
+1409,"Holsin Engineering Consulting Group Co.,Ltd.",603909.SS,Shanghai,Industrials
+1410,"Nanjing Canatal Data-Centre Environmental Tech Co., Ltd",603912.SS,Shanghai,Industrials
+1411,"Jiangsu Guomao Reducer Co., Ltd.",603915.SS,Shanghai,Industrials
+1412,"Sobute New Materials Co., Ltd",603916.SS,Shanghai,Basic Materials
+1413,"Ningbo Heli Technology Co., Ltd.",603917.SS,Shanghai,Industrials
+1414,"Shanghai Golden Bridge Info Tech Co.,Ltd",603918.SS,Shanghai,Technology
+1415,"JINHUI LIQUOR Co.,Ltd.",603919.SS,Shanghai,Consumer Defensive
+1416,"Olympic Circuit Technology Co., Ltd",603920.SS,Shanghai,Technology
+1417,"Suzhou Jin Hong Shun Auto Parts Co., Ltd.",603922.SS,Shanghai,Consumer Cyclical
+1418,"Zhejiang Tieliu Clutch Co., Ltd.",603926.SS,Shanghai,Consumer Cyclical
+1419,"Sinosoft Co.,Ltd",603927.SS,Shanghai,Technology
+1420,"Suzhou Xingye Materials Technology Co.,Ltd.",603928.SS,Shanghai,Basic Materials
+1421,"L&K Engineering (Suzhou) Co.,Ltd.",603929.SS,Shanghai,Industrials
+1422,"Hangzhou Greenda Electronic Materials Co., Ltd.",603931.SS,Shanghai,Basic Materials
+1423,"Fujian Raynen Technology Co., Ltd.",603933.SS,Shanghai,Technology
+1424,"Bomin Electronics Co., Ltd.",603936.SS,Shanghai,Technology
+1425,"Jiangsu Lidao New Materials Co., Ltd.",603937.SS,Shanghai,Basic Materials
+1426,"Tangshan Sunfar Silicon Industries Co.,Ltd.",603938.SS,Shanghai,Basic Materials
+1427,"Yifeng Pharmacy Chain Co., Ltd.",603939.SS,Shanghai,Healthcare
+1428,"Zhejiang Jianye Chemical Co., Ltd.",603948.SS,Shanghai,Basic Materials
+1429,"Xuelong Group Co., Ltd.",603949.SS,Shanghai,
+1430,"Xiangyang Changyuandonggu Industry Co., Ltd.",603950.SS,Shanghai,Consumer Cyclical
+1431,"Daqian Ecology&Environment Group Co.,Ltd.",603955.SS,Shanghai,Industrials
+1432,"WPG (Shanghai) Smart Water Public Co., Ltd.",603956.SS,Shanghai,Industrials
+1433,"Harson Trading (China) Co.,Ltd.",603958.SS,Shanghai,Consumer Cyclical
+1434,"Hunan Baili Engineering Sci&Tech Co.,Ltd",603959.SS,Shanghai,Industrials
+1435,"Shanghai Kelai Mechatronics Engineering Co.,Ltd.",603960.SS,Shanghai,Industrials
+1436,"Dali Pharmaceuticalco.,Ltd",603963.SS,Shanghai,Healthcare
+1437,"Eurocrane (China) Co., Ltd.",603966.SS,Shanghai,Industrials
+1438,"China Master Logistics Co., Ltd.",603967.SS,Shanghai,Industrials
+1439,"Nantong Acetic Acid Chemical Co., Ltd.",603968.SS,Shanghai,Basic Materials
+1440,"SILVERY DRAGON PRESTRESSED MATERIALS CO., LTD. TIANJIN",603969.SS,Shanghai,Basic Materials
+1441,"Sino-Agri Leading Biosciences Co.,Ltd",603970.SS,Shanghai,Basic Materials
+1442,"ChongQing Zhengchuan Pharmaceutical Packaging Co.,Ltd.",603976.SS,Shanghai,Consumer Cyclical
+1443,"Jiangxi Guotai Group Co.,Ltd.",603977.SS,Shanghai,Basic Materials
+1444,"Shenzhen SunXing Light Alloys Materials Co.,Ltd.",603978.SS,Shanghai,Basic Materials
+1445,"JCHX Mining Management Co.,Ltd.",603979.SS,Shanghai,Basic Materials
+1446,"Zhejiang Jihua Group Co., Ltd.",603980.SS,Shanghai,Basic Materials
+1447,"Nanjing Chervon Auto Precision Technology Co., Ltd",603982.SS,Shanghai,Consumer Cyclical
+1448,"Guangdong Marubi Biotechnology Co., Ltd.",603983.SS,Shanghai,Consumer Defensive
+1449,"Jiangyin Hengrun Heavy Industries Co., Ltd",603985.SS,Shanghai,Industrials
+1450,GigaDevice Semiconductor (Beijing) Inc.,603986.SS,Shanghai,Technology
+1451,"Shanghai Kindly Enterprise Development Group Co.,LTD.",603987.SS,Shanghai,Healthcare
+1452,"SEC Electric Machinery Co., Ltd.",603988.SS,Shanghai,Industrials
+1453,"Hunan Aihua Group Co., Ltd",603989.SS,Shanghai,Technology
+1454,"Suzhou MedicalSystem Technology Co., Ltd.",603990.SS,Shanghai,Healthcare
+1455,"Shenzhen Original Advanced Compounds Co., Ltd.",603991.SS,Shanghai,Basic Materials
+1456,"Xiamen Solex High-tech Industries Co., Ltd.",603992.SS,Shanghai,Industrials
+1457,"China Molybdenum Co., Ltd.",603993.SS,Shanghai,Basic Materials
+1458,"Zhejiang Yongjin Metal Technology Co., Ltd",603995.SS,Shanghai,
+1459,"Ningbo Jifeng Auto Parts Co., Ltd.",603997.SS,Shanghai,Consumer Cyclical
+1460,"Hunan Fangsheng Pharmaceutical Co., Ltd.",603998.SS,Shanghai,Healthcare
+1461,"DuZhe Publish&Media Co.,Ltd",603999.SS,Shanghai,Communication Services
+1462,"Qingdao Victall Railway Co., Ltd.",605001.SS,Shanghai,Industrials
+1463,"ZhongWang Fabric Co., Ltd.",605003.SS,Shanghai,
+1464,"CWB Automotive Electronics Co., Ltd.",605005.SS,Shanghai,Industrials
+1465,"Shandong Fiberglass Group Co., Ltd",605006.SS,Shanghai,Consumer Cyclical
+1466,"Wuzhou Special Paper Group Co., Ltd.",605007.SS,Shanghai,
+1467,Ningbo Changhong Polymer Scientific and Technical Inc.,605008.SS,Shanghai,Basic Materials
+1468,"Hangzhou Haoyue Personal Care Co., Ltd",605009.SS,Shanghai,Consumer Defensive
+1469,"Hangzhou Cogeneration Group Co., Ltd.",605011.SS,Shanghai,Utilities
+1470,"Shandong Bailong Chuangyuan Bio-Tech Co., Ltd.",605016.SS,Shanghai,Consumer Defensive
+1471,"Zhejiang Changhua Auto Parts Co., Ltd.",605018.SS,Shanghai,Consumer Cyclical
+1472,"Zhejiang Yonghe Refrigerant Co., Ltd.",605020.SS,Shanghai,Basic Materials
+1473,"Ningbo Shimao Energy Co.,Ltd",605028.SS,Shanghai,
+1474,"Friend Co.,Ltd.",605050.SS,Shanghai,Basic Materials
+1475,"Zhejiang Yingfeng Technology Co., Ltd.",605055.SS,Shanghai,Consumer Cyclical
+1476,"Xianheng International Science&Technology Co., Ltd.",605056.SS,Shanghai,Industrials
+1477,"Changzhou Aohong Electronics Co., Ltd.",605058.SS,Shanghai,
+1478,"Allied Machinery Co., Ltd.",605060.SS,Shanghai,
+1479,"Zhejiang Tengen Electrics Co.,Ltd.",605066.SS,Shanghai,Technology
+1480,"Mingxin Automotive Leather Co., Ltd.",605068.SS,Shanghai,
+1481,"Zhejiang Huakang Pharmaceutical Co., Ltd.",605077.SS,Shanghai,Basic Materials
+1482,Zhejiang Natural Outdoor Goods Inc.,605080.SS,Shanghai,Consumer Cyclical
+1483,"Shanghai Taihe Water Environmental Technology Development Co.,Ltd.",605081.SS,Shanghai,Industrials
+1484,"Longyan Kaolin Clay Co., Ltd.",605086.SS,Shanghai,
+1485,"GSP Automotive Group Wenzhou Co.,Ltd.",605088.SS,Shanghai,Consumer Cyclical
+1486,"Suzhou Weizhixiang Food Co., Ltd.",605089.SS,Shanghai,Consumer Defensive
+1487,"Jiangxi Jovo Energy Co., Ltd",605090.SS,Shanghai,Energy
+1488,"Shanghai Action Education Technology CO.,LTD.",605098.SS,Shanghai,Consumer Defensive
+1489,"CoCreation Grass Co., Ltd",605099.SS,Shanghai,Basic Materials
+1490,"Power HF Co., Ltd.",605100.SS,Shanghai,Industrials
+1491,"Tongqinglou Catering Co., Ltd.",605108.SS,Shanghai,Industrials
+1492,"Wuxi NCE Power Co., Ltd.",605111.SS,Shanghai,Technology
+1493,"Aurisco Pharmaceutical Co.,Ltd.",605116.SS,Shanghai,Healthcare
+1494,"Ningbo Deye Technology Group Co., Ltd.",605117.SS,Shanghai,Consumer Cyclical
+1495,"Xiamen Leading Optics Co., Ltd.",605118.SS,Shanghai,Technology
+1496,"Chongqing Sifang New Material Co., Ltd.",605122.SS,Shanghai,Basic Materials
+1497,"Wuxi Paike New Materials Technology Co.,Ltd.",605123.SS,Shanghai,Industrials
+1498,"Shanghai Yanpu Metal Products Co.,Ltd",605128.SS,Shanghai,Consumer Cyclical
+1499,"Jiangsu Rongtai Industry Co., Ltd.",605133.SS,Shanghai,
+1500,"Shanghai Lily&Beauty Cosmetics Co.,Ltd.",605136.SS,Shanghai,Consumer Cyclical
+1501,"West Shanghai Automotive Service Co.,Ltd.",605151.SS,Shanghai,
+1502,"Zhejiang Xidamen New Material Co.,Ltd.",605155.SS,Shanghai,
+1503,"Zhejiang Huada New Materials Co., Ltd.",605158.SS,Shanghai,Basic Materials
+1504,"Zhejiang Xinzhonggang Thermal Power Co., LTD.",605162.SS,Shanghai,Utilities
+1505,"Hangzhou Juheshun New Material Co., Ltd.",605166.SS,Shanghai,Basic Materials
+1506,Jiangsu Libert INC.,605167.SS,Shanghai,Industrials
+1507,"Three's Company Media Group Co., Ltd.",605168.SS,Shanghai,Communication Services
+1508,"Xinjiang Hongtong Natural Gas Co., Ltd.",605169.SS,Shanghai,
+1509,"Zhejiang East Asia Pharmaceutical Co., Ltd.",605177.SS,Shanghai,
+1510,"Beijing New Space Technology Co., Ltd.",605178.SS,Shanghai,Industrials
+1511,"Zhejiang Yiming Food Co., Ltd.",605179.SS,Shanghai,
+1512,"ZheJiang HuaSheng Technology Co.,Ltd",605180.SS,Shanghai,Consumer Cyclical
+1513,"Quechen Silicon Chemical Co., Ltd.",605183.SS,Shanghai,
+1514,"Shanghai General Healthy Information and Technology Co., Ltd.",605186.SS,Shanghai,
+1515,"Jiangxi Guoguang Commercial Chains Co., Ltd.",605188.SS,Shanghai,Consumer Cyclical
+1516,"Wuhu Fuchun Dye and Weave Co.,Ltd.",605189.SS,Shanghai,Consumer Cyclical
+1517,"Hebei Huatong Wires and Cables Group Co., Ltd.",605196.SS,Shanghai,Industrials
+1518,"Yantai North Andre Juice Co.,Ltd.",605198.SS,Shanghai,Consumer Defensive
+1519,"Hainan Huluwa Pharmaceutical Group Co., Ltd.",605199.SS,Shanghai,Healthcare
+1520,"Shanghai Yongmaotai Automotive Technology Co., Ltd.",605208.SS,Shanghai,Consumer Cyclical
+1521,"Ways Electron Co.,Ltd.",605218.SS,Shanghai,Technology
+1522,"Shanghai QiFan Cable Co., Ltd",605222.SS,Shanghai,Industrials
+1523,"Shentong Technology Group Co., Ltd",605228.SS,Shanghai,Consumer Cyclical
+1524,"Ningbo TIP Rubber Technology Co., Ltd",605255.SS,Shanghai,Consumer Cyclical
+1525,"Jiangsu Xiehe Electronic Co.,Ltd.",605258.SS,Shanghai,
+1526,"Lutian Machinery Co., Ltd.",605259.SS,Shanghai,Industrials
+1527,"Yunnan Jianzhijia Health-Chain Co., Ltd.",605266.SS,Shanghai,Healthcare
+1528,"Wangli Security & Surveillance Product Co., Ltd",605268.SS,Shanghai,
+1529,"Xinya Electronic Co., Ltd.",605277.SS,Shanghai,Industrials
+1530,"Jiangsu Tongli Risheng Machinery Co., Ltd.",605286.SS,Shanghai,
+1531,"Decai Decoration CO.,LTD",605287.SS,Shanghai,Industrials
+1532,ChangZhou KAIDI Electrical Inc.,605288.SS,Shanghai,Industrials
+1533,Shanghai Luoman Lighting Technologies Inc.,605289.SS,Shanghai,
+1534,"Yunnan Shennong Agricultural Industry Group Co.,LTD.",605296.SS,Shanghai,Consumer Defensive
+1535,"Jiangsu Bide Science and Technology Co., Ltd.",605298.SS,Shanghai,
+1536,"Shuhua Sports Co., Ltd.",605299.SS,Shanghai,
+1537,"Jiahe Foods Industry Co., Ltd.",605300.SS,Shanghai,
+1538,Hangzhou Landscaping Incorporated,605303.SS,Shanghai,
+1539,"Ficont Industry (Beijing) Co., Ltd.",605305.SS,Shanghai,
+1540,Fsilon Furnishing and Construction Materials Corporation,605318.SS,Shanghai,Consumer Cyclical
+1541,"Wuxi Zhenhua Auto Parts Co., Ltd.",605319.SS,Shanghai,Consumer Cyclical
+1542,"Kunshan Huguang Auto Harness Co.,Ltd.",605333.SS,Shanghai,Consumer Cyclical
+1543,"Zhejiang Sanfer Electric Co., Ltd",605336.SS,Shanghai,
+1544,"Zhe Jiang Li Zi Yuan Food Co.,Ltd.",605337.SS,Shanghai,Consumer Defensive
+1545,"Zhongyin Babi Food Co., Ltd.",605338.SS,Shanghai,
+1546,"Namchow Food Group (Shanghai) Co., Ltd.",605339.SS,Shanghai,Consumer Defensive
+1547,"Hangzhou Lion Electronics Co.,Ltd",605358.SS,Shanghai,Technology
+1548,Leedarson IoT Technology Inc.,605365.SS,Shanghai,Technology
+1549,"Jiangxi Hungpai New Material Co., Ltd.",605366.SS,Shanghai,Basic Materials
+1550,"Henan Lantian Gas Co.,Ltd.",605368.SS,Shanghai,Utilities
+1551,"Zhejiang Gongdong Medical Technology Co.,Ltd.",605369.SS,Shanghai,Healthcare
+1552,"Jiangsu Boqian New Materials Stock Co., Ltd.",605376.SS,Shanghai,Basic Materials
+1553,"Hangzhou Huawang New Material Technology Co.,Ltd.",605377.SS,Shanghai,
+1554,"Zhejiang MustangBattery Co.,Ltd",605378.SS,Shanghai,Industrials
+1555,"Hubei Juneyao Health Drinks Co., Ltd",605388.SS,Shanghai,Consumer Defensive
+1556,"Jiangsu Changling Hydraulic Co., Ltd",605389.SS,Shanghai,
+1557,"Shanghai New Centurion Network Information Technology Co., Ltd.",605398.SS,Shanghai,Technology
+1558,"Jiang Xi Chenguang New Materials Co.,Ltd.",605399.SS,Shanghai,Basic Materials
+1559,"Zhejiang Fulai New Material Co.,Ltd.",605488.SS,Shanghai,Basic Materials
+1560,"Eastroc Beverage (Group) Co.,Ltd.",605499.SS,Shanghai,Consumer Defensive
+1561,"Forest Packaging Group Co.,Ltd.",605500.SS,Shanghai,
+1562,"Suzhou HYC Technology Co.,Ltd.",688001.SS,Shanghai,Technology
+1563,"Raytron Technology Co.,Ltd.",688002.SS,Shanghai,Technology
+1564,"Suzhou TZTEK Technology Co., Ltd",688003.SS,Shanghai,Industrials
+1565,"Beijing Bohui Science & Technology Co., Ltd.",688004.SS,Shanghai,Communication Services
+1566,"Ningbo Ronbay New Energy Technology Co., Ltd.",688005.SS,Shanghai,Technology
+1567,Zhejiang HangKe Technology Incorporated Company,688006.SS,Shanghai,Industrials
+1568,Appotronics Corporation Limited,688007.SS,Shanghai,Technology
+1569,"Montage Technology Co., Ltd.",688008.SS,Shanghai,Technology
+1570,China Railway Signal & Communication Corporation Limited,688009.SS,Shanghai,Industrials
+1571,"Fujian Forecam Optics Co., Ltd.",688010.SS,Shanghai,Consumer Cyclical
+1572,"Harbin Xinguang Optic-Electronics Technology Co.,Ltd.",688011.SS,Shanghai,Technology
+1573,Advanced Micro-Fabrication Equipment Inc. China,688012.SS,Shanghai,Technology
+1574,"Touchstone International Medical Science Co., Ltd.",688013.SS,Shanghai,Healthcare
+1575,"Traffic Control Technology Co., Ltd.",688015.SS,Shanghai,Technology
+1576,"Shanghai MicroPort Endovascular MedTech Co., Ltd.",688016.SS,Shanghai,Healthcare
+1577,"Leader Harmonious Drive Systems Co., Ltd.",688017.SS,Shanghai,Industrials
+1578,"Espressif Systems (Shanghai) Co., Ltd.",688018.SS,Shanghai,Technology
+1579,"Anji Microelectronics Technology (Shanghai) Co., Ltd.",688019.SS,Shanghai,Technology
+1580,"Guangzhou Fangbang Electronics Co.,Ltd",688020.SS,Shanghai,Technology
+1581,"Aofu Environmental Technology Co., Ltd.",688021.SS,Shanghai,Basic Materials
+1582,"Suzhou Harmontronics Automation Technology Co., Ltd",688022.SS,Shanghai,Industrials
+1583,"DBAPPSecurity Co., Ltd.",688023.SS,Shanghai,Technology
+1584,"Shenzhen JPT Opto-Electronics Co., Ltd.",688025.SS,Shanghai,
+1585,"Guangzhou Jet Bio-Filtration Co., Ltd.",688026.SS,Shanghai,Healthcare
+1586,"QuantumCTek Co., Ltd.",688027.SS,Shanghai,Technology
+1587,"Beijing Worldia Diamond Tools Co.,Ltd.",688028.SS,Shanghai,Industrials
+1588,"Micro-Tech (Nanjing) Co., Ltd.",688029.SS,Shanghai,Healthcare
+1589,"Hillstone Networks Co., Ltd.",688030.SS,Shanghai,Technology
+1590,"Beijing Tianyishangjia New Material Corp., Ltd.",688033.SS,Shanghai,Industrials
+1591,"Shenzhen Transsion Holdings Co., Ltd.",688036.SS,Shanghai,Technology
+1592,"KINGSEMI Co., Ltd.",688037.SS,Shanghai,
+1593,"Wuhan Citms Technology CO.,LTD.",688038.SS,Shanghai,Industrials
+1594,"Hangzhou Arcvideo Technology Co., Ltd.",688039.SS,Shanghai,
+1595,"Eyebright Medical Technology (Beijing) Co., Ltd.",688050.SS,Shanghai,Healthcare
+1596,"Rockontrol Technology Group Co., Ltd.",688051.SS,Shanghai,
+1597,"InfoVision Optoelectronics (Kunshan) Co., Ltd.",688055.SS,Shanghai,Technology
+1598,"Beijing Labtech Instruments Co., Ltd.",688056.SS,Shanghai,Technology
+1599,"Jiangxi JDL Environmental Protection Co., Ltd.",688057.SS,Shanghai,
+1600,Beijing Baolande Software Corporation,688058.SS,Shanghai,Technology
+1601,"Zhuzhou Huarui Precision Cutting Tools Co.,Ltd",688059.SS,Shanghai,Industrials
+1602,"Jiangsu Yunyong Electronics and Technology Co.,Ltd",688060.SS,Shanghai,
+1603,"Pylon Technologies Co., Ltd.",688063.SS,Shanghai,Industrials
+1604,Cathay Biotech Inc.,688065.SS,Shanghai,Basic Materials
+1605,"Piesat Information Technology Co., Ltd.",688066.SS,Shanghai,Technology
+1606,"AVE Science&Technology CO.,LTD",688067.SS,Shanghai,Healthcare
+1607,"Beijing Hotgen Biotech Co., Ltd.",688068.SS,Shanghai,Healthcare
+1608,"Wuxi Delinhai Environmental Technology Co., Ltd.",688069.SS,Shanghai,Industrials
+1609,"Chengdu JOUAV Automation Tech Co.,Ltd.",688070.SS,Shanghai,
+1610,"Sinopep-Allsino Bio Pharmaceutical Co.,Ltd.",688076.SS,Shanghai,Healthcare
+1611,"Earth-Panda Advanced Magnetic Material Co.,Ltd.",688077.SS,Shanghai,Industrials
+1612,Beijing LongRuan Technologies Inc.,688078.SS,Shanghai,
+1613,"Hangzhou MDK Opto Electronics Co., Ltd",688079.SS,Shanghai,
+1614,"Beijing InHand Networks Technology Co., Ltd.",688080.SS,Shanghai,Technology
+1615,"Wuhan Xingtu Xinke Electronics Co.,Ltd.",688081.SS,Shanghai,Technology
+1616,"Zwsoft Co.,Ltd.",688083.SS,Shanghai,Technology
+1617,"Shanghai Sanyou Medical Co., Ltd.",688085.SS,Shanghai,Healthcare
+1618,"Shandong Intco Recycling Resources Co., Ltd.",688087.SS,Shanghai,Industrials
+1619,ArcSoft Corporation Limited,688088.SS,Shanghai,Technology
+1620,"CABIO Biotech(Wuhan) Co., Ltd.",688089.SS,Shanghai,
+1621,"Guangzhou Risong Intelligent Technology Holding Co., Ltd.",688090.SS,Shanghai,Industrials
+1622,"Hangzhou IECHO Science & Technology Co., Ltd.",688092.SS,Shanghai,
+1623,"Suzhou Shihua New Material Technology Co., Ltd.",688093.SS,Shanghai,Basic Materials
+1624,"Fujian Foxit Software Development Joint Stock Co.,Ltd",688095.SS,Shanghai,Technology
+1625,"Jiangsu Jingyuan Environmental Protection Co., Ltd.",688096.SS,Shanghai,Utilities
+1626,"BOZHON Precision Industry Technology Co.,Ltd",688097.SS,Shanghai,Industrials
+1627,Shanghai Shen Lian Biomedical Corporation,688098.SS,Shanghai,Healthcare
+1628,"Amlogic (Shanghai) Co.,Ltd.",688099.SS,Shanghai,Technology
+1629,"Willfar Information Technology Co., Ltd.",688100.SS,Shanghai,Technology
+1630,"Suntar Environmental Technology Co., Ltd.",688101.SS,Shanghai,Utilities
+1631,"Suzhou Jinhong Gas Co.,Ltd.",688106.SS,Shanghai,Basic Materials
+1632,Sino Medical Sciences Technology Inc.,688108.SS,Shanghai,Healthcare
+1633,"Hangzhou Pinming Software Co., Ltd",688109.SS,Shanghai,Technology
+1634,"Beijing Kingsoft Office Software, Inc.",688111.SS,Shanghai,Technology
+1635,"Jiangsu Liance Electromechanical Technology Co., Ltd.",688113.SS,Shanghai,
+1636,"Jiangsu Cnano Technology Co., Ltd.",688116.SS,Shanghai,Technology
+1637,"ChengDu ShengNuo Biotec Co.,Ltd.",688117.SS,Shanghai,Healthcare
+1638,"Primeton Information Technologies, Inc.",688118.SS,Shanghai,
+1639,"Western Superconducting Technologies Co., Ltd.",688122.SS,Shanghai,Industrials
+1640,Giantec Semiconductor Corporation,688123.SS,Shanghai,
+1641,"National Silicon Industry Group Co., Ltd.",688126.SS,Shanghai,Technology
+1642,"Zhejiang Lante Optics Co., Ltd.",688127.SS,Shanghai,Technology
+1643,"China National Electric Apparatus Research Institute Co., Ltd.",688128.SS,Shanghai,Industrials
+1644,"Donglai Coating Technology (Shanghai) Co., Ltd.",688129.SS,Shanghai,
+1645,"Shanghai Haoyuan Chemexpress Co., Ltd.",688131.SS,Shanghai,Healthcare
+1646,"Shanghai Titan Scientific Co.,Ltd.",688133.SS,Shanghai,
+1647,"Guangdong Leadyo IC Testing Co., Ltd.",688135.SS,Shanghai,
+1648,"Shandong Kexing Bioproducts Co,.Ltd",688136.SS,Shanghai,
+1649,Shenzhen Qingyi Photomask Limited,688138.SS,Shanghai,Technology
+1650,"Qingdao Haier Biomedical Co., Ltd.",688139.SS,Shanghai,Healthcare
+1651,"Shanghai SK Automation Technology Co., Ltd.",688155.SS,Shanghai,Industrials
+1652,"Road Environment Technology.,Ltd",688156.SS,Shanghai,Utilities
+1653,"Hunan Sokan New Materials Co., Ltd.",688157.SS,Shanghai,Basic Materials
+1654,"UCloud Technology Co., Ltd.",688158.SS,Shanghai,Technology
+1655,"Shenzhen Neoway Technology Co.,Ltd.",688159.SS,Shanghai,Technology
+1656,"Kinco Automation (Shanghai) Co.,Ltd",688160.SS,Shanghai,
+1657,"Shandong Weigao Orthopaedic Device Co., Ltd.",688161.SS,Shanghai,Healthcare
+1658,"EFORT Intelligent Equipment Co., Ltd.",688165.SS,Shanghai,Industrials
+1659,"BrightGene Bio-Medical Technology Co., Ltd.",688166.SS,Shanghai,Healthcare
+1660,"BeijingABT Networks Co.,Ltd.",688168.SS,Shanghai,
+1661,"Beijing Roborock Technology Co., Ltd.",688169.SS,Shanghai,Industrials
+1662,"Bio-Thera Solutions, Ltd.",688177.SS,Shanghai,Healthcare
+1663,"Nanjing Wondux Environmental Protection Technology Corp., Ltd.",688178.SS,Shanghai,Industrials
+1664,"Shanghai Aladdin Biochemical Technology Co.,Ltd",688179.SS,Shanghai,
+1665,"Shanghai Junshi Biosciences Co., Ltd.",688180.SS,Shanghai,
+1666,"Beijing Bayi Space LCD Technology Co., Ltd.",688181.SS,Shanghai,Technology
+1667,"Shengyi Electronics Co., Ltd.",688183.SS,Shanghai,
+1668,CanSino Biologics Inc.,688185.SS,Shanghai,
+1669,"Zhangjiagang Guangda Special Material Co., Ltd.",688186.SS,Shanghai,Basic Materials
+1670,Shanghai Friendess Electronic Technology Corporation Limited,688188.SS,Shanghai,Technology
+1671,"Hunan Nucien Pharmaceutical Co., Ltd.",688189.SS,Shanghai,
+1672,"Zhiyang Innovation Technology Co., Ltd.",688191.SS,Shanghai,Industrials
+1673,"Optowide Technologies Co., Ltd.",688195.SS,Shanghai,Technology
+1674,"Longyan Zhuoyue New Energy Co., Ltd.",688196.SS,Shanghai,Basic Materials
+1675,"Beijing Balance Medical Technology Co.,Ltd.",688198.SS,Shanghai,
+1676,"Tianjin Jiuri New Materials Co., Ltd.",688199.SS,Shanghai,Basic Materials
+1677,"Beijing Huafeng Test & Control Technology Co., Ltd.",688200.SS,Shanghai,Technology
+1678,"Beijing Infosec Technologies Co.,Ltd.",688201.SS,Shanghai,Technology
+1679,Shanghai Medicilon Inc.,688202.SS,Shanghai,Healthcare
+1680,"Autel Intelligent Technology Corp., Ltd.",688208.SS,Shanghai,Consumer Cyclical
+1681,"Zhejiang Risun Intelligent Technology Co.,Ltd",688215.SS,Shanghai,Industrials
+1682,"China Chippacking Technology Co.,Ltd.",688216.SS,Shanghai,Technology
+1683,"Shanghai Rightongene Biotechnology Co., Ltd.",688217.SS,Shanghai,Healthcare
+1684,"Jiangsu Beiren Robot System Co., Ltd",688218.SS,Shanghai,
+1685,"Orinko Advanced Plastics Co.,LTD.",688219.SS,Shanghai,
+1686,Frontier Biotechnologies Inc.,688221.SS,Shanghai,
+1687,HitGen Inc.,688222.SS,Shanghai,Healthcare
+1688,"Wetown Electric Group Co., Ltd.",688226.SS,Shanghai,Industrials
+1689,"UCAP Cloud Information Technology Co.,Ltd.",688228.SS,Shanghai,
+1690,"Bonree Data Technology Co., Ltd",688229.SS,Shanghai,Technology
+1691,Thinkon Semiconductor Jinzhou Corp.,688233.SS,Shanghai,Technology
+1692,"Guizhou Aviation Technical Development Co., Ltd",688239.SS,Shanghai,Industrials
+1693,Cambricon Technologies Corporation Limited,688256.SS,Shanghai,Technology
+1694,"Jiangsu Eazytec Co., Ltd.",688258.SS,Shanghai,
+1695,"Suzhou Gyz Electronic Technology Co.,Ltd",688260.SS,Shanghai,Technology
+1696,"Suzhou Zelgen Biopharmaceuticals Co., Ltd.",688266.SS,Shanghai,Healthcare
+1697,"Guangdong Huate Gas Co., Ltd",688268.SS,Shanghai,
+1698,"Kaili Catalyst & New Materials Co.,Ltd.",688269.SS,Shanghai,
+1699,Changchun BCHT Biotechnology Co.,688276.SS,Shanghai,
+1700,"TINAVI Medical Technologies Co., Ltd.",688277.SS,Shanghai,Healthcare
+1701,"Xiamen Amoytop Biotech Co., Ltd.",688278.SS,Shanghai,Healthcare
+1702,"MEMSensing Microsystems (Suzhou, China) Co., Ltd.",688286.SS,Shanghai,
+1703,"Hangzhou Hopechart IoT Technology Co.,Ltd",688288.SS,Shanghai,Technology
+1704,Sansure Biotech Inc.,688289.SS,Shanghai,Healthcare
+1705,"Zhejiang Orient Gene Biotech Co., Ltd.",688298.SS,Shanghai,Healthcare
+1706,"Ningbo Solartron Technology Co.,Ltd.",688299.SS,Shanghai,Basic Materials
+1707,Novoray Corporation,688300.SS,Shanghai,Basic Materials
+1708,iRay Technology Company Limited,688301.SS,Shanghai,Healthcare
+1709,"Xinjiang Daqo New Energy Co.,Ltd.",688303.SS,Shanghai,Industrials
+1710,"KEDE Numerical Control Co., Ltd.",688305.SS,Shanghai,Industrials
+1711,"OKE Precision Cutting Tools Co., Ltd.",688308.SS,Shanghai,
+1712,Maider Medical Industry Equipment Co. Ltd.,688310.SS,Shanghai,
+1713,"Chengdu M&S Electronics Technology Co.,Ltd.",688311.SS,Shanghai,
+1714,Shenzhen Yanmade Technology Inc.,688312.SS,Shanghai,Industrials
+1715,"Henan Shijia Photons Technology Co., Ltd.",688313.SS,Shanghai,Technology
+1716,"Kontour (Xi'an) Medical Technology Co., Ltd.",688314.SS,Shanghai,
+1717,"Novogene Co., Ltd.",688315.SS,Shanghai,Healthcare
+1718,"Beijing Qingyun Technology Co., Ltd.",688316.SS,Shanghai,Technology
+1719,"Shanghai ZJ Bio-Tech Co., Ltd.",688317.SS,Shanghai,Healthcare
+1720,"Shenzhen Fortune Trend technology Co., Ltd.",688318.SS,Shanghai,Technology
+1721,Chengdu Olymvax Biopharmaceuticals Inc.,688319.SS,Shanghai,Healthcare
+1722,"Shenzhen Chipscreen Biosciences Co., Ltd.",688321.SS,Shanghai,Healthcare
+1723,"Rayitek Hi-Tech Film Company Ltd., Shenzhen",688323.SS,Shanghai,
+1724,"Shenzhen S-king Intelligent Equipment Co., Ltd.",688328.SS,Shanghai,
+1725,"Suzhou Iron Technology CO.,LTD.",688329.SS,Shanghai,Healthcare
+1726,"Shanghai Holystar Information Technology Co., Ltd.",688330.SS,Shanghai,
+1727,"Xi'an Bright Laser Technologies Co.,Ltd.",688333.SS,Shanghai,Industrials
+1728,"Shanghai CEO Environmental Protection Technology Co., Ltd",688335.SS,Shanghai,Industrials
+1729,"Sunshine Guojian Pharmaceutical (Shanghai) Co., Ltd",688336.SS,Shanghai,
+1730,Beijing Succeeder Technology Inc.,688338.SS,Shanghai,Healthcare
+1731,"Beijing SinoHytec Co., Ltd.",688339.SS,Shanghai,
+1732,"Guangdong Greenway Technology Co., Ltd.",688345.SS,Shanghai,Industrials
+1733,"Jiangsu Feymer Technology Co., Ltd.",688350.SS,Shanghai,Basic Materials
+1734,"Suzhou Mingzhi Technology Co., Ltd.",688355.SS,Shanghai,Industrials
+1735,"Jenkem Technology Co., Ltd.",688356.SS,Shanghai,Basic Materials
+1736,"Luoyang Jianlong Micro-nano New Material Co., Ltd",688357.SS,Shanghai,
+1737,"Chison Medical Technologies Co., Ltd.",688358.SS,Shanghai,
+1738,"Guangzhou Sanfu New Materials Technology Co.,Ltd",688359.SS,Shanghai,Basic Materials
+1739,"Damon Technology Group Co.,Ltd.",688360.SS,Shanghai,Industrials
+1740,Bloomage BioTechnology Corporation Limited,688363.SS,Shanghai,Basic Materials
+1741,"Hangzhou Raycloud Technology Co., Ltd.",688365.SS,Shanghai,Technology
+1742,"Shanghai Haohai Biological Technology Co., Ltd.",688366.SS,Shanghai,Healthcare
+1743,"Hefei Gocom Information Technology Co.,Ltd.",688367.SS,Shanghai,Industrials
+1744,"Shanghai Bright Power Semiconductor Co., Ltd.",688368.SS,Shanghai,Technology
+1745,BeiJing Seeyon Internet Software Corp.,688369.SS,Shanghai,Technology
+1746,"Nanjing Develop Advanced Manufacturing Co., Ltd.",688377.SS,Shanghai,Energy
+1747,"Jilin OLED Material Tech Co., Ltd.",688378.SS,Shanghai,Basic Materials
+1748,"Hangzhou Huaguang Advanced Welding Materials Co., Ltd.",688379.SS,Shanghai,Industrials
+1749,"Shenzhen Xinyichang Technology Co., Ltd.",688383.SS,Shanghai,Technology
+1750,Pan Asian Microvent Tech (Jiangsu) Corporation,688386.SS,Shanghai,
+1751,"Guangdong Jiayuan Technology Co.,Ltd.",688388.SS,Shanghai,Basic Materials
+1752,"Shenzhen Lifotronic Technology Co., Ltd.",688389.SS,Shanghai,
+1753,"Jiangsu Goodwe Power Supply Technology Co., Ltd",688390.SS,Shanghai,Technology
+1754,"Guangzhou LBP Medicine Science & Technology Co., Ltd.",688393.SS,Shanghai,Healthcare
+1755,"Shenzhen Sine Electric Co.,Ltd.",688395.SS,Shanghai,
+1756,China Resources Microelectronics Limited,688396.SS,Shanghai,Technology
+1757,"Fujian Supertech Advanced Material Co., Ltd.",688398.SS,Shanghai,Basic Materials
+1758,"Jiangsu Bioperfectus Technologies Co., Ltd.",688399.SS,Shanghai,Healthcare
+1759,"Arctech Solar Holding Co., Ltd.",688408.SS,Shanghai,Technology
+1760,"Genew Technologies Co.,Ltd.",688418.SS,Shanghai,
+1761,China Railway Construction Heavy Industry Corporation Limited,688425.SS,Shanghai,Industrials
+1762,"GRIPM Advanced Materials Co., Ltd.",688456.SS,Shanghai,
+1763,"GreenTech Environmental Co., Ltd.",688466.SS,Shanghai,Utilities
+1764,"Chemclin Diagnostics Co., Ltd.",688468.SS,Shanghai,Healthcare
+1765,"Jiangsu Aidea Pharmaceutical Co., Ltd.",688488.SS,Shanghai,Healthcare
+1766,"Guangdong Lyric Robot Automation Co., Ltd.",688499.SS,Shanghai,Industrials
+1767,"HCR Co., Ltd",688500.SS,Shanghai,Technology
+1768,"Qingdao Daneng Environmental Protection Equipment Co., Ltd.",688501.SS,Shanghai,Industrials
+1769,"Shanghai Fudan-Zhangjiang Bio-Pharmaceutical Co.,Ltd.",688505.SS,Shanghai,Healthcare
+1770,Wuxi Chipown Micro-electronics limited,688508.SS,Shanghai,Technology
+1771,WUXIHYATECH Co.Ltd,688510.SS,Shanghai,
+1772,"Chengdu Easton Biopharmaceuticals Co., Ltd.",688513.SS,Shanghai,Healthcare
+1773,"Wuxi Autowell Technology Co.,Ltd.",688516.SS,Shanghai,Industrials
+1774,"JinGuan Electric Co., Ltd.",688517.SS,Shanghai,Industrials
+1775,"Shenzhen United Winners Laser Co., Ltd.",688518.SS,Shanghai,Industrials
+1776,"Nanya New Material Technology Co.,Ltd",688519.SS,Shanghai,
+1777,Sinocelltech Group Limited,688520.SS,Shanghai,Healthcare
+1778,"VeriSilicon Microelectronics (Shanghai) Co., Ltd.",688521.SS,Shanghai,Technology
+1779,"Wuhan Keqian Biology Co.,Ltd",688526.SS,Shanghai,Healthcare
+1780,"Chengdu Qinchuan IoT Technology Co., Ltd.",688528.SS,Shanghai,Technology
+1781,"Dalian Haosen Equipment Manufacturing Co., Ltd.",688529.SS,Shanghai,
+1782,"Suzhou Sonavox Electronics Co., Ltd.",688533.SS,Shanghai,Consumer Cyclical
+1783,3Peak Incorporated,688536.SS,Shanghai,Technology
+1784,"Everdisplay Optronics (Shanghai) Co., Ltd.",688538.SS,Shanghai,Technology
+1785,"Xi'an Manareco New Materials Co.,Ltd",688550.SS,Shanghai,
+1786,"Hefei Kewell Power System Co.,Ltd.",688551.SS,Shanghai,Technology
+1787,"Essence Information Technology Co., Ltd.",688555.SS,Shanghai,Healthcare
+1788,"Qingdao Gaoce Technology Co., Ltd",688556.SS,Shanghai,Industrials
+1789,"BlueSword Intelligent Technology Co.,Ltd.",688557.SS,Shanghai,
+1790,"Nantong Guosheng Intelligence Technology Group Co., Ltd.",688558.SS,Shanghai,Industrials
+1791,"Shenzhen Hymson Laser Intelligent Equipments Co., Ltd.",688559.SS,Shanghai,Industrials
+1792,"Crown Advanced Material Co., Ltd.",688560.SS,Shanghai,
+1793,Qi An Xin Technology Group Inc.,688561.SS,Shanghai,Technology
+1794,"Zhejiang Haiyan Power System Resources Environmental Technology Co.,Ltd.",688565.SS,Shanghai,Industrials
+1795,"Jiangsu Jibeier Pharmaceutical Co., Ltd.",688566.SS,Shanghai,Healthcare
+1796,"Farasis Energy (Gan Zhou) Co., Ltd.",688567.SS,Shanghai,Consumer Cyclical
+1797,"Geovis Technology Co.,Ltd",688568.SS,Shanghai,Technology
+1798,"Beijing Tieke Shougang Rail Way-Tech Co., Ltd.",688569.SS,Shanghai,Industrials
+1799,"Hangzhou Toka Ink Co., Ltd.",688571.SS,Shanghai,
+1800,"Shenzhen YHLO Biotech Co., Ltd.",688575.SS,Shanghai,Healthcare
+1801,"Zhe Jiang Headman Machinery Co.,Ltd.",688577.SS,Shanghai,Industrials
+1802,"Shanghai Allist Pharmaceuticals Co., Ltd.",688578.SS,Shanghai,
+1803,"Dareway Software Co.,Ltd.",688579.SS,Shanghai,Technology
+1804,"Nanjing Vishee Medical Technology Co., Ltd",688580.SS,Shanghai,Healthcare
+1805,"Swancor Advanced Materials Co., Ltd.",688585.SS,Shanghai,Basic Materials
+1806,Hefei Jianghang Aircraft Equipment Corporation Ltd.,688586.SS,Shanghai,Industrials
+1807,"Linkage Software Co., LTD",688588.SS,Shanghai,Technology
+1808,Leaguer (Shenzhen) Microelectronics Corp.,688589.SS,Shanghai,Technology
+1809,"Shanghai Newtouch Software Co., Ltd.",688590.SS,Shanghai,
+1810,Chipsea Technologies (shenzhen) Corp.,688595.SS,Shanghai,Technology
+1811,"Shanghai GenTech Co., Ltd.",688596.SS,Shanghai,Industrials
+1812,"Beijing Yupont Electric Power Technology Co., Ltd.",688597.SS,Shanghai,Industrials
+1813,"KBC Corporation, Ltd.",688598.SS,Shanghai,Basic Materials
+1814,"Trina Solar Co., Ltd",688599.SS,Shanghai,
+1815,"AnHui Wanyi Science and Technology Co., Ltd.",688600.SS,Shanghai,Technology
+1816,"Wuxi ETEK Microelectronics Co.,Ltd.",688601.SS,Shanghai,Technology
+1817,"Hangzhou Alltest Biotech Co., Ltd.",688606.SS,Shanghai,Healthcare
+1818,"CareRay Digital Medical Technology Co., Ltd.",688607.SS,Shanghai,Healthcare
+1819,"Bestechnic (Shanghai) Co., Ltd.",688608.SS,Shanghai,
+1820,"Unionman Technology Co., Ltd.",688609.SS,Shanghai,Technology
+1821,"Hangzhou Kelin Electric Co., Ltd.",688611.SS,Shanghai,Industrials
+1822,"Allgens Medical Technology CO., LTD.",688613.SS,Shanghai,Healthcare
+1823,"Hangzhou Xili Intelligent Technology Co.,Ltd",688616.SS,Shanghai,Industrials
+1824,APT Medical Inc.,688617.SS,Shanghai,Healthcare
+1825,"3onedata Co., Ltd.",688618.SS,Shanghai,
+1826,"ROPEOK Technology Group Co.,Ltd.",688619.SS,Shanghai,Technology
+1827,"Beijing Sun-Novo Pharmaceutical Research Co., Ltd.",688621.SS,Shanghai,Healthcare
+1828,"GCH Technology Co., Ltd.",688625.SS,Shanghai,Basic Materials
+1829,"Xiangyu Medical Co.,Ltd",688626.SS,Shanghai,Healthcare
+1830,"Uni-Trend Technology (China) Co., Ltd.",688628.SS,Shanghai,
+1831,"Circuit Fabology Microelectronics Equipment Co.,Ltd.",688630.SS,Shanghai,Technology
+1832,"Nantong Xingqiu Graphite Co.,Ltd.",688633.SS,Shanghai,Industrials
+1833,"Chengdu Zhimingda Electronics Co., Ltd.",688636.SS,Shanghai,Technology
+1834,"Anhui Huaheng Biotechnology Co., Ltd.",688639.SS,Shanghai,Healthcare
+1835,Shenzhen Xunjiexing Technology Corp. Ltd.,688655.SS,Shanghai,Technology
+1836,"HOB Biotech Group Corp.,Ltd",688656.SS,Shanghai,Healthcare
+1837,"Youcare Pharmaceutical Group Co., Ltd.",688658.SS,Shanghai,
+1838,"Anhui Yuanchen Environmental Protection Science&Technology Co.,Ltd.",688659.SS,Shanghai,Industrials
+1839,"Shanghai Electric Wind Power Group Co., Ltd.",688660.SS,Shanghai,Utilities
+1840,"Suzhou UIGreen Micro&Nano Technologies Co.,Ltd",688661.SS,Shanghai,Technology
+1841,"Guangdong Fuxin Technology Co., Ltd.",688662.SS,Shanghai,Technology
+1842,"WindSun Science&Technology Co.,Ltd.",688663.SS,Shanghai,Industrials
+1843,"Cubic Sensor and Instrument Co., Ltd",688665.SS,Shanghai,Technology
+1844,"Wuhan Lincontrol Automotive Electronics Co., Ltd.",688667.SS,Shanghai,
+1845,"Dongguan Dingtong Precision Metal Co., Ltd.",688668.SS,Shanghai,
+1846,"Polyrocks Chemical Co., Ltd",688669.SS,Shanghai,Basic Materials
+1847,"Hainan Jinpan Smart Technology Co., Ltd.",688676.SS,Shanghai,Industrials
+1848,"Qingdao NovelBeam Technology Co.,Ltd.",688677.SS,Shanghai,
+1849,"Freewon China Co.,Ltd.",688678.SS,Shanghai,
+1850,"Anhui Tongyuan Environment Energy Saving Co.,Ltd",688679.SS,Shanghai,
+1851,"Shanghai HIUV New Materials Co.,Ltd",688680.SS,Shanghai,Industrials
+1852,"Shandong Kehui Power Automation Co.,Ltd.",688681.SS,Shanghai,Industrials
+1853,"Shanghai Hollywave Electronic System Co., Ltd.",688682.SS,Shanghai,Technology
+1854,"GuangDong Leary New Material Technology Co.,Ltd",688683.SS,Shanghai,Basic Materials
+1855,Jiangsu Maixinlin Aviation Science and Technology Corp.,688685.SS,Shanghai,Industrials
+1856,"OPT Machine Vision Tech Co., Ltd.",688686.SS,Shanghai,
+1857,"Beijing Kawin Technology Share-Holding Co., Ltd.",688687.SS,Shanghai,Healthcare
+1858,"Changzhou Galaxy Century Microelectronics Co.,Ltd.",688689.SS,Shanghai,Technology
+1859,"Suzhou Nanomicro Technology Co., Ltd.",688690.SS,Shanghai,Basic Materials
+1860,"Chengdu Xgimi Technology Co.,Ltd.",688696.SS,Shanghai,Technology
+1861,"Suzhou Veichi Electric Co., Ltd.",688698.SS,Shanghai,
+1862,"Shenzhen Sunmoon Microelectronics Co., Ltd",688699.SS,Shanghai,Technology
+1863,"Kunshan Dongwei Technology Co.,Ltd.",688700.SS,Shanghai,Industrials
+1864,Anhui Ronds Science & Technology Incorporated Company,688768.SS,Shanghai,Technology
+1865,"Zhejiang Supcon Technology Co., Ltd.",688777.SS,Shanghai,Industrials
+1866,"ShenZhen Consys Science&Technology Co., Ltd.",688788.SS,Shanghai,
+1867,Hangzhou Honghua Digital Technology Stock Company LTD.,688789.SS,Shanghai,Industrials
+1868,"Shenzhen Breo Technology Co., Ltd.",688793.SS,Shanghai,
+1869,"Hunan Warrant Pharmaceutical Co.,Ltd.",688799.SS,Shanghai,
+1870,"Suzhou Recodeal Interconnect System Co.,Ltd",688800.SS,Shanghai,Industrials
+1871,"Tianneng Battery Group Co., Ltd.",688819.SS,Shanghai,Consumer Cyclical
+1872,Semiconductor Manufacturing International Corporation,688981.SS,Shanghai,
+1873,Ninebot Limited,689009.SS,Shanghai,
+1874,INESA Intelligent Tech Inc.,900901.SS,Shanghai,Technology
+1875,"Shanghai Shibei Hi-Tech Co.,Ltd.",900902.SS,Shanghai,Real Estate
+1876,"Dazhong Transportation (Group) Co., Ltd.",900903.SS,Shanghai,Industrials
+1877,"Shanghai Shenqi Pharmaceutical Investment Management Co., Ltd.",900904.SS,Shanghai,Healthcare
+1878,"Lao Feng Xiang Co., Ltd.",900905.SS,Shanghai,Consumer Cyclical
+1879,"Shanghai Zhongyida Co., Ltd.",900906.SS,Shanghai,Basic Materials
+1880,"Shanghai Chlor-Alkali Chemical Co., Ltd.",900908.SS,Shanghai,Basic Materials
+1881,Shanghai Huayi Group Corporation Limited,900909.SS,Shanghai,Basic Materials
+1882,"Shanghai Highly (Group) Co., Ltd.",900910.SS,Shanghai,Industrials
+1883,"Shanghai Jinqiao Export Processing Zone Development Co.,Ltd",900911.SS,Shanghai,Real Estate
+1884,"Shanghai Waigaoqiao Free Trade Zone Group Co., Ltd.",900912.SS,Shanghai,Industrials
+1885,Shanxi Guoxin Energy Corporation Limited,900913.SS,Shanghai,Energy
+1886,"Shanghai Jin Jiang Online Network Service Co., Ltd.",900914.SS,Shanghai,Industrials
+1887,"Zhonglu.Co.,Ltd",900915.SS,Shanghai,Consumer Cyclical
+1888,"Shanghai Phoenix Enterprise (Group) Co., Ltd.",900916.SS,Shanghai,Consumer Cyclical
+1889,"Shanghai Haixin Group Co., Ltd.",900917.SS,Shanghai,Industrials
+1890,"Shanghai Yaohua Pilkington Glass Group Co., Ltd.",900918.SS,Shanghai,Basic Materials
+1891,Shanghai New Power Automotive Technology Company Limited,900920.SS,Shanghai,Industrials
+1892,"Danhua Chemical Technology Co.,Ltd",900921.SS,Shanghai,Basic Materials
+1893,"Shanghai Sanmao Enterprise (Group) Co., Ltd.",900922.SS,Shanghai,Consumer Cyclical
+1894,"Shanghai Bailian (Group) Co., Ltd.",900923.SS,Shanghai,Consumer Cyclical
+1895,"Shang Gong Group Co., Ltd.",900924.SS,Shanghai,Industrials
+1896,"Shanghai Mechanical & Electrical Industry Co.,Ltd.",900925.SS,Shanghai,Industrials
+1897,"Shanghai Baosight Software Co.,Ltd.",900926.SS,Shanghai,Technology
+1898,"Shanghai Material Trading Co., Ltd.",900927.SS,Shanghai,Industrials
+1899,"Shanghai Lingang Holdings Co.,Ltd.",900928.SS,Shanghai,Real Estate
+1900,"Shanghai Jinjiang International Travel Co., Ltd.",900929.SS,Shanghai,Consumer Cyclical
+1901,"Shanghai Lujiazui Finance & Trade Zone Development Co., Ltd.",900932.SS,Shanghai,Real Estate
+1902,"Shanghai Jin Jiang International Hotels Co., Ltd.",900934.SS,Shanghai,Consumer Cyclical
+1903,"Inner Mongolia Erdos Resources Co.,ltd.",900936.SS,Shanghai,Consumer Cyclical
+1904,"HNA Technology Co.,Ltd.",900938.SS,Shanghai,Technology
+1905,"Shanghai Huili Building Materials Co., Ltd.",900939.SS,Shanghai,Consumer Cyclical
+1906,Greattown Holdings Ltd.,900940.SS,Shanghai,Real Estate
+1907,"Eastern Communications Co., Ltd.",900941.SS,Shanghai,Technology
+1908,"Huangshan Tourism Development Co.,Ltd.",900942.SS,Shanghai,Consumer Cyclical
+1909,Shanghai Kai Kai Industry Company Limited,900943.SS,Shanghai,Consumer Cyclical
+1910,"Hunan Tyen Machinery Co.,Ltd",900946.SS,Shanghai,Industrials
+1911,"Shanghai Zhenhua Heavy Industries Co., Ltd.",900947.SS,Shanghai,Industrials
+1912,"Inner Mongolia Yitai Coal Co., Ltd.",900948.SS,Shanghai,Energy
+1913,"Jinzhou Port Co., Ltd.",900952.SS,Shanghai,Industrials
+1914,"KAMA Co.,Ltd.",900953.SS,Shanghai,Industrials
+1915,"Shanghai Lingyun Industries Development Co., Ltd",900957.SS,Shanghai,Utilities
